@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-13T15:30:22.894Z",
+  "updatedAt": "2026-09-13T15:40:58.052Z",
   "hero": {
     "id": "story-0",
     "league": "Football",
@@ -14,14 +14,14 @@
   "topStories": [
     {
       "id": "story-1",
-      "league": "La Liga",
-      "dot": "#E3B4F5",
-      "source": "BBC Sport",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "101 Great Goals",
       "time": "Sep 13",
-      "headline": "Valencia sack Corberan and chief executive",
-      "excerpt": "Valencia sack head coach Carlos Corberan and their football chief executive Ron Gourlay after a…",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cly43w61lnzo?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a720/live/9d5293c0-af82-11f1-913a-7151f234deb3.jpg"
+      "headline": "LIVE &#8211; Manchester United v Manchester City: Commentary, updates, goals and stats",
+      "excerpt": "The first Manchester derby of the season takes place this afternoon with United hosting City…",
+      "link": "https://www.101greatgoals.com/live/manchester-united-v-manchester-city-commentary-updates-goals-and-stats/",
+      "image": null
     },
     {
       "id": "story-2",
@@ -36,6 +36,17 @@
     },
     {
       "id": "story-3",
+      "league": "La Liga",
+      "dot": "#E3B4F5",
+      "source": "BBC Sport",
+      "time": "Sep 13",
+      "headline": "Valencia sack Corberan and chief executive",
+      "excerpt": "Valencia sack head coach Carlos Corberan and their football chief executive Ron Gourlay after a…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cly43w61lnzo?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a720/live/9d5293c0-af82-11f1-913a-7151f234deb3.jpg"
+    },
+    {
+      "id": "story-4",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -44,17 +55,6 @@
       "excerpt": "<p>The bare statistic is bleak: Coventry City are only the second team in Premier League…",
       "link": "https://www.theguardian.com/football/2026/sep/13/coventry-brighton-premier-league-match-report",
       "image": "https://i.guim.co.uk/img/media/4e5fd93b7973824f49a1659b28117876ffc6f794/288_0_1721_1377/master/1721.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=262c6c62866cf2a09bfa07c152a83d58"
-    },
-    {
-      "id": "story-4",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "101 Great Goals",
-      "time": "Sep 13",
-      "headline": "Coventry 0-5 Brighton: Sky Blues implode as Awoniyi sees red on shocking afternoon for Frank Lampard",
-      "excerpt": "Coventry remain rooted to the foot of the Premier League table after a heavy defeat…",
-      "link": "https://www.101greatgoals.com/match-reports/coventry-0-5-brighton-report-goals-stats/",
-      "image": null
     },
     {
       "id": "story-5",
