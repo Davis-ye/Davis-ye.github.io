@@ -1,19 +1,41 @@
 {
-  "updatedAt": "2026-09-13T19:34:45.794Z",
+  "updatedAt": "2026-09-13T19:42:32.427Z",
   "hero": {
     "id": "story-0",
-    "league": "Football",
-    "dot": "#AFC4AC",
-    "source": "101 Great Goals",
+    "league": "Premier League",
+    "dot": "#9CC0F0",
+    "source": "BBC Sport",
     "time": "Sep 13",
-    "headline": "&#8216;It was completely clear&#8217; &#8211; Maresca claims he knew Haaland goal was not offside",
-    "excerpt": "The City boss never had any doubts.",
-    "link": "https://www.101greatgoals.com/football/premier-league/maresca-knew-haaland-goal-was-not-offside/",
-    "image": null
+    "headline": "Twenty five years in the waiting - Coventry's nightmare top-flight return",
+    "excerpt": "Coventry City's dream return to the Premier League is beginning to unravel after a fourth…",
+    "link": "https://www.bbc.co.uk/sport/football/articles/c4g7pezw1mjo?at_medium=RSS&amp;at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c0f3/live/3c73c110-af8b-11f1-913a-7151f234deb3.jpg"
   },
   "topStories": [
     {
       "id": "story-1",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "101 Great Goals",
+      "time": "Sep 13",
+      "headline": "&#8216;It was completely clear&#8217; &#8211; Maresca claims he knew Haaland goal was not offside",
+      "excerpt": "The City boss never had any doubts.",
+      "link": "https://www.101greatgoals.com/football/premier-league/maresca-knew-haaland-goal-was-not-offside/",
+      "image": null
+    },
+    {
+      "id": "story-2",
+      "league": "Bundesliga",
+      "dot": "#FFC469",
+      "source": "BBC Sport",
+      "time": "Sep 13",
+      "headline": "Bundesliga",
+      "excerpt": "Watch highlights from matchday three in the Bundesliga.",
+      "link": "https://www.bbc.co.uk/iplayer/episode/l0058t4y?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0p8sll3.jpg"
+    },
+    {
+      "id": "story-3",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -24,7 +46,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/44a5/live/789775e0-afa6-11f1-b1d1-571ed4d7ff2c.jpg"
     },
     {
-      "id": "story-2",
+      "id": "story-4",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -35,7 +57,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b340/live/90bde590-af98-11f1-bc1f-3f186ca4140c.jpg"
     },
     {
-      "id": "story-3",
+      "id": "story-5",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -46,7 +68,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d46e/live/03971bc0-af82-11f1-a540-61c3f7fc4e6c.jpg"
     },
     {
-      "id": "story-4",
+      "id": "story-6",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -57,7 +79,7 @@
       "image": "https://i.guim.co.uk/img/media/68a00f420c4a7dfad69dcec3881a278c2563fd57/205_0_2974_2379/master/2974.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=1ac3df60606c1b37d7753d7bd961eeb1"
     },
     {
-      "id": "story-5",
+      "id": "story-7",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -68,7 +90,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c3ea/live/9bd2cb60-af9f-11f1-bc1f-3f186ca4140c.jpg"
     },
     {
-      "id": "story-6",
+      "id": "story-8",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -79,18 +101,18 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6be3/live/0a56f2c0-af9e-11f1-bc1f-3f186ca4140c.jpg"
     },
     {
-      "id": "story-7",
+      "id": "story-9",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
       "time": "Sep 13",
       "headline": "Manchester City recover from Foden red card as Haaland wins derby at United",
-      "excerpt": "<p>“Enzo, Enzo, Enzo, in your head” was how delirious Manchester City fans regaled Enzo Fernández…",
+      "excerpt": "<p>“Enzo, Enzo, Enzo, in your head” was how delirious Manchester City fans regaled Enzo Fernández,…",
       "link": "https://www.theguardian.com/football/2026/sep/13/manchester-united-manchester-city-premier-league-match-report",
       "image": "https://i.guim.co.uk/img/media/6b22f11278a0d4c3e360dcaf6d3df9fb372e512a/770_102_3464_2772/master/3464.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=dbffc1a9f1a3bb26bd6471082854067c"
     },
     {
-      "id": "story-8",
+      "id": "story-10",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -101,7 +123,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/085c/live/e1fee030-af8e-11f1-bc1f-3f186ca4140c.jpg"
     },
     {
-      "id": "story-9",
+      "id": "story-11",
       "league": "La Liga",
       "dot": "#E3B4F5",
       "source": "The Guardian",
@@ -112,7 +134,7 @@
       "image": "https://i.guim.co.uk/img/media/81bb6f8a91d79f4748772ecec144382edea65661/331_0_3813_3051/master/3813.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=fbb96174399284051d5d1a27e6341890"
     },
     {
-      "id": "story-10",
+      "id": "story-12",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -123,7 +145,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0c32/live/d6f2a590-af8a-11f1-913a-7151f234deb3.jpg"
     },
     {
-      "id": "story-11",
+      "id": "story-13",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -134,7 +156,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b6da/live/34fb7910-af7b-11f1-b1d1-571ed4d7ff2c.jpg"
     },
     {
-      "id": "story-12",
+      "id": "story-14",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -145,7 +167,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c1e9/live/4e883b40-af88-11f1-bc1f-3f186ca4140c.jpg"
     },
     {
-      "id": "story-13",
+      "id": "story-15",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -156,7 +178,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a4ef/live/15bc74f0-af76-11f1-aafc-c90fa48bb0ed.jpg"
     },
     {
-      "id": "story-14",
+      "id": "story-16",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "The Guardian",
@@ -167,7 +189,7 @@
       "image": "https://i.guim.co.uk/img/media/728524b34c92515f52b1713012edbd67ddaa5210/312_0_3120_2496/master/3120.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d09181b38575a9defd88ff2475920517"
     },
     {
-      "id": "story-15",
+      "id": "story-17",
       "league": "La Liga",
       "dot": "#E3B4F5",
       "source": "BBC Sport",
@@ -178,7 +200,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a720/live/9d5293c0-af82-11f1-913a-7151f234deb3.jpg"
     },
     {
-      "id": "story-16",
+      "id": "story-18",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -189,7 +211,7 @@
       "image": "https://i.guim.co.uk/img/media/4e5fd93b7973824f49a1659b28117876ffc6f794/288_0_1721_1377/master/1721.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=262c6c62866cf2a09bfa07c152a83d58"
     },
     {
-      "id": "story-17",
+      "id": "story-19",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "The Guardian",
@@ -200,7 +222,7 @@
       "image": "https://i.guim.co.uk/img/media/616ed9bbd3b8fb680debb78f98f3e8c118e32f49/228_322_2230_1784/master/2230.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=bc24f1bafc21171d664e0e272c83aa96"
     },
     {
-      "id": "story-18",
+      "id": "story-20",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -211,7 +233,7 @@
       "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0gf9mfx.jpg"
     },
     {
-      "id": "story-19",
+      "id": "story-21",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -222,7 +244,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7e81/live/558f49b0-af7e-11f1-913a-7151f234deb3.jpg"
     },
     {
-      "id": "story-20",
+      "id": "story-22",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -233,7 +255,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bdcd/live/69a03550-af69-11f1-a183-757a3b74b8bd.jpg"
     },
     {
-      "id": "story-21",
+      "id": "story-23",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -242,28 +264,6 @@
       "excerpt": "<p>A swaggering Chelsea cast off any suggestion that they had lost the ability to kill…",
       "link": "https://www.theguardian.com/football/2026/sep/13/manchester-united-chelsea-wsl-match-report-womens-super-league",
       "image": "https://i.guim.co.uk/img/media/f736bcca8f858da4500d27781e488a5bd134c2ba/299_230_2293_1833/master/2293.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=44a791eb4ba31fdae9367360b8315f5a"
-    },
-    {
-      "id": "story-22",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "The Guardian",
-      "time": "Sep 13",
-      "headline": "Rangers lay down Old Firm marker to send Celtic packing from Scottish League Cup",
-      "excerpt": "<p>Derek McInnes has endured a much‑scrutinised start to life at Ibrox but the Rangers manager…",
-      "link": "https://www.theguardian.com/football/2026/sep/13/rangers-celtic-scottish-league-cup-match-report",
-      "image": "https://i.guim.co.uk/img/media/37d789a738c7c063da3d8e97da9e36074dd8c3b0/160_0_2108_1686/master/2108.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=5f43f207e8dbc7dbedd539a9e1e03ebd"
-    },
-    {
-      "id": "story-23",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "BBC Sport",
-      "time": "Sep 13",
-      "headline": "Rangers v Aberdeen & Edinburgh derby in League Cup semis",
-      "excerpt": "Rangers have been drawn against Aberdeen in the semi-finals of the Premier Sports Cup, while…",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c8e3yere7l4o?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/730d/live/10b24c20-af79-11f1-aafc-c90fa48bb0ed.jpg"
     }
   ],
   "scoreboard": [
