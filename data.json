@@ -1,27 +1,27 @@
 {
-  "updatedAt": "2026-09-13T22:32:49.100Z",
+  "updatedAt": "2026-09-13T22:43:40.535Z",
   "hero": {
     "id": "story-0",
-    "league": "Premier League",
-    "dot": "#9CC0F0",
-    "source": "BBC Sport",
+    "league": "Serie A",
+    "dot": "#A9E6A0",
+    "source": "101 Great Goals",
     "time": "Sep 13",
-    "headline": "Intelligence & resilience key in statement win for Maresca's Man City - Murphy",
-    "excerpt": "Match of the Day pundit Danny Murphy explains how Manchester City beat Manchester United at…",
-    "link": "https://www.bbc.co.uk/sport/football/articles/cq6384g0pqyo?at_medium=RSS&amp;at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/db32/live/824c7730-afa5-11f1-a540-61c3f7fc4e6c.png"
+    "headline": "Kane scores winner as Bayern end fairytale start, PSG claim first win, Atletico bounce back and Juventus stunned",
+    "excerpt": "The England captain ensured the newly promoted side suffered their first loss.",
+    "link": "https://www.101greatgoals.com/football/bundesliga/kane-scores-winner-as-bayern-end-fairytale-start-psg-claim-first-win-atletico-bounce-back-and-juventus-stunned/",
+    "image": "https://www.101greatgoals.com/wp-content/uploads/2026/08/3FA06AT-2.jpg"
   },
   "topStories": [
     {
       "id": "story-1",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "101 Great Goals",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "BBC Sport",
       "time": "Sep 13",
-      "headline": "ProRef acknowledge &#8216;error of judgement&#8217; over Haaland&#8217;s Manchester derby-winning goal",
-      "excerpt": "The refereeing body conceded a mistake was made.",
-      "link": "https://www.101greatgoals.com/football/premier-league/proref-acknowledge-error-of-judgement-over-haaland-manchester-derby-winning-goal/",
-      "image": null
+      "headline": "Intelligence & resilience key in statement win for Maresca's Man City - Murphy",
+      "excerpt": "Match of the Day pundit Danny Murphy explains how Manchester City beat Manchester United at…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cq6384g0pqyo?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/db32/live/824c7730-afa5-11f1-a540-61c3f7fc4e6c.png"
     },
     {
       "id": "story-2",
@@ -183,10 +183,10 @@
       "dot": "#E3B4F5",
       "source": "The Guardian",
       "time": "Sep 13",
-      "headline": "European football: Lamine Yamal keeps Barcelona perfect, Leipzig rout Hamburg",
-      "excerpt": "<ul><li><p>Teenager hits two in 4-2 victory at Levante</p></li><li><p>Lepizig smash five past struggling Hamburg</p></li></ul><p><strong>Barcelona</strong> continued their…",
+      "headline": "European football: Kane helps Bayern edge Elversberg, Sassuolo stun Juventus",
+      "excerpt": "<ul><li><p>Elversberg 1-2 Bayern; Sassuolo 3-2 Juventus</p></li><li><p>Barcelona see off Levante, PSG end winless run</p></li></ul><p><strong>Barcelona</strong> continued their…",
       "link": "https://www.theguardian.com/football/2026/sep/13/european-football-barcelona-bayern-munich-napoli-juventus",
-      "image": "https://i.guim.co.uk/img/media/81bb6f8a91d79f4748772ecec144382edea65661/331_0_3813_3051/master/3813.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=fbb96174399284051d5d1a27e6341890"
+      "image": "https://i.guim.co.uk/img/media/0f1dc7776769e20cb4981975def2799f3822c349/0_42_2761_2209/master/2761.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=2b5266641b87c69411373a9ec7d1c1d6"
     },
     {
       "id": "story-17",
