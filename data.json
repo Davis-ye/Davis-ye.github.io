@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-13T17:55:39.918Z",
+  "updatedAt": "2026-09-13T18:04:28.977Z",
   "hero": {
     "id": "story-0",
     "league": "Premier League",
@@ -20,7 +20,7 @@
       "time": "Sep 13",
       "headline": "Manchester United 0-1 Manchester City: Maresca&#8217;s 10 men claim controversial derby win",
       "excerpt": "City maintained their perfect start in highly contentious circumstances.",
-      "link": "https://www.101greatgoals.com/match-reports/united-city-derby-report/",
+      "link": "https://www.101greatgoals.com/football/premier-league/united-city-derby-report/",
       "image": null
     },
     {
@@ -95,7 +95,7 @@
       "dot": "#AFC4AC",
       "source": "BBC Sport",
       "time": "Sep 13",
-      "headline": "'McInnes delivers togetherness & intensity in Old Firm gobsmacker'",
+      "headline": "McInnes delivers togetherness & intensity in Old Firm gobsmacker",
       "excerpt": "BBC Scotland's chief sportswriter Tom English analyses Rangers' convincing Old Firm victory over Celtic at…",
       "link": "https://www.bbc.co.uk/sport/football/articles/cj06e0mg40qo?at_medium=RSS&amp;at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a4ef/live/15bc74f0-af76-11f1-aafc-c90fa48bb0ed.jpg"
@@ -212,6 +212,17 @@
     },
     {
       "id": "story-19",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "BBC Sport",
+      "time": "Sep 13",
+      "headline": "Souttar's Rangers exit in doubt - gossip",
+      "excerpt": "Move to Greece is off for frozen out Rangers defender as former player is linked…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c3wj90lgn3zo?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/78cd/live/5068a160-af43-11f1-b1d1-571ed4d7ff2c.png"
+    },
+    {
+      "id": "story-20",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -222,7 +233,7 @@
       "image": "https://i.guim.co.uk/img/media/10d26751beedf30373c85db2e7205c0a3e02ca89/301_0_3014_2411/master/3014.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=7bb9363675352141a9a84842e4f37725"
     },
     {
-      "id": "story-20",
+      "id": "story-21",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -233,7 +244,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d2b8/live/6d2792b0-af3a-11f1-bc4c-5f7bf3ecdb69.png"
     },
     {
-      "id": "story-21",
+      "id": "story-22",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -244,7 +255,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ada7/live/27df4c70-9658-11f1-b2ab-0dd01740f9f6.jpg"
     },
     {
-      "id": "story-22",
+      "id": "story-23",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -253,20 +264,19 @@
       "excerpt": "Match of the Day pundit Ashley Williams says Chelsea's \"struggling\" defence looked \"weak and disjointed\"…",
       "link": "https://www.bbc.co.uk/sport/football/videos/ckgw13ng43xo?at_medium=RSS&amp;at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/75a0/live/af2e6bd0-aefd-11f1-b1d1-571ed4d7ff2c.jpg"
-    },
-    {
-      "id": "story-23",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "BBC Sport",
-      "time": "Sep 12",
-      "headline": "Referee 'completely wrong' to award penalty - Williams",
-      "excerpt": "Match of the Day pundits Ashley Williams and Thomas Frank believe Sunderland should not have…",
-      "link": "https://www.bbc.co.uk/sport/football/videos/cm2m7105d71o?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/df70/live/281c8ca0-aefb-11f1-b1d1-571ed4d7ff2c.jpg"
     }
   ],
   "scoreboard": [
+    {
+      "id": "score-558599",
+      "league": "Serie A",
+      "dot": "#A9E6A0",
+      "time": "Sep 13",
+      "home": "SSC Napoli",
+      "away": "Bologna FC 1909",
+      "homeScore": 1,
+      "awayScore": 0
+    },
     {
       "id": "score-560580",
       "league": "Premier League",
@@ -316,16 +326,6 @@
       "away": "Hamburger SV",
       "homeScore": 5,
       "awayScore": 0
-    },
-    {
-      "id": "score-560578",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "time": "Sep 13",
-      "home": "Coventry City FC",
-      "away": "Brighton & Hove Albion FC",
-      "homeScore": 0,
-      "awayScore": 5
     }
   ]
 }
