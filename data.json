@@ -1,27 +1,27 @@
 {
-  "updatedAt": "2026-09-13T16:59:42.864Z",
+  "updatedAt": "2026-09-13T17:11:31.056Z",
   "hero": {
     "id": "story-0",
-    "league": "Football",
-    "dot": "#AFC4AC",
-    "source": "BBC Sport",
+    "league": "Premier League",
+    "dot": "#9CC0F0",
+    "source": "The Guardian",
     "time": "Sep 13",
-    "headline": "Foden dismissed in derby - but did he deserve it?",
-    "excerpt": "After Phil Foden is sent off in Sunday's Manchester derby, pundits give their reaction. What…",
-    "link": "https://www.bbc.co.uk/sport/football/articles/c5ym9ky3rzxo?at_medium=RSS&amp;at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8235/live/256b93a0-af8e-11f1-a540-61c3f7fc4e6c.jpg"
+    "headline": "Manchester United v Manchester City: Premier League – live",
+    "excerpt": "<p>⚽️ Manchester derby updates from 4.30pm BST <br>⚽️ <a href=\"https://www.theguardian.com/football/2026/sep/13/coventry-brighton-premier-league-match-report\">Dunk helps Brighton rout Coventry</a> |…",
+    "link": "https://www.theguardian.com/football/live/2026/sep/13/manchester-united-v-manchester-city-premier-league-live",
+    "image": "https://i.guim.co.uk/img/media/0c7f647ba5ce093e2d88c47b50eb9f483b29f95a/0_449_1559_1247/master/1559.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b318c4b427af7eac2e6c654967d085c9"
   },
   "topStories": [
     {
       "id": "story-1",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "The Guardian",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "BBC Sport",
       "time": "Sep 13",
-      "headline": "Manchester United v Manchester City: Premier League – live",
-      "excerpt": "<p>⚽️ Manchester derby updates from 4.30pm BST <br>⚽️ <a href=\"https://www.theguardian.com/football/2026/sep/13/coventry-brighton-premier-league-match-report\">Dunk helps Brighton rout Coventry</a> |…",
-      "link": "https://www.theguardian.com/football/live/2026/sep/13/manchester-united-v-manchester-city-premier-league-live",
-      "image": "https://i.guim.co.uk/img/media/0c7f647ba5ce093e2d88c47b50eb9f483b29f95a/0_449_1559_1247/master/1559.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b318c4b427af7eac2e6c654967d085c9"
+      "headline": "Foden dismissed in derby - but did he deserve it?",
+      "excerpt": "After Phil Foden is sent off in Sunday's Manchester derby, pundits give their reaction. What…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c5ym9ky3rzxo?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8235/live/256b93a0-af8e-11f1-a540-61c3f7fc4e6c.jpg"
     },
     {
       "id": "story-2",
