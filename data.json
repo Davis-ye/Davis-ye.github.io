@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-09-13T20:58:25.322Z",
+  "updatedAt": "2026-09-13T21:09:25.501Z",
   "hero": {
     "id": "story-0",
     "league": "Premier League",
     "dot": "#9CC0F0",
     "source": "The Guardian",
     "time": "Sep 13",
-    "headline": "Arteta embraces perfect storm to play the victim of game of his own making | Barney Ronay",
+    "headline": "Arteta embraces perfect storm to play the victim in game of his own making | Barney Ronay",
     "excerpt": "<p>Refereeing is now an impossible job owing to the culture of micro-analysis the Arsenal manager…",
     "link": "https://www.theguardian.com/football/2026/sep/13/mikel-arteta-arsenal-sunderland-premier-league",
     "image": "https://i.guim.co.uk/img/media/d6a6c7df63cfcb256c9b9b2a5c319a0f23dbd3f1/174_0_2245_1796/master/2245.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=fcd42264643f7b4c34962ee32d2c3376"
@@ -268,6 +268,16 @@
   ],
   "scoreboard": [
     {
+      "id": "score-564674",
+      "league": "La Liga",
+      "dot": "#E3B4F5",
+      "time": "Sep 13",
+      "home": "Real Sociedad de Fútbol",
+      "away": "Club Atlético de Madrid",
+      "homeScore": 0,
+      "awayScore": 3
+    },
+    {
       "id": "score-558608",
       "league": "Serie A",
       "dot": "#A9E6A0",
@@ -316,16 +326,6 @@
       "away": "Manchester City FC",
       "homeScore": 0,
       "awayScore": 1
-    },
-    {
-      "id": "score-565800",
-      "league": "Bundesliga",
-      "dot": "#FFC469",
-      "time": "Sep 13",
-      "home": "SV 07 Elversberg",
-      "away": "FC Bayern München",
-      "homeScore": 1,
-      "awayScore": 2
     }
   ]
 }
