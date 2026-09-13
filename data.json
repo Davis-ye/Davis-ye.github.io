@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-13T20:33:10.050Z",
+  "updatedAt": "2026-09-13T20:43:23.508Z",
   "hero": {
     "id": "story-0",
     "league": "Premier League",
@@ -29,13 +29,24 @@
       "dot": "#9CC0F0",
       "source": "The Guardian",
       "time": "Sep 13",
+      "headline": "Enzo Fernández’s fortitude shows Maresca was right to crave City reunion | Will Unwin",
+      "excerpt": "<p>Some scoffed at £125m price tag, but the Argentinian did the work of two midfielders…",
+      "link": "https://www.theguardian.com/football/2026/sep/13/enzo-fernandez-enzo-maresca-manchester-city-reunion-united-derby",
+      "image": "https://i.guim.co.uk/img/media/7541ece4009752c7e8502db2bc7db9a336a29d8f/865_417_4180_3345/master/4180.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b3775e299e7f75b2c096bf3b2ddb61f4"
+    },
+    {
+      "id": "story-3",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "The Guardian",
+      "time": "Sep 13",
       "headline": "WSL roundup: Arsenal rue misses in Palace draw, Manchester City crush Villa",
       "excerpt": "<ul><li><p>Gunners held at Emirates despite 30 attempts on goal</p></li><li><p>City win 4-1 at Aston Villa to…",
       "link": "https://www.theguardian.com/football/2026/sep/13/wsl-roundup-arsenal-crystal-palace-aston-villa-manchester-city",
       "image": "https://i.guim.co.uk/img/media/68a00f420c4a7dfad69dcec3881a278c2563fd57/205_0_2974_2379/master/2974.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=1ac3df60606c1b37d7753d7bd961eeb1"
     },
     {
-      "id": "story-3",
+      "id": "story-4",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -46,7 +57,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b8c7/live/7c7d4d80-afa4-11f1-bc1f-3f186ca4140c.jpg"
     },
     {
-      "id": "story-4",
+      "id": "story-5",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -57,7 +68,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c0f3/live/3c73c110-af8b-11f1-913a-7151f234deb3.jpg"
     },
     {
-      "id": "story-5",
+      "id": "story-6",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "101 Great Goals",
@@ -66,17 +77,6 @@
       "excerpt": "The City boss never had any doubts.",
       "link": "https://www.101greatgoals.com/football/premier-league/maresca-knew-haaland-goal-was-not-offside/",
       "image": null
-    },
-    {
-      "id": "story-6",
-      "league": "Bundesliga",
-      "dot": "#FFC469",
-      "source": "BBC Sport",
-      "time": "Sep 13",
-      "headline": "Bundesliga",
-      "excerpt": "Watch highlights from matchday three in the Bundesliga.",
-      "link": "https://www.bbc.co.uk/iplayer/episode/l0058t4y?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0p8slw0.jpg"
     },
     {
       "id": "story-7",
