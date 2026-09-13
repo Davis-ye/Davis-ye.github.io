@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-13T14:49:03.655Z",
+  "updatedAt": "2026-09-13T14:56:21.517Z",
   "hero": {
     "id": "story-0",
     "league": "Football",
@@ -16,23 +16,23 @@
       "id": "story-1",
       "league": "Premier League",
       "dot": "#9CC0F0",
+      "source": "101 Great Goals",
+      "time": "Sep 13",
+      "headline": "LIVE &#8211; Manchester United v Manchester City: Commentary, updates, goals and stats",
+      "excerpt": "The first Manchester derby of the season takes place this afternoon with United hosting City…",
+      "link": "https://www.101greatgoals.com/live/manchester-united-v-manchester-city-commentary-updates-goals-and-stats/",
+      "image": null
+    },
+    {
+      "id": "story-2",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
       "source": "The Guardian",
       "time": "Sep 13",
       "headline": "Manchester United v Manchester City: Premier League – live",
       "excerpt": "<p>⚽️ Manchester derby updates from 4.30pm BST <br>⚽️ <a href=\"https://www.theguardian.com/football/2026/sep/12/febrile-manchester-derby-awaits-amid-growing-rift-between-united-fans-and-club\">Febrile derby awaits amid rift between…",
       "link": "https://www.theguardian.com/football/live/2026/sep/13/manchester-united-v-manchester-city-premier-league-live",
       "image": "https://i.guim.co.uk/img/media/9e1e196582d3c28e06df2b38f0aa4544b0cf2523/0_0_4701_3763/master/4701.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=2476c660e8d062a5a0aa624555c0ae41"
-    },
-    {
-      "id": "story-2",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "101 Great Goals",
-      "time": "Sep 13",
-      "headline": "Manchester United v Manchester City: Confirmed line-ups and team news as Shaw misses out",
-      "excerpt": "Manchester City can draw level with Arsenal at the Premier League summit with a win…",
-      "link": "https://www.101greatgoals.com/football/premier-league/manchester-united-v-manchester-city-confirmed-line-ups-team-news/",
-      "image": null
     },
     {
       "id": "story-3",
