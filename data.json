@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-13T18:34:37.709Z",
+  "updatedAt": "2026-09-13T18:46:51.708Z",
   "hero": {
     "id": "story-0",
     "league": "Premier League",
@@ -268,6 +268,16 @@
   ],
   "scoreboard": [
     {
+      "id": "score-564668",
+      "league": "La Liga",
+      "dot": "#E3B4F5",
+      "time": "Sep 13",
+      "home": "Getafe CF",
+      "away": "RC Deportivo La Coruña",
+      "homeScore": 1,
+      "awayScore": 1
+    },
+    {
       "id": "score-558599",
       "league": "Serie A",
       "dot": "#A9E6A0",
@@ -316,16 +326,6 @@
       "away": "FC Barcelona",
       "homeScore": 2,
       "awayScore": 4
-    },
-    {
-      "id": "score-565799",
-      "league": "Bundesliga",
-      "dot": "#FFC469",
-      "time": "Sep 13",
-      "home": "RB Leipzig",
-      "away": "Hamburger SV",
-      "homeScore": 5,
-      "awayScore": 0
     }
   ]
 }
