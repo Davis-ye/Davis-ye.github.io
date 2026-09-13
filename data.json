@@ -1,49 +1,49 @@
 {
-  "updatedAt": "2026-09-13T13:31:58.928Z",
+  "updatedAt": "2026-09-13T13:41:59.577Z",
   "hero": {
     "id": "story-0",
-    "league": "Football",
-    "dot": "#AFC4AC",
-    "source": "BBC Sport",
+    "league": "La Liga",
+    "dot": "#E3B4F5",
+    "source": "101 Great Goals",
     "time": "Sep 13",
-    "headline": "Rangers v Aberdeen & Edinburgh derby in League Cup semis",
-    "excerpt": "Rangers have been drawn against Aberdeen in the semi-finals of the Premier Sports Cup, while…",
-    "link": "https://www.bbc.co.uk/sport/football/articles/c8e3yere7l4o?at_medium=RSS&amp;at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb7a/live/5c0f70d0-6139-11ee-ac8c-9d18dbc280ea.png"
+    "headline": "LIVE &#8211; Levante v Barcelona: Commentary, updates, goals and stats as Catalans look to maintain 100% record",
+    "excerpt": "Barcelona take their 100% record to Levante this afternoon. Can Hansi Flick's side move three…",
+    "link": "https://www.101greatgoals.com/live/live-levante-v-barcelona-commentary-updates-goals-stream-stats-as-catalans-look-to-maintain-100-record/",
+    "image": null
   },
   "topStories": [
     {
       "id": "story-1",
-      "league": "La Liga",
-      "dot": "#E3B4F5",
-      "source": "101 Great Goals",
-      "time": "Sep 13",
-      "headline": "Levante v Barcelona: Confirmed line-ups and team news",
-      "excerpt": "Barcelona visit Levante this afternoon looking to extend their 100% start to the new La…",
-      "link": "https://www.101greatgoals.com/football/la-liga/levante-v-barcelona-confirmed-line-ups-stream-team-news/",
-      "image": null
-    },
-    {
-      "id": "story-2",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "The Guardian",
-      "time": "Sep 13",
-      "headline": "Manchester United v Chelsea: Women’s Super League – live",
-      "excerpt": "<p>⚽️ WSL updates from 12pm BST at Leigh Sports Village<br>⚽️ <a href=\"https://www.theguardian.com/football/live\">Live scoreboard</a> | Send…",
-      "link": "https://www.theguardian.com/football/live/2026/sep/13/manchester-united-v-chelsea-womens-super-league-live",
-      "image": "https://i.guim.co.uk/img/media/f8e47a15cc63eea4d862bad1748387c0e33bbc23/508_337_3482_2785/master/3482.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=504d428c08ff0d7b42af77b4dc7cd024"
-    },
-    {
-      "id": "story-3",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "The Guardian",
       "time": "Sep 13",
-      "headline": "Rangers v Celtic: Scottish League Cup quarter-final – live",
+      "headline": "Rangers 3-0 Celtic: Scottish League Cup quarter-final – live",
       "excerpt": "<ul><li><p>Match at Ibrox kicks off at 12pm (all times BST)</p></li><li><p><a href=\"https://www.theguardian.com/football/2026/sep/09/scottish-roundup-miovski-rangers-celtic-st-mirren-st-johnstone\">Miovski hits late Rangers winner,…",
       "link": "https://www.theguardian.com/football/live/2026/sep/13/rangers-v-celtic-scottish-league-cup-quarter-final-live",
       "image": "https://i.guim.co.uk/img/media/db1de00f17713088f920329a709a11c08ee6734d/73_39_1800_1440/master/1800.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=226225d70e100eb9d9be30ed8ec4dd8d"
+    },
+    {
+      "id": "story-2",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "BBC Sport",
+      "time": "Sep 13",
+      "headline": "Rangers v Aberdeen & Edinburgh derby in League Cup semis",
+      "excerpt": "Rangers have been drawn against Aberdeen in the semi-finals of the Premier Sports Cup, while…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c8e3yere7l4o?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb7a/live/5c0f70d0-6139-11ee-ac8c-9d18dbc280ea.png"
+    },
+    {
+      "id": "story-3",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "The Guardian",
+      "time": "Sep 13",
+      "headline": "Manchester United 0-5 Chelsea: Women’s Super League – live",
+      "excerpt": "<p>⚽️ WSL updates from 12pm BST at Leigh Sports Village<br>⚽️ <a href=\"https://www.theguardian.com/football/live\">Live scoreboard</a> | Send…",
+      "link": "https://www.theguardian.com/football/live/2026/sep/13/manchester-united-v-chelsea-womens-super-league-live",
+      "image": "https://i.guim.co.uk/img/media/f8e47a15cc63eea4d862bad1748387c0e33bbc23/508_337_3482_2785/master/3482.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=504d428c08ff0d7b42af77b4dc7cd024"
     },
     {
       "id": "story-4",
