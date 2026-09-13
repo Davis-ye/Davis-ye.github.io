@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-09-13T13:11:43.651Z",
+  "updatedAt": "2026-09-13T13:23:40.226Z",
   "hero": {
     "id": "story-0",
-    "league": "Football",
-    "dot": "#AFC4AC",
-    "source": "The Guardian",
+    "league": "La Liga",
+    "dot": "#E3B4F5",
+    "source": "101 Great Goals",
     "time": "Sep 13",
-    "headline": "Rangers v Celtic: Scottish League Cup quarter-final – live",
-    "excerpt": "<ul><li><p>Match at Ibrox kicks off at 12pm (all times BST)</p></li><li><p><a href=\"https://www.theguardian.com/football/2026/sep/09/scottish-roundup-miovski-rangers-celtic-st-mirren-st-johnstone\">Miovski hits late Rangers winner,…",
-    "link": "https://www.theguardian.com/football/live/2026/sep/13/rangers-v-celtic-scottish-league-cup-quarter-final-live",
-    "image": "https://i.guim.co.uk/img/media/db1de00f17713088f920329a709a11c08ee6734d/73_39_1800_1440/master/1800.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=226225d70e100eb9d9be30ed8ec4dd8d"
+    "headline": "Levante v Barcelona: Confirmed line-ups and team news",
+    "excerpt": "Barcelona visit Levante this afternoon looking to extend their 100% start to the new La…",
+    "link": "https://www.101greatgoals.com/football/la-liga/levante-v-barcelona-confirmed-line-ups-stream-team-news/",
+    "image": null
   },
   "topStories": [
     {
@@ -25,14 +25,14 @@
     },
     {
       "id": "story-2",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "101 Great Goals",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "The Guardian",
       "time": "Sep 13",
-      "headline": "Coventry v Brighton: Confirmed line-ups and team news as Sky Blues go in search of first win",
-      "excerpt": "Brighton go to struggling Coventry this afternoon in the Premier League. Get all the team…",
-      "link": "https://www.101greatgoals.com/football/premier-league/coventry-v-brighton-confirmed-line-ups-stream-team-news-as-sky-blues-go-in-search-of-first-win/",
-      "image": null
+      "headline": "Rangers v Celtic: Scottish League Cup quarter-final – live",
+      "excerpt": "<ul><li><p>Match at Ibrox kicks off at 12pm (all times BST)</p></li><li><p><a href=\"https://www.theguardian.com/football/2026/sep/09/scottish-roundup-miovski-rangers-celtic-st-mirren-st-johnstone\">Miovski hits late Rangers winner,…",
+      "link": "https://www.theguardian.com/football/live/2026/sep/13/rangers-v-celtic-scottish-league-cup-quarter-final-live",
+      "image": "https://i.guim.co.uk/img/media/db1de00f17713088f920329a709a11c08ee6734d/73_39_1800_1440/master/1800.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=226225d70e100eb9d9be30ed8ec4dd8d"
     },
     {
       "id": "story-3",
