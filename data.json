@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-13T14:31:01.183Z",
+  "updatedAt": "2026-09-13T14:41:17.787Z",
   "hero": {
     "id": "story-0",
     "league": "Football",
@@ -16,23 +16,23 @@
       "id": "story-1",
       "league": "Premier League",
       "dot": "#9CC0F0",
-      "source": "101 Great Goals",
-      "time": "Sep 13",
-      "headline": "Manchester United v Manchester City: Confirmed line-ups and team news as Shaw misses out",
-      "excerpt": "Manchester City can draw level with Arsenal at the Premier League summit with a win…",
-      "link": "https://www.101greatgoals.com/football/premier-league/manchester-united-v-manchester-city-confirmed-line-ups-team-news/",
-      "image": null
-    },
-    {
-      "id": "story-2",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
       "source": "The Guardian",
       "time": "Sep 13",
       "headline": "Manchester United v Manchester City: Premier League – live",
       "excerpt": "<p>⚽️ Manchester derby updates from 4.30pm BST <br>⚽️ <a href=\"https://www.theguardian.com/football/2026/sep/12/febrile-manchester-derby-awaits-amid-growing-rift-between-united-fans-and-club\">Febrile derby awaits amid rift between…",
       "link": "https://www.theguardian.com/football/live/2026/sep/13/manchester-united-v-manchester-city-premier-league-live",
       "image": "https://i.guim.co.uk/img/media/9e1e196582d3c28e06df2b38f0aa4544b0cf2523/0_0_4701_3763/master/4701.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=2476c660e8d062a5a0aa624555c0ae41"
+    },
+    {
+      "id": "story-2",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "101 Great Goals",
+      "time": "Sep 13",
+      "headline": "Manchester United v Manchester City: Confirmed line-ups and team news as Shaw misses out",
+      "excerpt": "Manchester City can draw level with Arsenal at the Premier League summit with a win…",
+      "link": "https://www.101greatgoals.com/football/premier-league/manchester-united-v-manchester-city-confirmed-line-ups-team-news/",
+      "image": null
     },
     {
       "id": "story-3",
@@ -74,7 +74,7 @@
       "source": "The Guardian",
       "time": "Sep 13",
       "headline": "Rangers lay down Old Firm marker as Celtic sent packing from Scottish League Cup",
-      "excerpt": "<p>Derek McInnes got Ibrox bouncing here, his Rangers side dominating Celtic in front of an…",
+      "excerpt": "<p>Derek McInnes has endured a much‑scrutinised start to life at Ibrox but the new Rangers…",
       "link": "https://www.theguardian.com/football/2026/sep/13/rangers-celtic-scottish-league-cup-match-report",
       "image": "https://i.guim.co.uk/img/media/37d789a738c7c063da3d8e97da9e36074dd8c3b0/160_0_2108_1686/master/2108.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=5f43f207e8dbc7dbedd539a9e1e03ebd"
     },
