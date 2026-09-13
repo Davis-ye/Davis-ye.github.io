@@ -1,27 +1,27 @@
 {
-  "updatedAt": "2026-09-13T18:46:51.708Z",
+  "updatedAt": "2026-09-13T18:56:23.745Z",
   "hero": {
     "id": "story-0",
     "league": "Premier League",
     "dot": "#9CC0F0",
-    "source": "The Guardian",
+    "source": "101 Great Goals",
     "time": "Sep 13",
-    "headline": "Manchester City recover from Foden red card as Haaland wins derby at United",
-    "excerpt": "<p>“Enzo, Enzo, Enzo, in your head” was how delirious Manchester City fans regaled Enzo Fernández…",
-    "link": "https://www.theguardian.com/football/2026/sep/13/manchester-united-manchester-city-premier-league-match-report",
-    "image": "https://i.guim.co.uk/img/media/6b22f11278a0d4c3e360dcaf6d3df9fb372e512a/770_102_3464_2772/master/3464.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=dbffc1a9f1a3bb26bd6471082854067c"
+    "headline": "Carrick &#8216;confused&#8217; by VAR decision to allow Haaland goal as he defends United derby display",
+    "excerpt": "United endured a frustrating afternoon against 10-man City.",
+    "link": "https://www.101greatgoals.com/football/premier-league/carrick-confused-haaland-goal/",
+    "image": null
   },
   "topStories": [
     {
       "id": "story-1",
       "league": "Premier League",
       "dot": "#9CC0F0",
-      "source": "101 Great Goals",
+      "source": "The Guardian",
       "time": "Sep 13",
-      "headline": "Manchester United 0-1 Manchester City: Maresca&#8217;s 10 men claim controversial derby win",
-      "excerpt": "City maintained their perfect start in highly contentious circumstances.",
-      "link": "https://www.101greatgoals.com/football/premier-league/united-city-derby-report/",
-      "image": null
+      "headline": "Manchester City recover from Foden red card as Haaland wins derby at United",
+      "excerpt": "<p>“Enzo, Enzo, Enzo, in your head” was how delirious Manchester City fans regaled Enzo Fernández…",
+      "link": "https://www.theguardian.com/football/2026/sep/13/manchester-united-manchester-city-premier-league-match-report",
+      "image": "https://i.guim.co.uk/img/media/6b22f11278a0d4c3e360dcaf6d3df9fb372e512a/770_102_3464_2772/master/3464.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=dbffc1a9f1a3bb26bd6471082854067c"
     },
     {
       "id": "story-2",
