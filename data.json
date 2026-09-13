@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-13T18:04:28.977Z",
+  "updatedAt": "2026-09-13T18:21:09.105Z",
   "hero": {
     "id": "story-0",
     "league": "Premier League",
@@ -102,6 +102,17 @@
     },
     {
       "id": "story-9",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "The Guardian",
+      "time": "Sep 13",
+      "headline": "Sam Surridge in stoppage time denies Messi and Miami a win: MLS roundup",
+      "excerpt": "<ul><li><p>Sporting KC end a long winless run v LAFC</p></li><li><p>Charlotte and Cincy play a six-goal thriller</p></li><li><p>Griezmann…",
+      "link": "https://www.theguardian.com/football/2026/sep/13/mls-lionel-messi-nashville-sc-sporting-kc-antoine-griezmann",
+      "image": "https://i.guim.co.uk/img/media/728524b34c92515f52b1713012edbd67ddaa5210/312_0_3120_2496/master/3120.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d09181b38575a9defd88ff2475920517"
+    },
+    {
+      "id": "story-10",
       "league": "La Liga",
       "dot": "#E3B4F5",
       "source": "BBC Sport",
@@ -112,7 +123,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a720/live/9d5293c0-af82-11f1-913a-7151f234deb3.jpg"
     },
     {
-      "id": "story-10",
+      "id": "story-11",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -123,7 +134,7 @@
       "image": "https://i.guim.co.uk/img/media/4e5fd93b7973824f49a1659b28117876ffc6f794/288_0_1721_1377/master/1721.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=262c6c62866cf2a09bfa07c152a83d58"
     },
     {
-      "id": "story-11",
+      "id": "story-12",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "The Guardian",
@@ -134,7 +145,7 @@
       "image": "https://i.guim.co.uk/img/media/616ed9bbd3b8fb680debb78f98f3e8c118e32f49/228_322_2230_1784/master/2230.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=bc24f1bafc21171d664e0e272c83aa96"
     },
     {
-      "id": "story-12",
+      "id": "story-13",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -145,7 +156,7 @@
       "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0gf9mfx.jpg"
     },
     {
-      "id": "story-13",
+      "id": "story-14",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -156,7 +167,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7e81/live/558f49b0-af7e-11f1-913a-7151f234deb3.jpg"
     },
     {
-      "id": "story-14",
+      "id": "story-15",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -167,7 +178,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bdcd/live/69a03550-af69-11f1-a183-757a3b74b8bd.jpg"
     },
     {
-      "id": "story-15",
+      "id": "story-16",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -178,7 +189,7 @@
       "image": "https://i.guim.co.uk/img/media/f736bcca8f858da4500d27781e488a5bd134c2ba/299_230_2293_1833/master/2293.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=44a791eb4ba31fdae9367360b8315f5a"
     },
     {
-      "id": "story-16",
+      "id": "story-17",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "The Guardian",
@@ -189,7 +200,7 @@
       "image": "https://i.guim.co.uk/img/media/37d789a738c7c063da3d8e97da9e36074dd8c3b0/160_0_2108_1686/master/2108.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=5f43f207e8dbc7dbedd539a9e1e03ebd"
     },
     {
-      "id": "story-17",
+      "id": "story-18",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -200,7 +211,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/730d/live/10b24c20-af79-11f1-aafc-c90fa48bb0ed.jpg"
     },
     {
-      "id": "story-18",
+      "id": "story-19",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -211,7 +222,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/59d9/live/d4203540-9afd-11f1-aed2-8d6da8d75094.jpg"
     },
     {
-      "id": "story-19",
+      "id": "story-20",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -222,7 +233,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/78cd/live/5068a160-af43-11f1-b1d1-571ed4d7ff2c.png"
     },
     {
-      "id": "story-20",
+      "id": "story-21",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -233,7 +244,7 @@
       "image": "https://i.guim.co.uk/img/media/10d26751beedf30373c85db2e7205c0a3e02ca89/301_0_3014_2411/master/3014.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=7bb9363675352141a9a84842e4f37725"
     },
     {
-      "id": "story-21",
+      "id": "story-22",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -244,7 +255,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d2b8/live/6d2792b0-af3a-11f1-bc4c-5f7bf3ecdb69.png"
     },
     {
-      "id": "story-22",
+      "id": "story-23",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -253,17 +264,6 @@
       "excerpt": "Test your ball knowledge with today's Who Am I?, Five in Five and Brainteaser.",
       "link": "https://www.bbc.co.uk/sport/football/articles/cg59eymd40eo?at_medium=RSS&amp;at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ada7/live/27df4c70-9658-11f1-b2ab-0dd01740f9f6.jpg"
-    },
-    {
-      "id": "story-23",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "BBC Sport",
-      "time": "Sep 12",
-      "headline": "Chelsea's defence looks 'weak & disjointed' - analysis",
-      "excerpt": "Match of the Day pundit Ashley Williams says Chelsea's \"struggling\" defence looked \"weak and disjointed\"…",
-      "link": "https://www.bbc.co.uk/sport/football/videos/ckgw13ng43xo?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/75a0/live/af2e6bd0-aefd-11f1-b1d1-571ed4d7ff2c.jpg"
     }
   ],
   "scoreboard": [
