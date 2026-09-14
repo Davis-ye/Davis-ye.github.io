@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-09-14T20:14:27.320Z",
+  "updatedAt": "2026-09-14T20:27:30.113Z",
   "hero": {
     "id": "story-0",
-    "league": "Premier League",
-    "dot": "#9CC0F0",
-    "source": "101 Great Goals",
+    "league": "Football",
+    "dot": "#AFC4AC",
+    "source": "BBC Sport",
     "time": "Sep 14",
-    "headline": "Liverpool v Tottenham: Preview, expected line-ups and stats",
-    "excerpt": "Preview as Liverpool host Tottenham in the EFL Cup last 32",
-    "link": "https://www.101greatgoals.com/match-previews/liverpool-v-tottenham-efl-cup-line-ups-stats-preview-tv-channel-live-online-stream-carabao-spurs/",
-    "image": "https://www.101greatgoals.com/wp-content/uploads/2026/08/3F9WWCW-2.jpg"
+    "headline": "Football Daily",
+    "excerpt": "How did United play 70 minutes against 10 men at home and not score?",
+    "link": "https://www.bbc.co.uk/sounds/play/p0p9mkw3?at_medium=RSS&amp;at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0p9mkwt.jpg"
   },
   "topStories": [
     {
@@ -21,10 +21,21 @@
       "headline": "Leeds United v Newcastle United: Premier League – live",
       "excerpt": "<p>⚽ Premier League updates from the 8pm BST kick-off<br>⚽ <a href=\"https://www.theguardian.com/football/2026/sep/14/premier-league-10-talking-points-from-the-weekends-action\">10 weekend talking points</a> |…",
       "link": "https://www.theguardian.com/football/live/2026/sep/14/leeds-united-v-newcastle-united-premier-league-live-updates",
-      "image": "https://i.guim.co.uk/img/media/5a4171ff92721d341900284f8189c4bdd53d98bd/188_0_1888_1511/master/1888.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=06088d725ba15e0cb8767336958da58a"
+      "image": "https://i.guim.co.uk/img/media/93297faf10f6ab104ffb62d1e18335b5a5517744/402_0_3577_2862/master/3577.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=227c69627d42b1b8f1b37fdcabe02962"
     },
     {
       "id": "story-2",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "101 Great Goals",
+      "time": "Sep 14",
+      "headline": "Liverpool v Tottenham: Preview, expected line-ups and stats",
+      "excerpt": "Preview as Liverpool host Tottenham in the EFL Cup last 32",
+      "link": "https://www.101greatgoals.com/match-previews/liverpool-v-tottenham-efl-cup-line-ups-stats-preview-tv-channel-live-online-stream-carabao-spurs/",
+      "image": "https://www.101greatgoals.com/wp-content/uploads/2026/08/3F9WWCW-2.jpg"
+    },
+    {
+      "id": "story-3",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -35,7 +46,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5343/live/94cdb350-b05a-11f1-9902-771b6dd8af6a.jpg"
     },
     {
-      "id": "story-3",
+      "id": "story-4",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -46,7 +57,7 @@
       "image": "https://i.guim.co.uk/img/media/d603fb5505c99508295b351c583d5fa1ac5f7fdf/277_0_3342_2673/master/3342.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=930cf79d406e8aea3ea949d6a926e5a3"
     },
     {
-      "id": "story-4",
+      "id": "story-5",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -57,7 +68,7 @@
       "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0lz125l.jpg"
     },
     {
-      "id": "story-5",
+      "id": "story-6",
       "league": "Ligue 1",
       "dot": "#B8D4E8",
       "source": "BBC Sport",
@@ -68,7 +79,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0c31/live/d378ee70-b056-11f1-9902-771b6dd8af6a.jpg"
     },
     {
-      "id": "story-6",
+      "id": "story-7",
       "league": "La Liga",
       "dot": "#E3B4F5",
       "source": "The Guardian",
@@ -79,7 +90,7 @@
       "image": "https://i.guim.co.uk/img/media/153b57a21241e5a72cb5aab493861197af088ec6/456_0_3879_3102/master/3879.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=4f5f53f70e652bd77b576c26eab1889b"
     },
     {
-      "id": "story-7",
+      "id": "story-8",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -90,7 +101,7 @@
       "image": "https://i.guim.co.uk/img/media/58b50374cdcd285886cd8e32153e7bb6c94e6be0/266_0_4092_3274/master/4092.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=9bebad3c3faf327bb5eb62aa840ff784"
     },
     {
-      "id": "story-8",
+      "id": "story-9",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -101,7 +112,7 @@
       "image": "https://i.guim.co.uk/img/media/c82b12c9e642ac1272db24af5a7d90b45b54eb0b/31_85_1787_1430/master/1787.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=991fa9f7fe02fa7cff456c21d026dd90"
     },
     {
-      "id": "story-9",
+      "id": "story-10",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -112,7 +123,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1b5c/live/eabcfc30-af7e-11f1-913a-7151f234deb3.jpg"
     },
     {
-      "id": "story-10",
+      "id": "story-11",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -123,7 +134,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2039/live/6e033180-b03e-11f1-9ae0-e316eeb4632d.jpg"
     },
     {
-      "id": "story-11",
+      "id": "story-12",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -134,7 +145,7 @@
       "image": "https://i.guim.co.uk/img/media/80417daa42251b95a56f7eb77f843facaa37e665/0_3_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=053c0e944c887847b850c3026d3ef853"
     },
     {
-      "id": "story-12",
+      "id": "story-13",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -145,7 +156,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/442f/live/fddd5f80-b028-11f1-bc1f-3f186ca4140c.jpg"
     },
     {
-      "id": "story-13",
+      "id": "story-14",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -156,7 +167,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f8b9/live/e8f67450-b03f-11f1-bb36-29bb24d8b9b8.jpg"
     },
     {
-      "id": "story-14",
+      "id": "story-15",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "The Guardian",
@@ -167,7 +178,7 @@
       "image": "https://i.guim.co.uk/img/media/31aa7663b9b802a0b39543d405efb83d714b0b4e/191_56_1657_1325/master/1657.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=5bd0ba4a6161b903ca1cd79757e0246c"
     },
     {
-      "id": "story-15",
+      "id": "story-16",
       "league": "Bundesliga",
       "dot": "#FFC469",
       "source": "The Guardian",
@@ -178,7 +189,7 @@
       "image": "https://i.guim.co.uk/img/media/004fbc07a448a65cd5e5acf50975e3d2ebe01400/522_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f7cd0de064e8e03a4204db15aabbe91f"
     },
     {
-      "id": "story-16",
+      "id": "story-17",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -189,7 +200,7 @@
       "image": "https://i.guim.co.uk/img/media/1c65865c9f5c1a18762a6e39178c7959b59dce9d/622_0_4748_3801/master/4748.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=bb34369ffd91c8e1fb3e0016f466861b"
     },
     {
-      "id": "story-17",
+      "id": "story-18",
       "league": "Serie A",
       "dot": "#A9E6A0",
       "source": "The Guardian",
@@ -200,7 +211,7 @@
       "image": "https://i.guim.co.uk/img/media/c66c8fbc7767a79e8dafd1271e41e539f06111e0/263_0_2560_2048/master/2560.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=9017ff842ba6a8c68f61c4aabfc10502"
     },
     {
-      "id": "story-18",
+      "id": "story-19",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -211,7 +222,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/abcc/live/dae48380-b02a-11f1-a8a9-13be82d23441.jpg"
     },
     {
-      "id": "story-19",
+      "id": "story-20",
       "league": "Ligue 1",
       "dot": "#B8D4E8",
       "source": "The Guardian",
@@ -222,7 +233,7 @@
       "image": "https://i.guim.co.uk/img/media/3ec548a713ccd7bb79e25375a7877e5aefee08ab/700_0_5817_4653/master/5817.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=572b379b6b617f71de9b01c1d9a30289"
     },
     {
-      "id": "story-20",
+      "id": "story-21",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -233,7 +244,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4b2f/live/dca8cbf0-b02e-11f1-a540-61c3f7fc4e6c.jpg"
     },
     {
-      "id": "story-21",
+      "id": "story-22",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -244,7 +255,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4070/live/d8628f60-b031-11f1-9ae0-e316eeb4632d.jpg"
     },
     {
-      "id": "story-22",
+      "id": "story-23",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -253,17 +264,6 @@
       "excerpt": "<p>Manchester United need to regroup after a heavy home loss to Chelsea while Crystal Palace…",
       "link": "https://www.theguardian.com/football/2026/sep/14/wsl-talking-points-eva-olid-manchester-united-arsenal",
       "image": "https://i.guim.co.uk/img/media/9c608100a31bf73b20d369dab4d0dbfbd7756c8d/0_3_4992_3994/master/4992.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=1fcff346f4957886e9faf43e2a6c092f"
-    },
-    {
-      "id": "story-23",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "BBC Sport",
-      "time": "Sep 14",
-      "headline": "All the goals from the Women's Super League - Matchweek Two",
-      "excerpt": "Watch every goal from matchweek two of the Women's Super League 2026-27 season.",
-      "link": "https://www.bbc.co.uk/sport/football/videos/cmly43kkyz45o?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/208e/live/d5239fc0-b02b-11f1-a540-61c3f7fc4e6c.jpg"
     }
   ],
   "scoreboard": [
