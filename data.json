@@ -1,19 +1,30 @@
 {
-  "updatedAt": "2026-09-14T20:49:43.816Z",
+  "updatedAt": "2026-09-14T20:57:57.145Z",
   "hero": {
     "id": "story-0",
     "league": "Premier League",
     "dot": "#9CC0F0",
-    "source": "The Guardian",
+    "source": "101 Great Goals",
     "time": "Sep 14",
-    "headline": "Leeds United v Newcastle United: Premier League – live",
-    "excerpt": "<p>⚽ Premier League updates from the 8pm BST kick-off<br>⚽ <a href=\"https://www.theguardian.com/football/2026/sep/14/premier-league-10-talking-points-from-the-weekends-action\">10 weekend talking points</a> |…",
-    "link": "https://www.theguardian.com/football/live/2026/sep/14/leeds-united-v-newcastle-united-premier-league-live-updates",
-    "image": "https://i.guim.co.uk/img/media/93297faf10f6ab104ffb62d1e18335b5a5517744/402_0_3577_2862/master/3577.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=227c69627d42b1b8f1b37fdcabe02962"
+    "headline": "Leeds 4-1 Newcastle: Report, result and goals as Farke&#8217;s men run riot",
+    "excerpt": "Catch up on all the action and the goals from Leeds vs Newcastle",
+    "link": "https://www.101greatgoals.com/football/premier-league/leeds-newcastle-report-result-goals-premier-league/",
+    "image": null
   },
   "topStories": [
     {
       "id": "story-1",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "The Guardian",
+      "time": "Sep 14",
+      "headline": "Leeds United v Newcastle United: Premier League – live",
+      "excerpt": "<p>⚽ Premier League updates from the 8pm BST kick-off<br>⚽ <a href=\"https://www.theguardian.com/football/2026/sep/14/premier-league-10-talking-points-from-the-weekends-action\">10 weekend talking points</a> |…",
+      "link": "https://www.theguardian.com/football/live/2026/sep/14/leeds-united-v-newcastle-united-premier-league-live-updates",
+      "image": "https://i.guim.co.uk/img/media/93297faf10f6ab104ffb62d1e18335b5a5517744/402_0_3577_2862/master/3577.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=227c69627d42b1b8f1b37fdcabe02962"
+    },
+    {
+      "id": "story-2",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -24,7 +35,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fea2/live/dc762e20-b079-11f1-bc1f-3f186ca4140c.png"
     },
     {
-      "id": "story-2",
+      "id": "story-3",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -33,17 +44,6 @@
       "excerpt": "How did United play 70 minutes against 10 men at home and not score?",
       "link": "https://www.bbc.co.uk/sounds/play/p0p9mkw3?at_medium=RSS&amp;at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0p9mkwt.jpg"
-    },
-    {
-      "id": "story-3",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "101 Great Goals",
-      "time": "Sep 14",
-      "headline": "Liverpool v Tottenham: Preview, expected line-ups and stats",
-      "excerpt": "Preview as Liverpool host Tottenham in the EFL Cup last 32",
-      "link": "https://www.101greatgoals.com/match-previews/liverpool-v-tottenham-efl-cup-line-ups-stats-preview-tv-channel-live-online-stream-carabao-spurs/",
-      "image": "https://www.101greatgoals.com/wp-content/uploads/2026/08/3F9WWCW-2.jpg"
     },
     {
       "id": "story-4",
