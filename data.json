@@ -1,27 +1,27 @@
 {
-  "updatedAt": "2026-09-14T12:33:39.438Z",
+  "updatedAt": "2026-09-14T12:51:51.776Z",
   "hero": {
     "id": "story-0",
     "league": "Football",
     "dot": "#AFC4AC",
-    "source": "BBC Sport",
+    "source": "101 Great Goals",
     "time": "Sep 14",
-    "headline": "Aberdeen may be disciplined over fan behaviour",
-    "excerpt": "Aberdeen could face disciplinary action after some supporters invaded the Rugby Park pitch following their…",
-    "link": "https://www.bbc.co.uk/sport/football/articles/crlyqz21lvnpo?at_medium=RSS&amp;at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/abcc/live/dae48380-b02a-11f1-a8a9-13be82d23441.jpg"
+    "headline": "Saints vs Lions: Tyler Shough rues NFL Week 1 overtime defeat",
+    "excerpt": "Saints suffered an overtime defeat at Detroit in the NFL",
+    "link": "https://www.101greatgoals.com/nfl/saints-vs-lions-tyler-shough-nfl-week-overtime-result-new-orleans-detroit/",
+    "image": null
   },
   "topStories": [
     {
       "id": "story-1",
       "league": "Football",
       "dot": "#AFC4AC",
-      "source": "101 Great Goals",
+      "source": "BBC Sport",
       "time": "Sep 14",
-      "headline": "Packers vs Vikings: Carson Wentz talks NFL Week 1 win",
-      "excerpt": "The Vikings beat the Packers from 22-10 behind in the NFL",
-      "link": "https://www.101greatgoals.com/nfl/packers-vs-vikings-carson-wentz-nfl-week-green-bay-minnesota-kyler-murray-injury/",
-      "image": null
+      "headline": "Aberdeen may be disciplined over fan behaviour",
+      "excerpt": "Aberdeen could face disciplinary action after some supporters invaded the Rugby Park pitch following their…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/crlyqz21lvnpo?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/abcc/live/dae48380-b02a-11f1-a8a9-13be82d23441.jpg"
     },
     {
       "id": "story-2",
