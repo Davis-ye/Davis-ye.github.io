@@ -1,27 +1,27 @@
 {
-  "updatedAt": "2026-09-14T18:53:10.246Z",
+  "updatedAt": "2026-09-14T19:02:27.554Z",
   "hero": {
     "id": "story-0",
     "league": "Premier League",
     "dot": "#9CC0F0",
-    "source": "101 Great Goals",
+    "source": "The Guardian",
     "time": "Sep 14",
-    "headline": "Ipswich v Arsenal: Preview, expected line-ups, stats and where to watch",
-    "excerpt": "Preview as Ipswich host Arsenal in an all-Premier League tie",
-    "link": "https://www.101greatgoals.com/match-previews/ipswich-town-v-arsenal-efl-cup-line-ups-stats-preview-tv-channel-live-online-stream-carabao/",
-    "image": "https://www.101greatgoals.com/wp-content/uploads/2026/08/shutterstock_1709242522-1-1.jpg"
+    "headline": "Leeds United v Newcastle United: Premier League – live",
+    "excerpt": "<p>⚽ Premier League updates from the 8pm BST kick-off<br>⚽ <a href=\"https://www.theguardian.com/football/2026/sep/14/premier-league-10-talking-points-from-the-weekends-action\">10 weekend talking points</a> |…",
+    "link": "https://www.theguardian.com/football/live/2026/sep/14/leeds-united-v-newcastle-united-premier-league-live-updates",
+    "image": "https://i.guim.co.uk/img/media/b540be5e5988b2ad879b7503aeea57efa101c019/485_0_4999_4000/master/4999.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d9d24c860ec3ae6ecf0d20bc89467c0d"
   },
   "topStories": [
     {
       "id": "story-1",
       "league": "Premier League",
       "dot": "#9CC0F0",
-      "source": "The Guardian",
+      "source": "101 Great Goals",
       "time": "Sep 14",
-      "headline": "Leeds United v Newcastle United: Premier League – live",
-      "excerpt": "<p>⚽ Premier League updates from the 8pm BST kick-off<br>⚽ <a href=\"https://www.theguardian.com/football/2026/sep/14/premier-league-10-talking-points-from-the-weekends-action\">10 weekend talking points</a> |…",
-      "link": "https://www.theguardian.com/football/live/2026/sep/14/leeds-united-v-newcastle-united-premier-league-live-updates",
-      "image": "https://i.guim.co.uk/img/media/b540be5e5988b2ad879b7503aeea57efa101c019/485_0_4999_4000/master/4999.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d9d24c860ec3ae6ecf0d20bc89467c0d"
+      "headline": "Ipswich v Arsenal: Preview, expected line-ups, stats and where to watch",
+      "excerpt": "Preview as Ipswich host Arsenal in an all-Premier League tie",
+      "link": "https://www.101greatgoals.com/match-previews/ipswich-town-v-arsenal-efl-cup-line-ups-stats-preview-tv-channel-live-online-stream-carabao/",
+      "image": "https://www.101greatgoals.com/wp-content/uploads/2026/08/shutterstock_1709242522-1-1.jpg"
     },
     {
       "id": "story-2",
