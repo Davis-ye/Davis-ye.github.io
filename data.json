@@ -1,19 +1,41 @@
 {
-  "updatedAt": "2026-09-14T12:51:51.776Z",
+  "updatedAt": "2026-09-14T13:03:12.639Z",
   "hero": {
     "id": "story-0",
     "league": "Football",
     "dot": "#AFC4AC",
     "source": "101 Great Goals",
     "time": "Sep 14",
-    "headline": "Saints vs Lions: Tyler Shough rues NFL Week 1 overtime defeat",
-    "excerpt": "Saints suffered an overtime defeat at Detroit in the NFL",
-    "link": "https://www.101greatgoals.com/nfl/saints-vs-lions-tyler-shough-nfl-week-overtime-result-new-orleans-detroit/",
+    "headline": "Mourinho claims he is &#8216;tired&#8217; of press conferences and reveals reason for Diomande&#8217;s lack of minutes",
+    "excerpt": "Jose Mourinho says he is tired of press conferences.",
+    "link": "https://www.101greatgoals.com/football/la-liga/mourinho-tired-press-conferences/",
     "image": null
   },
   "topStories": [
     {
       "id": "story-1",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "The Guardian",
+      "time": "Sep 14",
+      "headline": "Arsenal demand meeting with Pro Ref over ‘unacceptable’ penalty at Sunderland",
+      "excerpt": "<ul><li><p>Club want explanation after spot-kick given against them</p></li><li><p>They are likely to raise penalty not awarded…",
+      "link": "https://www.theguardian.com/football/2026/sep/14/arsenal-pro-ref-sunderland-penalty-meeting-explanation",
+      "image": "https://i.guim.co.uk/img/media/c914acc6ce107ceb23451a3b96fae8a6a29afec9/788_214_2448_1958/master/2448.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=983daf931eb21dd197245c12e51d4752"
+    },
+    {
+      "id": "story-2",
+      "league": "Serie A",
+      "dot": "#A9E6A0",
+      "source": "The Guardian",
+      "time": "Sep 14",
+      "headline": "Top of the table, empty in the stands: inside the revolt against Lazio’s owner | Nicky Bandini",
+      "excerpt": "<p>Despite an impressive start under Gennaro Gattuso, supporters are boycotting the Stadio Olimpico to wage…",
+      "link": "https://www.theguardian.com/football/2026/sep/14/lazio-claudio-lotito-gennaro-gattuso-milan",
+      "image": "https://i.guim.co.uk/img/media/c66c8fbc7767a79e8dafd1271e41e539f06111e0/263_0_2560_2048/master/2560.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=9017ff842ba6a8c68f61c4aabfc10502"
+    },
+    {
+      "id": "story-3",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -24,7 +46,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/abcc/live/dae48380-b02a-11f1-a8a9-13be82d23441.jpg"
     },
     {
-      "id": "story-2",
+      "id": "story-4",
       "league": "Ligue 1",
       "dot": "#B8D4E8",
       "source": "The Guardian",
@@ -35,7 +57,7 @@
       "image": "https://i.guim.co.uk/img/media/3ec548a713ccd7bb79e25375a7877e5aefee08ab/700_0_5817_4653/master/5817.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=572b379b6b617f71de9b01c1d9a30289"
     },
     {
-      "id": "story-3",
+      "id": "story-5",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -46,7 +68,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4b2f/live/dca8cbf0-b02e-11f1-a540-61c3f7fc4e6c.jpg"
     },
     {
-      "id": "story-4",
+      "id": "story-6",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -57,7 +79,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4070/live/d8628f60-b031-11f1-9ae0-e316eeb4632d.jpg"
     },
     {
-      "id": "story-5",
+      "id": "story-7",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -68,7 +90,7 @@
       "image": "https://i.guim.co.uk/img/media/9c608100a31bf73b20d369dab4d0dbfbd7756c8d/0_3_4992_3994/master/4992.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=1fcff346f4957886e9faf43e2a6c092f"
     },
     {
-      "id": "story-6",
+      "id": "story-8",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -79,7 +101,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/208e/live/d5239fc0-b02b-11f1-a540-61c3f7fc4e6c.jpg"
     },
     {
-      "id": "story-7",
+      "id": "story-9",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -90,7 +112,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/52fa/live/76afea60-b018-11f1-b5bf-05bb1b446a39.jpg"
     },
     {
-      "id": "story-8",
+      "id": "story-10",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -101,7 +123,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/918e/live/f2d934d0-b01c-11f1-a540-61c3f7fc4e6c.png"
     },
     {
-      "id": "story-9",
+      "id": "story-11",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -112,7 +134,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fe22/live/17d69a90-30a6-11f0-8519-3b5a01ebe413.jpg"
     },
     {
-      "id": "story-10",
+      "id": "story-12",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "The Guardian",
@@ -123,7 +145,7 @@
       "image": "https://i.guim.co.uk/img/media/a2bf9652fc04faa24bf9a2cbadbc98a8da0ac396/1895_1298_4146_3316/master/4146.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=dc040ff19216c6c10c71fdb0db8cf8e3"
     },
     {
-      "id": "story-11",
+      "id": "story-13",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -134,7 +156,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1dea/live/5f42a670-b003-11f1-9713-5de61387c384.png"
     },
     {
-      "id": "story-12",
+      "id": "story-14",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -145,7 +167,7 @@
       "image": "https://i.guim.co.uk/img/media/bac1148f69558901848b0778e227034360e704dc/293_51_4350_3478/master/4350.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a54c70b5b3eabb625b6794826b731df0"
     },
     {
-      "id": "story-13",
+      "id": "story-15",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -156,7 +178,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/16cb/live/5577a090-b00e-11f1-a8ab-97e01a0f814c.jpg"
     },
     {
-      "id": "story-14",
+      "id": "story-16",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -167,7 +189,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cbf0/live/fe4c1750-ab7c-11f1-aed2-8d6da8d75094.png"
     },
     {
-      "id": "story-15",
+      "id": "story-17",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -178,7 +200,7 @@
       "image": "https://i.guim.co.uk/img/media/9b1ce66a4cedb465f774f8c0b30367d43b8cedfb/26_1_4974_3977/master/4974.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=337e5e2c46f66556b78931c22882873e"
     },
     {
-      "id": "story-16",
+      "id": "story-18",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -189,7 +211,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bb02/live/99001ce0-eb5e-11f0-b5f7-49f0357294ff.jpg"
     },
     {
-      "id": "story-17",
+      "id": "story-19",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -200,7 +222,7 @@
       "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0p9gg1y.jpg"
     },
     {
-      "id": "story-18",
+      "id": "story-20",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -211,7 +233,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8a2a/live/43cd9e70-b005-11f1-b1d1-571ed4d7ff2c.png"
     },
     {
-      "id": "story-19",
+      "id": "story-21",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -222,7 +244,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee14/live/fccc9460-af7b-11f1-aafc-c90fa48bb0ed.jpg"
     },
     {
-      "id": "story-20",
+      "id": "story-22",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -233,7 +255,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee14/live/fccc9460-af7b-11f1-aafc-c90fa48bb0ed.jpg"
     },
     {
-      "id": "story-21",
+      "id": "story-23",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -242,28 +264,6 @@
       "excerpt": "Test your ball knowledge with today's Who Am I?, Five in Five and Brainteaser.",
       "link": "https://www.bbc.co.uk/sport/football/articles/ceq82914rdgo?at_medium=RSS&amp;at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ada7/live/27df4c70-9658-11f1-b2ab-0dd01740f9f6.jpg"
-    },
-    {
-      "id": "story-22",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "BBC Sport",
-      "time": "Sep 14",
-      "headline": "Man City maintain perfect WSL start with win at Villa",
-      "excerpt": "Manchester City become the only side to win both of their opening two Women's Super…",
-      "link": "https://www.bbc.co.uk/sport/football/videos/c86x0e0v042o?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/123f/live/edb8d310-afaa-11f1-b1d1-571ed4d7ff2c.jpg"
-    },
-    {
-      "id": "story-23",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "BBC Sport",
-      "time": "Sep 13",
-      "headline": "'Why not have go?!' - Dunk's wonder goal against Coventry",
-      "excerpt": "Match of the Day pundits Danny Murphy and Wayne Rooney take a look at Lewis…",
-      "link": "https://www.bbc.co.uk/sport/football/videos/cvgyree8zpro?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fdc5/live/a7d96ff0-afc1-11f1-b1d1-571ed4d7ff2c.jpg"
     }
   ],
   "scoreboard": [
