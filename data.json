@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-14T18:22:57.859Z",
+  "updatedAt": "2026-09-14T18:38:53.604Z",
   "hero": {
     "id": "story-0",
     "league": "Premier League",
@@ -268,6 +268,26 @@
   ],
   "scoreboard": [
     {
+      "id": "score-558602",
+      "league": "Serie A",
+      "dot": "#A9E6A0",
+      "time": "Sep 14",
+      "home": "Como 1907",
+      "away": "Parma Calcio 1913",
+      "homeScore": 2,
+      "awayScore": 1
+    },
+    {
+      "id": "score-558603",
+      "league": "Serie A",
+      "dot": "#A9E6A0",
+      "time": "Sep 14",
+      "home": "Torino FC",
+      "away": "AS Roma",
+      "homeScore": 0,
+      "awayScore": 2
+    },
+    {
       "id": "score-564674",
       "league": "La Liga",
       "dot": "#E3B4F5",
@@ -305,26 +325,6 @@
       "home": "Getafe CF",
       "away": "RC Deportivo La Coruña",
       "homeScore": 1,
-      "awayScore": 1
-    },
-    {
-      "id": "score-558599",
-      "league": "Serie A",
-      "dot": "#A9E6A0",
-      "time": "Sep 13",
-      "home": "SSC Napoli",
-      "away": "Bologna FC 1909",
-      "homeScore": 1,
-      "awayScore": 0
-    },
-    {
-      "id": "score-560580",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "time": "Sep 13",
-      "home": "Manchester United FC",
-      "away": "Manchester City FC",
-      "homeScore": 0,
       "awayScore": 1
     }
   ]
