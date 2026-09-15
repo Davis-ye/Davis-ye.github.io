@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-09-15T15:34:16.594Z",
+  "updatedAt": "2026-09-15T15:47:00.978Z",
   "hero": {
     "id": "story-0",
-    "league": "Football",
-    "dot": "#AFC4AC",
-    "source": "BBC Sport",
+    "league": "Champions League",
+    "dot": "#F0C878",
+    "source": "101 Great Goals",
     "time": "Sep 15",
-    "headline": "Sterling admits dangerous driving after motorway crash",
-    "excerpt": "The former England winger crashed a Lamborghini into motorway barriers in May.",
-    "link": "https://www.bbc.co.uk/news/articles/c52e01k49e8jo?at_medium=RSS&amp;at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b630/live/0efee2c0-b119-11f1-88dd-176b0bb35f89.jpg"
+    "headline": "Al Ain vs Al Nassr: Confirmed line ups and teams",
+    "excerpt": "Team news as Al Nassr visit Al Ain in the AFC Champions League",
+    "link": "https://www.101greatgoals.com/football/al-ain-vs-al-nassr-line-ups-cristiano-ronaldo-afc-champions-league-elite-teams-where-to-watch-tv-channel-live-online-stream/",
+    "image": null
   },
   "topStories": [
     {
@@ -18,21 +18,21 @@
       "dot": "#AFC4AC",
       "source": "BBC Sport",
       "time": "Sep 15",
+      "headline": "Sterling admits dangerous driving after motorway crash",
+      "excerpt": "The former England winger crashed a Lamborghini into motorway barriers in May.",
+      "link": "https://www.bbc.co.uk/news/articles/c52e01k49e8jo?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b630/live/0efee2c0-b119-11f1-88dd-176b0bb35f89.jpg"
+    },
+    {
+      "id": "story-2",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "BBC Sport",
+      "time": "Sep 15",
       "headline": "The key talking points from Pocognoli's bold Scotland squad",
       "excerpt": "The Sebastien Pocognoli Scotland era is already creating serious intrigue - and the Belgian's squad…",
       "link": "https://www.bbc.co.uk/sport/football/articles/c51kxlek7471o?at_medium=RSS&amp;at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1f09/live/6b17d6b0-b115-11f1-8907-39a652c5e20e.jpg"
-    },
-    {
-      "id": "story-2",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "101 Great Goals",
-      "time": "Sep 15",
-      "headline": "EXCLUSIVE: JJ Gabriel to join Real Madrid on his 16th birthday in huge blow to Manchester United",
-      "excerpt": "Man United's JJ Gabriel is set to join Real Madrid",
-      "link": "https://www.101greatgoals.com/news/jj-gabriel-manchester-united-real-madrid-free-transfer/",
-      "image": "https://www.101greatgoals.com/wp-content/uploads/2026/09/3FG0563-1.jpg"
     },
     {
       "id": "story-3",
@@ -87,7 +87,7 @@
       "headline": "Raheem Sterling pleads guilty to dangerous driving and possession of nitrous oxide",
       "excerpt": "<p>Ex-England footballer also admits to failing to provide a specimen as he appears at Basingstoke…",
       "link": "https://www.theguardian.com/uk-news/2026/sep/15/raheem-sterling-pleads-guilty-dangerous-driving-possession-nitrous-oxide",
-      "image": "https://i.guim.co.uk/img/media/d7f67b385aa856e7a1218c09f961ea813cb9662b/51_108_1993_1595/master/1993.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f774957c411926b85f366446a830c3a6"
+      "image": "https://i.guim.co.uk/img/media/7d14e9cab2923329dd70b3989397025bc40e0ef8/789_0_2700_2160/master/2700.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=328301b901a5c51d305ae79c9ef1e11f"
     },
     {
       "id": "story-8",
