@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-09-15T18:49:04.900Z",
+  "updatedAt": "2026-09-15T18:58:13.808Z",
   "hero": {
     "id": "story-0",
     "league": "Premier League",
     "dot": "#9CC0F0",
     "source": "101 Great Goals",
     "time": "Sep 15",
-    "headline": "Ipswich vs Arsenal live: Confirmed teams and full line ups",
-    "excerpt": "Confirmed teams from Ipswich vs Arsenal in the EFL Cup",
-    "link": "https://www.101greatgoals.com/news/ipswich-town-vs-arsenal-live-teams-line-ups-efl-cup-where-to-watch-tv-channel-live-online-stream-carabao-cup/",
-    "image": null
+    "headline": "EXCLUSIVE: JJ Gabriel to join Real Madrid on his 16th birthday in huge blow to Manchester United",
+    "excerpt": "Man United's JJ Gabriel is set to join Real Madrid",
+    "link": "https://www.101greatgoals.com/news/jj-gabriel-manchester-united-real-madrid-free-transfer/",
+    "image": "https://www.101greatgoals.com/wp-content/uploads/2026/09/3FG0563-1.jpg"
   },
   "topStories": [
     {
@@ -18,13 +18,24 @@
       "dot": "#9CC0F0",
       "source": "The Guardian",
       "time": "Sep 15",
-      "headline": "Ipswich Town v Arsenal: Carabao Cup third round – live",
-      "excerpt": "<p>⚽️ Carabao Cup news, 8pm BST kick-off at Portman Road<br>⚽️ <a href=\"https://www.theguardian.com/football/live/2026/sep/15/liverpool-v-tottenham-hotspur-carabao-cup-third-round-live\">Liverpool v Tottenham –…",
-      "link": "https://www.theguardian.com/football/live/2026/sep/15/ipswich-town-v-arsenal-carabao-cup-third-round-live",
-      "image": "https://i.guim.co.uk/img/media/bd39dbdca5aa2357679738bd6502d8165576ddc4/658_286_5047_4038/master/5047.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e6e9a7ef66bce68da5cfa34fbbdc0e98"
+      "headline": "Liverpool v Tottenham Hotspur: Carabao Cup third round – live",
+      "excerpt": "<p>⚽️ Carabao Cup news from the 8pm BST kick-off at Anfield<br>⚽️ <a href=\"https://www.theguardian.com/football/live/2026/sep/15/ipswich-town-v-arsenal-carabao-cup-third-round-live\">Ipswich v Arsenal…",
+      "link": "https://www.theguardian.com/football/live/2026/sep/15/liverpool-v-tottenham-hotspur-carabao-cup-third-round-live",
+      "image": "https://i.guim.co.uk/img/media/aa77fd159381f9b7a2f9fc8f4fa9e5f2e1b23d12/244_124_3467_2775/master/3467.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=9af56b48569f2e1c28651b70f824b2a1"
     },
     {
       "id": "story-2",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "The Guardian",
+      "time": "Sep 15",
+      "headline": "Ipswich Town v Arsenal: Carabao Cup third round – live",
+      "excerpt": "<p>⚽️ Carabao Cup news, 8pm BST kick-off at Portman Road<br>⚽️ <a href=\"https://www.theguardian.com/football/live/2026/sep/15/liverpool-v-tottenham-hotspur-carabao-cup-third-round-live\">Liverpool v Tottenham –…",
+      "link": "https://www.theguardian.com/football/live/2026/sep/15/ipswich-town-v-arsenal-carabao-cup-third-round-live",
+      "image": "https://i.guim.co.uk/img/media/3d3ba955ee002cc454b57fdca47c554d38def17b/30_0_4470_3577/master/4470.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=0ca995ec789a262b1739bad303c2096d"
+    },
+    {
+      "id": "story-3",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -33,17 +44,6 @@
       "excerpt": "Check out the significant signings and departures in the Premier League, Scottish Premiership, EFL and…",
       "link": "https://www.bbc.co.uk/sport/football/articles/cvgyxyxplkvo?at_medium=RSS&amp;at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aec0/live/fd14b290-e25e-11ef-a819-277e390a7a08.jpg"
-    },
-    {
-      "id": "story-3",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "The Guardian",
-      "time": "Sep 15",
-      "headline": "Liverpool v Tottenham Hotspur: Carabao Cup third round – live",
-      "excerpt": "<p>⚽️ Carabao Cup news from the 8pm BST kick-off at Anfield<br>⚽️ <a href=\"https://www.theguardian.com/football/live/2026/sep/15/ipswich-town-v-arsenal-carabao-cup-third-round-live\">Ipswich v Arsenal…",
-      "link": "https://www.theguardian.com/football/live/2026/sep/15/liverpool-v-tottenham-hotspur-carabao-cup-third-round-live",
-      "image": "https://i.guim.co.uk/img/media/617cbe0a739a0af426baea21f6ae3ce900995977/0_111_3717_2973/master/3717.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f6b1962170a38b4529496abfc463e2d0"
     },
     {
       "id": "story-4",
