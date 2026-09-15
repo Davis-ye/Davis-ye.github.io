@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-09-15T19:32:36.872Z",
+  "updatedAt": "2026-09-15T19:44:00.730Z",
   "hero": {
     "id": "story-0",
-    "league": "Football",
-    "dot": "#AFC4AC",
-    "source": "BBC Sport",
+    "league": "Premier League",
+    "dot": "#9CC0F0",
+    "source": "The Guardian",
     "time": "Sep 15",
-    "headline": "Tuchel regrets not eating Azteca turf after win over Mexico",
-    "excerpt": "Thomas Tuchel regrets not eating any of the grass at the Azteca Stadium after England's…",
-    "link": "https://www.bbc.co.uk/sport/football/articles/cq4g5r8kwx9zo?at_medium=RSS&amp;at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/968e/live/b5de5d90-b138-11f1-8e7a-7b6c4dcbe4b5.jpg"
+    "headline": "Liverpool v Tottenham Hotspur: Carabao Cup third round – live",
+    "excerpt": "<p>⚽️ Carabao Cup news from the 8pm BST kick-off at Anfield<br>⚽️ <a href=\"https://www.theguardian.com/football/live/2026/sep/15/ipswich-town-v-arsenal-carabao-cup-third-round-live\">Ipswich v Arsenal…",
+    "link": "https://www.theguardian.com/football/live/2026/sep/15/liverpool-v-tottenham-hotspur-carabao-cup-third-round-live",
+    "image": "https://i.guim.co.uk/img/media/8dc59c7717ee7b1f0e19aae46177ad5a91065710/687_0_3590_2872/master/3590.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=eff1107e0a5e21f7a1a49ee4b1cdaaa2"
   },
   "topStories": [
     {
@@ -25,14 +25,14 @@
     },
     {
       "id": "story-2",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "The Guardian",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "BBC Sport",
       "time": "Sep 15",
-      "headline": "Liverpool v Tottenham Hotspur: Carabao Cup third round – live",
-      "excerpt": "<p>⚽️ Carabao Cup news from the 8pm BST kick-off at Anfield<br>⚽️ <a href=\"https://www.theguardian.com/football/live/2026/sep/15/ipswich-town-v-arsenal-carabao-cup-third-round-live\">Ipswich v Arsenal…",
-      "link": "https://www.theguardian.com/football/live/2026/sep/15/liverpool-v-tottenham-hotspur-carabao-cup-third-round-live",
-      "image": "https://i.guim.co.uk/img/media/e2446a099fc1ffab8ee6fd8b79acf6afebaa49fe/1073_192_1676_1341/master/1676.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3b81885bc66fe45f8f198d3517a065fb"
+      "headline": "Tuchel regrets not eating Azteca turf after win over Mexico",
+      "excerpt": "Thomas Tuchel regrets not eating any of the grass at the Azteca Stadium after England's…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cq4g5r8kwx9zo?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/968e/live/b5de5d90-b138-11f1-8e7a-7b6c4dcbe4b5.jpg"
     },
     {
       "id": "story-3",
