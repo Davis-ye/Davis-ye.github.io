@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-09-15T17:48:56.079Z",
+  "updatedAt": "2026-09-15T17:56:24.916Z",
   "hero": {
     "id": "story-0",
-    "league": "Football",
-    "dot": "#AFC4AC",
-    "source": "BBC Sport",
+    "league": "Premier League",
+    "dot": "#9CC0F0",
+    "source": "The Guardian",
     "time": "Sep 15",
-    "headline": "VAR did not even consider if Fernandez was offside - Webb",
-    "excerpt": "Referees' chief Howard Webb has admitted that the video assistant referee (VAR) did not even…",
-    "link": "https://www.bbc.co.uk/sport/football/articles/cv4g5rp56p55o?at_medium=RSS&amp;at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/44a5/live/789775e0-afa6-11f1-b1d1-571ed4d7ff2c.jpg"
+    "headline": "Ipswich Town v Arsenal: Carabao Cup third round – live",
+    "excerpt": "<p>⚽️ Carabao Cup news, 8pm BST kick-off at Portman Road<br>⚽️ <a href=\"https://www.theguardian.com/football/live/2026/sep/15/liverpool-v-tottenham-hotspur-carabao-cup-third-round-live\">Liverpool v Tottenham –…",
+    "link": "https://www.theguardian.com/football/live/2026/sep/15/ipswich-town-v-arsenal-carabao-cup-third-round-live",
+    "image": "https://i.guim.co.uk/img/media/bd39dbdca5aa2357679738bd6502d8165576ddc4/658_286_5047_4038/master/5047.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e6e9a7ef66bce68da5cfa34fbbdc0e98"
   },
   "topStories": [
     {
@@ -19,20 +19,20 @@
       "source": "The Guardian",
       "time": "Sep 15",
       "headline": "Liverpool v Tottenham Hotspur: Carabao Cup third round – live",
-      "excerpt": "<p>⚽️ Carabao Cup news from the 8pm BST kick-off at Anfield<br>⚽️ <a href=\"https://www.theguardian.com/football/live\">Live scoreboard</a> |…",
+      "excerpt": "<p>⚽️ Carabao Cup news from the 8pm BST kick-off at Anfield<br>⚽️ <a href=\"https://www.theguardian.com/football/live/2026/sep/15/ipswich-town-v-arsenal-carabao-cup-third-round-live\">Ipswich v Arsenal…",
       "link": "https://www.theguardian.com/football/live/2026/sep/15/liverpool-v-tottenham-hotspur-carabao-cup-third-round-live",
       "image": "https://i.guim.co.uk/img/media/9590a4e553138cde4a473094be678193d96a4b16/984_0_4919_3935/master/4919.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c94f337adf078ce62603456df9384fb0"
     },
     {
       "id": "story-2",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "The Guardian",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "BBC Sport",
       "time": "Sep 15",
-      "headline": "Ipswich Town v Arsenal: Carabao Cup third round – live",
-      "excerpt": "<p>⚽️ Carabao Cup news, 8pm BST kick-off at Portman Road<br>⚽️ <a href=\"https://www.theguardian.com/football/live\">Live scoreboard</a> | Send…",
-      "link": "https://www.theguardian.com/football/live/2026/sep/15/ipswich-town-v-arsenal-carabao-cup-third-round-live",
-      "image": "https://i.guim.co.uk/img/media/bd39dbdca5aa2357679738bd6502d8165576ddc4/658_286_5047_4038/master/5047.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e6e9a7ef66bce68da5cfa34fbbdc0e98"
+      "headline": "VAR did not even consider if Fernandez was offside - Webb",
+      "excerpt": "Referees' chief Howard Webb has admitted that the video assistant referee (VAR) did not even…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cv4g5rp56p55o?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/44a5/live/789775e0-afa6-11f1-b1d1-571ed4d7ff2c.jpg"
     },
     {
       "id": "story-3",
