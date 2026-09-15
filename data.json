@@ -1,19 +1,30 @@
 {
-  "updatedAt": "2026-09-15T11:15:12.951Z",
+  "updatedAt": "2026-09-15T11:27:54.487Z",
   "hero": {
     "id": "story-0",
-    "league": "Premier League",
-    "dot": "#9CC0F0",
-    "source": "101 Great Goals",
+    "league": "Football",
+    "dot": "#AFC4AC",
+    "source": "BBC Sport",
     "time": "Sep 15",
-    "headline": "Manchester United v Brighton: Preview, expected line-ups, stats",
-    "excerpt": "Preview as Manchester United host Brighton in the EFL Cup",
-    "link": "https://www.101greatgoals.com/match-previews/manchester-united-v-brighton-preview-expected-line-ups-stats-and-where-to-watch/",
-    "image": null
+    "headline": "McBurnie & seven uncapped names in Scotland squad",
+    "excerpt": "Hull City forward Oli McBurnie is called up to the Scotland squad for the first…",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cq770klrzmvyo?at_medium=RSS&amp;at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d9f9/live/e9030720-b0f2-11f1-b1d1-571ed4d7ff2c.jpg"
   },
   "topStories": [
     {
       "id": "story-1",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "101 Great Goals",
+      "time": "Sep 15",
+      "headline": "Ipswich v Arsenal: Preview, expected line-ups, stats and where to watch",
+      "excerpt": "Preview as Ipswich host Arsenal in an all-Premier League tie",
+      "link": "https://www.101greatgoals.com/match-previews/ipswich-town-v-arsenal-efl-cup-line-ups-stats-preview-tv-channel-live-online-stream-carabao/",
+      "image": "https://www.101greatgoals.com/wp-content/uploads/2026/08/shutterstock_1709242522-1-1.jpg"
+    },
+    {
+      "id": "story-2",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -24,7 +35,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e1db/live/72663080-b0cd-11f1-b1d1-571ed4d7ff2c.png"
     },
     {
-      "id": "story-2",
+      "id": "story-3",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -35,7 +46,7 @@
       "image": "https://i.guim.co.uk/img/media/b0562b564074e0a23f3a220766a8f3708dd799c0/75_324_686_548/master/686.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=84a5f518c8f46a1d54c75659e3bdc367"
     },
     {
-      "id": "story-3",
+      "id": "story-4",
       "league": "Champions League",
       "dot": "#F0C878",
       "source": "BBC Sport",
@@ -46,7 +57,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0e04/live/69a0ae90-b0ea-11f1-8d94-cf0ec84c39cd.jpg"
     },
     {
-      "id": "story-4",
+      "id": "story-5",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -55,17 +66,6 @@
       "excerpt": "Premier League teenagers Ceadach O'Neill and Braiden Graham keep their places in Northern Ireland's squad…",
       "link": "https://www.bbc.co.uk/sport/football/articles/crlyqz2x9kleo?at_medium=RSS&amp;at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/552d/live/f57fcd40-b0ec-11f1-b1d1-571ed4d7ff2c.png"
-    },
-    {
-      "id": "story-5",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "BBC Sport",
-      "time": "Sep 15",
-      "headline": "McBurnie & seven uncapped names in Scotland squad",
-      "excerpt": "Hull City forward Oli McBurnie is called up to the Scotland squad for the first…",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cq770klrzmvyo?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d9f9/live/e9030720-b0f2-11f1-b1d1-571ed4d7ff2c.jpg"
     },
     {
       "id": "story-6",
