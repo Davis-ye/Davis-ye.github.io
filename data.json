@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-15T14:48:06.343Z",
+  "updatedAt": "2026-09-15T14:58:08.237Z",
   "hero": {
     "id": "story-0",
     "league": "Football",
@@ -16,6 +16,17 @@
       "id": "story-1",
       "league": "Premier League",
       "dot": "#9CC0F0",
+      "source": "101 Great Goals",
+      "time": "Sep 15",
+      "headline": "EXCLUSIVE: JJ Gabriel to join Real Madrid on his 16th birthday in huge blow to Manchester United",
+      "excerpt": "JJ Gabriel is to join Real Madrid next month after informing Manchester United of his…",
+      "link": "https://www.101greatgoals.com/news/jj-gabriel-manchester-united-real-madrid-free-transfer/",
+      "image": null
+    },
+    {
+      "id": "story-2",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
       "source": "The Guardian",
       "time": "Sep 15",
       "headline": "Manchester United shocked as talented youngster JJ Gabriel asks to leave",
@@ -24,7 +35,7 @@
       "image": "https://i.guim.co.uk/img/media/e1482966111c33e7f865c8d08a4972efa5850694/1196_456_5900_4720/master/5900.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=771c35e77bfc7c2ff16f4b6332159024"
     },
     {
-      "id": "story-2",
+      "id": "story-3",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -35,7 +46,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/028d/live/88ebda20-b10f-11f1-9065-997784e11373.png"
     },
     {
-      "id": "story-3",
+      "id": "story-4",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -44,17 +55,6 @@
       "excerpt": "With Leeds United third in the Premier League, BBC Sport assesses their improvement under Daniel…",
       "link": "https://www.bbc.co.uk/sport/football/articles/c6x2zgnngj71o?at_medium=RSS&amp;at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8e7f/live/607d9590-b102-11f1-a451-6b1ff10ed362.jpg"
-    },
-    {
-      "id": "story-4",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "101 Great Goals",
-      "time": "Sep 15",
-      "headline": "Former Tottenham midfielder Bissouma close to Ajax move",
-      "excerpt": "Former Tottenham midfielder is in talks over a free transfer to Ajax",
-      "link": "https://www.101greatgoals.com/news/transfers/former-tottenham-midfielder-bissouma-close-to-ajax-move/",
-      "image": null
     },
     {
       "id": "story-5",
