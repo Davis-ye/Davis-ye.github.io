@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-09-15T21:28:07.511Z",
+  "updatedAt": "2026-09-15T21:37:42.388Z",
   "hero": {
     "id": "story-0",
-    "league": "Premier League",
-    "dot": "#9CC0F0",
-    "source": "The Guardian",
+    "league": "La Liga",
+    "dot": "#E3B4F5",
+    "source": "101 Great Goals",
     "time": "Sep 15",
-    "headline": "Max Dowman doubles up for Arsenal’s back-ups to beat Ipswich in Carabao Cup",
-    "excerpt": "<p>The bad news for everyone else is that Arsenal’s next generation is already here. Two…",
-    "link": "https://www.theguardian.com/football/2026/sep/15/ipswich-arsenal-carabao-cup-third-round-match-report",
-    "image": "https://i.guim.co.uk/img/media/fe64e88d0bcc7d2b7b135b287bd5bbfd764223f9/283_0_3219_2576/master/3219.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=00a09317624265c0816f58c8518ca6aa"
+    "headline": "Elche 2-3 Real Madrid: Espi rescues Mourinho&#8217;s men with 91st-minute winner",
+    "excerpt": "Madrid went very close to dropping points on the road again.",
+    "link": "https://www.101greatgoals.com/football/la-liga/elche-real-madrid-report/",
+    "image": null
   },
   "topStories": [
     {
@@ -18,21 +18,21 @@
       "dot": "#9CC0F0",
       "source": "The Guardian",
       "time": "Sep 15",
-      "headline": "Szoboszlai screamer seals Liverpool’s progress as De Zerbi’s Spurs woes grow",
-      "excerpt": "<p>Tottenham scored a consolation goal but consolation was otherwise absent for Roberto De Zerbi at…",
-      "link": "https://www.theguardian.com/football/2026/sep/15/liverpool-tottenham-carabao-cup-third-round-match-report",
-      "image": "https://i.guim.co.uk/img/media/059cc70c3e953290d789ff0ac0b6a01486911b3f/392_0_3762_3010/master/3762.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=2552f33b5194c5ce83ee0d712e9e6158"
+      "headline": "Max Dowman doubles up for Arsenal’s back-ups to beat Ipswich in Carabao Cup",
+      "excerpt": "<p>The bad news for everyone else is that Arsenal’s next generation is already here. Two…",
+      "link": "https://www.theguardian.com/football/2026/sep/15/ipswich-arsenal-carabao-cup-third-round-match-report",
+      "image": "https://i.guim.co.uk/img/media/fe64e88d0bcc7d2b7b135b287bd5bbfd764223f9/283_0_3219_2576/master/3219.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=00a09317624265c0816f58c8518ca6aa"
     },
     {
       "id": "story-2",
       "league": "Premier League",
       "dot": "#9CC0F0",
-      "source": "101 Great Goals",
+      "source": "The Guardian",
       "time": "Sep 15",
-      "headline": "Liverpool 3-1 Tottenham: Szoboszlai stunner sends Reds into last 16",
-      "excerpt": "Liverpool were made to work hard before the tie was settled in stunning fashion.",
-      "link": "https://www.101greatgoals.com/football/liverpool-tottenham-report/",
-      "image": null
+      "headline": "Szoboszlai screamer seals Liverpool’s progress as De Zerbi’s Spurs woes grow",
+      "excerpt": "<p>Tottenham scored a consolation goal but consolation was otherwise absent for Roberto De Zerbi at…",
+      "link": "https://www.theguardian.com/football/2026/sep/15/liverpool-tottenham-carabao-cup-third-round-match-report",
+      "image": "https://i.guim.co.uk/img/media/059cc70c3e953290d789ff0ac0b6a01486911b3f/392_0_3762_3010/master/3762.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=2552f33b5194c5ce83ee0d712e9e6158"
     },
     {
       "id": "story-3",
@@ -268,6 +268,16 @@
   ],
   "scoreboard": [
     {
+      "id": "score-564681",
+      "league": "La Liga",
+      "dot": "#E3B4F5",
+      "time": "Sep 15",
+      "home": "Elche CF",
+      "away": "Real Madrid CF",
+      "homeScore": 2,
+      "awayScore": 3
+    },
+    {
       "id": "score-564680",
       "league": "La Liga",
       "dot": "#E3B4F5",
@@ -316,16 +326,6 @@
       "away": "Udinese Calcio",
       "homeScore": 5,
       "awayScore": 3
-    },
-    {
-      "id": "score-558602",
-      "league": "Serie A",
-      "dot": "#A9E6A0",
-      "time": "Sep 14",
-      "home": "Como 1907",
-      "away": "Parma Calcio 1913",
-      "homeScore": 2,
-      "awayScore": 1
     }
   ]
 }
