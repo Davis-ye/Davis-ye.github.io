@@ -1,19 +1,30 @@
 {
-  "updatedAt": "2026-09-15T16:04:45.845Z",
+  "updatedAt": "2026-09-15T16:20:32.966Z",
   "hero": {
     "id": "story-0",
     "league": "Football",
     "dot": "#AFC4AC",
     "source": "BBC Sport",
     "time": "Sep 15",
-    "headline": "VAR missed Fernandez offside in Manchester derby - Webb",
-    "excerpt": "Referees' chief Howard Webb admits that the video assistant referee failed to assess the offside…",
-    "link": "https://www.bbc.co.uk/sport/football/articles/cv4g5rp56p55o?at_medium=RSS&amp;at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/44a5/live/789775e0-afa6-11f1-b1d1-571ed4d7ff2c.jpg"
+    "headline": "Sterling admits dangerous driving after motorway crash",
+    "excerpt": "The former England winger crashed a Lamborghini into motorway barriers in May.",
+    "link": "https://www.bbc.co.uk/news/articles/c52e01k49e8jo?at_medium=RSS&amp;at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b630/live/0efee2c0-b119-11f1-88dd-176b0bb35f89.jpg"
   },
   "topStories": [
     {
       "id": "story-1",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "BBC Sport",
+      "time": "Sep 15",
+      "headline": "VAR missed Fernandez offside in Manchester derby - Webb",
+      "excerpt": "Referees' chief Howard Webb admits that the video assistant referee failed to assess the offside…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cv4g5rp56p55o?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/44a5/live/789775e0-afa6-11f1-b1d1-571ed4d7ff2c.jpg"
+    },
+    {
+      "id": "story-2",
       "league": "Champions League",
       "dot": "#F0C878",
       "source": "101 Great Goals",
@@ -22,17 +33,6 @@
       "excerpt": "Team news as Al Nassr visit Al Ain in the AFC Champions League",
       "link": "https://www.101greatgoals.com/football/al-ain-vs-al-nassr-line-ups-cristiano-ronaldo-afc-champions-league-elite-teams-where-to-watch-tv-channel-live-online-stream/",
       "image": null
-    },
-    {
-      "id": "story-2",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "BBC Sport",
-      "time": "Sep 15",
-      "headline": "Sterling admits dangerous driving after motorway crash",
-      "excerpt": "The former England winger crashed a Lamborghini into motorway barriers in May.",
-      "link": "https://www.bbc.co.uk/news/articles/c52e01k49e8jo?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b630/live/0efee2c0-b119-11f1-88dd-176b0bb35f89.jpg"
     },
     {
       "id": "story-3",
@@ -51,8 +51,8 @@
       "dot": "#9CC0F0",
       "source": "The Guardian",
       "time": "Sep 15",
-      "headline": "Have Leeds left the chaos behind them?",
-      "excerpt": "<p>It’s been quite the stomach-churning white-knuckle ride for Leeds United over the past decade. Their…",
+      "headline": "Football Daily | Have laudable Leeds left the chaos behind them?",
+      "excerpt": "<p><a href=\"https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up\"><strong>Sign up now! Sign up now! Sign up now? Sign up now!</strong></a></p><p>It’s been quite…",
       "link": "https://www.theguardian.com/football/2026/sep/15/football-daily-email-leeds-not-disunited",
       "image": "https://i.guim.co.uk/img/media/21d4e2bc6edeb147a48b2b3500da9863982725df/1885_175_5758_4607/master/5758.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b250984eb8ce36942aa363c5f41146be"
     },
