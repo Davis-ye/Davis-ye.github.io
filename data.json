@@ -1,30 +1,19 @@
 {
-  "updatedAt": "2026-09-15T18:35:52.835Z",
+  "updatedAt": "2026-09-15T18:49:04.900Z",
   "hero": {
     "id": "story-0",
     "league": "Premier League",
     "dot": "#9CC0F0",
     "source": "101 Great Goals",
     "time": "Sep 15",
-    "headline": "Liverpool vs Tottenham live: Confirmed teams and full line ups",
-    "excerpt": "Confirmed teams from Liverpool vs Spurs in the EFL Cup",
-    "link": "https://www.101greatgoals.com/news/liverpool-vs-tottenham-live-teams-line-ups-efl-cup-where-to-watch-tv-channel-live-online-stream-carabao/",
+    "headline": "Ipswich vs Arsenal live: Confirmed teams and full line ups",
+    "excerpt": "Confirmed teams from Ipswich vs Arsenal in the EFL Cup",
+    "link": "https://www.101greatgoals.com/news/ipswich-town-vs-arsenal-live-teams-line-ups-efl-cup-where-to-watch-tv-channel-live-online-stream-carabao-cup/",
     "image": null
   },
   "topStories": [
     {
       "id": "story-1",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "BBC Sport",
-      "time": "Sep 15",
-      "headline": "All done deals in September 2026",
-      "excerpt": "Check out the significant signings and departures in the Premier League, Scottish Premiership, EFL and…",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cvgyxyxplkvo?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aec0/live/fd14b290-e25e-11ef-a819-277e390a7a08.jpg"
-    },
-    {
-      "id": "story-2",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -33,6 +22,17 @@
       "excerpt": "<p>⚽️ Carabao Cup news, 8pm BST kick-off at Portman Road<br>⚽️ <a href=\"https://www.theguardian.com/football/live/2026/sep/15/liverpool-v-tottenham-hotspur-carabao-cup-third-round-live\">Liverpool v Tottenham –…",
       "link": "https://www.theguardian.com/football/live/2026/sep/15/ipswich-town-v-arsenal-carabao-cup-third-round-live",
       "image": "https://i.guim.co.uk/img/media/bd39dbdca5aa2357679738bd6502d8165576ddc4/658_286_5047_4038/master/5047.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e6e9a7ef66bce68da5cfa34fbbdc0e98"
+    },
+    {
+      "id": "story-2",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "BBC Sport",
+      "time": "Sep 15",
+      "headline": "All done deals in September 2026",
+      "excerpt": "Check out the significant signings and departures in the Premier League, Scottish Premiership, EFL and…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cvgyxyxplkvo?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aec0/live/fd14b290-e25e-11ef-a819-277e390a7a08.jpg"
     },
     {
       "id": "story-3",
