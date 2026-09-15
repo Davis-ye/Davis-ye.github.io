@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-09-15T20:55:10.512Z",
+  "updatedAt": "2026-09-15T21:02:54.267Z",
   "hero": {
     "id": "story-0",
     "league": "Premier League",
     "dot": "#9CC0F0",
-    "source": "The Guardian",
+    "source": "101 Great Goals",
     "time": "Sep 15",
-    "headline": "Liverpool v Tottenham Hotspur: Carabao Cup third round – live",
-    "excerpt": "<p>⚽️ Carabao Cup news from the 8pm BST kick-off at Anfield<br>⚽️ <a href=\"https://www.theguardian.com/football/live/2026/sep/15/ipswich-town-v-arsenal-carabao-cup-third-round-live\">Ipswich v Arsenal…",
-    "link": "https://www.theguardian.com/football/live/2026/sep/15/liverpool-v-tottenham-hotspur-carabao-cup-third-round-live",
-    "image": "https://i.guim.co.uk/img/media/e63bfb10112b2a870c30b0a6943dd8ac147870d0/1383_615_1423_1138/master/1423.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ba3713478918322e58172e252f4d7af8"
+    "headline": "Ipswich 2-4 Arsenal: Dowman at the double as Gunners ease into fourth round",
+    "excerpt": "Arsenal's teenage talent stole the show at Portman Road.",
+    "link": "https://www.101greatgoals.com/football/ipswich-arsenal-report-dowman-brace/",
+    "image": null
   },
   "topStories": [
     {
@@ -27,6 +27,17 @@
       "id": "story-2",
       "league": "Premier League",
       "dot": "#9CC0F0",
+      "source": "The Guardian",
+      "time": "Sep 15",
+      "headline": "Liverpool 3-1 Tottenham Hotspur: Carabao Cup third round – live",
+      "excerpt": "<p>⚽️ Carabao Cup news from the 8pm BST kick-off at Anfield<br>⚽️ <a href=\"https://www.theguardian.com/football/live/2026/sep/15/ipswich-town-v-arsenal-carabao-cup-third-round-live\">Ipswich v Arsenal…",
+      "link": "https://www.theguardian.com/football/live/2026/sep/15/liverpool-v-tottenham-hotspur-carabao-cup-third-round-live",
+      "image": "https://i.guim.co.uk/img/media/e63bfb10112b2a870c30b0a6943dd8ac147870d0/1383_615_1423_1138/master/1423.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ba3713478918322e58172e252f4d7af8"
+    },
+    {
+      "id": "story-3",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
       "source": "BBC Sport",
       "time": "Sep 15",
       "headline": "Barcelona monitor Kane & Haaland - Wednesday's gossip",
@@ -35,7 +46,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ba24/live/035b1150-b13c-11f1-bc1f-3f186ca4140c.png"
     },
     {
-      "id": "story-3",
+      "id": "story-4",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "The Guardian",
@@ -46,7 +57,7 @@
       "image": "https://i.guim.co.uk/img/media/6e18cf22a12886c57f4f76d89396dafea1eacac3/361_0_3333_2667/master/3333.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d433ce131a9c26ee295be0c7e9c48ffb"
     },
     {
-      "id": "story-4",
+      "id": "story-5",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -57,7 +68,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aec0/live/fd14b290-e25e-11ef-a819-277e390a7a08.jpg"
     },
     {
-      "id": "story-5",
+      "id": "story-6",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -66,17 +77,6 @@
       "excerpt": "Thomas Tuchel regrets not eating any of the grass at the Azteca Stadium after England's…",
       "link": "https://www.bbc.co.uk/sport/football/articles/cq4g5r8kwx9zo?at_medium=RSS&amp;at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/968e/live/b5de5d90-b138-11f1-8e7a-7b6c4dcbe4b5.jpg"
-    },
-    {
-      "id": "story-6",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "101 Great Goals",
-      "time": "Sep 15",
-      "headline": "EXCLUSIVE: JJ Gabriel to join Real Madrid on his 16th birthday in huge blow to Manchester United",
-      "excerpt": "Man United's JJ Gabriel is set to join Real Madrid",
-      "link": "https://www.101greatgoals.com/news/jj-gabriel-manchester-united-real-madrid-free-transfer/",
-      "image": "https://www.101greatgoals.com/wp-content/uploads/2026/09/3FG0563-1.jpg"
     },
     {
       "id": "story-7",
