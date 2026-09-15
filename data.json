@@ -1,19 +1,30 @@
 {
-  "updatedAt": "2026-09-15T17:05:20.771Z",
+  "updatedAt": "2026-09-15T17:18:36.774Z",
   "hero": {
     "id": "story-0",
-    "league": "Champions League",
-    "dot": "#F0C878",
-    "source": "101 Great Goals",
+    "league": "Premier League",
+    "dot": "#9CC0F0",
+    "source": "The Guardian",
     "time": "Sep 15",
-    "headline": "Al Ain vs Al Nassr: Confirmed line ups and teams",
-    "excerpt": "Team news as Al Nassr visit Al Ain in the AFC Champions League",
-    "link": "https://www.101greatgoals.com/football/al-ain-vs-al-nassr-line-ups-cristiano-ronaldo-afc-champions-league-elite-teams-where-to-watch-tv-channel-live-online-stream/",
-    "image": null
+    "headline": "Howard Webb says accidental handball law ‘a nonsense’ and calls for reform",
+    "excerpt": "<ul><li><p>Webb wants to stop ‘ridiculous situations’</p></li><li><p>Says VAR officials in United v City had ‘tunnel vision’</p></li></ul><p>Howard…",
+    "link": "https://www.theguardian.com/football/2026/sep/15/howard-webb-says-accidental-handball-law-a-nonsense-and-calls-for-reform",
+    "image": "https://i.guim.co.uk/img/media/bfbe0438c66d7d9d30ee1f0c81190b0149dadb74/195_0_5249_4200/master/5249.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=35a14da6fdb3523dec4fa0be72dd54e0"
   },
   "topStories": [
     {
       "id": "story-1",
+      "league": "Champions League",
+      "dot": "#F0C878",
+      "source": "101 Great Goals",
+      "time": "Sep 15",
+      "headline": "Al Ain vs Al Nassr: Confirmed line ups and teams",
+      "excerpt": "Team news as Al Nassr visit Al Ain in the AFC Champions League",
+      "link": "https://www.101greatgoals.com/football/al-ain-vs-al-nassr-line-ups-cristiano-ronaldo-afc-champions-league-elite-teams-where-to-watch-tv-channel-live-online-stream/",
+      "image": null
+    },
+    {
+      "id": "story-2",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -24,7 +35,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6e92/live/42593e80-b124-11f1-b1d1-571ed4d7ff2c.jpg"
     },
     {
-      "id": "story-2",
+      "id": "story-3",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -35,7 +46,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/44a5/live/789775e0-afa6-11f1-b1d1-571ed4d7ff2c.jpg"
     },
     {
-      "id": "story-3",
+      "id": "story-4",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -46,7 +57,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1f09/live/6b17d6b0-b115-11f1-8907-39a652c5e20e.jpg"
     },
     {
-      "id": "story-4",
+      "id": "story-5",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -57,7 +68,7 @@
       "image": "https://i.guim.co.uk/img/media/21d4e2bc6edeb147a48b2b3500da9863982725df/1885_175_5758_4607/master/5758.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b250984eb8ce36942aa363c5f41146be"
     },
     {
-      "id": "story-5",
+      "id": "story-6",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -68,7 +79,7 @@
       "image": "https://i.guim.co.uk/img/media/e1482966111c33e7f865c8d08a4972efa5850694/1196_456_5900_4720/master/5900.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=771c35e77bfc7c2ff16f4b6332159024"
     },
     {
-      "id": "story-6",
+      "id": "story-7",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -79,7 +90,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/028d/live/88ebda20-b10f-11f1-9065-997784e11373.png"
     },
     {
-      "id": "story-7",
+      "id": "story-8",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -90,7 +101,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8e7f/live/607d9590-b102-11f1-a451-6b1ff10ed362.jpg"
     },
     {
-      "id": "story-8",
+      "id": "story-9",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -101,7 +112,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/90bc/live/b74bf0c0-b10b-11f1-a451-6b1ff10ed362.jpg"
     },
     {
-      "id": "story-9",
+      "id": "story-10",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "The Guardian",
@@ -112,7 +123,7 @@
       "image": "https://i.guim.co.uk/img/media/7d14e9cab2923329dd70b3989397025bc40e0ef8/789_0_2700_2160/master/2700.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=328301b901a5c51d305ae79c9ef1e11f"
     },
     {
-      "id": "story-10",
+      "id": "story-11",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -123,7 +134,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e77e/live/42b9fe20-b10e-11f1-9065-997784e11373.jpg"
     },
     {
-      "id": "story-11",
+      "id": "story-12",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -134,7 +145,7 @@
       "image": "https://i.guim.co.uk/img/media/618f105e1bc3d704ce9ac2918fcd1f863d238650/244_0_2500_2001/master/2500.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c9e1b4afc421484995e36471fe38e949"
     },
     {
-      "id": "story-12",
+      "id": "story-13",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -145,7 +156,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/79a9/live/765551f0-b102-11f1-b1d1-571ed4d7ff2c.jpg"
     },
     {
-      "id": "story-13",
+      "id": "story-14",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -156,7 +167,7 @@
       "image": "https://i.guim.co.uk/img/media/5e32ed7abe7fed43412024f4a00f6bad4ea2a485/647_0_3289_2632/master/3289.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=35a2ee9cc255ceecbadbff7fb57eb39c"
     },
     {
-      "id": "story-14",
+      "id": "story-15",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -167,7 +178,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/66b7/live/14d10390-b123-11f1-8ecc-07cd1cee2987.jpg"
     },
     {
-      "id": "story-15",
+      "id": "story-16",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -178,7 +189,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e88a/live/174c2770-b0fc-11f1-b1d1-571ed4d7ff2c.jpg"
     },
     {
-      "id": "story-16",
+      "id": "story-17",
       "league": "La Liga",
       "dot": "#E3B4F5",
       "source": "The Guardian",
@@ -187,17 +198,6 @@
       "excerpt": "<p>With an incredible array of talent on show we select half a dozen players who…",
       "link": "https://www.theguardian.com/football/2026/sep/15/six-breakout-stars-from-the-womens-under-20-world-cup",
       "image": "https://i.guim.co.uk/img/media/4079c3d72712d8eca2b3990da501e30a83c6db63/0_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=1348f0ef8aa94c1cefad7268ba18c1a1"
-    },
-    {
-      "id": "story-17",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "The Guardian",
-      "time": "Sep 15",
-      "headline": "USMNT roster prediction: a big chance for Cavan Sullivan and other young prospects",
-      "excerpt": "<p>The United States’ next World Cup cycle gets underway with this week’s squad selection –…",
-      "link": "https://www.theguardian.com/football/2026/sep/15/usmnt-roster-prediction",
-      "image": "https://i.guim.co.uk/img/media/0f11352153308535428e12e22306d0660866cbc2/117_0_2035_1628/master/2035.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=6f30b66120f775ab3d77ce6fd819d943"
     },
     {
       "id": "story-18",
