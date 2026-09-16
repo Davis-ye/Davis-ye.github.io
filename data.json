@@ -1,19 +1,41 @@
 {
-  "updatedAt": "2026-09-16T22:00:01.642Z",
+  "updatedAt": "2026-09-16T22:12:58.445Z",
   "hero": {
     "id": "story-0",
-    "league": "Premier League",
-    "dot": "#9CC0F0",
-    "source": "101 Great Goals",
+    "league": "Football",
+    "dot": "#AFC4AC",
+    "source": "BBC Sport",
     "time": "Sep 16",
-    "headline": "‘That’s on me’ – Carrick pulls no punches after Man Utd&#8217;s EFL Cup collapse",
-    "excerpt": "United were beaten despite being 2-0 up at home",
-    "link": "https://www.101greatgoals.com/football/thats-on-me-carrick-pulls-no-punches-after-man-utds-efl-cup-collapse/",
-    "image": null
+    "headline": "De la Fuente extends Spain contract to 2032",
+    "excerpt": "World Cup-winning head coach Luis de la Fuente agrees a contract extension with Spain until…",
+    "link": "https://www.bbc.co.uk/sport/football/articles/c6eq8z9wjjqlo?at_medium=RSS&amp;at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b5f0/live/d60f2240-b11d-11f1-8ecc-07cd1cee2987.jpg"
   },
   "topStories": [
     {
       "id": "story-1",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "BBC Sport",
+      "time": "Sep 16",
+      "headline": "League Two Fleetwood host Arsenal in Carabao Cup",
+      "excerpt": "League Two side Fleetwood Town will host Premier League champions Arsenal in the fourth round…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cqd08y9dd5dko?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a20d/live/cf4e0ee0-b216-11f1-8117-470b3119e06f.jpg"
+    },
+    {
+      "id": "story-2",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "101 Great Goals",
+      "time": "Sep 16",
+      "headline": "‘That’s on me’ – Carrick pulls no punches after Man Utd&#8217;s EFL Cup collapse",
+      "excerpt": "United were beaten despite being 2-0 up at home",
+      "link": "https://www.101greatgoals.com/football/thats-on-me-carrick-pulls-no-punches-after-man-utds-efl-cup-collapse/",
+      "image": null
+    },
+    {
+      "id": "story-3",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -24,7 +46,7 @@
       "image": "https://i.guim.co.uk/img/media/ce0f84e42b8f7aba53ae668ceac3ca63c6460ab4/323_0_3233_2587/master/3233.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=bb61b8331ead128cde7b8877ebbc6ba0"
     },
     {
-      "id": "story-2",
+      "id": "story-4",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -35,7 +57,7 @@
       "image": "https://i.guim.co.uk/img/media/344bbaa95ceda25b7a38825cecc9cc5afb3ff12c/1320_0_6117_4895/master/6117.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=7a363c879280926105a22124dc7fc848"
     },
     {
-      "id": "story-3",
+      "id": "story-5",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -46,7 +68,7 @@
       "image": "https://i.guim.co.uk/img/media/c06ce51f4a91f21d3e0057102d8947fdb074ae85/267_0_4247_3399/master/4247.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=8c74f41c5ceb7764d66d8c6e552bd002"
     },
     {
-      "id": "story-4",
+      "id": "story-6",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "The Guardian",
@@ -57,7 +79,7 @@
       "image": "https://i.guim.co.uk/img/media/40843a59121918d699ab4901cd166a7019877f83/468_275_4505_3605/master/4505.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d88cf8259aee6d4c2fc80d835e93d6c0"
     },
     {
-      "id": "story-5",
+      "id": "story-7",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -68,7 +90,7 @@
       "image": "https://i.guim.co.uk/img/media/30871267286143a8dc300cbc556dd0617432d579/104_0_4756_3805/master/4756.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a600ca3649205b724934c45bff29ce57"
     },
     {
-      "id": "story-6",
+      "id": "story-8",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -79,7 +101,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1a5b/live/601cf190-b20b-11f1-95f2-19e1a2e8eef2.jpg"
     },
     {
-      "id": "story-7",
+      "id": "story-9",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -90,7 +112,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/82d6/live/c9f6f2d0-b1fe-11f1-bc1f-3f186ca4140c.png"
     },
     {
-      "id": "story-8",
+      "id": "story-10",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "The Guardian",
@@ -101,7 +123,7 @@
       "image": "https://i.guim.co.uk/img/media/89e7ac6a2da5f8cf21ec331c714d0e0878cda391/327_0_4957_3966/master/4957.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a20c89237489bae707507d51a355322c"
     },
     {
-      "id": "story-9",
+      "id": "story-11",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -112,7 +134,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7e84/live/b2b59ee0-b1ff-11f1-a4a7-291ff3d1006b.jpg"
     },
     {
-      "id": "story-10",
+      "id": "story-12",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "The Guardian",
@@ -123,7 +145,7 @@
       "image": "https://i.guim.co.uk/img/media/702b0858ca118e59e36522b3db59536875c0059a/127_0_2745_2197/master/2745.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3a0f89a44535033aeb09f97e8b819510"
     },
     {
-      "id": "story-11",
+      "id": "story-13",
       "league": "La Liga",
       "dot": "#E3B4F5",
       "source": "BBC Sport",
@@ -134,7 +156,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c683/live/b9e9a900-b1ae-11f1-8b77-cd7827f05bee.jpg"
     },
     {
-      "id": "story-12",
+      "id": "story-14",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -145,7 +167,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4b4f/live/cac13e20-b1f2-11f1-bd8b-ed45be4f6895.jpg"
     },
     {
-      "id": "story-13",
+      "id": "story-15",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -156,7 +178,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d73a/live/24819ce0-b1bf-11f1-bdcf-d393eb724fa3.png"
     },
     {
-      "id": "story-14",
+      "id": "story-16",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -167,7 +189,7 @@
       "image": "https://i.guim.co.uk/img/media/f8442f8fa11a4a45395ca1cf85f5654d73646ce4/34_0_3644_2916/master/3644.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=892a295c704f1006ec832ce3d57052b5"
     },
     {
-      "id": "story-15",
+      "id": "story-17",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -178,7 +200,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7039/live/f7b9c130-b1bc-11f1-b1d1-571ed4d7ff2c.jpg"
     },
     {
-      "id": "story-16",
+      "id": "story-18",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -189,7 +211,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2a57/live/ac0f75f0-b1d9-11f1-8c0b-c1113bf3b7c0.jpg"
     },
     {
-      "id": "story-17",
+      "id": "story-19",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -200,7 +222,7 @@
       "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0p3n9ks.jpg"
     },
     {
-      "id": "story-18",
+      "id": "story-20",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -211,7 +233,7 @@
       "image": "https://i.guim.co.uk/img/media/a985a3dd9328f403d6fec6669b89aef5557118e2/160_0_5833_4666/master/5833.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=9199b9ba2424719118ac3b80c4258f4c"
     },
     {
-      "id": "story-19",
+      "id": "story-21",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -222,7 +244,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f1ed/live/d9ecc7d0-b1b0-11f1-8b77-cd7827f05bee.jpg"
     },
     {
-      "id": "story-20",
+      "id": "story-22",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -233,7 +255,7 @@
       "image": "https://i.guim.co.uk/img/media/145ce63eb1f540b2e17b983ff43f1d6759190f4e/255_0_3698_2958/master/3698.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=cccc20c7408f205c766b68add2b61d67"
     },
     {
-      "id": "story-21",
+      "id": "story-23",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -242,28 +264,6 @@
       "excerpt": "<p>The 20-year-old forward was delighted with the faith put in him by Andoni Iraola for…",
       "link": "https://www.theguardian.com/football/2026/sep/16/lewis-koumas-on-playing-the-liverpool-way-showing-hunger-and-hopes-for-the-future",
       "image": "https://i.guim.co.uk/img/media/5677770900b0d6ba64862ffd97a6cf91e9cfa4cd/310_0_2738_2191/master/2738.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3ed2a519afc10e3f29c029b9c15d96cd"
-    },
-    {
-      "id": "story-22",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "BBC Sport",
-      "time": "Sep 16",
-      "headline": "'We are still waiting for apology' - Maresca on City's VAR frustration",
-      "excerpt": "Manchester City manager Enzo Maresca says it is \"quite poor\" that the controversy surrounding Erling…",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cmx2zyjylee1o?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dd40/live/fdbe1030-b1b3-11f1-bdcf-d393eb724fa3.jpg"
-    },
-    {
-      "id": "story-23",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "BBC Sport",
-      "time": "Sep 16",
-      "headline": "'Mini Valverde' wanted by Chelsea - Garner is now Everton's main man",
-      "excerpt": "BBC Sport examines how James Garner has become Everton's most important player.",
-      "link": "https://www.bbc.co.uk/sport/football/articles/crwyz819xw4po?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b605/live/fac43690-b102-11f1-a451-6b1ff10ed362.jpg"
     }
   ],
   "scoreboard": [
