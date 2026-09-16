@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-09-16T08:22:30.507Z",
+  "updatedAt": "2026-09-16T08:36:06.056Z",
   "hero": {
     "id": "story-0",
-    "league": "Premier League",
-    "dot": "#9CC0F0",
+    "league": "Football",
+    "dot": "#AFC4AC",
     "source": "BBC Sport",
     "time": "Sep 16",
-    "headline": "All done deals in September 2026",
-    "excerpt": "Check out the significant signings and departures in the Premier League, Scottish Premiership, EFL and…",
-    "link": "https://www.bbc.co.uk/sport/football/articles/cvgyxyxplkvo?at_medium=RSS&amp;at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aec0/live/fd14b290-e25e-11ef-a819-277e390a7a08.jpg"
+    "headline": "Fernandez signs new London City contract",
+    "excerpt": "London City Lionesses defender Jana Fernandez signs a new contract, keeping her at the club…",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cq39m44d8ypvo?at_medium=RSS&amp;at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d4d2/live/45d71d60-b1a2-11f1-8b77-cd7827f05bee.jpg"
   },
   "topStories": [
     {
@@ -18,13 +18,24 @@
       "dot": "#9CC0F0",
       "source": "101 Great Goals",
       "time": "Sep 16",
-      "headline": "Iraola hails Szoboszlai after rocket seals Liverpool&#8217;s win over Tottenham",
-      "excerpt": "Andoni Iraola was full of praise for midfielder Dominik Szoboszlai on Tuesday night.",
-      "link": "https://www.101greatgoals.com/football/premier-league/iraola-hails-szoboszlai-rocket-liverpools-win-tottenham/",
-      "image": null
+      "headline": "EXCLUSIVE: JJ Gabriel to join Real Madrid on his 16th birthday in huge blow to Manchester United",
+      "excerpt": "Man United's JJ Gabriel is set to join Real Madrid",
+      "link": "https://www.101greatgoals.com/news/jj-gabriel-manchester-united-real-madrid-free-transfer/",
+      "image": "https://www.101greatgoals.com/wp-content/uploads/2026/09/3FG0563-1.jpg"
     },
     {
       "id": "story-2",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "BBC Sport",
+      "time": "Sep 16",
+      "headline": "All done deals in September 2026",
+      "excerpt": "Check out the significant signings and departures in the Premier League, Scottish Premiership, EFL and…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cvgyxyxplkvo?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aec0/live/fd14b290-e25e-11ef-a819-277e390a7a08.jpg"
+    },
+    {
+      "id": "story-3",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -33,17 +44,6 @@
       "excerpt": "Former Tottenham midfielder Yves Bissouma has joined Ajax on an initial deal that runs until…",
       "link": "https://www.bbc.co.uk/sport/football/articles/cw4gr5pm7eg9o?at_medium=RSS&amp;at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e88a/live/174c2770-b0fc-11f1-b1d1-571ed4d7ff2c.jpg"
-    },
-    {
-      "id": "story-3",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "BBC Sport",
-      "time": "Sep 16",
-      "headline": "Fernandez signs new London City contract",
-      "excerpt": "London City Lionesses defender Jana Fernandez signs a new contract, keeping her at the club…",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cq39m44d8ypvo?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d4d2/live/45d71d60-b1a2-11f1-8b77-cd7827f05bee.jpg"
     },
     {
       "id": "story-4",
@@ -109,7 +109,7 @@
       "headline": "Meet the Scottish teenagers poised to represent Uganda",
       "excerpt": "Teenage brothers Olly and Seb Fisher are closing in on their dream of international recognition…",
       "link": "https://www.bbc.co.uk/sport/football/articles/c6wyz1ll1g3xo?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2d56/live/db398570-b0e7-11f1-ae0d-6f5ba3aa85ac.jpg"
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/85ba/live/bf1141b0-b1a7-11f1-8b77-cd7827f05bee.jpg"
     },
     {
       "id": "story-10",
