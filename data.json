@@ -1,19 +1,30 @@
 {
-  "updatedAt": "2026-09-16T18:01:39.701Z",
+  "updatedAt": "2026-09-16T18:19:16.975Z",
   "hero": {
     "id": "story-0",
     "league": "Premier League",
     "dot": "#9CC0F0",
-    "source": "101 Great Goals",
+    "source": "The Guardian",
     "time": "Sep 16",
-    "headline": "Manchester United v Brighton: Confirmed line-ups for EFL Cup third-round clash",
-    "excerpt": "Tielemans captains United while Brighton make six changes",
-    "link": "https://www.101greatgoals.com/football/man-united-brighton-confirmed-teams/",
-    "image": null
+    "headline": "Manchester United v Brighton, Coventry v Aston Villa and more, Carabao Cup clockwatch – live",
+    "excerpt": "<p>⚽ Live updates from four third-round matches<br>⚽ <a href=\"https://www.theguardian.com/football/2026/sep/15/manchester-united-jj-gabriel-asks-to-leave\">Manchester United shocked as JJ Gabriel asks…",
+    "link": "https://www.theguardian.com/football/live/2026/sep/16/manchester-united-v-brighton-coventry-v-aston-villa-and-more-carabao-cup-clockwatch-live",
+    "image": "https://i.guim.co.uk/img/media/ce29e02d25cedb9fde9300f249088828cbcdfb61/531_0_5821_4659/master/5821.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f848d6a48cf729e2cb57f0e2fc665e6c"
   },
   "topStories": [
     {
       "id": "story-1",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "101 Great Goals",
+      "time": "Sep 16",
+      "headline": "Manchester United v Brighton: Confirmed line-ups for EFL Cup third-round clash",
+      "excerpt": "Tielemans captains United while Brighton make six changes",
+      "link": "https://www.101greatgoals.com/football/man-united-brighton-confirmed-teams/",
+      "image": null
+    },
+    {
+      "id": "story-2",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -22,17 +33,6 @@
       "excerpt": "<p>⚽ Live updates from the 8pm BST kick-offs <br>⚽ <a href=\"https://www.theguardian.com/football/2026/sep/16/xhaka-sunderland-european-riches-alkmaar\">Xhaka promises ‘fire’</a> | <a…",
       "link": "https://www.theguardian.com/football/live/2026/sep/16/sunderland-v-az-milan-v-benfica-and-more-europa-league-clockwatch-live",
       "image": "https://i.guim.co.uk/img/media/2b1e54d5ef0311d87767a1e0152d32390a58c8b7/241_0_3463_2772/master/3463.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3bad30e98feaf2547f989feddb47a9cc"
-    },
-    {
-      "id": "story-2",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "The Guardian",
-      "time": "Sep 16",
-      "headline": "Manchester United v Brighton, Coventry v Aston Villa and more, Carabao Cup clockwatch – live",
-      "excerpt": "<p>⚽ Live updates from four third-round matches<br>⚽ <a href=\"https://www.theguardian.com/football/2026/sep/15/manchester-united-jj-gabriel-asks-to-leave\">Manchester United shocked as JJ Gabriel asks…",
-      "link": "https://www.theguardian.com/football/live/2026/sep/16/manchester-united-v-brighton-coventry-v-aston-villa-and-more-carabao-cup-clockwatch-live",
-      "image": "https://i.guim.co.uk/img/media/5daf115b1e0b3d90cb5c3b166cf99984bd157942/500_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=7cc5d8eaacd9e84991c3b5fae4ff15c6"
     },
     {
       "id": "story-3",
@@ -157,17 +157,6 @@
     },
     {
       "id": "story-14",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "BBC Sport",
-      "time": "Sep 16",
-      "headline": "When is the EFL Cup fourth round draw?",
-      "excerpt": "The fourth-round draw of the EFL Cup takes place on Wednesday, 16 September.",
-      "link": "https://www.bbc.co.uk/sport/football/articles/clyegmmvr4vo?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/52db/live/6caf75b0-9260-11f1-a7ab-8b30adf0800a.jpg"
-    },
-    {
-      "id": "story-15",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -178,7 +167,7 @@
       "image": "https://i.guim.co.uk/img/media/5677770900b0d6ba64862ffd97a6cf91e9cfa4cd/310_0_2738_2191/master/2738.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3ed2a519afc10e3f29c029b9c15d96cd"
     },
     {
-      "id": "story-16",
+      "id": "story-15",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -189,7 +178,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dd40/live/fdbe1030-b1b3-11f1-bdcf-d393eb724fa3.jpg"
     },
     {
-      "id": "story-17",
+      "id": "story-16",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -200,7 +189,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7848/live/476d4070-b123-11f1-b1d1-571ed4d7ff2c.jpg"
     },
     {
-      "id": "story-18",
+      "id": "story-17",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "The Guardian",
@@ -211,7 +200,7 @@
       "image": "https://i.guim.co.uk/img/media/c2f4609d6fc7e83e6cf140f1235233e560c93ea8/379_0_4108_3286/master/4108.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e2109c4cb941d35f85b1ae9db844a26a"
     },
     {
-      "id": "story-19",
+      "id": "story-18",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -222,7 +211,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b605/live/fac43690-b102-11f1-a451-6b1ff10ed362.jpg"
     },
     {
-      "id": "story-20",
+      "id": "story-19",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -233,7 +222,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1d62/live/198871e0-b1b7-11f1-a430-4d16ee157c41.png"
     },
     {
-      "id": "story-21",
+      "id": "story-20",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -244,7 +233,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9662/live/058c3d40-b0fc-11f1-a451-6b1ff10ed362.jpg"
     },
     {
-      "id": "story-22",
+      "id": "story-21",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -255,7 +244,7 @@
       "image": "https://i.guim.co.uk/img/media/f21bccfd2d0c037f02a71678b02c8a1fccce6c6d/0_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d228a5f7cce9cad24b79dafb452f1d10"
     },
     {
-      "id": "story-23",
+      "id": "story-22",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -264,6 +253,17 @@
       "excerpt": "Sixteen-year-old Kyle Glasgow has been included in Tony Docherty's first Scotland Under-21 squad.",
       "link": "https://www.bbc.co.uk/sport/football/articles/cmn452vgll31o?at_medium=RSS&amp;at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c067/live/d54defc0-b10a-11f1-bc1f-3f186ca4140c.jpg"
+    },
+    {
+      "id": "story-23",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "The Guardian",
+      "time": "Sep 16",
+      "headline": "Glory at 11,000ft: Cusco’s Cienciano aim to bring Peru continental success once again",
+      "excerpt": "<p>Cusco is known for tourism. But the city’s biggest football team is chasing a repeat…",
+      "link": "https://www.theguardian.com/football/2026/sep/16/glory-at-11000ft-cuscos-cienciano-aim-to-bring-peru-continental-success-once-again",
+      "image": "https://i.guim.co.uk/img/media/561da783409e60d94c5039a0c7b31351c938c2f6/285_0_1726_1381/master/1726.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=0bdb5c619e992a24f16300c4f8e7aa26"
     }
   ],
   "scoreboard": [
