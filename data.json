@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-09-16T19:57:11.824Z",
+  "updatedAt": "2026-09-16T20:08:22.704Z",
   "hero": {
     "id": "story-0",
     "league": "Premier League",
     "dot": "#9CC0F0",
-    "source": "BBC Sport",
+    "source": "The Guardian",
     "time": "Sep 16",
-    "headline": "Arsenal rejected Dowman loan offers - Thursday's gossip",
-    "excerpt": "Arsenal received loan offers for Max Dowman, Luke Shaw could leave Manchester United next summer,…",
-    "link": "https://www.bbc.co.uk/sport/football/articles/c617jz28nkvgo?at_medium=RSS&amp;at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/82d6/live/c9f6f2d0-b1fe-11f1-bc1f-3f186ca4140c.png"
+    "headline": "Sunderland v AZ, Milan v Benfica and more: Europa League clockwatch – live",
+    "excerpt": "<p>⚽ Live updates from the 8pm BST kick-offs <br>⚽ <a href=\"https://www.theguardian.com/football/2026/sep/16/xhaka-sunderland-european-riches-alkmaar\">Xhaka promises ‘fire’</a> | <a…",
+    "link": "https://www.theguardian.com/football/live/2026/sep/16/sunderland-v-az-milan-v-benfica-and-more-europa-league-clockwatch-live",
+    "image": "https://i.guim.co.uk/img/media/6be14d5b613d45db703fc4124f1e964958372aee/106_0_4141_3313/master/4141.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=4913a9ddf5c1d8ad53c8b18e80ee606a"
   },
   "topStories": [
     {
@@ -18,21 +18,21 @@
       "dot": "#9CC0F0",
       "source": "The Guardian",
       "time": "Sep 16",
-      "headline": "Sunderland v AZ, Milan v Benfica and more: Europa League clockwatch – live",
-      "excerpt": "<p>⚽ Live updates from the 8pm BST kick-offs <br>⚽ <a href=\"https://www.theguardian.com/football/2026/sep/16/xhaka-sunderland-european-riches-alkmaar\">Xhaka promises ‘fire’</a> | <a…",
-      "link": "https://www.theguardian.com/football/live/2026/sep/16/sunderland-v-az-milan-v-benfica-and-more-europa-league-clockwatch-live",
-      "image": "https://i.guim.co.uk/img/media/6be14d5b613d45db703fc4124f1e964958372aee/106_0_4141_3313/master/4141.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=4913a9ddf5c1d8ad53c8b18e80ee606a"
+      "headline": "Manchester United v Brighton, Coventry v Aston Villa and more, Carabao Cup clockwatch – live",
+      "excerpt": "<p>⚽ Live updates from four third-round matches<br>⚽ <a href=\"https://www.theguardian.com/football/2026/sep/15/manchester-united-jj-gabriel-asks-to-leave\">Manchester United shocked as JJ Gabriel asks…",
+      "link": "https://www.theguardian.com/football/live/2026/sep/16/manchester-united-v-brighton-coventry-v-aston-villa-and-more-carabao-cup-clockwatch-live",
+      "image": "https://i.guim.co.uk/img/media/07c60dc9f499cdb44a16ecc7c2b0a389fb22b732/1792_515_2334_1868/master/2334.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a4c6a8b7619dfcdeacb0c94b5c9c0083"
     },
     {
       "id": "story-2",
       "league": "Premier League",
       "dot": "#9CC0F0",
-      "source": "The Guardian",
+      "source": "BBC Sport",
       "time": "Sep 16",
-      "headline": "Manchester United v Brighton, Coventry v Aston Villa and more, Carabao Cup clockwatch – live",
-      "excerpt": "<p>⚽ Live updates from four third-round matches<br>⚽ <a href=\"https://www.theguardian.com/football/2026/sep/15/manchester-united-jj-gabriel-asks-to-leave\">Manchester United shocked as JJ Gabriel asks…",
-      "link": "https://www.theguardian.com/football/live/2026/sep/16/manchester-united-v-brighton-coventry-v-aston-villa-and-more-carabao-cup-clockwatch-live",
-      "image": "https://i.guim.co.uk/img/media/07c60dc9f499cdb44a16ecc7c2b0a389fb22b732/1792_515_2334_1868/master/2334.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a4c6a8b7619dfcdeacb0c94b5c9c0083"
+      "headline": "Arsenal rejected Dowman loan offers - Thursday's gossip",
+      "excerpt": "Arsenal received loan offers for Max Dowman, Luke Shaw could leave Manchester United next summer,…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c617jz28nkvgo?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/82d6/live/c9f6f2d0-b1fe-11f1-bc1f-3f186ca4140c.png"
     },
     {
       "id": "story-3",
