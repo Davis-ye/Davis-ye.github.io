@@ -1,30 +1,52 @@
 {
-  "updatedAt": "2026-09-16T08:05:26.709Z",
+  "updatedAt": "2026-09-16T08:22:30.507Z",
   "hero": {
     "id": "story-0",
-    "league": "Football",
-    "dot": "#AFC4AC",
+    "league": "Premier League",
+    "dot": "#9CC0F0",
     "source": "BBC Sport",
     "time": "Sep 16",
-    "headline": "Fernandez signs new London City contract",
-    "excerpt": "London City Lionesses defender Jana Fernandez signs a new contract, keeping her at the club…",
-    "link": "https://www.bbc.co.uk/sport/football/articles/cq39m44d8ypvo?at_medium=RSS&amp;at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d4d2/live/45d71d60-b1a2-11f1-8b77-cd7827f05bee.jpg"
+    "headline": "All done deals in September 2026",
+    "excerpt": "Check out the significant signings and departures in the Premier League, Scottish Premiership, EFL and…",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cvgyxyxplkvo?at_medium=RSS&amp;at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aec0/live/fd14b290-e25e-11ef-a819-277e390a7a08.jpg"
   },
   "topStories": [
     {
       "id": "story-1",
       "league": "Premier League",
       "dot": "#9CC0F0",
-      "source": "BBC Sport",
+      "source": "101 Great Goals",
       "time": "Sep 16",
-      "headline": "All done deals in September 2026",
-      "excerpt": "Check out the significant signings and departures in the Premier League, Scottish Premiership, EFL and…",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cvgyxyxplkvo?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aec0/live/fd14b290-e25e-11ef-a819-277e390a7a08.jpg"
+      "headline": "Iraola hails Szoboszlai after rocket seals Liverpool&#8217;s win over Tottenham",
+      "excerpt": "Andoni Iraola was full of praise for midfielder Dominik Szoboszlai on Tuesday night.",
+      "link": "https://www.101greatgoals.com/football/premier-league/iraola-hails-szoboszlai-rocket-liverpools-win-tottenham/",
+      "image": null
     },
     {
       "id": "story-2",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "BBC Sport",
+      "time": "Sep 16",
+      "headline": "Ex-Spurs midfielder Bissouma completes Ajax move",
+      "excerpt": "Former Tottenham midfielder Yves Bissouma has joined Ajax on an initial deal that runs until…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cw4gr5pm7eg9o?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e88a/live/174c2770-b0fc-11f1-b1d1-571ed4d7ff2c.jpg"
+    },
+    {
+      "id": "story-3",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "BBC Sport",
+      "time": "Sep 16",
+      "headline": "Fernandez signs new London City contract",
+      "excerpt": "London City Lionesses defender Jana Fernandez signs a new contract, keeping her at the club…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cq39m44d8ypvo?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d4d2/live/45d71d60-b1a2-11f1-8b77-cd7827f05bee.jpg"
+    },
+    {
+      "id": "story-4",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -35,7 +57,7 @@
       "image": "https://i.guim.co.uk/img/media/57d7dd6b413c158147c7cbdb36f2882f83f846a9/985_634_2548_2038/master/2548.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=204cb73f3a6aa1b15b3138b204b50a74"
     },
     {
-      "id": "story-3",
+      "id": "story-5",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -46,7 +68,7 @@
       "image": "https://i.guim.co.uk/img/media/c7e044f8b2a1845782fd211023fc386d8e10a97e/0_145_1733_1386/master/1733.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=599f69607d39443fd346fb96d872b230"
     },
     {
-      "id": "story-4",
+      "id": "story-6",
       "league": "Champions League",
       "dot": "#F0C878",
       "source": "The Guardian",
@@ -57,7 +79,7 @@
       "image": "https://i.guim.co.uk/img/media/eb5069da113d2a0ed38d5ac4842ddca8698ef1b9/433_121_4165_3334/master/4165.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=68f8db71a95f47d66c70821d3f38d263"
     },
     {
-      "id": "story-5",
+      "id": "story-7",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -68,18 +90,7 @@
       "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0p9trp5.jpg"
     },
     {
-      "id": "story-6",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "101 Great Goals",
-      "time": "Sep 16",
-      "headline": "EXCLUSIVE: JJ Gabriel to join Real Madrid on his 16th birthday in huge blow to Manchester United",
-      "excerpt": "Man United's JJ Gabriel is set to join Real Madrid",
-      "link": "https://www.101greatgoals.com/news/jj-gabriel-manchester-united-real-madrid-free-transfer/",
-      "image": "https://www.101greatgoals.com/wp-content/uploads/2026/09/3FG0563-1.jpg"
-    },
-    {
-      "id": "story-7",
+      "id": "story-8",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -90,7 +101,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f4b4/live/03f05230-b199-11f1-bc1f-3f186ca4140c.png"
     },
     {
-      "id": "story-8",
+      "id": "story-9",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -101,7 +112,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2d56/live/db398570-b0e7-11f1-ae0d-6f5ba3aa85ac.jpg"
     },
     {
-      "id": "story-9",
+      "id": "story-10",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -112,7 +123,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ada7/live/27df4c70-9658-11f1-b2ab-0dd01740f9f6.jpg"
     },
     {
-      "id": "story-10",
+      "id": "story-11",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -123,7 +134,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a3c9/live/5a927270-b190-11f1-87e9-b3bd4eb00d4c.jpg"
     },
     {
-      "id": "story-11",
+      "id": "story-12",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -134,7 +145,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7348/live/98b81430-b11b-11f1-8ecc-07cd1cee2987.jpg"
     },
     {
-      "id": "story-12",
+      "id": "story-13",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -145,7 +156,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5467/live/8ed179c0-b157-11f1-b1d1-571ed4d7ff2c.jpg"
     },
     {
-      "id": "story-13",
+      "id": "story-14",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -156,7 +167,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/42c4/live/be018000-b152-11f1-8912-fb2bed4049e7.jpg"
     },
     {
-      "id": "story-14",
+      "id": "story-15",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -165,17 +176,6 @@
       "excerpt": "Argentina name Lionel Messi in their squad for a friendly against Benin in October in…",
       "link": "https://www.bbc.co.uk/sport/football/articles/c8ly49lv3vx1o?at_medium=RSS&amp;at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b848/live/6787f000-b153-11f1-8912-fb2bed4049e7.jpg"
-    },
-    {
-      "id": "story-15",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "BBC Sport",
-      "time": "Sep 15",
-      "headline": "Watch: All of Tuesday's Scottish Premiership goals on Sportscene",
-      "excerpt": "With Falkirk v Hearts, Motherwell v Aberdeen and Hibs v Kilmarnock",
-      "link": "https://www.bbc.co.uk/iplayer/episode/m0031sgg?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0p9sbnz.jpg"
     },
     {
       "id": "story-16",
@@ -190,6 +190,17 @@
     },
     {
       "id": "story-17",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "BBC Sport",
+      "time": "Sep 15",
+      "headline": "Watch: All of Tuesday's Scottish Premiership goals on Sportscene",
+      "excerpt": "With Falkirk v Hearts, Motherwell v Aberdeen and Hibs v Kilmarnock",
+      "link": "https://www.bbc.co.uk/iplayer/episode/m0031sgg?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0p9sbnz.jpg"
+    },
+    {
+      "id": "story-18",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -200,7 +211,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b307/live/6c0e2650-b151-11f1-8912-fb2bed4049e7.jpg"
     },
     {
-      "id": "story-18",
+      "id": "story-19",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -211,7 +222,7 @@
       "image": "https://i.guim.co.uk/img/media/5e32ed7abe7fed43412024f4a00f6bad4ea2a485/647_0_3289_2632/master/3289.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=35a2ee9cc255ceecbadbff7fb57eb39c"
     },
     {
-      "id": "story-19",
+      "id": "story-20",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -222,7 +233,7 @@
       "image": "https://i.guim.co.uk/img/media/fe64e88d0bcc7d2b7b135b287bd5bbfd764223f9/744_510_2582_2066/master/2582.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f9d860d3d3ade03d4cabb22cbf168070"
     },
     {
-      "id": "story-20",
+      "id": "story-21",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -233,7 +244,7 @@
       "image": "https://i.guim.co.uk/img/media/059cc70c3e953290d789ff0ac0b6a01486911b3f/392_0_3762_3010/master/3762.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=2552f33b5194c5ce83ee0d712e9e6158"
     },
     {
-      "id": "story-21",
+      "id": "story-22",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -244,7 +255,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/71b7/live/0ab49640-b116-11f1-8907-39a652c5e20e.jpg"
     },
     {
-      "id": "story-22",
+      "id": "story-23",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -253,17 +264,6 @@
       "excerpt": "<p>Álvaro Arbeloa played in some great defences but whether he knows how to coach one…",
       "link": "https://www.theguardian.com/football/2026/sep/15/west-ham-fulham-carabao-cup-third-round-match-report",
       "image": "https://i.guim.co.uk/img/media/d93034ddeede55f7c0a0ca21af2e4c62d8751717/229_0_4227_3381/master/4227.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=353f1904294ae7018c87dce3b1d8d64f"
-    },
-    {
-      "id": "story-23",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "BBC Sport",
-      "time": "Sep 15",
-      "headline": "Barcelona monitor Kane & Haaland - Wednesday's gossip",
-      "excerpt": "Barcelona are monitoring Harry Kane and Erling Haaland, Nick Woltemade could be a replacement for…",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cqzezjn3wzjpo?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ba24/live/035b1150-b13c-11f1-bc1f-3f186ca4140c.png"
     }
   ],
   "scoreboard": [
