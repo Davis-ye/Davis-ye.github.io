@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-16T20:46:34.524Z",
+  "updatedAt": "2026-09-16T20:55:32.398Z",
   "hero": {
     "id": "story-0",
     "league": "Premier League",
@@ -21,7 +21,7 @@
       "headline": "Manchester United v Brighton, Coventry v Aston Villa and more, Carabao Cup clockwatch – live",
       "excerpt": "<p>⚽ Live updates from four third-round matches<br>⚽ <a href=\"https://www.theguardian.com/football/2026/sep/15/manchester-united-jj-gabriel-asks-to-leave\">Manchester United shocked as JJ Gabriel asks…",
       "link": "https://www.theguardian.com/football/live/2026/sep/16/manchester-united-v-brighton-coventry-v-aston-villa-and-more-carabao-cup-clockwatch-live",
-      "image": "https://i.guim.co.uk/img/media/07c60dc9f499cdb44a16ecc7c2b0a389fb22b732/1792_515_2334_1868/master/2334.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a4c6a8b7619dfcdeacb0c94b5c9c0083"
+      "image": "https://i.guim.co.uk/img/media/48903032581f7b2ff668365cfcbb957601f087f6/1283_81_2448_1958/master/2448.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=17feaf70c2d1eaf97c4f17597ed9ce97"
     },
     {
       "id": "story-2",
@@ -47,6 +47,17 @@
     },
     {
       "id": "story-4",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "101 Great Goals",
+      "time": "Sep 16",
+      "headline": "WATCH: Teenager Lacey scores first goal for Man Utd in stunning start",
+      "excerpt": "Teenage winger gets the ball rolling in style",
+      "link": "https://www.101greatgoals.com/football/watch-teenager-lacey-scores-first-goal-for-man-utd-in-stunning-start/",
+      "image": null
+    },
+    {
+      "id": "story-5",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -57,7 +68,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7e84/live/b2b59ee0-b1ff-11f1-a4a7-291ff3d1006b.jpg"
     },
     {
-      "id": "story-5",
+      "id": "story-6",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "The Guardian",
@@ -68,7 +79,7 @@
       "image": "https://i.guim.co.uk/img/media/702b0858ca118e59e36522b3db59536875c0059a/127_0_2745_2197/master/2745.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3a0f89a44535033aeb09f97e8b819510"
     },
     {
-      "id": "story-6",
+      "id": "story-7",
       "league": "La Liga",
       "dot": "#E3B4F5",
       "source": "BBC Sport",
@@ -79,7 +90,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c683/live/b9e9a900-b1ae-11f1-8b77-cd7827f05bee.jpg"
     },
     {
-      "id": "story-7",
+      "id": "story-8",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -90,7 +101,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4b4f/live/cac13e20-b1f2-11f1-bd8b-ed45be4f6895.jpg"
     },
     {
-      "id": "story-8",
+      "id": "story-9",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -101,7 +112,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d73a/live/24819ce0-b1bf-11f1-bdcf-d393eb724fa3.png"
     },
     {
-      "id": "story-9",
+      "id": "story-10",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -112,7 +123,7 @@
       "image": "https://i.guim.co.uk/img/media/f8442f8fa11a4a45395ca1cf85f5654d73646ce4/34_0_3644_2916/master/3644.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=892a295c704f1006ec832ce3d57052b5"
     },
     {
-      "id": "story-10",
+      "id": "story-11",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -123,7 +134,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7039/live/f7b9c130-b1bc-11f1-b1d1-571ed4d7ff2c.jpg"
     },
     {
-      "id": "story-11",
+      "id": "story-12",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -134,7 +145,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2a57/live/ac0f75f0-b1d9-11f1-8c0b-c1113bf3b7c0.jpg"
     },
     {
-      "id": "story-12",
+      "id": "story-13",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -145,7 +156,7 @@
       "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0p3n9ks.jpg"
     },
     {
-      "id": "story-13",
+      "id": "story-14",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -156,7 +167,7 @@
       "image": "https://i.guim.co.uk/img/media/a985a3dd9328f403d6fec6669b89aef5557118e2/160_0_5833_4666/master/5833.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=9199b9ba2424719118ac3b80c4258f4c"
     },
     {
-      "id": "story-14",
+      "id": "story-15",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -167,7 +178,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f1ed/live/d9ecc7d0-b1b0-11f1-8b77-cd7827f05bee.jpg"
     },
     {
-      "id": "story-15",
+      "id": "story-16",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -178,7 +189,7 @@
       "image": "https://i.guim.co.uk/img/media/145ce63eb1f540b2e17b983ff43f1d6759190f4e/255_0_3698_2958/master/3698.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=cccc20c7408f205c766b68add2b61d67"
     },
     {
-      "id": "story-16",
+      "id": "story-17",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -189,7 +200,7 @@
       "image": "https://i.guim.co.uk/img/media/5677770900b0d6ba64862ffd97a6cf91e9cfa4cd/310_0_2738_2191/master/2738.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3ed2a519afc10e3f29c029b9c15d96cd"
     },
     {
-      "id": "story-17",
+      "id": "story-18",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -200,7 +211,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dd40/live/fdbe1030-b1b3-11f1-bdcf-d393eb724fa3.jpg"
     },
     {
-      "id": "story-18",
+      "id": "story-19",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -211,7 +222,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7848/live/476d4070-b123-11f1-b1d1-571ed4d7ff2c.jpg"
     },
     {
-      "id": "story-19",
+      "id": "story-20",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "The Guardian",
@@ -222,7 +233,7 @@
       "image": "https://i.guim.co.uk/img/media/c2f4609d6fc7e83e6cf140f1235233e560c93ea8/379_0_4108_3286/master/4108.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e2109c4cb941d35f85b1ae9db844a26a"
     },
     {
-      "id": "story-20",
+      "id": "story-21",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -233,7 +244,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b605/live/fac43690-b102-11f1-a451-6b1ff10ed362.jpg"
     },
     {
-      "id": "story-21",
+      "id": "story-22",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -244,7 +255,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1d62/live/198871e0-b1b7-11f1-a430-4d16ee157c41.png"
     },
     {
-      "id": "story-22",
+      "id": "story-23",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -253,17 +264,6 @@
       "excerpt": "There's nothing quite like the satisfaction of unearthing an absolute Fantasy Premier League bargain -…",
       "link": "https://www.bbc.co.uk/sport/football/articles/cq70dl3pn8xjo?at_medium=RSS&amp;at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9662/live/058c3d40-b0fc-11f1-a451-6b1ff10ed362.jpg"
-    },
-    {
-      "id": "story-23",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "The Guardian",
-      "time": "Sep 16",
-      "headline": "Why Coventry, Tottenham and Aston Villa should not panic about their slow starts",
-      "excerpt": "<p>Coventry have no points, Spurs have no goals and Villa have dipped again. But what…",
-      "link": "https://www.theguardian.com/football/2026/sep/16/coventry-aston-villa-tottenham-not-panic-slow-starts-points-scored",
-      "image": "https://i.guim.co.uk/img/media/f21bccfd2d0c037f02a71678b02c8a1fccce6c6d/0_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d228a5f7cce9cad24b79dafb452f1d10"
     }
   ],
   "scoreboard": [
