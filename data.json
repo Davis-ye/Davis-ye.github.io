@@ -1,19 +1,30 @@
 {
-  "updatedAt": "2026-09-16T15:43:58.274Z",
+  "updatedAt": "2026-09-16T15:54:20.761Z",
   "hero": {
     "id": "story-0",
-    "league": "Football",
-    "dot": "#AFC4AC",
+    "league": "Premier League",
+    "dot": "#9CC0F0",
     "source": "BBC Sport",
     "time": "Sep 16",
-    "headline": "'Let's go, let's go' - inside catastrophic derby VAR mistake",
-    "excerpt": "The controversy surrounding the VAR decision to allow Erling Haaland's winner in the Manchester derby…",
-    "link": "https://www.bbc.co.uk/sport/football/articles/ck4gjr5vly99o?at_medium=RSS&amp;at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2a57/live/ac0f75f0-b1d9-11f1-8c0b-c1113bf3b7c0.jpg"
+    "headline": "What next for Gabriel and Man Utd?",
+    "excerpt": "On the night JJ Gabriel was supposed to become Manchester United's youngest player in history,…",
+    "link": "https://www.bbc.co.uk/sport/football/articles/crgjqw0l01njo?at_medium=RSS&amp;at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7039/live/f7b9c130-b1bc-11f1-b1d1-571ed4d7ff2c.jpg"
   },
   "topStories": [
     {
       "id": "story-1",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "BBC Sport",
+      "time": "Sep 16",
+      "headline": "'Let's go, let's go' - inside catastrophic derby VAR mistake",
+      "excerpt": "The controversy surrounding the VAR decision to allow Erling Haaland's winner in the Manchester derby…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/ck4gjr5vly99o?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2a57/live/ac0f75f0-b1d9-11f1-8c0b-c1113bf3b7c0.jpg"
+    },
+    {
+      "id": "story-2",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "101 Great Goals",
@@ -24,7 +35,7 @@
       "image": null
     },
     {
-      "id": "story-2",
+      "id": "story-3",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -35,7 +46,7 @@
       "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0p3n9ks.jpg"
     },
     {
-      "id": "story-3",
+      "id": "story-4",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -46,7 +57,7 @@
       "image": "https://i.guim.co.uk/img/media/a985a3dd9328f403d6fec6669b89aef5557118e2/160_0_5833_4666/master/5833.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=9199b9ba2424719118ac3b80c4258f4c"
     },
     {
-      "id": "story-4",
+      "id": "story-5",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -55,17 +66,6 @@
       "excerpt": "Kendry Paez was one of the world's best young talents when Chelsea signed him as…",
       "link": "https://www.bbc.co.uk/sport/football/articles/cd79y025gleo?at_medium=RSS&amp;at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f1ed/live/d9ecc7d0-b1b0-11f1-8b77-cd7827f05bee.jpg"
-    },
-    {
-      "id": "story-5",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "BBC Sport",
-      "time": "Sep 16",
-      "headline": "What next for Gabriel and Man Utd?",
-      "excerpt": "On the night JJ Gabriel was supposed to become Manchester United's youngest player in history,…",
-      "link": "https://www.bbc.co.uk/sport/football/articles/crgjqw0l01njo?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7039/live/f7b9c130-b1bc-11f1-b1d1-571ed4d7ff2c.jpg"
     },
     {
       "id": "story-6",
