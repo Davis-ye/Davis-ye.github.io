@@ -1,30 +1,19 @@
 {
-  "updatedAt": "2026-09-16T19:07:45.503Z",
+  "updatedAt": "2026-09-16T19:20:56.941Z",
   "hero": {
     "id": "story-0",
     "league": "Premier League",
     "dot": "#9CC0F0",
-    "source": "The Guardian",
+    "source": "101 Great Goals",
     "time": "Sep 16",
-    "headline": "Sunderland v AZ, Milan v Benfica and more: Europa League clockwatch – live",
-    "excerpt": "<p>⚽ Live updates from the 8pm BST kick-offs <br>⚽ <a href=\"https://www.theguardian.com/football/2026/sep/16/xhaka-sunderland-european-riches-alkmaar\">Xhaka promises ‘fire’</a> | <a…",
-    "link": "https://www.theguardian.com/football/live/2026/sep/16/sunderland-v-az-milan-v-benfica-and-more-europa-league-clockwatch-live",
-    "image": "https://i.guim.co.uk/img/media/2b1e54d5ef0311d87767a1e0152d32390a58c8b7/241_0_3463_2772/master/3463.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3bad30e98feaf2547f989feddb47a9cc"
+    "headline": "WATCH: Teenager Lacey scores first goal for Man Utd in stunning start",
+    "excerpt": "Teenage winger gets the ball rolling in style",
+    "link": "https://www.101greatgoals.com/football/watch-teenager-lacey-scores-first-goal-for-man-utd-in-stunning-start/",
+    "image": null
   },
   "topStories": [
     {
       "id": "story-1",
-      "league": "La Liga",
-      "dot": "#E3B4F5",
-      "source": "101 Great Goals",
-      "time": "Sep 16",
-      "headline": "Barcelona v Racing Santander LIVE: Champions look to restore three-point lead over Real Madrid",
-      "excerpt": "Barcelona have won their opening five games in La Liga. Can they make it six…",
-      "link": "https://www.101greatgoals.com/live/barcelona-v-racing-santander-live-score-text-updates-goals-stats-latest-result/",
-      "image": null
-    },
-    {
-      "id": "story-2",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -33,6 +22,17 @@
       "excerpt": "<p>⚽ Live updates from four third-round matches<br>⚽ <a href=\"https://www.theguardian.com/football/2026/sep/15/manchester-united-jj-gabriel-asks-to-leave\">Manchester United shocked as JJ Gabriel asks…",
       "link": "https://www.theguardian.com/football/live/2026/sep/16/manchester-united-v-brighton-coventry-v-aston-villa-and-more-carabao-cup-clockwatch-live",
       "image": "https://i.guim.co.uk/img/media/ce29e02d25cedb9fde9300f249088828cbcdfb61/531_0_5821_4659/master/5821.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f848d6a48cf729e2cb57f0e2fc665e6c"
+    },
+    {
+      "id": "story-2",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "The Guardian",
+      "time": "Sep 16",
+      "headline": "Sunderland v AZ, Milan v Benfica and more: Europa League clockwatch – live",
+      "excerpt": "<p>⚽ Live updates from the 8pm BST kick-offs <br>⚽ <a href=\"https://www.theguardian.com/football/2026/sep/16/xhaka-sunderland-european-riches-alkmaar\">Xhaka promises ‘fire’</a> | <a…",
+      "link": "https://www.theguardian.com/football/live/2026/sep/16/sunderland-v-az-milan-v-benfica-and-more-europa-league-clockwatch-live",
+      "image": "https://i.guim.co.uk/img/media/8ee0e674659d48376e669e2de1876e366e8be152/530_0_4323_3458/master/4323.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=0867ec53bfccafcd2617665ce13e67c6"
     },
     {
       "id": "story-3",
