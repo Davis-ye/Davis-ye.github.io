@@ -1,27 +1,27 @@
 {
-  "updatedAt": "2026-09-16T12:07:01.593Z",
+  "updatedAt": "2026-09-16T12:27:34.987Z",
   "hero": {
     "id": "story-0",
-    "league": "Premier League",
-    "dot": "#9CC0F0",
-    "source": "The Guardian",
+    "league": "Football",
+    "dot": "#AFC4AC",
+    "source": "101 Great Goals",
     "time": "Sep 16",
-    "headline": "Maresca says Manchester City still waiting for apology after incorrect 2023 derby goal",
-    "excerpt": "<ul><li><p>United won game after controversial Fernandes equaliser</p></li><li><p>City to blood youngsters for Carabao Cup game against…",
-    "link": "https://www.theguardian.com/football/2026/sep/16/enzo-maresca-manchester-city-apology-2023-derby-goal",
-    "image": "https://i.guim.co.uk/img/media/145ce63eb1f540b2e17b983ff43f1d6759190f4e/255_0_3698_2958/master/3698.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=cccc20c7408f205c766b68add2b61d67"
+    "headline": "Tuchel regrets not &#8216;eating grass&#8217; after England&#8217;s World Cup win over Mexico",
+    "excerpt": "Thomas Tuchel has opened up on England's win over Mexico at the World Cup.",
+    "link": "https://www.101greatgoals.com/football/world-cup-news/tuchel-regrets-eating-grass-englands-world-cup-win-mexico/",
+    "image": null
   },
   "topStories": [
     {
       "id": "story-1",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "101 Great Goals",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "The Guardian",
       "time": "Sep 16",
-      "headline": "Focus on Manchester derby VAR mistake is &#8216;poor&#8217;, says City boss Maresca",
-      "excerpt": "Maresca feels more should have been made of his side's performance with 10 men.",
-      "link": "https://www.101greatgoals.com/football/premier-league/focus-on-manchester-derby-var-mistake-poor-says-city-boss-maresca/",
-      "image": "https://www.101greatgoals.com/wp-content/uploads/2026/09/3FGN5H2-2.jpg"
+      "headline": "Maresca says Manchester City still waiting for apology after incorrect 2023 derby goal",
+      "excerpt": "<ul><li><p>United won game after controversial Fernandes equaliser</p></li><li><p>City to blood youngsters for Carabao Cup game against…",
+      "link": "https://www.theguardian.com/football/2026/sep/16/enzo-maresca-manchester-city-apology-2023-derby-goal",
+      "image": "https://i.guim.co.uk/img/media/145ce63eb1f540b2e17b983ff43f1d6759190f4e/255_0_3698_2958/master/3698.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=cccc20c7408f205c766b68add2b61d67"
     },
     {
       "id": "story-2",
