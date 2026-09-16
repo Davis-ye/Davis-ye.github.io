@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-16T22:35:38.700Z",
+  "updatedAt": "2026-09-16T22:45:21.996Z",
   "hero": {
     "id": "story-0",
     "league": "La Liga",
@@ -223,17 +223,6 @@
     },
     {
       "id": "story-20",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "BBC Sport",
-      "time": "Sep 16",
-      "headline": "72+: The EFL Podcast",
-      "excerpt": "Aaron Paul, Jobi McAnuff and Luke Chambers chat all things EFL.",
-      "link": "https://www.bbc.co.uk/sounds/play/p0p9wygl?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0p3n9ks.jpg"
-    },
-    {
-      "id": "story-21",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -244,7 +233,7 @@
       "image": "https://i.guim.co.uk/img/media/a985a3dd9328f403d6fec6669b89aef5557118e2/160_0_5833_4666/master/5833.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=9199b9ba2424719118ac3b80c4258f4c"
     },
     {
-      "id": "story-22",
+      "id": "story-21",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -255,7 +244,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f1ed/live/d9ecc7d0-b1b0-11f1-8b77-cd7827f05bee.jpg"
     },
     {
-      "id": "story-23",
+      "id": "story-22",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -264,6 +253,17 @@
       "excerpt": "<ul><li><p>United won game after controversial Fernandes equaliser</p></li><li><p>City to blood youngsters for Carabao Cup game against…",
       "link": "https://www.theguardian.com/football/2026/sep/16/enzo-maresca-manchester-city-apology-2023-derby-goal",
       "image": "https://i.guim.co.uk/img/media/145ce63eb1f540b2e17b983ff43f1d6759190f4e/255_0_3698_2958/master/3698.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=cccc20c7408f205c766b68add2b61d67"
+    },
+    {
+      "id": "story-23",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "The Guardian",
+      "time": "Sep 16",
+      "headline": "Lewis Koumas on playing ‘the Liverpool way’, showing hunger and hopes for the future",
+      "excerpt": "<p>The 20-year-old forward was delighted with the faith put in him by Andoni Iraola for…",
+      "link": "https://www.theguardian.com/football/2026/sep/16/lewis-koumas-on-playing-the-liverpool-way-showing-hunger-and-hopes-for-the-future",
+      "image": "https://i.guim.co.uk/img/media/5677770900b0d6ba64862ffd97a6cf91e9cfa4cd/310_0_2738_2191/master/2738.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3ed2a519afc10e3f29c029b9c15d96cd"
     }
   ],
   "scoreboard": [
