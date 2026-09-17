@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-09-17T20:44:12.882Z",
+  "updatedAt": "2026-09-17T20:51:30.005Z",
   "hero": {
     "id": "story-0",
     "league": "Premier League",
     "dot": "#9CC0F0",
-    "source": "The Guardian",
+    "source": "BBC Sport",
     "time": "Sep 17",
-    "headline": "Real Sociedad v Bournemouth, Crystal Palace v Lech Poznan, and more: Europa League – live",
-    "excerpt": "<ul><li><p>All the goals and latest news in the 8pm BST kick-offs</p></li><li><p><a href=\"https://www.theguardian.com/football/live\">Live scores</a> | <a…",
-    "link": "https://www.theguardian.com/football/live/2026/sep/17/real-sociedad-v-bournemouth-crystal-palace-v-lech-poznan-and-more-europa-league-live",
-    "image": "https://i.guim.co.uk/img/media/123a194c6d87276556a1d6060364750e402d0635/681_0_4598_3679/master/4598.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=40fb0943dda028934a15e4bc83b78df1"
+    "headline": "Junior Kroupi on Arsenal radar - Friday's gossip",
+    "excerpt": "Arsenal are eyeing Bournemouth youngster Eli Junior Kroupi, Real Madrid are considering a move for…",
+    "link": "https://www.bbc.co.uk/sport/football/articles/crn8ez44ywqdo?at_medium=RSS&amp;at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7c85/live/18447b50-b2d7-11f1-a430-4d16ee157c41.png"
   },
   "topStories": [
     {
@@ -18,13 +18,24 @@
       "dot": "#9CC0F0",
       "source": "The Guardian",
       "time": "Sep 17",
-      "headline": "Manchester City 5-0 Norwich City: Carabao Cup third round – live",
-      "excerpt": "<ul><li><p>Carabao Cup match news from the 7.30pm BST kick-off</p></li><li><p><a href=\"https://www.theguardian.com/football/live\">Live scores</a> | <a href=\"https://www.theguardian.com/football/2026/sep/16/enzo-maresca-manchester-city-apology-2023-derby-goal\">Maresca waits…",
-      "link": "https://www.theguardian.com/football/live/2026/sep/17/manchester-city-v-norwich-city-carabao-cup-third-round-live",
-      "image": "https://i.guim.co.uk/img/media/007184c8b88ec68015060236e8061cfeaafa028f/228_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=076facfb8125b8d063e51c69d23dceaf"
+      "headline": "Real Sociedad v Bournemouth, Crystal Palace v Lech Poznan, and more: Europa League – live",
+      "excerpt": "<ul><li><p>All the goals and latest news in the 8pm BST kick-offs</p></li><li><p><a href=\"https://www.theguardian.com/football/live\">Live scores</a> | <a…",
+      "link": "https://www.theguardian.com/football/live/2026/sep/17/real-sociedad-v-bournemouth-crystal-palace-v-lech-poznan-and-more-europa-league-live",
+      "image": "https://i.guim.co.uk/img/media/123a194c6d87276556a1d6060364750e402d0635/681_0_4598_3679/master/4598.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=40fb0943dda028934a15e4bc83b78df1"
     },
     {
       "id": "story-2",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "The Guardian",
+      "time": "Sep 17",
+      "headline": "Floyd Samba’s debut double lifts Manchester City to Carabao Cup win over Norwich",
+      "excerpt": "<p>Floyd Samba lit up this tie up with a debut that will have the 17-year-old…",
+      "link": "https://www.theguardian.com/football/2026/sep/17/manchester-city-norwich-carabao-cup-third-round-match-report",
+      "image": "https://i.guim.co.uk/img/media/8db2d7d49c03fe337b750b777fe4783a5dc946f7/154_175_1285_1028/master/1285.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=af8f0ae51209b246f359cddee1243157"
+    },
+    {
+      "id": "story-3",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "The Guardian",
@@ -35,7 +46,7 @@
       "image": "https://i.guim.co.uk/img/media/577023f075838a04c1cadb0c731f0156d3d161c9/415_0_3555_2844/master/3555.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=5ed085dca0aa081f03da896747b901fe"
     },
     {
-      "id": "story-3",
+      "id": "story-4",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "101 Great Goals",
@@ -46,7 +57,7 @@
       "image": null
     },
     {
-      "id": "story-4",
+      "id": "story-5",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -57,7 +68,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a4b3/live/e27a2dd0-b2c7-11f1-9830-658a48c7da16.jpg"
     },
     {
-      "id": "story-5",
+      "id": "story-6",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -68,7 +79,7 @@
       "image": "https://i.guim.co.uk/img/media/1cfb8309048bef23c883209a3c06a8a5d9586e87/692_163_3180_2543/master/3180.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=2a1209549606dd4fd8b10ff6c2110759"
     },
     {
-      "id": "story-6",
+      "id": "story-7",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "The Guardian",
@@ -79,7 +90,7 @@
       "image": "https://i.guim.co.uk/img/media/107b6f4ef391a9382948dc52730ee547d22bfab9/423_0_4228_3382/master/4228.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=21dac1f06a91dd56daabfeac1b9d4553"
     },
     {
-      "id": "story-7",
+      "id": "story-8",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -90,7 +101,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b7a4/live/0e6c5d40-b2ba-11f1-9830-658a48c7da16.jpg"
     },
     {
-      "id": "story-8",
+      "id": "story-9",
       "league": "Ligue 1",
       "dot": "#B8D4E8",
       "source": "The Guardian",
@@ -101,7 +112,7 @@
       "image": "https://i.guim.co.uk/img/media/418e80b32ed8d2f9e9bc22744c9d5ce9b6bc39d9/0_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=271a505c522d95d603e53fccf4f7e281"
     },
     {
-      "id": "story-9",
+      "id": "story-10",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -112,7 +123,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5496/live/2b95ab20-b29b-11f1-b1d1-571ed4d7ff2c.jpg"
     },
     {
-      "id": "story-10",
+      "id": "story-11",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -123,7 +134,7 @@
       "image": "https://i.guim.co.uk/img/media/39a48b4423c1b0ccb95d2f1b6c0922c627407558/193_0_2896_2317/master/2896.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=1d95a2203614f1e068d02928725b93ec"
     },
     {
-      "id": "story-11",
+      "id": "story-12",
       "league": "La Liga",
       "dot": "#E3B4F5",
       "source": "BBC Sport",
@@ -134,7 +145,7 @@
       "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0p4zrww.jpg"
     },
     {
-      "id": "story-12",
+      "id": "story-13",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -145,7 +156,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/182f/live/8eaccdc0-b1e6-11f1-ac01-a9af2f94b2cc.jpg"
     },
     {
-      "id": "story-13",
+      "id": "story-14",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -156,7 +167,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a230/live/43b0d490-b2ab-11f1-a430-4d16ee157c41.png"
     },
     {
-      "id": "story-14",
+      "id": "story-15",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -167,7 +178,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0580/live/cad7b9a0-b271-11f1-b1d1-571ed4d7ff2c.png"
     },
     {
-      "id": "story-15",
+      "id": "story-16",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "The Guardian",
@@ -178,7 +189,7 @@
       "image": "https://i.guim.co.uk/img/media/797306fd5fcf6fa7ee7a38b54406e9d2f9cf7717/1910_897_4286_3429/master/4286.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=0cf22d2f8245f1147f573c7f1c7e7a04"
     },
     {
-      "id": "story-16",
+      "id": "story-17",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -189,7 +200,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d5c2/live/09f162a0-b29d-11f1-9b18-ad61bef6e34f.jpg"
     },
     {
-      "id": "story-17",
+      "id": "story-18",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -200,7 +211,7 @@
       "image": "https://i.guim.co.uk/img/media/f47bac750d2cfe859534a67146720546eeb7f490/850_528_4561_3650/master/4561.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=23c3d147ce3da1c13bf5df4249a839db"
     },
     {
-      "id": "story-18",
+      "id": "story-19",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -211,7 +222,7 @@
       "image": "https://i.guim.co.uk/img/media/525c25d09a7fce86a46ffde0d698f9f4e27d1788/62_121_1742_1394/master/1742.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f00df1bedae47c205cd68670d3692f14"
     },
     {
-      "id": "story-19",
+      "id": "story-20",
       "league": "Serie A",
       "dot": "#A9E6A0",
       "source": "The Guardian",
@@ -222,7 +233,7 @@
       "image": "https://i.guim.co.uk/img/media/fb3fa42413371b26360f1e73c382643f87026f58/158_416_1978_1581/master/1978.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=901353baf196058a82cc4193a5c170c4"
     },
     {
-      "id": "story-20",
+      "id": "story-21",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -233,7 +244,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3791/live/7fbaa0f0-b293-11f1-9b18-ad61bef6e34f.jpg"
     },
     {
-      "id": "story-21",
+      "id": "story-22",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -244,7 +255,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1374/live/9d7b0870-b2a5-11f1-b1d1-571ed4d7ff2c.jpg"
     },
     {
-      "id": "story-22",
+      "id": "story-23",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -253,17 +264,6 @@
       "excerpt": "Former Exeter City, Crystal Palace, Barnsley and Watford goalkeeper Kevin Miller dies aged 57.",
       "link": "https://www.bbc.co.uk/sport/football/articles/cmlyjw7n7v03o?at_medium=RSS&amp;at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6f07/live/5d5f7580-b1da-11f1-8c0b-c1113bf3b7c0.jpg"
-    },
-    {
-      "id": "story-23",
-      "league": "La Liga",
-      "dot": "#E3B4F5",
-      "source": "The Guardian",
-      "time": "Sep 17",
-      "headline": "Carlos Espí gives Real Madrid hope in the face of Barcelona’s La Liga storm | Sid Lowe",
-      "excerpt": "<p>With Barcelona racking up seven-goal thrillers, Real Madrid could not afford a collapse. Enter the…",
-      "link": "https://www.theguardian.com/football/2026/sep/17/carlos-espi-real-madrid-barcelona-mourinho-la-liga",
-      "image": "https://i.guim.co.uk/img/media/5ec47c323eb1f54f1523812fdd042335eef13d1b/0_7_2748_2198/master/2748.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=19e3732fc329dbace391be326a4b8cde"
     }
   ],
   "scoreboard": [
