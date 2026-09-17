@@ -1,19 +1,30 @@
 {
-  "updatedAt": "2026-09-17T14:56:19.927Z",
+  "updatedAt": "2026-09-17T15:06:11.981Z",
   "hero": {
     "id": "story-0",
     "league": "Football",
     "dot": "#AFC4AC",
-    "source": "BBC Sport",
+    "source": "101 Great Goals",
     "time": "Sep 17",
-    "headline": "FA chair demands Infantino release World Cup sell-off documents",
-    "excerpt": "Fifa president Gianni Infantino has been told to release all documents relating to his controversial…",
-    "link": "https://www.bbc.co.uk/sport/football/articles/ckqxvd41z93qo?at_medium=RSS&amp;at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d5c2/live/09f162a0-b29d-11f1-9b18-ad61bef6e34f.jpg"
+    "headline": "Klopp wants Germany to reclaim national pride after far-right election result",
+    "excerpt": "Jurgen Klopp has called for a rally to restore Germany's national pride.",
+    "link": "https://www.101greatgoals.com/football/internationals/klopp-wants-germany-reclaim-national-pride/",
+    "image": null
   },
   "topStories": [
     {
       "id": "story-1",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "BBC Sport",
+      "time": "Sep 17",
+      "headline": "FA chair demands Infantino release World Cup sell-off documents",
+      "excerpt": "Fifa president Gianni Infantino has been told to release all documents relating to his controversial…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/ckqxvd41z93qo?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d5c2/live/09f162a0-b29d-11f1-9b18-ad61bef6e34f.jpg"
+    },
+    {
+      "id": "story-2",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -24,7 +35,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3490/live/4e363890-b1d6-11f1-8c0b-c1113bf3b7c0.jpg"
     },
     {
-      "id": "story-2",
+      "id": "story-3",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -35,7 +46,7 @@
       "image": "https://i.guim.co.uk/img/media/525c25d09a7fce86a46ffde0d698f9f4e27d1788/62_121_1742_1394/master/1742.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f00df1bedae47c205cd68670d3692f14"
     },
     {
-      "id": "story-3",
+      "id": "story-4",
       "league": "Serie A",
       "dot": "#A9E6A0",
       "source": "The Guardian",
@@ -46,7 +57,7 @@
       "image": "https://i.guim.co.uk/img/media/fb3fa42413371b26360f1e73c382643f87026f58/158_416_1978_1581/master/1978.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=901353baf196058a82cc4193a5c170c4"
     },
     {
-      "id": "story-4",
+      "id": "story-5",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -55,17 +66,6 @@
       "excerpt": "After David Gray's departure, what direction might Hibernian go now when it comes to identifying…",
       "link": "https://www.bbc.co.uk/sport/football/articles/cqj64d7drgppo?at_medium=RSS&amp;at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3791/live/7fbaa0f0-b293-11f1-9b18-ad61bef6e34f.jpg"
-    },
-    {
-      "id": "story-5",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "101 Great Goals",
-      "time": "Sep 17",
-      "headline": "Hutchison backs Moyes to deliver at Everton but claims Toffees need to &#8216;find the next Semenyo&#8217;",
-      "excerpt": "A Merseyside legend is backing David Moyes to deliver at Everton.",
-      "link": "https://www.101greatgoals.com/football/premier-league/hutchison-backs-moyes-deliver-everton/",
-      "image": null
     },
     {
       "id": "story-6",
