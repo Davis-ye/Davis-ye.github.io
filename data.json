@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-09-17T20:51:30.005Z",
+  "updatedAt": "2026-09-17T20:58:27.354Z",
   "hero": {
     "id": "story-0",
     "league": "Premier League",
     "dot": "#9CC0F0",
-    "source": "BBC Sport",
+    "source": "101 Great Goals",
     "time": "Sep 17",
-    "headline": "Junior Kroupi on Arsenal radar - Friday's gossip",
-    "excerpt": "Arsenal are eyeing Bournemouth youngster Eli Junior Kroupi, Real Madrid are considering a move for…",
-    "link": "https://www.bbc.co.uk/sport/football/articles/crn8ez44ywqdo?at_medium=RSS&amp;at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7c85/live/18447b50-b2d7-11f1-a430-4d16ee157c41.png"
+    "headline": "Real Sociedad 1-2 Bournemouth: Cherries claim maiden Europa League win",
+    "excerpt": "Stunning win for the Cherries in Spain",
+    "link": "https://www.101greatgoals.com/news/real-sociedad-1-2-bournemouth-cherries-claim-maiden-europa-league-win/",
+    "image": null
   },
   "topStories": [
     {
@@ -27,15 +27,26 @@
       "id": "story-2",
       "league": "Premier League",
       "dot": "#9CC0F0",
+      "source": "BBC Sport",
+      "time": "Sep 17",
+      "headline": "Junior Kroupi on Arsenal radar - Friday's gossip",
+      "excerpt": "Arsenal are eyeing Bournemouth youngster Eli Junior Kroupi, Real Madrid are considering a move for…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/crn8ez44ywqdo?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7c85/live/18447b50-b2d7-11f1-a430-4d16ee157c41.png"
+    },
+    {
+      "id": "story-3",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
       "source": "The Guardian",
       "time": "Sep 17",
       "headline": "Floyd Samba’s debut double lifts Manchester City to Carabao Cup win over Norwich",
-      "excerpt": "<p>Floyd Samba lit up this tie up with a debut that will have the 17-year-old…",
+      "excerpt": "<p>Floyd Samba lit up this tie with a debut that will have the 17-year-old grinning…",
       "link": "https://www.theguardian.com/football/2026/sep/17/manchester-city-norwich-carabao-cup-third-round-match-report",
       "image": "https://i.guim.co.uk/img/media/8db2d7d49c03fe337b750b777fe4783a5dc946f7/154_175_1285_1028/master/1285.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=af8f0ae51209b246f359cddee1243157"
     },
     {
-      "id": "story-3",
+      "id": "story-4",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "The Guardian",
@@ -44,17 +55,6 @@
       "excerpt": "<ul><li><p>Former USWNT head coach will start role immediately</p></li><li><p>Andonovski has won two NWSL championships</p></li></ul><p>Former Kansas City…",
       "link": "https://www.theguardian.com/football/2026/sep/17/vlatko-andonovski-chicago-stars-kc-current-hire",
       "image": "https://i.guim.co.uk/img/media/577023f075838a04c1cadb0c731f0156d3d161c9/415_0_3555_2844/master/3555.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=5ed085dca0aa081f03da896747b901fe"
-    },
-    {
-      "id": "story-4",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "101 Great Goals",
-      "time": "Sep 17",
-      "headline": "Manchester City 5-0 Norwich: 17-year-old Samba shines in EFL Cup",
-      "excerpt": "17-year-old enjoys dream debut",
-      "link": "https://www.101greatgoals.com/news/manchester-city-5-0-norwich-17-year-old-samba-shines-in-efl-cup/",
-      "image": null
     },
     {
       "id": "story-5",
