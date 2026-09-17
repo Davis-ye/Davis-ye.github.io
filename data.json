@@ -1,19 +1,30 @@
 {
-  "updatedAt": "2026-09-17T16:32:57.044Z",
+  "updatedAt": "2026-09-17T16:45:25.158Z",
   "hero": {
     "id": "story-0",
     "league": "Premier League",
     "dot": "#9CC0F0",
-    "source": "The Guardian",
+    "source": "101 Great Goals",
     "time": "Sep 17",
-    "headline": "Hull City’s rise from Championship strugglers to Premier League fliers",
-    "excerpt": "<p>Hull were nearly relegated to League One last year. Now they are fourth in the…",
-    "link": "https://www.theguardian.com/football/who-scored-blog/2026/sep/17/hull-city-championship-premier-league",
-    "image": "https://i.guim.co.uk/img/media/39a48b4423c1b0ccb95d2f1b6c0922c627407558/193_0_2896_2317/master/2896.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=1d95a2203614f1e068d02928725b93ec"
+    "headline": "Jaissle: Newcastle to use mounting injury worries as &#8216;opportunity&#8217;",
+    "excerpt": "Matthias Jaissle sees opportunity for members of squad amid Newcastle's injury woes, and remains fully…",
+    "link": "https://www.101greatgoals.com/football/premier-league/jaissle-newcastle-injuries/",
+    "image": null
   },
   "topStories": [
     {
       "id": "story-1",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "The Guardian",
+      "time": "Sep 17",
+      "headline": "Hull City’s rise from Championship strugglers to Premier League fliers",
+      "excerpt": "<p>Hull were nearly relegated to League One last year. Now they are fourth in the…",
+      "link": "https://www.theguardian.com/football/who-scored-blog/2026/sep/17/hull-city-championship-premier-league",
+      "image": "https://i.guim.co.uk/img/media/39a48b4423c1b0ccb95d2f1b6c0922c627407558/193_0_2896_2317/master/2896.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=1d95a2203614f1e068d02928725b93ec"
+    },
+    {
+      "id": "story-2",
       "league": "La Liga",
       "dot": "#E3B4F5",
       "source": "BBC Sport",
@@ -24,7 +35,7 @@
       "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0p4zrww.jpg"
     },
     {
-      "id": "story-2",
+      "id": "story-3",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -35,7 +46,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/182f/live/8eaccdc0-b1e6-11f1-ac01-a9af2f94b2cc.jpg"
     },
     {
-      "id": "story-3",
+      "id": "story-4",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -46,7 +57,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a230/live/43b0d490-b2ab-11f1-a430-4d16ee157c41.png"
     },
     {
-      "id": "story-4",
+      "id": "story-5",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -57,7 +68,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0580/live/cad7b9a0-b271-11f1-b1d1-571ed4d7ff2c.png"
     },
     {
-      "id": "story-5",
+      "id": "story-6",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "The Guardian",
@@ -66,17 +77,6 @@
       "excerpt": "<p>Mauricio Pochettino has called in a youthful group for the upcoming friendlies. Here are the…",
       "link": "https://www.theguardian.com/football/2026/sep/17/usmnt-roster-squad-analysis-cavan-sullivan-christian-pulisic",
       "image": "https://i.guim.co.uk/img/media/797306fd5fcf6fa7ee7a38b54406e9d2f9cf7717/1910_897_4286_3429/master/4286.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=0cf22d2f8245f1147f573c7f1c7e7a04"
-    },
-    {
-      "id": "story-6",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "101 Great Goals",
-      "time": "Sep 17",
-      "headline": "Klopp wants Germany to reclaim national pride after far-right election result",
-      "excerpt": "Jurgen Klopp has called for a rally to restore Germany's national pride.",
-      "link": "https://www.101greatgoals.com/football/internationals/klopp-wants-germany-reclaim-national-pride/",
-      "image": null
     },
     {
       "id": "story-7",
