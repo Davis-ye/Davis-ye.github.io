@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-09-17T18:04:04.848Z",
+  "updatedAt": "2026-09-17T18:22:31.520Z",
   "hero": {
     "id": "story-0",
     "league": "Premier League",
     "dot": "#9CC0F0",
-    "source": "101 Great Goals",
+    "source": "The Guardian",
     "time": "Sep 17",
-    "headline": "Manchester City v Norwich LIVE: Commentary, updates, goals and stats",
-    "excerpt": "Manchester City take on Championship side Norwich in the EFL Cup tonight. Follow all the…",
-    "link": "https://www.101greatgoals.com/live/manchester-city-v-norwich-live/",
-    "image": null
+    "headline": "Manchester City v Norwich City: Carabao Cup third round – live",
+    "excerpt": "<ul><li><p>Carabao Cup match news from the 7.30pm BST kick-off</p></li><li><p><a href=\"https://www.theguardian.com/football/live\">Live scores</a> | <a href=\"https://www.theguardian.com/football/2026/sep/16/enzo-maresca-manchester-city-apology-2023-derby-goal\">Maresca waits…",
+    "link": "https://www.theguardian.com/football/live/2026/sep/17/manchester-city-v-norwich-city-carabao-cup-third-round-live",
+    "image": "https://i.guim.co.uk/img/media/2a4618d56ed0c76587cabf21dff0069a73224c30/300_0_2497_1996/master/2497.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3c94d77b214976e0930cb8a56b0228ed"
   },
   "topStories": [
     {
@@ -27,12 +27,12 @@
       "id": "story-2",
       "league": "Premier League",
       "dot": "#9CC0F0",
-      "source": "The Guardian",
+      "source": "101 Great Goals",
       "time": "Sep 17",
-      "headline": "Manchester City v Norwich City: Carabao Cup third round – live",
-      "excerpt": "<ul><li><p>Carabao Cup match news from the 7.30pm BST kick-off</p></li><li><p><a href=\"https://www.theguardian.com/football/live\">Live scores</a> | <a href=\"https://www.theguardian.com/football/2026/sep/16/enzo-maresca-manchester-city-apology-2023-derby-goal\">Maresca waits…",
-      "link": "https://www.theguardian.com/football/live/2026/sep/17/manchester-city-v-norwich-city-carabao-cup-third-round-live",
-      "image": "https://i.guim.co.uk/img/media/2a4618d56ed0c76587cabf21dff0069a73224c30/300_0_2497_1996/master/2497.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3c94d77b214976e0930cb8a56b0228ed"
+      "headline": "Manchester City v Norwich LIVE: Commentary, updates, goals and stats",
+      "excerpt": "Manchester City take on Championship side Norwich in the EFL Cup tonight. Follow all the…",
+      "link": "https://www.101greatgoals.com/live/manchester-city-v-norwich-live/",
+      "image": null
     },
     {
       "id": "story-3",
@@ -74,9 +74,9 @@
       "source": "BBC Sport",
       "time": "Sep 17",
       "headline": "Wrexham owners aim Spygate dig at Southampton",
-      "excerpt": "Wrexham co-owners Ryan Reynolds and Rob Mac have aimed a Spygate dig at Southampton ahead…",
+      "excerpt": "Ryan Reynolds and Rob Mac have poked fun at next opponents Southampton ahead of their…",
       "link": "https://www.bbc.co.uk/sport/football/articles/cxyvz9jy16l3o?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/906f/live/67c35690-b2ac-11f1-a430-4d16ee157c41.png"
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dff8/live/522a00c0-b2c2-11f1-9830-658a48c7da16.png"
     },
     {
       "id": "story-7",
@@ -170,17 +170,6 @@
       "id": "story-15",
       "league": "Premier League",
       "dot": "#9CC0F0",
-      "source": "BBC Sport",
-      "time": "Sep 17",
-      "headline": "Parkinson's 'wriggle room' as Wrexham seek response",
-      "excerpt": "Manager Phil Parkinson has received some encouraging words from co-owner Rob Mac as Wrexham seek…",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c9770k52pnmno?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3490/live/4e363890-b1d6-11f1-8c0b-c1113bf3b7c0.jpg"
-    },
-    {
-      "id": "story-16",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
       "source": "The Guardian",
       "time": "Sep 17",
       "headline": "Thomas Tuchel’s shot at redemption begins with England’s tricky Nations League tests",
@@ -189,7 +178,7 @@
       "image": "https://i.guim.co.uk/img/media/525c25d09a7fce86a46ffde0d698f9f4e27d1788/62_121_1742_1394/master/1742.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f00df1bedae47c205cd68670d3692f14"
     },
     {
-      "id": "story-17",
+      "id": "story-16",
       "league": "Serie A",
       "dot": "#A9E6A0",
       "source": "The Guardian",
@@ -200,7 +189,7 @@
       "image": "https://i.guim.co.uk/img/media/fb3fa42413371b26360f1e73c382643f87026f58/158_416_1978_1581/master/1978.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=901353baf196058a82cc4193a5c170c4"
     },
     {
-      "id": "story-18",
+      "id": "story-17",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -211,7 +200,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3791/live/7fbaa0f0-b293-11f1-9b18-ad61bef6e34f.jpg"
     },
     {
-      "id": "story-19",
+      "id": "story-18",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -222,7 +211,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1374/live/9d7b0870-b2a5-11f1-b1d1-571ed4d7ff2c.jpg"
     },
     {
-      "id": "story-20",
+      "id": "story-19",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -233,7 +222,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6f07/live/5d5f7580-b1da-11f1-8c0b-c1113bf3b7c0.jpg"
     },
     {
-      "id": "story-21",
+      "id": "story-20",
       "league": "La Liga",
       "dot": "#E3B4F5",
       "source": "The Guardian",
@@ -244,7 +233,7 @@
       "image": "https://i.guim.co.uk/img/media/5ec47c323eb1f54f1523812fdd042335eef13d1b/0_7_2748_2198/master/2748.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=19e3732fc329dbace391be326a4b8cde"
     },
     {
-      "id": "story-22",
+      "id": "story-21",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -255,7 +244,7 @@
       "image": "https://i.guim.co.uk/img/media/a112382403d71f2480b1c940edc3657a1042a8da/327_0_1929_1543/master/1929.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=979d5b2eedaad045c504f6c18ec77765"
     },
     {
-      "id": "story-23",
+      "id": "story-22",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -264,6 +253,17 @@
       "excerpt": "Burnley defender Kyle Walker says he has \"never wanted a victory as much\" as against…",
       "link": "https://www.bbc.co.uk/sport/football/articles/cvgl75062w8no?at_medium=RSS&amp;at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/146b/live/837a8af0-b29a-11f1-b1d1-571ed4d7ff2c.jpg"
+    },
+    {
+      "id": "story-23",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "BBC Sport",
+      "time": "Sep 17",
+      "headline": "Klopp wants to 'reclaim' flag amid German elections",
+      "excerpt": "New Germany coach Jurgen Klopp says his team can help ensure \"national pride is not…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cmwyzk6xkrd0o?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5209/live/46dc49c0-b291-11f1-9b18-ad61bef6e34f.jpg"
     }
   ],
   "scoreboard": [
