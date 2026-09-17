@@ -1,19 +1,30 @@
 {
-  "updatedAt": "2026-09-17T09:21:14.369Z",
+  "updatedAt": "2026-09-17T09:34:20.247Z",
   "hero": {
     "id": "story-0",
-    "league": "La Liga",
-    "dot": "#E3B4F5",
-    "source": "BBC Sport",
+    "league": "Football",
+    "dot": "#AFC4AC",
+    "source": "101 Great Goals",
     "time": "Sep 17",
-    "headline": "Raphinha hat-trick as Barcelona hit seven past Racing Santander",
-    "excerpt": "Raphinha scores a hat-trick to help Barcelona thrash Racing Santander 7-2 to maintain their perfect…",
-    "link": "https://www.bbc.co.uk/sport/football/videos/cqy8zgxpp3dko?at_medium=RSS&amp;at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bbc7/live/50b59030-b275-11f1-a430-4d16ee157c41.jpg"
+    "headline": "Beckham backs Messi over Kane for Ballon d&#8217;Or after inspiring Inter Miami to Campeones Cup",
+    "excerpt": "Inter Miami owner David Beckham is backing Lionel Messi to win the Ballon d'Or over…",
+    "link": "https://www.101greatgoals.com/football/beckham-backs-messi-over-kane-ballon-dor/",
+    "image": null
   },
   "topStories": [
     {
       "id": "story-1",
+      "league": "La Liga",
+      "dot": "#E3B4F5",
+      "source": "BBC Sport",
+      "time": "Sep 17",
+      "headline": "Raphinha hat-trick as Barcelona hit seven past Racing Santander",
+      "excerpt": "Raphinha scores a hat-trick to help Barcelona thrash Racing Santander 7-2 to maintain their perfect…",
+      "link": "https://www.bbc.co.uk/sport/football/videos/cqy8zgxpp3dko?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bbc7/live/50b59030-b275-11f1-a430-4d16ee157c41.jpg"
+    },
+    {
+      "id": "story-2",
       "league": "La Liga",
       "dot": "#E3B4F5",
       "source": "BBC Sport",
@@ -24,7 +35,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c683/live/b9e9a900-b1ae-11f1-8b77-cd7827f05bee.jpg"
     },
     {
-      "id": "story-2",
+      "id": "story-3",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -33,17 +44,6 @@
       "excerpt": "No player in Europe's top five leagues has scored more goals than Donyell Malen since…",
       "link": "https://www.bbc.co.uk/sport/football/articles/cvj64wg0lgeyo?at_medium=RSS&amp;at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2808/live/0b3a06f0-b1e7-11f1-ac01-a9af2f94b2cc.jpg"
-    },
-    {
-      "id": "story-3",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "101 Great Goals",
-      "time": "Sep 17",
-      "headline": "Chelsea ownership changes as Clearlake Capital takes full control",
-      "excerpt": "Todd Boehly has departed Chelsea after selling his shares in the club.",
-      "link": "https://www.101greatgoals.com/football/premier-league/chelsea-ownership-changes-as-clearlake-capital-takes-full-control/",
-      "image": null
     },
     {
       "id": "story-4",
