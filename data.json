@@ -1,27 +1,27 @@
 {
-  "updatedAt": "2026-09-18T17:49:49.820Z",
+  "updatedAt": "2026-09-18T17:56:45.416Z",
   "hero": {
     "id": "story-0",
     "league": "Premier League",
     "dot": "#9CC0F0",
-    "source": "BBC Sport",
+    "source": "101 Great Goals",
     "time": "Sep 18",
-    "headline": "Former Man Utd left-back Malacia joins FC Cincinnati",
-    "excerpt": "FC Cincinnati sign former Manchester United left-back Tyrell Malacia on a free transfer.",
-    "link": "https://www.bbc.co.uk/sport/football/articles/c6vgyjgqgdqwo?at_medium=RSS&amp;at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9e75/live/cdb951e0-b386-11f1-ae81-31b49a394756.jpg"
+    "headline": "Brentford v Chelsea: Confirmed line-ups and team news for all-London clash",
+    "excerpt": "Chelsea make the short trip to Brentford tonight. Get all the team news for the…",
+    "link": "https://www.101greatgoals.com/football/premier-league/brentford-vs-chelsea-line-ups-team-news/",
+    "image": null
   },
   "topStories": [
     {
       "id": "story-1",
       "league": "Premier League",
       "dot": "#9CC0F0",
-      "source": "101 Great Goals",
+      "source": "BBC Sport",
       "time": "Sep 18",
-      "headline": "Bournemouth v Liverpool: Preview, expected line-ups, stats and where to watch",
-      "excerpt": "Liverpool boss Andoni Iraola returns to the Vitality Stadium on Sunday when Liverpool take on…",
-      "link": "https://www.101greatgoals.com/match-previews/premier-league-matches/bournemouth-v-liverpool-preview-expected-line-ups-stats-stream-where-to-watch/",
-      "image": null
+      "headline": "Former Man Utd left-back Malacia joins FC Cincinnati",
+      "excerpt": "FC Cincinnati sign former Manchester United left-back Tyrell Malacia on a free transfer.",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c6vgyjgqgdqwo?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9e75/live/cdb951e0-b386-11f1-ae81-31b49a394756.jpg"
     },
     {
       "id": "story-2",
