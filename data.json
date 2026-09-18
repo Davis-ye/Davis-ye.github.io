@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-18T11:27:55.143Z",
+  "updatedAt": "2026-09-18T11:38:38.669Z",
   "hero": {
     "id": "story-0",
     "league": "Premier League",
@@ -249,21 +249,21 @@
       "dot": "#AFC4AC",
       "source": "BBC Sport",
       "time": "Sep 17",
-      "headline": "Leaden, stale, disheartening - where do Celtic & O'Neill go from here?",
+      "headline": "Poor imitation of Ange team - where do Celtic & O'Neill go from here?",
       "excerpt": "After another defeat, keeping the faith is surely becoming more testing for Celtic's fans, writes…",
       "link": "https://www.bbc.co.uk/sport/football/articles/c6dj4mrmd27ko?at_medium=RSS&amp;at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/90f7/live/f15b7fc0-b2e0-11f1-99a0-c787492c049d.jpg"
     },
     {
       "id": "story-23",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
+      "league": "Football",
+      "dot": "#AFC4AC",
       "source": "BBC Sport",
       "time": "Sep 17",
-      "headline": "From -17 points to dream European start for Bournemouth",
-      "excerpt": "Bournemouth started a League Two season on -17 points in 2008, now they have made…",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c539mw7m0x4go?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/65dc/live/7e80fcf0-b2ea-11f1-999f-09ef8284f0de.jpg"
+      "headline": "Leaden, stale, disheartening - where do Celtic & O'Neill go from here?",
+      "excerpt": "After another defeat, keeping the faith is surely becoming more testing for Celtic's fans, writes…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c6dj4mrmd27ko?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/90f7/live/f15b7fc0-b2e0-11f1-99a0-c787492c049d.jpg"
     }
   ],
   "scoreboard": [
