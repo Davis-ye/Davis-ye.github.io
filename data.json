@@ -1,27 +1,27 @@
 {
-  "updatedAt": "2026-09-18T20:04:04.585Z",
+  "updatedAt": "2026-09-18T20:18:54.230Z",
   "hero": {
     "id": "story-0",
     "league": "Premier League",
     "dot": "#9CC0F0",
-    "source": "101 Great Goals",
+    "source": "The Guardian",
     "time": "Sep 18",
-    "headline": "Brentford 0-0 Chelsea: No breakthrough in cagey opening 45 minutes",
-    "excerpt": "Chelsea were the better of the two sides in a quiet first half against Brentford…",
-    "link": "https://www.101greatgoals.com/football/premier-league/brentford-0-0-chelsea-no-breakthrough-in-cagey-opening-45-minutes/",
-    "image": null
+    "headline": "Brentford v Chelsea: Premier League – live",
+    "excerpt": "<p>⚽ Premier League updates from the 8pm BST kick-off<br>⚽ <a href=\"https://www.theguardian.com/football/live\">Live match centre</a> | <a…",
+    "link": "https://www.theguardian.com/football/live/2026/sep/18/brentford-v-chelsea-premier-league-live-score-updates",
+    "image": "https://i.guim.co.uk/img/media/b36a37a6428cbd1bd2ca97b86afe084ea620bc42/452_0_6452_5161/master/6452.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=35bf39b7c1e7e70cb2467f656885cb13"
   },
   "topStories": [
     {
       "id": "story-1",
       "league": "Premier League",
       "dot": "#9CC0F0",
-      "source": "The Guardian",
+      "source": "101 Great Goals",
       "time": "Sep 18",
-      "headline": "Brentford v Chelsea: Premier League – live",
-      "excerpt": "<p>⚽ Premier League updates from the 8pm BST kick-off<br>⚽ <a href=\"https://www.theguardian.com/football/live\">Live match centre</a> | <a…",
-      "link": "https://www.theguardian.com/football/live/2026/sep/18/brentford-v-chelsea-premier-league-live-score-updates",
-      "image": "https://i.guim.co.uk/img/media/492e157460e9199ad91a2593cc3f20e16192ee5f/334_0_3073_2459/master/3073.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e48dc382ce3b55f0cf9e769f647ae487"
+      "headline": "Brentford 0-0 Chelsea: No breakthrough in cagey opening 45 minutes",
+      "excerpt": "Chelsea were the better of the two sides in a quiet first half against Brentford…",
+      "link": "https://www.101greatgoals.com/football/premier-league/brentford-0-0-chelsea-no-breakthrough-in-cagey-opening-45-minutes/",
+      "image": null
     },
     {
       "id": "story-2",
