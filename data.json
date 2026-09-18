@@ -1,27 +1,27 @@
 {
-  "updatedAt": "2026-09-18T15:34:35.766Z",
+  "updatedAt": "2026-09-18T15:45:53.123Z",
   "hero": {
     "id": "story-0",
     "league": "Football",
     "dot": "#AFC4AC",
-    "source": "BBC Sport",
+    "source": "The Guardian",
     "time": "Sep 18",
-    "headline": "'Living legend' Gray advanced Hibs, asserts Newell",
-    "excerpt": "Club captain Joe Newell insists sacked head coach David Gray can be proud of his…",
-    "link": "https://www.bbc.co.uk/sport/articles/ck3wjlv00dn2o?at_medium=RSS&amp;at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/407c/live/125b3680-b371-11f1-98cf-895f322b0162.jpg"
+    "headline": "England recalls for Alexander-Arnold and Palmer; Carrick dismisses ‘ridiculous’ speculation – live",
+    "excerpt": "<p>⚽ Friday’s team news, press conferences and analysis<br>⚽ <a href=\"https://www.theguardian.com/football/2026/sep/16/when-did-football-fans-first-start-wearing-replica-kits\">The Knowledge: when were the first…",
+    "link": "https://www.theguardian.com/football/live/2026/sep/18/england-squad-to-be-announced-premier-league-latest-european-reaction-football-news-live",
+    "image": "https://i.guim.co.uk/img/media/e581cf9914ad9313fe53c60b9ef7dee1d6e47b04/289_0_3982_3186/master/3982.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3fd451fbcee1bc5eed42d93adab5d1cf"
   },
   "topStories": [
     {
       "id": "story-1",
       "league": "Football",
       "dot": "#AFC4AC",
-      "source": "The Guardian",
+      "source": "BBC Sport",
       "time": "Sep 18",
-      "headline": "England recalls for Alexander-Arnold and Palmer; Carrick dismisses ‘ridiculous’ speculation – live",
-      "excerpt": "<p>⚽ Friday’s team news, press conferences and analysis<br>⚽ <a href=\"https://www.theguardian.com/football/2026/sep/16/when-did-football-fans-first-start-wearing-replica-kits\">The Knowledge: when were the first…",
-      "link": "https://www.theguardian.com/football/live/2026/sep/18/england-squad-to-be-announced-premier-league-latest-european-reaction-football-news-live",
-      "image": "https://i.guim.co.uk/img/media/e581cf9914ad9313fe53c60b9ef7dee1d6e47b04/289_0_3982_3186/master/3982.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3fd451fbcee1bc5eed42d93adab5d1cf"
+      "headline": "'Living legend' Gray advanced Hibs, says Newell",
+      "excerpt": "Club captain Joe Newell insists sacked head coach David Gray can be proud of his…",
+      "link": "https://www.bbc.co.uk/sport/articles/ck3wjlv00dn2o?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/407c/live/125b3680-b371-11f1-98cf-895f322b0162.jpg"
     },
     {
       "id": "story-2",
