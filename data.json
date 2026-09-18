@@ -1,19 +1,30 @@
 {
-  "updatedAt": "2026-09-18T11:16:39.369Z",
+  "updatedAt": "2026-09-18T11:27:55.143Z",
   "hero": {
     "id": "story-0",
-    "league": "Football",
-    "dot": "#AFC4AC",
-    "source": "The Guardian",
+    "league": "Premier League",
+    "dot": "#9CC0F0",
+    "source": "101 Great Goals",
     "time": "Sep 18",
-    "headline": "Tuchel explains Alexander-Arnold and Palmer England recalls; Spain squad revealed in Ceuta: football news – live",
-    "excerpt": "<p>⚽ Friday’s team news, press conferences and analysis<br>⚽ <a href=\"https://www.theguardian.com/football/2026/sep/16/when-did-football-fans-first-start-wearing-replica-kits\">The Knowledge: when were the first…",
-    "link": "https://www.theguardian.com/football/live/2026/sep/18/england-squad-to-be-announced-premier-league-latest-european-reaction-football-news-live",
-    "image": "https://i.guim.co.uk/img/media/ee5262ed3eb76173bde874d2478e1c5896cabe99/0_326_4000_3200/master/4000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ba96dc640efd9f40767cf694bf322d04"
+    "headline": "Arsenal boss Arteta warns referees over Sunderland row",
+    "excerpt": "Mikel Arteta expects Arsenal's game at Brighton to be 'beautiful'",
+    "link": "https://www.101greatgoals.com/football/premier-league/arsenal-arteta-referees-sunderland/",
+    "image": null
   },
   "topStories": [
     {
       "id": "story-1",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "The Guardian",
+      "time": "Sep 18",
+      "headline": "Tuchel explains Alexander-Arnold and Palmer England recalls; Spain squad revealed in Ceuta: football news – live",
+      "excerpt": "<p>⚽ Friday’s team news, press conferences and analysis<br>⚽ <a href=\"https://www.theguardian.com/football/2026/sep/16/when-did-football-fans-first-start-wearing-replica-kits\">The Knowledge: when were the first…",
+      "link": "https://www.theguardian.com/football/live/2026/sep/18/england-squad-to-be-announced-premier-league-latest-european-reaction-football-news-live",
+      "image": "https://i.guim.co.uk/img/media/ee5262ed3eb76173bde874d2478e1c5896cabe99/0_326_4000_3200/master/4000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ba96dc640efd9f40767cf694bf322d04"
+    },
+    {
+      "id": "story-2",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -24,7 +35,7 @@
       "image": "https://i.guim.co.uk/img/media/7c336ca40f31a3dd8930b727402947f0f0247a2e/0_0_2811_2249/master/2811.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f7f684e7ce0432aa3dd9d3af6a8cb2f2"
     },
     {
-      "id": "story-2",
+      "id": "story-3",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -35,7 +46,7 @@
       "image": "https://i.guim.co.uk/img/media/6a100a1932d95d774d652a3118d19abe07be1d96/339_26_2986_2389/master/2986.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=33906f09d0217c5c2acb59600746565c"
     },
     {
-      "id": "story-3",
+      "id": "story-4",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -44,17 +55,6 @@
       "excerpt": "Wrexham defender Dom Hyam reveals his disappointment at being left out of Scotland's Nations League…",
       "link": "https://www.bbc.co.uk/sport/football/articles/c59v904y3m9jo?at_medium=RSS&amp;at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e1cd/live/5cc39110-b342-11f1-91a3-393282eb9f17.jpg"
-    },
-    {
-      "id": "story-4",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "101 Great Goals",
-      "time": "Sep 18",
-      "headline": "England squad announcement: Full list for Nations League 2026",
-      "excerpt": "The squad for England's Nations League 2026 fixtures",
-      "link": "https://www.101greatgoals.com/football/internationals/england-squad-nations-league-spain-czech-republic-croatia-cole-palmer-trent-alexander-arnold/",
-      "image": null
     },
     {
       "id": "story-5",
