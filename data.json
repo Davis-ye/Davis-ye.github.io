@@ -1,19 +1,30 @@
 {
-  "updatedAt": "2026-09-18T20:56:26.158Z",
+  "updatedAt": "2026-09-18T21:05:38.273Z",
   "hero": {
     "id": "story-0",
-    "league": "Football",
-    "dot": "#AFC4AC",
-    "source": "BBC Sport",
+    "league": "Premier League",
+    "dot": "#9CC0F0",
+    "source": "101 Great Goals",
     "time": "Sep 18",
-    "headline": "Watch the goals as Ayr United win at Queen's Park",
-    "excerpt": "Dylan Watret and Josh Landers are on target as Ayr United end a six-game run…",
-    "link": "https://www.bbc.co.uk/sport/videos/cqly70l5m7djo?at_medium=RSS&amp;at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2c51/live/67c2c400-b3a1-11f1-a430-4d16ee157c41.jpg"
+    "headline": "Brentford 3-0 Chelsea: Igor Thiago among the goals as sorry Blues crushed on woeful night for Xabi Alonso",
+    "excerpt": "Chelsea produced an awful performance as they were swept aside by West London neighbours Brentford…",
+    "link": "https://www.101greatgoals.com/football/premier-league/brentford-chelsea-report-stats-goals/",
+    "image": null
   },
   "topStories": [
     {
       "id": "story-1",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "BBC Sport",
+      "time": "Sep 18",
+      "headline": "A weight off Thiago's shoulders - Brentford v Chelsea ratings",
+      "excerpt": "Brentford climb to third in the Premier League with a 2-0 victory over Chelsea -…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cm046x9l6d6po?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1d39/live/573c0b30-b3a3-11f1-84e0-d100e0413eb5.jpg"
+    },
+    {
+      "id": "story-2",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -21,10 +32,21 @@
       "headline": "Brentford v Chelsea: Premier League – live",
       "excerpt": "<p>⚽ Premier League updates from the 8pm BST kick-off<br>⚽ <a href=\"https://www.theguardian.com/football/live\">Live match centre</a> | <a…",
       "link": "https://www.theguardian.com/football/live/2026/sep/18/brentford-v-chelsea-premier-league-live-score-updates",
-      "image": "https://i.guim.co.uk/img/media/790534f6cd80a06fe9185f2c4d22312115284b86/423_0_3943_3153/master/3943.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=eb2aa369f7e6b61afc261b3547f65ba8"
+      "image": "https://i.guim.co.uk/img/media/51d5c31056456d089a4d2ddd54aeace7e79e03b8/461_0_4158_3326/master/4158.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=5aea55f073413c2f4ad757bda5d4ee27"
     },
     {
-      "id": "story-2",
+      "id": "story-3",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "BBC Sport",
+      "time": "Sep 18",
+      "headline": "Watch the goals as Ayr United win at Queen's Park",
+      "excerpt": "Dylan Watret and Josh Landers are on target as Ayr United end a six-game run…",
+      "link": "https://www.bbc.co.uk/sport/videos/cqly70l5m7djo?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2c51/live/67c2c400-b3a1-11f1-a430-4d16ee157c41.jpg"
+    },
+    {
+      "id": "story-4",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -35,7 +57,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1f87/live/2ec4a210-b39a-11f1-a430-4d16ee157c41.png"
     },
     {
-      "id": "story-3",
+      "id": "story-5",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -46,18 +68,7 @@
       "image": "https://i.guim.co.uk/img/media/2af1c8bfba411b2a010a783e28284f4a91f9bc1c/245_0_2183_1746/master/2183.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=7dfee35584b1e04f359ef520f828edec"
     },
     {
-      "id": "story-4",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "101 Great Goals",
-      "time": "Sep 18",
-      "headline": "Brentford 0-0 Chelsea: No breakthrough in cagey opening 45 minutes",
-      "excerpt": "Chelsea were the better of the two sides in a quiet first half against Brentford…",
-      "link": "https://www.101greatgoals.com/football/premier-league/brentford-0-0-chelsea-no-breakthrough-in-cagey-opening-45-minutes/",
-      "image": null
-    },
-    {
-      "id": "story-5",
+      "id": "story-6",
       "league": "La Liga",
       "dot": "#E3B4F5",
       "source": "The Guardian",
@@ -68,7 +79,7 @@
       "image": "https://i.guim.co.uk/img/media/0a019b18fb93ee20eb202fddec31ac3d983e8e8e/161_0_1654_1323/master/1654.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=62b5ef48a5c67b50a72264b9d0a11e67"
     },
     {
-      "id": "story-6",
+      "id": "story-7",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -79,7 +90,7 @@
       "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0pbcq71.jpg"
     },
     {
-      "id": "story-7",
+      "id": "story-8",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -90,7 +101,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9e75/live/cdb951e0-b386-11f1-ae81-31b49a394756.jpg"
     },
     {
-      "id": "story-8",
+      "id": "story-9",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "The Guardian",
@@ -99,17 +110,6 @@
       "excerpt": "<ul><li><p>Payout of at least $10m to each association proposed</p></li><li><p> Leaders want plan to be considered…",
       "link": "https://www.theguardian.com/football/2026/sep/18/uefa-concacaf-gianni-infantino-fifa-billions-member-associations",
       "image": "https://i.guim.co.uk/img/media/2cd537d924453d4e7c4b41546a4600b135d21c75/265_56_2430_1944/master/2430.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a8146be4a28a2c66a19cb129ab899dcc"
-    },
-    {
-      "id": "story-9",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "BBC Sport",
-      "time": "Sep 18",
-      "headline": "Senegal job an 'absolute dream' for new boss Vieira",
-      "excerpt": "Former France international Patrick Vieira, a World Cup winner in 1998, says taking charge of…",
-      "link": "https://www.bbc.co.uk/sport/football/articles/crlyqgqwq8lyo?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/668e/live/9a19ca10-b36b-11f1-8f19-bd786ea30d0b.jpg"
     },
     {
       "id": "story-10",
@@ -268,6 +268,16 @@
   ],
   "scoreboard": [
     {
+      "id": "score-560591",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "time": "Sep 18",
+      "home": "Brentford FC",
+      "away": "Chelsea FC",
+      "homeScore": 3,
+      "awayScore": 0
+    },
+    {
       "id": "score-558596",
       "league": "Serie A",
       "dot": "#A9E6A0",
@@ -316,16 +326,6 @@
       "away": "Getafe CF",
       "homeScore": 1,
       "awayScore": 0
-    },
-    {
-      "id": "score-564687",
-      "league": "La Liga",
-      "dot": "#E3B4F5",
-      "time": "Sep 16",
-      "home": "FC Barcelona",
-      "away": "Real Racing Club de Santander",
-      "homeScore": 7,
-      "awayScore": 2
     }
   ]
 }
