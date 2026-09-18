@@ -1,27 +1,27 @@
 {
-  "updatedAt": "2026-09-18T09:42:47.453Z",
+  "updatedAt": "2026-09-18T09:52:03.116Z",
   "hero": {
     "id": "story-0",
-    "league": "Premier League",
-    "dot": "#9CC0F0",
-    "source": "101 Great Goals",
+    "league": "Football",
+    "dot": "#AFC4AC",
+    "source": "The Guardian",
     "time": "Sep 18",
-    "headline": "Rio Ngumoha: Why the Liverpool forward will &#8216;save club £130 million&#8217;&#8230; and has a &#8216;really big chance&#8217; this season",
-    "excerpt": "The versatile forward was at Chelsea for eight years",
-    "link": "https://www.101greatgoals.com/football/premier-league/rio-ngumoha-liverpool-forward-season/",
-    "image": null
+    "headline": "Alexander-Arnold and Palmer back in England squad as Ngumoha gets nod: football news – live",
+    "excerpt": "<p>⚽ Friday’s team news, press conferences and analysis<br>⚽ <a href=\"https://www.theguardian.com/football/2026/sep/16/when-did-football-fans-first-start-wearing-replica-kits\">The Knowledge: when were the first…",
+    "link": "https://www.theguardian.com/football/live/2026/sep/18/england-squad-to-be-announced-premier-league-latest-european-reaction-football-news-live",
+    "image": "https://i.guim.co.uk/img/media/e965e625cdec6ac00a26a5e4f8f47c8637d05d03/32_0_4256_3405/master/4256.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=79091ff23776dfe6f1c648df638aeb74"
   },
   "topStories": [
     {
       "id": "story-1",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "The Guardian",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "101 Great Goals",
       "time": "Sep 18",
-      "headline": "Alexander-Arnold and Palmer back in England squad as Ngumoha gets nod: football news – live",
-      "excerpt": "<p>⚽ Friday’s team news, press conferences and analysis<br>⚽ <a href=\"https://www.theguardian.com/football/2026/sep/16/when-did-football-fans-first-start-wearing-replica-kits\">The Knowledge: when were the first…",
-      "link": "https://www.theguardian.com/football/live/2026/sep/18/england-squad-to-be-announced-premier-league-latest-european-reaction-football-news-live",
-      "image": "https://i.guim.co.uk/img/media/e965e625cdec6ac00a26a5e4f8f47c8637d05d03/32_0_4256_3405/master/4256.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=79091ff23776dfe6f1c648df638aeb74"
+      "headline": "Rio Ngumoha: Why the Liverpool forward will &#8216;save club £130 million&#8217;&#8230; and has a &#8216;really big chance&#8217; this season",
+      "excerpt": "The versatile forward was at Chelsea for eight years",
+      "link": "https://www.101greatgoals.com/football/premier-league/rio-ngumoha-liverpool-forward-season/",
+      "image": null
     },
     {
       "id": "story-2",
