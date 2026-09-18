@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-18T11:54:07.043Z",
+  "updatedAt": "2026-09-18T12:01:23.226Z",
   "hero": {
     "id": "story-0",
     "league": "Football",
@@ -16,6 +16,17 @@
       "id": "story-1",
       "league": "Football",
       "dot": "#AFC4AC",
+      "source": "The Guardian",
+      "time": "Sep 18",
+      "headline": "Tuchel explains Alexander-Arnold and Palmer England recalls; Spain squad revealed in Ceuta: football news – live",
+      "excerpt": "<p>⚽ Friday’s team news, press conferences and analysis<br>⚽ <a href=\"https://www.theguardian.com/football/2026/sep/16/when-did-football-fans-first-start-wearing-replica-kits\">The Knowledge: when were the first…",
+      "link": "https://www.theguardian.com/football/live/2026/sep/18/england-squad-to-be-announced-premier-league-latest-european-reaction-football-news-live",
+      "image": "https://i.guim.co.uk/img/media/ee5262ed3eb76173bde874d2478e1c5896cabe99/0_326_4000_3200/master/4000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ba96dc640efd9f40767cf694bf322d04"
+    },
+    {
+      "id": "story-2",
+      "league": "Football",
+      "dot": "#AFC4AC",
       "source": "BBC Sport",
       "time": "Sep 18",
       "headline": "Tuchel recalls Palmer and Alexander-Arnold for England",
@@ -24,7 +35,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b8db/live/6ebff4c0-b352-11f1-a430-4d16ee157c41.jpg"
     },
     {
-      "id": "story-2",
+      "id": "story-3",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -33,17 +44,6 @@
       "excerpt": "England boss Thomas Tuchel says \"the door is always open\" after recalling Trent Alexander-Arnold and…",
       "link": "https://www.bbc.co.uk/sport/football/articles/cmly4gpnwk2go?at_medium=RSS&amp;at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7e3a/live/63dc3110-b34b-11f1-bc1f-3f186ca4140c.png"
-    },
-    {
-      "id": "story-3",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "The Guardian",
-      "time": "Sep 18",
-      "headline": "Tuchel explains Alexander-Arnold and Palmer England recalls; Spain squad revealed in Ceuta: football news – live",
-      "excerpt": "<p>⚽ Friday’s team news, press conferences and analysis<br>⚽ <a href=\"https://www.theguardian.com/football/2026/sep/16/when-did-football-fans-first-start-wearing-replica-kits\">The Knowledge: when were the first…",
-      "link": "https://www.theguardian.com/football/live/2026/sep/18/england-squad-to-be-announced-premier-league-latest-european-reaction-football-news-live",
-      "image": "https://i.guim.co.uk/img/media/ee5262ed3eb76173bde874d2478e1c5896cabe99/0_326_4000_3200/master/4000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ba96dc640efd9f40767cf694bf322d04"
     },
     {
       "id": "story-4",
