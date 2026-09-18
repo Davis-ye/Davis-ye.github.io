@@ -1,19 +1,30 @@
 {
-  "updatedAt": "2026-09-18T06:01:33.552Z",
+  "updatedAt": "2026-09-18T06:21:02.800Z",
   "hero": {
     "id": "story-0",
     "league": "Football",
     "dot": "#AFC4AC",
     "source": "BBC Sport",
     "time": "Sep 18",
-    "headline": "Flex your football brain with our daily quizzes",
-    "excerpt": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
-    "link": "https://www.bbc.co.uk/sport/football/articles/ck4glvy3413xo?at_medium=RSS&amp;at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ada7/live/27df4c70-9658-11f1-b2ab-0dd01740f9f6.jpg"
+    "headline": "Spiders still climbing - watch Queen's Park v Ayr on BBC",
+    "excerpt": "Sportscene's Jonathan Sutherland previews Friday's live BBC Scotland TV match as Queen's Park host Ayr…",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cmlyexny15q2o?at_medium=RSS&amp;at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0a43/live/385c7a20-b2b7-11f1-ad9d-efc12ace03e0.jpg"
   },
   "topStories": [
     {
       "id": "story-1",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "BBC Sport",
+      "time": "Sep 18",
+      "headline": "Flex your football brain with our daily quizzes",
+      "excerpt": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
+      "link": "https://www.bbc.co.uk/sport/football/articles/ck4glvy3413xo?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ada7/live/27df4c70-9658-11f1-b2ab-0dd01740f9f6.jpg"
+    },
+    {
+      "id": "story-2",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -24,7 +35,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8fd2/live/6a23f960-b1dc-11f1-a44b-aba96a7d56aa.jpg"
     },
     {
-      "id": "story-2",
+      "id": "story-3",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -35,7 +46,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/63fc/live/ed11ffa0-b1b6-11f1-bc1f-3f186ca4140c.jpg"
     },
     {
-      "id": "story-3",
+      "id": "story-4",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -46,7 +57,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3ef9/live/5d215900-b2b4-11f1-819c-176371125270.jpg"
     },
     {
-      "id": "story-4",
+      "id": "story-5",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -57,7 +68,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7e35/live/3ed0a520-b2b2-11f1-819c-176371125270.jpg"
     },
     {
-      "id": "story-5",
+      "id": "story-6",
       "league": "La Liga",
       "dot": "#E3B4F5",
       "source": "The Guardian",
@@ -68,7 +79,7 @@
       "image": "https://i.guim.co.uk/img/media/626a629cbedc6ee4f91793f762764b8f294480de/0_0_3638_2910/master/3638.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=be661f0d67813a0490b590b037c1dd83"
     },
     {
-      "id": "story-6",
+      "id": "story-7",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -79,7 +90,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/90f7/live/f15b7fc0-b2e0-11f1-99a0-c787492c049d.jpg"
     },
     {
-      "id": "story-7",
+      "id": "story-8",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -90,7 +101,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/65dc/live/7e80fcf0-b2ea-11f1-999f-09ef8284f0de.jpg"
     },
     {
-      "id": "story-8",
+      "id": "story-9",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -101,7 +112,7 @@
       "image": "https://i.guim.co.uk/img/media/576193dd3d2ea34a392177179e39b52a11fae6b5/0_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=7cead1f09274ae5eb9c20884355bf21a"
     },
     {
-      "id": "story-9",
+      "id": "story-10",
       "league": "Serie A",
       "dot": "#A9E6A0",
       "source": "The Guardian",
@@ -112,7 +123,7 @@
       "image": "https://i.guim.co.uk/img/media/1853f09d3b4d9081fd8946f16acf1f7434ff34ea/25_325_3139_2512/master/3139.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=030775dbfd2b6820fbf6630c1e04e063"
     },
     {
-      "id": "story-10",
+      "id": "story-11",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -123,7 +134,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7c85/live/18447b50-b2d7-11f1-a430-4d16ee157c41.png"
     },
     {
-      "id": "story-11",
+      "id": "story-12",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -134,7 +145,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cc03/live/dc8e0540-b2d1-11f1-aa00-7947ea0dbeab.jpg"
     },
     {
-      "id": "story-12",
+      "id": "story-13",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "101 Great Goals",
@@ -145,7 +156,7 @@
       "image": null
     },
     {
-      "id": "story-13",
+      "id": "story-14",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -156,7 +167,7 @@
       "image": "https://i.guim.co.uk/img/media/9e908ba86b4ff09b7e58590125e6281f24ef438d/456_0_3750_3000/master/3750.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b615dd3f40d51a7ca9214708111bf9b7"
     },
     {
-      "id": "story-14",
+      "id": "story-15",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -167,7 +178,7 @@
       "image": "https://i.guim.co.uk/img/media/f6c45ed1b29accfa009c96b8e8c6cacac4bb2585/141_0_1226_981/master/1226.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=50c429d6c5d1a25ad123fe10d4259642"
     },
     {
-      "id": "story-15",
+      "id": "story-16",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -178,7 +189,7 @@
       "image": "https://i.guim.co.uk/img/media/8db2d7d49c03fe337b750b777fe4783a5dc946f7/154_175_1285_1028/master/1285.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=af8f0ae51209b246f359cddee1243157"
     },
     {
-      "id": "story-16",
+      "id": "story-17",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "The Guardian",
@@ -189,7 +200,7 @@
       "image": "https://i.guim.co.uk/img/media/577023f075838a04c1cadb0c731f0156d3d161c9/415_0_3555_2844/master/3555.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=5ed085dca0aa081f03da896747b901fe"
     },
     {
-      "id": "story-17",
+      "id": "story-18",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -200,7 +211,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a4b3/live/e27a2dd0-b2c7-11f1-9830-658a48c7da16.jpg"
     },
     {
-      "id": "story-18",
+      "id": "story-19",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -211,7 +222,7 @@
       "image": "https://i.guim.co.uk/img/media/1cfb8309048bef23c883209a3c06a8a5d9586e87/692_163_3180_2543/master/3180.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=2a1209549606dd4fd8b10ff6c2110759"
     },
     {
-      "id": "story-19",
+      "id": "story-20",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "The Guardian",
@@ -222,7 +233,7 @@
       "image": "https://i.guim.co.uk/img/media/107b6f4ef391a9382948dc52730ee547d22bfab9/423_0_4228_3382/master/4228.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=21dac1f06a91dd56daabfeac1b9d4553"
     },
     {
-      "id": "story-20",
+      "id": "story-21",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -233,7 +244,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b7a4/live/0e6c5d40-b2ba-11f1-9830-658a48c7da16.jpg"
     },
     {
-      "id": "story-21",
+      "id": "story-22",
       "league": "Ligue 1",
       "dot": "#B8D4E8",
       "source": "The Guardian",
@@ -244,7 +255,7 @@
       "image": "https://i.guim.co.uk/img/media/418e80b32ed8d2f9e9bc22744c9d5ce9b6bc39d9/0_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=271a505c522d95d603e53fccf4f7e281"
     },
     {
-      "id": "story-22",
+      "id": "story-23",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -253,17 +264,6 @@
       "excerpt": "Before Thomas Tuchel names his first squad since the World Cup on Friday, BBC Sport…",
       "link": "https://www.bbc.co.uk/sport/football/articles/cq804jkle8j3o?at_medium=RSS&amp;at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5496/live/2b95ab20-b29b-11f1-b1d1-571ed4d7ff2c.jpg"
-    },
-    {
-      "id": "story-23",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "The Guardian",
-      "time": "Sep 17",
-      "headline": "Hull City’s rise from Championship strugglers to Premier League fliers",
-      "excerpt": "<p>Hull were nearly relegated to League One last year. Now they are fourth in the…",
-      "link": "https://www.theguardian.com/football/who-scored-blog/2026/sep/17/hull-city-championship-premier-league",
-      "image": "https://i.guim.co.uk/img/media/39a48b4423c1b0ccb95d2f1b6c0922c627407558/193_0_2896_2317/master/2896.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=1d95a2203614f1e068d02928725b93ec"
     }
   ],
   "scoreboard": [
