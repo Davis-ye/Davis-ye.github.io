@@ -1,27 +1,27 @@
 {
-  "updatedAt": "2026-09-18T19:25:41.169Z",
+  "updatedAt": "2026-09-18T19:33:26.081Z",
   "hero": {
     "id": "story-0",
     "league": "Premier League",
     "dot": "#9CC0F0",
-    "source": "101 Great Goals",
+    "source": "The Guardian",
     "time": "Sep 18",
-    "headline": "Brentford v Chelsea LIVE: Commentary, updates, goals and stats",
-    "excerpt": "Chelsea will look to get one over on West London rivals Brentford at the Gtech…",
-    "link": "https://www.101greatgoals.com/live/brentford-v-chelsea-live-commentary-updates-goals-stream-stats/",
-    "image": null
+    "headline": "Brentford v Chelsea: Premier League – live",
+    "excerpt": "<p>⚽ Premier League updates from the 8pm BST kick-off<br>⚽ <a href=\"https://www.theguardian.com/football/live\">Live match centre</a> | <a…",
+    "link": "https://www.theguardian.com/football/live/2026/sep/18/brentford-v-chelsea-premier-league-live-score-updates",
+    "image": "https://i.guim.co.uk/img/media/492e157460e9199ad91a2593cc3f20e16192ee5f/334_0_3073_2459/master/3073.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e48dc382ce3b55f0cf9e769f647ae487"
   },
   "topStories": [
     {
       "id": "story-1",
       "league": "Premier League",
       "dot": "#9CC0F0",
-      "source": "The Guardian",
+      "source": "101 Great Goals",
       "time": "Sep 18",
-      "headline": "Brentford v Chelsea: Premier League – live",
-      "excerpt": "<p>⚽ Premier League updates from the 8pm BST kick-off<br>⚽ <a href=\"https://www.theguardian.com/football/live\">Live match centre</a> | <a…",
-      "link": "https://www.theguardian.com/football/live/2026/sep/18/brentford-v-chelsea-premier-league-live-score-updates",
-      "image": "https://i.guim.co.uk/img/media/bb27ea76f8c49a11e9edca022db3da1fba16f1b1/511_0_4325_3459/master/4325.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c2d7f4081277b9eb8228b5c9b191a6e9"
+      "headline": "Brentford v Chelsea LIVE: Commentary, updates, goals and stats",
+      "excerpt": "Chelsea will look to get one over on West London rivals Brentford at the Gtech…",
+      "link": "https://www.101greatgoals.com/live/brentford-v-chelsea-live-commentary-updates-goals-stream-stats/",
+      "image": null
     },
     {
       "id": "story-2",
