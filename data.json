@@ -1,19 +1,30 @@
 {
-  "updatedAt": "2026-09-18T12:50:36.234Z",
+  "updatedAt": "2026-09-18T12:59:14.696Z",
   "hero": {
     "id": "story-0",
     "league": "Football",
     "dot": "#AFC4AC",
     "source": "BBC Sport",
     "time": "Sep 18",
-    "headline": "Ronaldo named in Jesus' first Portugal squad",
-    "excerpt": "Cristiano Ronaldo is named in the first squad selected by new Portugal coach Jorge Jesus…",
-    "link": "https://www.bbc.co.uk/sport/football/articles/cmeq8v8e3ql7o?at_medium=RSS&amp;at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4465/live/27650870-b359-11f1-b949-71f91f81d1ab.jpg"
+    "headline": "Tuchel recalls Alexander-Arnold and Palmer with warning",
+    "excerpt": "England boss Thomas Tuchel recalls Trent Alexander-Arnold and Cole Palmer but says players have to…",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cmly4gpnwk2go?at_medium=RSS&amp;at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a975/live/b61840a0-b359-11f1-a430-4d16ee157c41.png"
   },
   "topStories": [
     {
       "id": "story-1",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "BBC Sport",
+      "time": "Sep 18",
+      "headline": "Ronaldo named in Jesus' first Portugal squad",
+      "excerpt": "Cristiano Ronaldo is named in the first squad selected by new Portugal coach Jorge Jesus…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cmeq8v8e3ql7o?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4465/live/27650870-b359-11f1-b949-71f91f81d1ab.jpg"
+    },
+    {
+      "id": "story-2",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "The Guardian",
@@ -24,7 +35,7 @@
       "image": "https://i.guim.co.uk/img/media/ee5262ed3eb76173bde874d2478e1c5896cabe99/0_326_4000_3200/master/4000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ba96dc640efd9f40767cf694bf322d04"
     },
     {
-      "id": "story-2",
+      "id": "story-3",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "101 Great Goals",
@@ -33,17 +44,6 @@
       "excerpt": "Cristiano Ronaldo will continue with Portugal until the end of 2026.",
       "link": "https://www.101greatgoals.com/football/internationals/ronaldo-named-in-portugal-squad-nations-league/",
       "image": null
-    },
-    {
-      "id": "story-3",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "BBC Sport",
-      "time": "Sep 18",
-      "headline": "Tuchel recalls Alexander-Arnold and Palmer with warning",
-      "excerpt": "England boss Thomas Tuchel recalls Trent Alexander-Arnold and Cole Palmer but says players have to…",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cmly4gpnwk2go?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a975/live/b61840a0-b359-11f1-a430-4d16ee157c41.png"
     },
     {
       "id": "story-4",
