@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-18T15:45:53.123Z",
+  "updatedAt": "2026-09-18T15:54:51.194Z",
   "hero": {
     "id": "story-0",
     "league": "Football",
@@ -25,6 +25,17 @@
     },
     {
       "id": "story-2",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "BBC Sport",
+      "time": "Sep 18",
+      "headline": "'Living legend' Gray 'massive success' at Hibs, says Newell",
+      "excerpt": "Club captain Joe Newell insists sacked head coach David Gray can be proud of his…",
+      "link": "https://www.bbc.co.uk/sport/articles/ck3wjlv00dn2o?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/407c/live/125b3680-b371-11f1-98cf-895f322b0162.jpg"
+    },
+    {
+      "id": "story-3",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "101 Great Goals",
@@ -35,7 +46,7 @@
       "image": null
     },
     {
-      "id": "story-3",
+      "id": "story-4",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -46,7 +57,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/28e0/live/1dab5c20-b36e-11f1-b1d1-571ed4d7ff2c.jpg"
     },
     {
-      "id": "story-4",
+      "id": "story-5",
       "league": "La Liga",
       "dot": "#E3B4F5",
       "source": "BBC Sport",
@@ -57,7 +68,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/675f/live/3c9e71e0-b36d-11f1-8f19-bd786ea30d0b.jpg"
     },
     {
-      "id": "story-5",
+      "id": "story-6",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -68,7 +79,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b9eb/live/1c74d7f0-b36e-11f1-b1d1-571ed4d7ff2c.png"
     },
     {
-      "id": "story-6",
+      "id": "story-7",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -79,7 +90,7 @@
       "image": "https://i.guim.co.uk/img/media/231d2c3c7ca4a3946d8fcdd5425036740ddce7f5/0_65_1235_988/master/1235.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b3eb6abe73d83c1ac42bfd032e3e7fe2"
     },
     {
-      "id": "story-7",
+      "id": "story-8",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -90,7 +101,7 @@
       "image": "https://i.guim.co.uk/img/media/e508c99a104c1e1c27f105aa2cdf66d9b4e06661/449_0_3761_3009/master/3761.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=2efa4d8e7fae14352e6cd2bc563edc97"
     },
     {
-      "id": "story-8",
+      "id": "story-9",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -101,7 +112,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5399/live/1b23f550-b36b-11f1-8e2e-af577ac96003.jpg"
     },
     {
-      "id": "story-9",
+      "id": "story-10",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -112,7 +123,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1016/live/ce797b20-b366-11f1-8f19-bd786ea30d0b.jpg"
     },
     {
-      "id": "story-10",
+      "id": "story-11",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "The Guardian",
@@ -123,7 +134,7 @@
       "image": "https://i.guim.co.uk/img/media/42c5fd693330e5aa287376addf1798dab75f977e/105_0_1000_800/master/1000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=03d48d4535ed94f0523fd206aee35932"
     },
     {
-      "id": "story-11",
+      "id": "story-12",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -134,7 +145,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4c39/live/7c4c5750-b366-11f1-b1d1-571ed4d7ff2c.jpg"
     },
     {
-      "id": "story-12",
+      "id": "story-13",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -145,7 +156,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d6a5/live/382b44d0-b363-11f1-b1d1-571ed4d7ff2c.jpg"
     },
     {
-      "id": "story-13",
+      "id": "story-14",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -156,7 +167,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6922/live/cd8bbfc0-b366-11f1-8f19-bd786ea30d0b.jpg"
     },
     {
-      "id": "story-14",
+      "id": "story-15",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "The Guardian",
@@ -167,7 +178,7 @@
       "image": "https://i.guim.co.uk/img/media/f02b5a09ddb35ac61d358f9413d1f9e61aaeb101/1_0_3443_2755/master/3443.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=8d90fa073d7b9103c2813a8ef25dd144"
     },
     {
-      "id": "story-15",
+      "id": "story-16",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -178,7 +189,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3394/live/7ca41670-b375-11f1-8e14-c1641e39947a.jpg"
     },
     {
-      "id": "story-16",
+      "id": "story-17",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -189,7 +200,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a975/live/b61840a0-b359-11f1-a430-4d16ee157c41.png"
     },
     {
-      "id": "story-17",
+      "id": "story-18",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -200,7 +211,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4465/live/27650870-b359-11f1-b949-71f91f81d1ab.jpg"
     },
     {
-      "id": "story-18",
+      "id": "story-19",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -211,7 +222,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a4b3/live/e27a2dd0-b2c7-11f1-9830-658a48c7da16.jpg"
     },
     {
-      "id": "story-19",
+      "id": "story-20",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -222,7 +233,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b8db/live/6ebff4c0-b352-11f1-a430-4d16ee157c41.jpg"
     },
     {
-      "id": "story-20",
+      "id": "story-21",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -233,7 +244,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/742a/live/16344020-b2af-11f1-819c-176371125270.jpg"
     },
     {
-      "id": "story-21",
+      "id": "story-22",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -244,7 +255,7 @@
       "image": "https://i.guim.co.uk/img/media/7c336ca40f31a3dd8930b727402947f0f0247a2e/0_0_2811_2249/master/2811.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f7f684e7ce0432aa3dd9d3af6a8cb2f2"
     },
     {
-      "id": "story-22",
+      "id": "story-23",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -253,17 +264,6 @@
       "excerpt": "<p>Spurs are getting into attacking areas but failing to make or take openings as Roberto…",
       "link": "https://www.theguardian.com/football/2026/sep/18/injuries-team-changes-and-arduous-tours-why-tottenham-are-misfiring",
       "image": "https://i.guim.co.uk/img/media/6a100a1932d95d774d652a3118d19abe07be1d96/339_26_2986_2389/master/2986.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=33906f09d0217c5c2acb59600746565c"
-    },
-    {
-      "id": "story-23",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "BBC Sport",
-      "time": "Sep 18",
-      "headline": "Wrexham defender Hyam's Scotland disappointment",
-      "excerpt": "Wrexham defender Dom Hyam reveals his disappointment at being left out of Scotland's Nations League…",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c59v904y3m9jo?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e1cd/live/5cc39110-b342-11f1-91a3-393282eb9f17.jpg"
     }
   ],
   "scoreboard": [
