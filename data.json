@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-09-18T12:19:44.172Z",
+  "updatedAt": "2026-09-18T12:36:45.117Z",
   "hero": {
     "id": "story-0",
     "league": "Football",
     "dot": "#AFC4AC",
-    "source": "BBC Sport",
+    "source": "101 Great Goals",
     "time": "Sep 18",
-    "headline": "Tuchel recalls Alexander-Arnold and Palmer with warning",
-    "excerpt": "England boss Thomas Tuchel recalls Trent Alexander-Arnold and Cole Palmer but says players have to…",
-    "link": "https://www.bbc.co.uk/sport/football/articles/cmly4gpnwk2go?at_medium=RSS&amp;at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a975/live/b61840a0-b359-11f1-a430-4d16ee157c41.png"
+    "headline": "Ronaldo named in Portugal squad ahead of Nations League fixtures",
+    "excerpt": "Cristiano Ronaldo will continue with Portugal until the end of 2026.",
+    "link": "https://www.101greatgoals.com/football/internationals/ronaldo-named-in-portugal-squad-nations-league/",
+    "image": null
   },
   "topStories": [
     {
@@ -25,6 +25,17 @@
     },
     {
       "id": "story-2",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "BBC Sport",
+      "time": "Sep 18",
+      "headline": "Tuchel recalls Alexander-Arnold and Palmer with warning",
+      "excerpt": "England boss Thomas Tuchel recalls Trent Alexander-Arnold and Cole Palmer but says players have to…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cmly4gpnwk2go?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a975/live/b61840a0-b359-11f1-a430-4d16ee157c41.png"
+    },
+    {
+      "id": "story-3",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -33,17 +44,6 @@
       "excerpt": "Ryan Reynolds and Rob Mac have poked fun at next opponents Southampton ahead of their…",
       "link": "https://www.bbc.co.uk/sport/football/articles/cxyvz9jy16l3o?at_medium=RSS&amp;at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a4b3/live/e27a2dd0-b2c7-11f1-9830-658a48c7da16.jpg"
-    },
-    {
-      "id": "story-3",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "101 Great Goals",
-      "time": "Sep 18",
-      "headline": "England squad announcement: Full list for Nations League 2026",
-      "excerpt": "The squad for England's Nations League 2026 fixtures",
-      "link": "https://www.101greatgoals.com/football/internationals/england-squad-nations-league-spain-czech-republic-croatia-cole-palmer-trent-alexander-arnold/",
-      "image": null
     },
     {
       "id": "story-4",
