@@ -1,19 +1,41 @@
 {
-  "updatedAt": "2026-09-18T14:28:29.626Z",
+  "updatedAt": "2026-09-18T14:40:17.840Z",
   "hero": {
     "id": "story-0",
-    "league": "Premier League",
-    "dot": "#9CC0F0",
-    "source": "BBC Sport",
+    "league": "Football",
+    "dot": "#AFC4AC",
+    "source": "The Guardian",
     "time": "Sep 18",
-    "headline": "Sorensen to join Republic of Ireland coaching staff",
-    "excerpt": "Former Everton manager Brian Sorensen is set to join the Republic of Ireland squad for…",
-    "link": "https://www.bbc.co.uk/sport/football/articles/cqj9x8kr0dm2o?at_medium=RSS&amp;at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1016/live/ce797b20-b366-11f1-8f19-bd786ea30d0b.jpg"
+    "headline": "Tuchel explains Alexander-Arnold and Palmer England recalls; Spain squad revealed in Ceuta: football news – live",
+    "excerpt": "<p>⚽ Friday’s team news, press conferences and analysis<br>⚽ <a href=\"https://www.theguardian.com/football/2026/sep/16/when-did-football-fans-first-start-wearing-replica-kits\">The Knowledge: when were the first…",
+    "link": "https://www.theguardian.com/football/live/2026/sep/18/england-squad-to-be-announced-premier-league-latest-european-reaction-football-news-live",
+    "image": "https://i.guim.co.uk/img/media/ee5262ed3eb76173bde874d2478e1c5896cabe99/0_326_4000_3200/master/4000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ba96dc640efd9f40767cf694bf322d04"
   },
   "topStories": [
     {
       "id": "story-1",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "BBC Sport",
+      "time": "Sep 18",
+      "headline": "Wilson major Wales injury concern for Nations League",
+      "excerpt": "Leeds United forward Harry Wilson is a major doubt for the start of Wales' Nations…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cq62j7yrler2o?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5399/live/1b23f550-b36b-11f1-8e2e-af577ac96003.jpg"
+    },
+    {
+      "id": "story-2",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "BBC Sport",
+      "time": "Sep 18",
+      "headline": "Sorensen to join Republic of Ireland coaching staff",
+      "excerpt": "Former Everton manager Brian Sorensen is set to join the Republic of Ireland squad for…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cqj9x8kr0dm2o?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1016/live/ce797b20-b366-11f1-8f19-bd786ea30d0b.jpg"
+    },
+    {
+      "id": "story-3",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -24,7 +46,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4c39/live/7c4c5750-b366-11f1-b1d1-571ed4d7ff2c.jpg"
     },
     {
-      "id": "story-2",
+      "id": "story-4",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -35,18 +57,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d6a5/live/382b44d0-b363-11f1-b1d1-571ed4d7ff2c.jpg"
     },
     {
-      "id": "story-3",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "The Guardian",
-      "time": "Sep 18",
-      "headline": "Tuchel explains Alexander-Arnold and Palmer England recalls; Spain squad revealed in Ceuta: football news – live",
-      "excerpt": "<p>⚽ Friday’s team news, press conferences and analysis<br>⚽ <a href=\"https://www.theguardian.com/football/2026/sep/16/when-did-football-fans-first-start-wearing-replica-kits\">The Knowledge: when were the first…",
-      "link": "https://www.theguardian.com/football/live/2026/sep/18/england-squad-to-be-announced-premier-league-latest-european-reaction-football-news-live",
-      "image": "https://i.guim.co.uk/img/media/ee5262ed3eb76173bde874d2478e1c5896cabe99/0_326_4000_3200/master/4000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ba96dc640efd9f40767cf694bf322d04"
-    },
-    {
-      "id": "story-4",
+      "id": "story-5",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "101 Great Goals",
@@ -57,7 +68,7 @@
       "image": null
     },
     {
-      "id": "story-5",
+      "id": "story-6",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -68,7 +79,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6922/live/cd8bbfc0-b366-11f1-8f19-bd786ea30d0b.jpg"
     },
     {
-      "id": "story-6",
+      "id": "story-7",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "The Guardian",
@@ -79,7 +90,7 @@
       "image": "https://i.guim.co.uk/img/media/f02b5a09ddb35ac61d358f9413d1f9e61aaeb101/1_0_3443_2755/master/3443.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=8d90fa073d7b9103c2813a8ef25dd144"
     },
     {
-      "id": "story-7",
+      "id": "story-8",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -90,7 +101,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d893/live/acc645e0-b365-11f1-8f19-bd786ea30d0b.jpg"
     },
     {
-      "id": "story-8",
+      "id": "story-9",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -101,7 +112,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a975/live/b61840a0-b359-11f1-a430-4d16ee157c41.png"
     },
     {
-      "id": "story-9",
+      "id": "story-10",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -112,7 +123,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4465/live/27650870-b359-11f1-b949-71f91f81d1ab.jpg"
     },
     {
-      "id": "story-10",
+      "id": "story-11",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -123,7 +134,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a4b3/live/e27a2dd0-b2c7-11f1-9830-658a48c7da16.jpg"
     },
     {
-      "id": "story-11",
+      "id": "story-12",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -134,7 +145,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b8db/live/6ebff4c0-b352-11f1-a430-4d16ee157c41.jpg"
     },
     {
-      "id": "story-12",
+      "id": "story-13",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -145,7 +156,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/742a/live/16344020-b2af-11f1-819c-176371125270.jpg"
     },
     {
-      "id": "story-13",
+      "id": "story-14",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -156,7 +167,7 @@
       "image": "https://i.guim.co.uk/img/media/7c336ca40f31a3dd8930b727402947f0f0247a2e/0_0_2811_2249/master/2811.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f7f684e7ce0432aa3dd9d3af6a8cb2f2"
     },
     {
-      "id": "story-14",
+      "id": "story-15",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -167,7 +178,7 @@
       "image": "https://i.guim.co.uk/img/media/6a100a1932d95d774d652a3118d19abe07be1d96/339_26_2986_2389/master/2986.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=33906f09d0217c5c2acb59600746565c"
     },
     {
-      "id": "story-15",
+      "id": "story-16",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -178,7 +189,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e1cd/live/5cc39110-b342-11f1-91a3-393282eb9f17.jpg"
     },
     {
-      "id": "story-16",
+      "id": "story-17",
       "league": "Bundesliga",
       "dot": "#FFC469",
       "source": "BBC Sport",
@@ -189,7 +200,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e276/live/68e5e3b0-9ae9-11f1-b792-a710e56a11dc.jpg"
     },
     {
-      "id": "story-17",
+      "id": "story-18",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -200,7 +211,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6799/live/0b517db0-b333-11f1-910c-69bc1dc40919.jpg"
     },
     {
-      "id": "story-18",
+      "id": "story-19",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -211,7 +222,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8b00/live/bcc56e10-b335-11f1-910c-69bc1dc40919.png"
     },
     {
-      "id": "story-19",
+      "id": "story-20",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -222,7 +233,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c9be/live/cf091920-b333-11f1-a430-4d16ee157c41.png"
     },
     {
-      "id": "story-20",
+      "id": "story-21",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -233,7 +244,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3dac/live/c4f2a720-b1e5-11f1-ac01-a9af2f94b2cc.jpg"
     },
     {
-      "id": "story-21",
+      "id": "story-22",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -244,7 +255,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4de8/live/b27e22a0-b298-11f1-9b18-ad61bef6e34f.jpg"
     },
     {
-      "id": "story-22",
+      "id": "story-23",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -253,17 +264,6 @@
       "excerpt": "Sam Hutchinson is getting ready to play for Farnham Town in the second qualifying round…",
       "link": "https://www.bbc.co.uk/sport/football/articles/cm89jqxpvy3xo?at_medium=RSS&amp;at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8371/live/3dc5df20-b2a2-11f1-bd7d-0f16235ccc4c.png"
-    },
-    {
-      "id": "story-23",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "The Guardian",
-      "time": "Sep 18",
-      "headline": "Todd Boehly exits Chelsea diminished after having his fingers burned",
-      "excerpt": "<p>The billionaire’s departure will change little day-to-day but could be significant for club’s stadium plans</p><p>Not…",
-      "link": "https://www.theguardian.com/football/2026/sep/18/todd-boehly-leaves-chelsea-clearlake-capital-premier-league",
-      "image": "https://i.guim.co.uk/img/media/93417e6908d99c8450791eed046519cc5b87fe85/530_78_4713_3770/master/4713.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=9e0b1b509c77e016a857cf7e058e08a5"
     }
   ],
   "scoreboard": [
