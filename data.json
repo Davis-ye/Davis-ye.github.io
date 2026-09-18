@@ -1,19 +1,30 @@
 {
-  "updatedAt": "2026-09-18T13:34:17.710Z",
+  "updatedAt": "2026-09-18T13:45:34.901Z",
   "hero": {
     "id": "story-0",
     "league": "Football",
     "dot": "#AFC4AC",
-    "source": "The Guardian",
+    "source": "101 Great Goals",
     "time": "Sep 18",
-    "headline": "Tuchel explains Alexander-Arnold and Palmer England recalls; Spain squad revealed in Ceuta: football news – live",
-    "excerpt": "<p>⚽ Friday’s team news, press conferences and analysis<br>⚽ <a href=\"https://www.theguardian.com/football/2026/sep/16/when-did-football-fans-first-start-wearing-replica-kits\">The Knowledge: when were the first…",
-    "link": "https://www.theguardian.com/football/live/2026/sep/18/england-squad-to-be-announced-premier-league-latest-european-reaction-football-news-live",
-    "image": "https://i.guim.co.uk/img/media/ee5262ed3eb76173bde874d2478e1c5896cabe99/0_326_4000_3200/master/4000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ba96dc640efd9f40767cf694bf322d04"
+    "headline": "NFL: Allen leads Buffalo Bills to victory in new Highmark Stadium debut",
+    "excerpt": "Josh Allen and the Buffalo Bills put on a show at their new Highmark Stadium…",
+    "link": "https://www.101greatgoals.com/nfl/nfl-allen-leads-buffalo-bills-victor-highmark-stadium/",
+    "image": null
   },
   "topStories": [
     {
       "id": "story-1",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "The Guardian",
+      "time": "Sep 18",
+      "headline": "Tuchel explains Alexander-Arnold and Palmer England recalls; Spain squad revealed in Ceuta: football news – live",
+      "excerpt": "<p>⚽ Friday’s team news, press conferences and analysis<br>⚽ <a href=\"https://www.theguardian.com/football/2026/sep/16/when-did-football-fans-first-start-wearing-replica-kits\">The Knowledge: when were the first…",
+      "link": "https://www.theguardian.com/football/live/2026/sep/18/england-squad-to-be-announced-premier-league-latest-european-reaction-football-news-live",
+      "image": "https://i.guim.co.uk/img/media/ee5262ed3eb76173bde874d2478e1c5896cabe99/0_326_4000_3200/master/4000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ba96dc640efd9f40767cf694bf322d04"
+    },
+    {
+      "id": "story-2",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -21,10 +32,10 @@
       "headline": "How Iraola is moving Liverpool on from the Slot era",
       "excerpt": "BBC Sport looks at how new manager Andoni Iraola is moving Liverpool on from the…",
       "link": "https://www.bbc.co.uk/sport/football/articles/cjn5dg7de6wdo?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c1c8/live/9a81b280-b28d-11f1-8096-b33a1297275a.jpg"
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6922/live/cd8bbfc0-b366-11f1-8f19-bd786ea30d0b.jpg"
     },
     {
-      "id": "story-2",
+      "id": "story-3",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "The Guardian",
@@ -35,17 +46,6 @@
       "image": "https://i.guim.co.uk/img/media/f02b5a09ddb35ac61d358f9413d1f9e61aaeb101/1_0_3443_2755/master/3443.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=8d90fa073d7b9103c2813a8ef25dd144"
     },
     {
-      "id": "story-3",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "101 Great Goals",
-      "time": "Sep 18",
-      "headline": "Carrick claims sacking is &#8216;not on radar&#8217;: &#8216;What do you want me to show?&#8217;",
-      "excerpt": "United have matched their worst start in the modern Premier League",
-      "link": "https://www.101greatgoals.com/football/premier-league/carrick-man-united-sacking/",
-      "image": null
-    },
-    {
       "id": "story-4",
       "league": "Football",
       "dot": "#AFC4AC",
@@ -54,7 +54,7 @@
       "headline": "Oxford apologise for United 93 shirt advert",
       "excerpt": "Oxford United apologises for the image, which features the call sign of one of the…",
       "link": "https://www.bbc.co.uk/news/articles/cmr4v5v3zzr7o?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6d6b/live/ec08e000-b356-11f1-bc1f-3f186ca4140c.jpg"
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d893/live/acc645e0-b365-11f1-8f19-bd786ea30d0b.jpg"
     },
     {
       "id": "story-5",
@@ -129,7 +129,7 @@
       "source": "The Guardian",
       "time": "Sep 18",
       "headline": "Why Tottenham are misfiring … and it’s not just down to the lack of goals",
-      "excerpt": "<p>Spurs are getting into attacking areas but failing to make or take chances as Roberto…",
+      "excerpt": "<p>Spurs are getting into attacking areas but failing to make or take openings as Roberto…",
       "link": "https://www.theguardian.com/football/2026/sep/18/injuries-team-changes-and-arduous-tours-why-tottenham-are-misfiring",
       "image": "https://i.guim.co.uk/img/media/6a100a1932d95d774d652a3118d19abe07be1d96/339_26_2986_2389/master/2986.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=33906f09d0217c5c2acb59600746565c"
     },
