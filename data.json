@@ -1,19 +1,41 @@
 {
-  "updatedAt": "2026-09-18T22:28:11.533Z",
+  "updatedAt": "2026-09-18T22:38:18.687Z",
   "hero": {
     "id": "story-0",
-    "league": "Premier League",
-    "dot": "#9CC0F0",
-    "source": "101 Great Goals",
+    "league": "Bundesliga",
+    "dot": "#FFC469",
+    "source": "BBC Sport",
     "time": "Sep 18",
-    "headline": "Xabi Alonso admits &#8216;we must do better&#8217; after dismal Chelsea thrashed by Brentford",
-    "excerpt": "Xabi Alonso looked shellshocked after his Chelsea side collapsed in the second half to lose…",
-    "link": "https://www.101greatgoals.com/football/premier-league/xabi-alonso-quotes-must-do-better-after-dismal-chelsea-thrashed-by-brentford/",
-    "image": null
+    "headline": "Kane makes history and Olise nets hat-trick as Bayern thrash Union",
+    "excerpt": "Harry Kane makes history by scoring his 100th and 101st Bundesliga goals in just 98…",
+    "link": "https://www.bbc.co.uk/sport/football/videos/ck4gle1ep647o?at_medium=RSS&amp;at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/60a1/live/1bb6c400-b3ae-11f1-a430-4d16ee157c41.jpg"
   },
   "topStories": [
     {
       "id": "story-1",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "101 Great Goals",
+      "time": "Sep 18",
+      "headline": "Xabi Alonso admits &#8216;we must do better&#8217; after dismal Chelsea thrashed by Brentford",
+      "excerpt": "Xabi Alonso looked shellshocked after his Chelsea side collapsed in the second half to lose…",
+      "link": "https://www.101greatgoals.com/football/premier-league/xabi-alonso-quotes-must-do-better-after-dismal-chelsea-thrashed-by-brentford/",
+      "image": null
+    },
+    {
+      "id": "story-2",
+      "league": "Bundesliga",
+      "dot": "#FFC469",
+      "source": "The Guardian",
+      "time": "Sep 18",
+      "headline": "Harry Kane smashes record for fastest to 100 Bundesliga goals in 98th game",
+      "excerpt": "<ul><li><p>Kane double helps Bayern Munich beat Union Berlin 7-0</p></li><li><p>Dieter Müller’s record of 129 games had…",
+      "link": "https://www.theguardian.com/football/2026/sep/18/harry-kane-smashes-record-for-fastest-to-100-bundesliga-goals-in-98th-game",
+      "image": "https://i.guim.co.uk/img/media/f8b7216be8dbc7b1d500744e5e70138d2bf3433d/680_0_4248_3398/master/4248.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=15d63acd58eacc8e729f133dc17a5b61"
+    },
+    {
+      "id": "story-3",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -24,7 +46,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6b9d/live/4de77c90-b3a8-11f1-bc1f-3f186ca4140c.jpg"
     },
     {
-      "id": "story-2",
+      "id": "story-4",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -35,7 +57,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8ef6/live/5ad3f440-b37d-11f1-9023-9990160baacc.jpg"
     },
     {
-      "id": "story-3",
+      "id": "story-5",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -46,7 +68,7 @@
       "image": "https://i.guim.co.uk/img/media/12ac0d4ed5036a79f49f350237744934f15347a4/418_0_6836_5468/master/6836.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=cab78092dcd51dc8b8978b89fa97fccc"
     },
     {
-      "id": "story-4",
+      "id": "story-6",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -57,7 +79,7 @@
       "image": "https://i.guim.co.uk/img/media/1220b3a3299140b98c0502ebb8063242ba17eb82/113_0_1740_1393/master/1740.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e194e245d76ad65984cbee83b50fa856"
     },
     {
-      "id": "story-5",
+      "id": "story-7",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -68,7 +90,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4747/live/ec9b3ee0-b3ac-11f1-b1d1-571ed4d7ff2c.jpg"
     },
     {
-      "id": "story-6",
+      "id": "story-8",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -79,7 +101,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2c51/live/67c2c400-b3a1-11f1-a430-4d16ee157c41.jpg"
     },
     {
-      "id": "story-7",
+      "id": "story-9",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -90,7 +112,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1f87/live/2ec4a210-b39a-11f1-a430-4d16ee157c41.png"
     },
     {
-      "id": "story-8",
+      "id": "story-10",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -101,7 +123,7 @@
       "image": "https://i.guim.co.uk/img/media/2af1c8bfba411b2a010a783e28284f4a91f9bc1c/245_0_2183_1746/master/2183.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=7dfee35584b1e04f359ef520f828edec"
     },
     {
-      "id": "story-9",
+      "id": "story-11",
       "league": "La Liga",
       "dot": "#E3B4F5",
       "source": "The Guardian",
@@ -112,7 +134,7 @@
       "image": "https://i.guim.co.uk/img/media/0a019b18fb93ee20eb202fddec31ac3d983e8e8e/161_0_1654_1323/master/1654.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=62b5ef48a5c67b50a72264b9d0a11e67"
     },
     {
-      "id": "story-10",
+      "id": "story-12",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -123,7 +145,7 @@
       "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0pbcq71.jpg"
     },
     {
-      "id": "story-11",
+      "id": "story-13",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -134,7 +156,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9e75/live/cdb951e0-b386-11f1-ae81-31b49a394756.jpg"
     },
     {
-      "id": "story-12",
+      "id": "story-14",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "The Guardian",
@@ -145,7 +167,7 @@
       "image": "https://i.guim.co.uk/img/media/2cd537d924453d4e7c4b41546a4600b135d21c75/265_56_2430_1944/master/2430.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a8146be4a28a2c66a19cb129ab899dcc"
     },
     {
-      "id": "story-13",
+      "id": "story-15",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -156,7 +178,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/668e/live/9a19ca10-b36b-11f1-8f19-bd786ea30d0b.jpg"
     },
     {
-      "id": "story-14",
+      "id": "story-16",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -167,7 +189,7 @@
       "image": "https://i.guim.co.uk/img/media/1cd76e17814c87285a35400be5d0f98e294c6a74/11_11_2044_1631/master/2044.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=743f881e4734b01af7e83965b2c9b824"
     },
     {
-      "id": "story-15",
+      "id": "story-17",
       "league": "La Liga",
       "dot": "#E3B4F5",
       "source": "The Guardian",
@@ -178,7 +200,7 @@
       "image": "https://i.guim.co.uk/img/media/dc20621080e86c952f97f4959232155732bed9bb/850_326_4703_3763/master/4703.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=dfa2d70360a4340c49f49def98f6977d"
     },
     {
-      "id": "story-16",
+      "id": "story-18",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -189,7 +211,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0fe1/live/c8715c90-b364-11f1-bc1f-3f186ca4140c.png"
     },
     {
-      "id": "story-17",
+      "id": "story-19",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -200,7 +222,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5219/live/9edef570-b37a-11f1-9023-9990160baacc.jpg"
     },
     {
-      "id": "story-18",
+      "id": "story-20",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -211,7 +233,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/42ea/live/aa7cf650-b35e-11f1-8f19-bd786ea30d0b.jpg"
     },
     {
-      "id": "story-19",
+      "id": "story-21",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -222,7 +244,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c32d/live/817113f0-a7a5-11f1-a7ad-37a1f7dc081c.jpg"
     },
     {
-      "id": "story-20",
+      "id": "story-22",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -233,7 +255,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3506/live/a2d1ff60-b36b-11f1-8f19-bd786ea30d0b.jpg"
     },
     {
-      "id": "story-21",
+      "id": "story-23",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -242,28 +264,6 @@
       "excerpt": "<p>Here’s how to follow along with our coverage – the finest writing and up-to-the-minute reports</p>…",
       "link": "https://www.theguardian.com/sport/2026/sep/18/premier-league-action-celtic-v-rangers-t20-cricket-and-nfl-follow-with-us",
       "image": "https://i.guim.co.uk/img/media/9914bf18e08136abb755565928e5ad7287668748/0_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=41656fdbe627f6dc0ba25b8be93f562e"
-    },
-    {
-      "id": "story-22",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "BBC Sport",
-      "time": "Sep 18",
-      "headline": "London City's new training centre 'better than most Premier League clubs' - Kang",
-      "excerpt": "Michele Kang believes London City Lionesses' planned new training ground will set a new standard…",
-      "link": "https://www.bbc.co.uk/sport/football/articles/crl69549wzro?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a127/live/b29a2fc0-b01f-11f1-95e6-93ee8a80cb38.jpg"
-    },
-    {
-      "id": "story-23",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "BBC Sport",
-      "time": "Sep 18",
-      "headline": "'I'm not doing this as a charity' - Kang on trying to 'level playing field'",
-      "excerpt": "London City Lionesses owner Michele Kang shares why it is so important for more infrastructure…",
-      "link": "https://www.bbc.co.uk/sport/football/videos/cq4gmlypvd8vo?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b326/live/4d496cf0-b1e9-11f1-bc1f-3f186ca4140c.jpg"
     }
   ],
   "scoreboard": [
