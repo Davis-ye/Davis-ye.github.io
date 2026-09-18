@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-09-18T12:01:23.226Z",
+  "updatedAt": "2026-09-18T12:19:44.172Z",
   "hero": {
     "id": "story-0",
     "league": "Football",
     "dot": "#AFC4AC",
-    "source": "101 Great Goals",
+    "source": "BBC Sport",
     "time": "Sep 18",
-    "headline": "England squad announcement: Full list for Nations League 2026",
-    "excerpt": "The squad for England's Nations League 2026 fixtures",
-    "link": "https://www.101greatgoals.com/football/internationals/england-squad-nations-league-spain-czech-republic-croatia-cole-palmer-trent-alexander-arnold/",
-    "image": null
+    "headline": "Tuchel recalls Alexander-Arnold and Palmer with warning",
+    "excerpt": "England boss Thomas Tuchel recalls Trent Alexander-Arnold and Cole Palmer but says players have to…",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cmly4gpnwk2go?at_medium=RSS&amp;at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a975/live/b61840a0-b359-11f1-a430-4d16ee157c41.png"
   },
   "topStories": [
     {
@@ -25,6 +25,28 @@
     },
     {
       "id": "story-2",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "BBC Sport",
+      "time": "Sep 18",
+      "headline": "Wrexham owners aim Spygate dig at Southampton",
+      "excerpt": "Ryan Reynolds and Rob Mac have poked fun at next opponents Southampton ahead of their…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cxyvz9jy16l3o?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a4b3/live/e27a2dd0-b2c7-11f1-9830-658a48c7da16.jpg"
+    },
+    {
+      "id": "story-3",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "101 Great Goals",
+      "time": "Sep 18",
+      "headline": "England squad announcement: Full list for Nations League 2026",
+      "excerpt": "The squad for England's Nations League 2026 fixtures",
+      "link": "https://www.101greatgoals.com/football/internationals/england-squad-nations-league-spain-czech-republic-croatia-cole-palmer-trent-alexander-arnold/",
+      "image": null
+    },
+    {
+      "id": "story-4",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -35,18 +57,18 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b8db/live/6ebff4c0-b352-11f1-a430-4d16ee157c41.jpg"
     },
     {
-      "id": "story-3",
-      "league": "Football",
-      "dot": "#AFC4AC",
+      "id": "story-5",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
       "source": "BBC Sport",
       "time": "Sep 18",
-      "headline": "Tuchel recalls Alexander-Arnold and Palmer with warning",
-      "excerpt": "England boss Thomas Tuchel says \"the door is always open\" after recalling Trent Alexander-Arnold and…",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cmly4gpnwk2go?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7e3a/live/63dc3110-b34b-11f1-bc1f-3f186ca4140c.png"
+      "headline": "Premier League the goal in Just's unlikely journey",
+      "excerpt": "Having lived out one dream already this year, Swansea City's New Zealand star Elijah Just…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c6grvzxqwwrpo?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/742a/live/16344020-b2af-11f1-819c-176371125270.jpg"
     },
     {
-      "id": "story-4",
+      "id": "story-6",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -57,7 +79,7 @@
       "image": "https://i.guim.co.uk/img/media/7c336ca40f31a3dd8930b727402947f0f0247a2e/0_0_2811_2249/master/2811.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f7f684e7ce0432aa3dd9d3af6a8cb2f2"
     },
     {
-      "id": "story-5",
+      "id": "story-7",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -68,7 +90,7 @@
       "image": "https://i.guim.co.uk/img/media/6a100a1932d95d774d652a3118d19abe07be1d96/339_26_2986_2389/master/2986.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=33906f09d0217c5c2acb59600746565c"
     },
     {
-      "id": "story-6",
+      "id": "story-8",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -79,7 +101,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e1cd/live/5cc39110-b342-11f1-91a3-393282eb9f17.jpg"
     },
     {
-      "id": "story-7",
+      "id": "story-9",
       "league": "Bundesliga",
       "dot": "#FFC469",
       "source": "BBC Sport",
@@ -90,7 +112,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e276/live/68e5e3b0-9ae9-11f1-b792-a710e56a11dc.jpg"
     },
     {
-      "id": "story-8",
+      "id": "story-10",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -101,7 +123,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6799/live/0b517db0-b333-11f1-910c-69bc1dc40919.jpg"
     },
     {
-      "id": "story-9",
+      "id": "story-11",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -112,7 +134,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8b00/live/bcc56e10-b335-11f1-910c-69bc1dc40919.png"
     },
     {
-      "id": "story-10",
+      "id": "story-12",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -123,7 +145,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c9be/live/cf091920-b333-11f1-a430-4d16ee157c41.png"
     },
     {
-      "id": "story-11",
+      "id": "story-13",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -134,7 +156,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3dac/live/c4f2a720-b1e5-11f1-ac01-a9af2f94b2cc.jpg"
     },
     {
-      "id": "story-12",
+      "id": "story-14",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -145,7 +167,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4de8/live/b27e22a0-b298-11f1-9b18-ad61bef6e34f.jpg"
     },
     {
-      "id": "story-13",
+      "id": "story-15",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -156,7 +178,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8371/live/3dc5df20-b2a2-11f1-bd7d-0f16235ccc4c.png"
     },
     {
-      "id": "story-14",
+      "id": "story-16",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -167,7 +189,7 @@
       "image": "https://i.guim.co.uk/img/media/93417e6908d99c8450791eed046519cc5b87fe85/530_78_4713_3770/master/4713.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=9e0b1b509c77e016a857cf7e058e08a5"
     },
     {
-      "id": "story-15",
+      "id": "story-17",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -178,7 +200,7 @@
       "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0pb82sc.jpg"
     },
     {
-      "id": "story-16",
+      "id": "story-18",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -189,7 +211,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4f24/live/26297610-b2a7-11f1-a430-4d16ee157c41.png"
     },
     {
-      "id": "story-17",
+      "id": "story-19",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -200,7 +222,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0a43/live/385c7a20-b2b7-11f1-ad9d-efc12ace03e0.jpg"
     },
     {
-      "id": "story-18",
+      "id": "story-20",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -211,7 +233,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ada7/live/27df4c70-9658-11f1-b2ab-0dd01740f9f6.jpg"
     },
     {
-      "id": "story-19",
+      "id": "story-21",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -222,7 +244,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8fd2/live/6a23f960-b1dc-11f1-a44b-aba96a7d56aa.jpg"
     },
     {
-      "id": "story-20",
+      "id": "story-22",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -233,7 +255,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/63fc/live/ed11ffa0-b1b6-11f1-bc1f-3f186ca4140c.jpg"
     },
     {
-      "id": "story-21",
+      "id": "story-23",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -242,28 +264,6 @@
       "excerpt": "Striker Alexander Isak says Liverpool's ambition and determination to sign him was a big part…",
       "link": "https://www.bbc.co.uk/sport/football/articles/ckvgypz42n36o?at_medium=RSS&amp;at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3ef9/live/5d215900-b2b4-11f1-819c-176371125270.jpg"
-    },
-    {
-      "id": "story-22",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "BBC Sport",
-      "time": "Sep 18",
-      "headline": "Bellamy right to speak to Burnley - FAW chief Adams",
-      "excerpt": "FAW chief football officer David Adams says he has a list of potential replacements for…",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cmje81nxgz4wo?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/717a/live/d2935ae0-b33f-11f1-91a3-393282eb9f17.jpg"
-    },
-    {
-      "id": "story-23",
-      "league": "La Liga",
-      "dot": "#E3B4F5",
-      "source": "The Guardian",
-      "time": "Sep 18",
-      "headline": "Socceroos captain Maty Ryan axed for Brazil friendlies",
-      "excerpt": "<ul><li><p>Goalkeeper dropped despite strong start to La Liga season</p></li><li><p>Seven uncapped players called into 26-man Australia…",
-      "link": "https://www.theguardian.com/football/2026/sep/18/socceroos-captain-maty-ryan-droppedr-brazil-vs-australia-friendlies",
-      "image": "https://i.guim.co.uk/img/media/626a629cbedc6ee4f91793f762764b8f294480de/0_0_3638_2910/master/3638.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=be661f0d67813a0490b590b037c1dd83"
     }
   ],
   "scoreboard": [
