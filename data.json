@@ -1,19 +1,41 @@
 {
-  "updatedAt": "2026-09-18T21:30:25.348Z",
+  "updatedAt": "2026-09-18T21:40:20.395Z",
   "hero": {
     "id": "story-0",
-    "league": "Premier League",
-    "dot": "#9CC0F0",
-    "source": "The Guardian",
+    "league": "Bundesliga",
+    "dot": "#FFC469",
+    "source": "101 Great Goals",
     "time": "Sep 18",
-    "headline": "Brentford blitz Chelsea as Fábio Carvalho caps stunning second-half display",
-    "excerpt": "<p></p><p>Those early season thoughts that Chelsea might be the team best placed to challenge Arsenal…",
-    "link": "https://www.theguardian.com/football/2026/sep/18/brentford-chelsea-premier-league-match-report",
-    "image": "https://i.guim.co.uk/img/media/1220b3a3299140b98c0502ebb8063242ba17eb82/113_0_1740_1393/master/1740.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e194e245d76ad65984cbee83b50fa856"
+    "headline": "King Kane nets 100th Bundesliga goal in record time as Bayern Munich rout Union Berlin",
+    "excerpt": "Harry Kane netted twice - including a landmark goal - as Bayern hammered sorry Union…",
+    "link": "https://www.101greatgoals.com/football/bundesliga/harry-kane-nets-100th-bundesliga-goal-bayern-munich-rout-union-berlin/",
+    "image": null
   },
   "topStories": [
     {
       "id": "story-1",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "BBC Sport",
+      "time": "Sep 18",
+      "headline": "Arsenal open to Dowman loan in right circumstances",
+      "excerpt": "Arsenal are open to allowing teenage prodigy Max Dowman to leave the club on loan…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/crp3k23nkl8go?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8ef6/live/5ad3f440-b37d-11f1-9023-9990160baacc.jpg"
+    },
+    {
+      "id": "story-2",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "The Guardian",
+      "time": "Sep 18",
+      "headline": "Brentford blitz Chelsea as Fábio Carvalho caps stunning second-half display",
+      "excerpt": "<p></p><p>Those early season thoughts that Chelsea might be the team best placed to challenge Arsenal…",
+      "link": "https://www.theguardian.com/football/2026/sep/18/brentford-chelsea-premier-league-match-report",
+      "image": "https://i.guim.co.uk/img/media/1220b3a3299140b98c0502ebb8063242ba17eb82/113_0_1740_1393/master/1740.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e194e245d76ad65984cbee83b50fa856"
+    },
+    {
+      "id": "story-3",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "101 Great Goals",
@@ -24,7 +46,7 @@
       "image": null
     },
     {
-      "id": "story-2",
+      "id": "story-4",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -35,7 +57,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1d39/live/573c0b30-b3a3-11f1-84e0-d100e0413eb5.jpg"
     },
     {
-      "id": "story-3",
+      "id": "story-5",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -46,7 +68,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2c51/live/67c2c400-b3a1-11f1-a430-4d16ee157c41.jpg"
     },
     {
-      "id": "story-4",
+      "id": "story-6",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -57,7 +79,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1f87/live/2ec4a210-b39a-11f1-a430-4d16ee157c41.png"
     },
     {
-      "id": "story-5",
+      "id": "story-7",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -68,7 +90,7 @@
       "image": "https://i.guim.co.uk/img/media/2af1c8bfba411b2a010a783e28284f4a91f9bc1c/245_0_2183_1746/master/2183.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=7dfee35584b1e04f359ef520f828edec"
     },
     {
-      "id": "story-6",
+      "id": "story-8",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "101 Great Goals",
@@ -79,7 +101,7 @@
       "image": null
     },
     {
-      "id": "story-7",
+      "id": "story-9",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "101 Great Goals",
@@ -90,7 +112,7 @@
       "image": null
     },
     {
-      "id": "story-8",
+      "id": "story-10",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "101 Great Goals",
@@ -101,7 +123,7 @@
       "image": null
     },
     {
-      "id": "story-9",
+      "id": "story-11",
       "league": "La Liga",
       "dot": "#E3B4F5",
       "source": "The Guardian",
@@ -112,7 +134,7 @@
       "image": "https://i.guim.co.uk/img/media/0a019b18fb93ee20eb202fddec31ac3d983e8e8e/161_0_1654_1323/master/1654.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=62b5ef48a5c67b50a72264b9d0a11e67"
     },
     {
-      "id": "story-10",
+      "id": "story-12",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "101 Great Goals",
@@ -123,7 +145,7 @@
       "image": null
     },
     {
-      "id": "story-11",
+      "id": "story-13",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -134,7 +156,7 @@
       "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0pbcq71.jpg"
     },
     {
-      "id": "story-12",
+      "id": "story-14",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -145,7 +167,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9e75/live/cdb951e0-b386-11f1-ae81-31b49a394756.jpg"
     },
     {
-      "id": "story-13",
+      "id": "story-15",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "101 Great Goals",
@@ -156,7 +178,7 @@
       "image": null
     },
     {
-      "id": "story-14",
+      "id": "story-16",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "The Guardian",
@@ -167,7 +189,7 @@
       "image": "https://i.guim.co.uk/img/media/2cd537d924453d4e7c4b41546a4600b135d21c75/265_56_2430_1944/master/2430.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a8146be4a28a2c66a19cb129ab899dcc"
     },
     {
-      "id": "story-15",
+      "id": "story-17",
       "league": "La Liga",
       "dot": "#E3B4F5",
       "source": "101 Great Goals",
@@ -178,7 +200,7 @@
       "image": null
     },
     {
-      "id": "story-16",
+      "id": "story-18",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -189,7 +211,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/668e/live/9a19ca10-b36b-11f1-8f19-bd786ea30d0b.jpg"
     },
     {
-      "id": "story-17",
+      "id": "story-19",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -200,7 +222,7 @@
       "image": "https://i.guim.co.uk/img/media/1cd76e17814c87285a35400be5d0f98e294c6a74/11_11_2044_1631/master/2044.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=743f881e4734b01af7e83965b2c9b824"
     },
     {
-      "id": "story-18",
+      "id": "story-20",
       "league": "La Liga",
       "dot": "#E3B4F5",
       "source": "The Guardian",
@@ -211,7 +233,7 @@
       "image": "https://i.guim.co.uk/img/media/dc20621080e86c952f97f4959232155732bed9bb/850_326_4703_3763/master/4703.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=dfa2d70360a4340c49f49def98f6977d"
     },
     {
-      "id": "story-19",
+      "id": "story-21",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "101 Great Goals",
@@ -222,7 +244,7 @@
       "image": null
     },
     {
-      "id": "story-20",
+      "id": "story-22",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -233,7 +255,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0fe1/live/c8715c90-b364-11f1-bc1f-3f186ca4140c.png"
     },
     {
-      "id": "story-21",
+      "id": "story-23",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -242,28 +264,6 @@
       "excerpt": "The Football Association of Ireland says it had a request to keep the Republic of…",
       "link": "https://www.bbc.co.uk/sport/football/articles/cm750e2ek0n5o?at_medium=RSS&amp;at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5219/live/9edef570-b37a-11f1-9023-9990160baacc.jpg"
-    },
-    {
-      "id": "story-22",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "BBC Sport",
-      "time": "Sep 18",
-      "headline": "Uefa & Concacaf demand Fifa pays $10m to all 211 members",
-      "excerpt": "Uefa and Concacaf issue a joint statement calling on Fifa to pay $10m from its…",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c6158x85pv19o?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/42ea/live/aa7cf650-b35e-11f1-8f19-bd786ea30d0b.jpg"
-    },
-    {
-      "id": "story-23",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "BBC Sport",
-      "time": "Sep 18",
-      "headline": "Northampton agree deal with Pato-led consortium",
-      "excerpt": "Northampton reach agreement with a consortium including former Brazil forward Alexandre Pato over a \"proposed…",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c6qxvd5vv33wo?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c32d/live/817113f0-a7a5-11f1-a7ad-37a1f7dc081c.jpg"
     }
   ],
   "scoreboard": [
