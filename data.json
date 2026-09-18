@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-18T05:26:40.960Z",
+  "updatedAt": "2026-09-18T05:37:28.047Z",
   "hero": {
     "id": "story-0",
     "league": "Premier League",
@@ -36,6 +36,17 @@
     },
     {
       "id": "story-3",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "BBC Sport",
+      "time": "Sep 18",
+      "headline": "Bellamy right to speak to Burnley - FAW chief Adams",
+      "excerpt": "FAW chief football officer David Adams says he has a list of potential replacements for…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cmje81nxgz4wo?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7e35/live/3ed0a520-b2b2-11f1-819c-176371125270.jpg"
+    },
+    {
+      "id": "story-4",
       "league": "La Liga",
       "dot": "#E3B4F5",
       "source": "The Guardian",
@@ -46,7 +57,7 @@
       "image": "https://i.guim.co.uk/img/media/626a629cbedc6ee4f91793f762764b8f294480de/0_0_3638_2910/master/3638.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=be661f0d67813a0490b590b037c1dd83"
     },
     {
-      "id": "story-4",
+      "id": "story-5",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -57,7 +68,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/90f7/live/f15b7fc0-b2e0-11f1-99a0-c787492c049d.jpg"
     },
     {
-      "id": "story-5",
+      "id": "story-6",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -68,7 +79,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/65dc/live/7e80fcf0-b2ea-11f1-999f-09ef8284f0de.jpg"
     },
     {
-      "id": "story-6",
+      "id": "story-7",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -79,7 +90,7 @@
       "image": "https://i.guim.co.uk/img/media/576193dd3d2ea34a392177179e39b52a11fae6b5/0_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=7cead1f09274ae5eb9c20884355bf21a"
     },
     {
-      "id": "story-7",
+      "id": "story-8",
       "league": "Serie A",
       "dot": "#A9E6A0",
       "source": "The Guardian",
@@ -90,7 +101,7 @@
       "image": "https://i.guim.co.uk/img/media/1853f09d3b4d9081fd8946f16acf1f7434ff34ea/25_325_3139_2512/master/3139.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=030775dbfd2b6820fbf6630c1e04e063"
     },
     {
-      "id": "story-8",
+      "id": "story-9",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -101,7 +112,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7c85/live/18447b50-b2d7-11f1-a430-4d16ee157c41.png"
     },
     {
-      "id": "story-9",
+      "id": "story-10",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -110,17 +121,6 @@
       "excerpt": "Floyd Samba's scintillating debut stole the show at Etihad Stadium but also took the headlines…",
       "link": "https://www.bbc.co.uk/sport/football/articles/cqr7d30p1vjmo?at_medium=RSS&amp;at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cc03/live/dc8e0540-b2d1-11f1-aa00-7947ea0dbeab.jpg"
-    },
-    {
-      "id": "story-10",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "101 Great Goals",
-      "time": "Sep 17",
-      "headline": "Samba says Man City debut was &#8216;mind blowing&#8217;",
-      "excerpt": "17-year-old is star of the show in big win for the holders",
-      "link": "https://www.101greatgoals.com/football/samba-says-man-city-debut-was-mind-blowing/",
-      "image": null
     },
     {
       "id": "story-11",
