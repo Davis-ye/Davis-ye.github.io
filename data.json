@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-09-19T22:40:23.229Z",
+  "updatedAt": "2026-09-19T22:47:42.574Z",
   "hero": {
     "id": "story-0",
     "league": "Premier League",
     "dot": "#9CC0F0",
     "source": "BBC Sport",
     "time": "Sep 19",
-    "headline": "Match of the Day",
-    "excerpt": "Highlights of five Premier League matches, including champions Arsenal's trip to Brighton.",
-    "link": "https://www.bbc.co.uk/iplayer/live/bbcone?at_medium=RSS&amp;at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0pb8dtx.jpg"
+    "headline": "Arsenal score last-minute equaliser to deny Man Utd first WSL win",
+    "excerpt": "Arsenal steal a last gasp leveller through Smilla Holmberg, denying Eva Olid her first win…",
+    "link": "https://www.bbc.co.uk/sport/football/videos/c8r4v5y9w1gyo?at_medium=RSS&amp;at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d405/live/e60c97b0-b459-11f1-a430-4d16ee157c41.jpg"
   },
   "topStories": [
     {
