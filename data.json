@@ -1,27 +1,27 @@
 {
-  "updatedAt": "2026-09-19T17:24:32.475Z",
+  "updatedAt": "2026-09-19T17:31:38.337Z",
   "hero": {
     "id": "story-0",
     "league": "Premier League",
     "dot": "#9CC0F0",
-    "source": "101 Great Goals",
+    "source": "The Guardian",
     "time": "Sep 19",
-    "headline": "Arteta laments ‘extremely poor’ Arsenal after Brighton defeat",
-    "excerpt": "It was a first loss of the season for the Gunners",
-    "link": "https://www.101greatgoals.com/football/premier-league/arteta-laments-extremely-poor-arsenal-after-brighton-defeat/",
-    "image": null
+    "headline": "Arsenal v Manchester United: Women’s Super League – live",
+    "excerpt": "<p>⚽️ WSL updates from the 5.30pm (BST) kick-off<br>⚽️ <a href=\"https://www.theguardian.com/football/2026/sep/18/manchester-city-liverpool-wsl-match-report-womens-super-league\">Man City scramble to WSL win…",
+    "link": "https://www.theguardian.com/football/live/2026/sep/19/arsenal-v-manchester-united-womens-super-league-live",
+    "image": "https://i.guim.co.uk/img/media/3ef8c6e79ad8a053302c7540ee85022dbb4610bf/433_168_4067_3254/master/4067.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b7b58104d35533cb020d6694aa3f861e"
   },
   "topStories": [
     {
       "id": "story-1",
       "league": "Premier League",
       "dot": "#9CC0F0",
-      "source": "The Guardian",
+      "source": "101 Great Goals",
       "time": "Sep 19",
-      "headline": "Arsenal v Manchester United: Women’s Super League – live",
-      "excerpt": "<p>⚽️ WSL updates from the 5.30pm (BST) kick-off<br>⚽️ <a href=\"https://www.theguardian.com/football/2026/sep/18/manchester-city-liverpool-wsl-match-report-womens-super-league\">Man City scramble to WSL win…",
-      "link": "https://www.theguardian.com/football/live/2026/sep/19/arsenal-v-manchester-united-womens-super-league-live",
-      "image": "https://i.guim.co.uk/img/media/3ef8c6e79ad8a053302c7540ee85022dbb4610bf/433_168_4067_3254/master/4067.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b7b58104d35533cb020d6694aa3f861e"
+      "headline": "Arteta laments ‘extremely poor’ Arsenal after Brighton defeat",
+      "excerpt": "It was a first loss of the season for the Gunners",
+      "link": "https://www.101greatgoals.com/football/premier-league/arteta-laments-extremely-poor-arsenal-after-brighton-defeat/",
+      "image": null
     },
     {
       "id": "story-2",
@@ -109,7 +109,7 @@
       "headline": "Newcastle bounce back from Leeds rout as Willock and Hall see off Hull",
       "excerpt": "<p>Hull always knew that, sooner or later, they would lose a Premier League game but…",
       "link": "https://www.theguardian.com/football/2026/sep/19/newcastle-hull-premier-league-match-report",
-      "image": "https://i.guim.co.uk/img/media/960dcc1c6e299ef6a7708079c56e0ce4e74ce879/614_0_4807_3846/master/4807.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b66c389b8247c9a73279a51627c833c1"
+      "image": "https://i.guim.co.uk/img/media/332b3392ea537e390724040a3c748fd232cedab5/260_0_2680_2145/master/2680.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=cb3c7b3d907e755d67be2dfb4897e76d"
     },
     {
       "id": "story-10",
