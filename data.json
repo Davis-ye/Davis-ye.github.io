@@ -1,19 +1,30 @@
 {
-  "updatedAt": "2026-09-19T14:24:03.984Z",
+  "updatedAt": "2026-09-19T14:33:38.224Z",
   "hero": {
     "id": "story-0",
     "league": "Premier League",
     "dot": "#9CC0F0",
-    "source": "BBC Sport",
+    "source": "The Guardian",
     "time": "Sep 19",
-    "headline": "Emery praises Jackson & Suzuki after 'fantastic' win at Spurs",
-    "excerpt": "Aston Villa manager Unai Emery admires his side's resilience in their 3-2 away victory against…",
-    "link": "https://www.bbc.co.uk/sport/football/videos/cmwyzg4ep1wlo?at_medium=RSS&amp;at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fe56/live/0de6fe50-b433-11f1-a430-4d16ee157c41.jpg"
+    "headline": "Brighton v Arsenal, Newcastle v Hull and more: clockwatch – live",
+    "excerpt": "<p>⚽️ Updates from across the grounds for Saturday’s games<br>⚽️ <a href=\"https://www.theguardian.com/football/live\">Live scoreboard</a> | <a href=\"https://www.theguardian.com/football/live/2026/sep/19/tottenham-v-aston-villa-premier-league-live\">Spurs…",
+    "link": "https://www.theguardian.com/football/live/2026/sep/19/brighton-arsenal-newcastle-hull-more-football-clockwatch-live-scores-updates",
+    "image": "https://i.guim.co.uk/img/media/332b3392ea537e390724040a3c748fd232cedab5/260_0_2680_2145/master/2680.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=cb3c7b3d907e755d67be2dfb4897e76d"
   },
   "topStories": [
     {
       "id": "story-1",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "BBC Sport",
+      "time": "Sep 19",
+      "headline": "Emery praises Jackson & Suzuki after 'fantastic' win at Spurs",
+      "excerpt": "Aston Villa manager Unai Emery admires his side's resilience in their 3-2 away victory against…",
+      "link": "https://www.bbc.co.uk/sport/football/videos/cmwyzg4ep1wlo?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fe56/live/0de6fe50-b433-11f1-a430-4d16ee157c41.jpg"
+    },
+    {
+      "id": "story-2",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "101 Great Goals",
@@ -24,24 +35,13 @@
       "image": null
     },
     {
-      "id": "story-2",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "The Guardian",
-      "time": "Sep 19",
-      "headline": "Brighton v Arsenal, Newcastle v Hull and more: clockwatch – live",
-      "excerpt": "<p>⚽️ Updates from across the grounds for Saturday’s games<br>⚽️ <a href=\"https://www.theguardian.com/football/live\">Live scoreboard</a> | <a href=\"https://www.theguardian.com/football/live/2026/sep/19/tottenham-v-aston-villa-premier-league-live\">Spurs…",
-      "link": "https://www.theguardian.com/football/live/2026/sep/19/brighton-arsenal-newcastle-hull-more-football-clockwatch-live-scores-updates",
-      "image": "https://i.guim.co.uk/img/media/bd323c966e34599309cd82a826a2a4275a563e4e/5_25_3131_2505/master/3131.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e76de4562e997dd5e1abb3e1ae823efd"
-    },
-    {
       "id": "story-3",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
       "time": "Sep 19",
       "headline": "Kanté and Mavropanos rescue late point for West Ham in derby thriller at Millwall",
-      "excerpt": "<p>West Ham came from two goals down to snatch a 2-2 draw from a <a…",
+      "excerpt": "<p>West Ham came from two goals down to snatch a draw from a <a href=\"https://www.theguardian.com/football/2026/sep/18/millwall-west-ham-rivalry-championship-game\">heated…",
       "link": "https://www.theguardian.com/football/2026/sep/19/millwall-west-ham-championship-match-report",
       "image": "https://i.guim.co.uk/img/media/950b2ac82c70e0db610d7bf7a2834f2e0ad34908/883_275_2899_2319/master/2899.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=4dfc8cec004bd91272fb1aa4e946d196"
     },
