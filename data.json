@@ -1,19 +1,30 @@
 {
-  "updatedAt": "2026-09-19T13:59:57.796Z",
+  "updatedAt": "2026-09-19T14:12:25.938Z",
   "hero": {
     "id": "story-0",
-    "league": "Football",
-    "dot": "#AFC4AC",
-    "source": "BBC Sport",
+    "league": "Premier League",
+    "dot": "#9CC0F0",
+    "source": "The Guardian",
     "time": "Sep 19",
-    "headline": "Goodwin double earns London City win at struggling Charlton",
-    "excerpt": "London City Lionesses earn their first away win of the season, ending a four-game streak…",
-    "link": "https://www.bbc.co.uk/sport/football/videos/cxnvl60le139o?at_medium=RSS&amp;at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ea0b/live/106461c0-b430-11f1-b1d1-571ed4d7ff2c.jpg"
+    "headline": "Brighton v Arsenal, Newcastle v Hull and more: clockwatch – live",
+    "excerpt": "<p>⚽️ Updates from across the grounds for Saturday’s games<br>⚽️ <a href=\"https://www.theguardian.com/football/live\">Live scoreboard</a> | <a href=\"https://www.theguardian.com/football/live/2026/sep/19/tottenham-v-aston-villa-premier-league-live\">Spurs…",
+    "link": "https://www.theguardian.com/football/live/2026/sep/19/brighton-arsenal-newcastle-hull-more-football-clockwatch-live-scores-updates",
+    "image": "https://i.guim.co.uk/img/media/8d16f770c8bf8d8c3acce3ecae7ba582b1bb31b5/801_0_4838_3871/master/4838.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c34a46dff2d101db77233d63d5f944ae"
   },
   "topStories": [
     {
       "id": "story-1",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "BBC Sport",
+      "time": "Sep 19",
+      "headline": "Goodwin double earns London City win at struggling Charlton",
+      "excerpt": "London City Lionesses earn their first away win of the season, ending a four-game streak…",
+      "link": "https://www.bbc.co.uk/sport/football/videos/cxnvl60le139o?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ea0b/live/106461c0-b430-11f1-b1d1-571ed4d7ff2c.jpg"
+    },
+    {
+      "id": "story-2",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -24,7 +35,7 @@
       "image": "https://i.guim.co.uk/img/media/7d8f62c6505cfaaffdb1ae4a36b5d97841d118e3/415_226_2436_1949/master/2436.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=1e512701e07dde154a0a00c6bee9aaa5"
     },
     {
-      "id": "story-2",
+      "id": "story-3",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "101 Great Goals",
@@ -35,17 +46,6 @@
       "image": null
     },
     {
-      "id": "story-3",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "The Guardian",
-      "time": "Sep 19",
-      "headline": "Brighton v Arsenal, Newcastle v Hull as Hammers hit back at Millwall: clockwatch – live",
-      "excerpt": "<p>⚽️ Updates from across the grounds for Saturday’s games<br>⚽️ <a href=\"https://www.theguardian.com/football/live\">Live scoreboard</a> | <a href=\"https://www.theguardian.com/football/live/2026/sep/19/tottenham-v-aston-villa-premier-league-live\">Spurs…",
-      "link": "https://www.theguardian.com/football/live/2026/sep/19/brighton-arsenal-newcastle-hull-more-football-clockwatch-live-scores-updates",
-      "image": "https://i.guim.co.uk/img/media/c652f64fbfc0d05b6793496206f0d751481ed6d5/445_0_4449_3560/master/4449.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=576422ed988a282c20c3108d1346f2a2"
-    },
-    {
       "id": "story-4",
       "league": "Premier League",
       "dot": "#9CC0F0",
@@ -54,7 +54,7 @@
       "headline": "Manzambi catches eye as Villa beat Spurs - player ratings",
       "excerpt": "Tottenham are still looking for their first Premier League goal of the season.",
       "link": "https://www.bbc.co.uk/sport/football/articles/cqj3d7rvpr7ko?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/212b/live/68923170-b42f-11f1-9fa0-111a12dcb7b0.jpg"
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4ead/live/eeb638c0-b432-11f1-a430-4d16ee157c41.jpg"
     },
     {
       "id": "story-5",
@@ -268,6 +268,16 @@
   ],
   "scoreboard": [
     {
+      "id": "score-564693",
+      "league": "La Liga",
+      "dot": "#E3B4F5",
+      "time": "Sep 19",
+      "home": "CA Osasuna",
+      "away": "Rayo Vallecano de Madrid",
+      "homeScore": 1,
+      "awayScore": 1
+    },
+    {
       "id": "score-560587",
       "league": "Premier League",
       "dot": "#9CC0F0",
@@ -316,16 +326,6 @@
       "away": "Racing Club de Lens",
       "homeScore": 2,
       "awayScore": 1
-    },
-    {
-      "id": "score-565804",
-      "league": "Bundesliga",
-      "dot": "#FFC469",
-      "time": "Sep 18",
-      "home": "FC Bayern München",
-      "away": "1. FC Union Berlin",
-      "homeScore": 7,
-      "awayScore": 0
     }
   ]
 }
