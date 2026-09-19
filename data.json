@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-19T10:50:28.585Z",
+  "updatedAt": "2026-09-19T10:57:44.482Z",
   "hero": {
     "id": "story-0",
     "league": "Premier League",
@@ -236,6 +236,17 @@
       "id": "story-21",
       "league": "Premier League",
       "dot": "#9CC0F0",
+      "source": "talkSPORT",
+      "time": "Sep 18",
+      "headline": "Chelsea told they&#8217;re &#8216;definitely not&#8217; title contenders as Xabi Alonso sets unwanted record",
+      "excerpt": "",
+      "link": "https://talksport.com/football/4591208/chelsea-not-title-contenders-xabi-alonso-unwanted-record-brentford/",
+      "image": null
+    },
+    {
+      "id": "story-22",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
       "source": "BBC Sport",
       "time": "Sep 18",
       "headline": "'Everything was disappointing' - Alonso on Brentford defeat",
@@ -244,7 +255,7 @@
       "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0pbdnrb.jpg"
     },
     {
-      "id": "story-22",
+      "id": "story-23",
       "league": "Bundesliga",
       "dot": "#FFC469",
       "source": "101 Great Goals",
@@ -253,17 +264,6 @@
       "excerpt": "Harry Kane netted twice - including a landmark goal - as Bayern hammered sorry Union…",
       "link": "https://www.101greatgoals.com/football/bundesliga/harry-kane-nets-100th-bundesliga-goal-bayern-munich-rout-union-berlin/",
       "image": null
-    },
-    {
-      "id": "story-23",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "BBC Sport",
-      "time": "Sep 18",
-      "headline": "Arsenal open to Dowman loan in right circumstances",
-      "excerpt": "Arsenal are open to allowing teenage prodigy Max Dowman to leave the club on loan…",
-      "link": "https://www.bbc.co.uk/sport/football/articles/crp3k23nkl8go?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8ef6/live/5ad3f440-b37d-11f1-9023-9990160baacc.jpg"
     }
   ],
   "scoreboard": [
