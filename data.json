@@ -1,41 +1,30 @@
 {
-  "updatedAt": "2026-09-19T13:38:35.295Z",
+  "updatedAt": "2026-09-19T13:45:56.318Z",
   "hero": {
     "id": "story-0",
     "league": "Premier League",
     "dot": "#9CC0F0",
-    "source": "101 Great Goals",
+    "source": "The Guardian",
     "time": "Sep 19",
-    "headline": "Tottenham 2-3 Aston Villa: Sorry Spurs beaten again as pressure mounts on De Zerbi",
-    "excerpt": "Aston Villa beat Tottenham as the hosts' awful start to the new season continued this…",
-    "link": "https://www.101greatgoals.com/football/premier-league/tottenham-1-3-aston-villa-report-goals-stats/",
-    "image": null
+    "headline": "Tottenham 2-3 Aston Villa: Premier League – live reaction",
+    "excerpt": "<p>Spurs scored their first goals of the season but Johan Manzambi, Nicolas Jackson and Emi…",
+    "link": "https://www.theguardian.com/football/live/2026/sep/19/tottenham-v-aston-villa-premier-league-live",
+    "image": "https://i.guim.co.uk/img/media/7d8f62c6505cfaaffdb1ae4a36b5d97841d118e3/415_226_2436_1949/master/2436.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=1e512701e07dde154a0a00c6bee9aaa5"
   },
   "topStories": [
     {
       "id": "story-1",
       "league": "Premier League",
       "dot": "#9CC0F0",
-      "source": "BBC Sport",
+      "source": "101 Great Goals",
       "time": "Sep 19",
-      "headline": "Manzambi catches eye as Villa beat Spurs - player ratings",
-      "excerpt": "Tottenham are still looking for their first Premier League goal of the season.",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cqj3d7rvpr7ko?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aa00/live/cb81a260-b42b-11f1-9fa0-111a12dcb7b0.jpg"
+      "headline": "Tottenham 2-3 Aston Villa: Sorry Spurs beaten again as pressure mounts on De Zerbi",
+      "excerpt": "Aston Villa beat Tottenham as the hosts' awful start to the new season continued this…",
+      "link": "https://www.101greatgoals.com/football/premier-league/tottenham-1-3-aston-villa-report-goals-stats/",
+      "image": null
     },
     {
       "id": "story-2",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "The Guardian",
-      "time": "Sep 19",
-      "headline": "Tottenham v Aston Villa: Premier League – live",
-      "excerpt": "<p>⚽️ Premier League updates from 12.30pm (BST)<br>⚽️ <a href=\"https://www.theguardian.com/football/live\">Today’s fixtures</a> | Send Daniel your thoughts…",
-      "link": "https://www.theguardian.com/football/live/2026/sep/19/tottenham-v-aston-villa-premier-league-live",
-      "image": "https://i.guim.co.uk/img/media/7d8f62c6505cfaaffdb1ae4a36b5d97841d118e3/415_226_2436_1949/master/2436.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=1e512701e07dde154a0a00c6bee9aaa5"
-    },
-    {
-      "id": "story-3",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -44,6 +33,17 @@
       "excerpt": "<p>⚽️ Updates from across the grounds for Saturday’s games<br>⚽️ <a href=\"https://www.theguardian.com/football/live\">Live scoreboard</a> | <a href=\"https://www.theguardian.com/football/live/2026/sep/19/tottenham-v-aston-villa-premier-league-live\">Spurs…",
       "link": "https://www.theguardian.com/football/live/2026/sep/19/brighton-arsenal-newcastle-hull-more-football-clockwatch-live-scores-updates",
       "image": "https://i.guim.co.uk/img/media/c652f64fbfc0d05b6793496206f0d751481ed6d5/445_0_4449_3560/master/4449.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=576422ed988a282c20c3108d1346f2a2"
+    },
+    {
+      "id": "story-3",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "BBC Sport",
+      "time": "Sep 19",
+      "headline": "Manzambi catches eye as Villa beat Spurs - player ratings",
+      "excerpt": "Tottenham are still looking for their first Premier League goal of the season.",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cqj3d7rvpr7ko?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/212b/live/68923170-b42f-11f1-9fa0-111a12dcb7b0.jpg"
     },
     {
       "id": "story-4",
@@ -173,7 +173,7 @@
       "source": "The Guardian",
       "time": "Sep 18",
       "headline": "Harry Kane smashes record for fastest to 100 Bundesliga goals in 98th game",
-      "excerpt": "<ul><li><p>Kane double helps Bayern Munich beat Union Berlin 7-0</p></li><li><p>Dieter Müller’s record of 129 games had…",
+      "excerpt": "<ul><li><p>Striker’s double helps Bayern Munich beat Union Berlin 7-0</p></li><li><p>Dieter Müller’s record of 129 games had…",
       "link": "https://www.theguardian.com/football/2026/sep/18/harry-kane-smashes-record-for-fastest-to-100-bundesliga-goals-in-98th-game",
       "image": "https://i.guim.co.uk/img/media/f8b7216be8dbc7b1d500744e5e70138d2bf3433d/680_0_4248_3398/master/4248.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=15d63acd58eacc8e729f133dc17a5b61"
     },
@@ -223,17 +223,6 @@
     },
     {
       "id": "story-20",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "BBC Sport",
-      "time": "Sep 18",
-      "headline": "Watch the goals as Ayr United win at Queen's Park",
-      "excerpt": "Dylan Watret and Josh Landers are on target as Ayr United end a six-game run…",
-      "link": "https://www.bbc.co.uk/sport/videos/cqly70l5m7djo?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2c51/live/67c2c400-b3a1-11f1-a430-4d16ee157c41.jpg"
-    },
-    {
-      "id": "story-21",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -244,18 +233,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1f87/live/2ec4a210-b39a-11f1-a430-4d16ee157c41.png"
     },
     {
-      "id": "story-22",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "BBC Sport",
-      "time": "Sep 18",
-      "headline": "Inspired Wales seal stunning win over South Africa",
-      "excerpt": "Wales return to winning ways in emphatic fashion with an eight-try victory over South Africa…",
-      "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cme3rg39xe7do?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5b63/live/a032c4d0-b3aa-11f1-a7fa-c95bcf5935e4.jpg"
-    },
-    {
-      "id": "story-23",
+      "id": "story-21",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -264,9 +242,41 @@
       "excerpt": "<p>Manchester City continued their winning start to the new Women’s Super League season but the…",
       "link": "https://www.theguardian.com/football/2026/sep/18/manchester-city-liverpool-wsl-match-report-womens-super-league",
       "image": "https://i.guim.co.uk/img/media/2af1c8bfba411b2a010a783e28284f4a91f9bc1c/245_0_2183_1746/master/2183.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=7dfee35584b1e04f359ef520f828edec"
+    },
+    {
+      "id": "story-22",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "The Guardian",
+      "time": "Sep 18",
+      "headline": "‘Embrace the chaos’: Tuchel aims to harness England’s football culture",
+      "excerpt": "<ul><li><p>Head coach says he must accept lack of control in games</p></li><li><p>‘Deep down, English players ……",
+      "link": "https://www.theguardian.com/football/2026/sep/18/embrace-chaos-thomas-tuchel-england-football-culture",
+      "image": "https://i.guim.co.uk/img/media/52fc89dbb9e053065112a3d1c112f5dd27d109b4/324_0_4757_3805/master/4757.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=08120ac851430438f7297c81e863a5b3"
+    },
+    {
+      "id": "story-23",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "BBC Sport",
+      "time": "Sep 18",
+      "headline": "Former Man Utd left-back Malacia joins FC Cincinnati",
+      "excerpt": "FC Cincinnati sign former Manchester United left-back Tyrell Malacia on a free transfer.",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c6vgyjgqgdqwo?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9e75/live/cdb951e0-b386-11f1-ae81-31b49a394756.jpg"
     }
   ],
   "scoreboard": [
+    {
+      "id": "score-560587",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "time": "Sep 19",
+      "home": "Tottenham Hotspur FC",
+      "away": "Aston Villa FC",
+      "homeScore": 2,
+      "awayScore": 3
+    },
     {
       "id": "score-560591",
       "league": "Premier League",
@@ -316,16 +326,6 @@
       "away": "1. FC Union Berlin",
       "homeScore": 7,
       "awayScore": 0
-    },
-    {
-      "id": "score-564683",
-      "league": "La Liga",
-      "dot": "#E3B4F5",
-      "time": "Sep 17",
-      "home": "Málaga CF",
-      "away": "Villarreal CF",
-      "homeScore": 1,
-      "awayScore": 3
     }
   ]
 }
