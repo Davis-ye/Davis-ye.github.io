@@ -1,19 +1,30 @@
 {
-  "updatedAt": "2026-09-19T15:40:11.487Z",
+  "updatedAt": "2026-09-19T15:47:20.778Z",
   "hero": {
     "id": "story-0",
     "league": "Premier League",
     "dot": "#9CC0F0",
-    "source": "BBC Sport",
+    "source": "The Guardian",
     "time": "Sep 19",
-    "headline": "No revival in sight for 'fragile' Spurs after Villa defeat",
-    "excerpt": "Tottenham look no closer to solving their problems as they slip to a home defeat…",
-    "link": "https://www.bbc.co.uk/sport/football/articles/ck5ywlqxyvv2o?at_medium=RSS&amp;at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c3b2/live/3710e500-b430-11f1-9fa0-111a12dcb7b0.jpg"
+    "headline": "Brighton v Arsenal, Newcastle v Hull and more: clockwatch – live",
+    "excerpt": "<p>⚽️ Updates from across the grounds for Saturday’s games<br>⚽️ <a href=\"https://www.theguardian.com/football/live\">Live scoreboard</a> | <a href=\"https://www.theguardian.com/football/live/2026/sep/19/tottenham-v-aston-villa-premier-league-live\">Spurs…",
+    "link": "https://www.theguardian.com/football/live/2026/sep/19/brighton-arsenal-newcastle-hull-more-football-clockwatch-live-scores-updates",
+    "image": "https://i.guim.co.uk/img/media/5c93e333834bd0335777e62a2d266e73881f46d7/619_215_5393_4316/master/5393.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=02457db14659ab297b5730c91f4f50e3"
   },
   "topStories": [
     {
       "id": "story-1",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "BBC Sport",
+      "time": "Sep 19",
+      "headline": "No revival in sight for 'fragile' Spurs after Villa defeat",
+      "excerpt": "Tottenham look no closer to solving their problems as they slip to a home defeat…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/ck5ywlqxyvv2o?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c3b2/live/3710e500-b430-11f1-9fa0-111a12dcb7b0.jpg"
+    },
+    {
+      "id": "story-2",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "101 Great Goals",
@@ -22,17 +33,6 @@
       "excerpt": "Arsenal head to the South Coast to face Brighton this afternoon. Follow all the action…",
       "link": "https://www.101greatgoals.com/live/brighton-v-arsenal-live-commentary-updates-goals-stream-stats/",
       "image": null
-    },
-    {
-      "id": "story-2",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "The Guardian",
-      "time": "Sep 19",
-      "headline": "Brighton v Arsenal, Newcastle v Hull and more: clockwatch – live",
-      "excerpt": "<p>⚽️ Updates from across the grounds for Saturday’s games<br>⚽️ <a href=\"https://www.theguardian.com/football/live\">Live scoreboard</a> | <a href=\"https://www.theguardian.com/football/live/2026/sep/19/tottenham-v-aston-villa-premier-league-live\">Spurs…",
-      "link": "https://www.theguardian.com/football/live/2026/sep/19/brighton-arsenal-newcastle-hull-more-football-clockwatch-live-scores-updates",
-      "image": "https://i.guim.co.uk/img/media/5c93e333834bd0335777e62a2d266e73881f46d7/619_215_5393_4316/master/5393.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=02457db14659ab297b5730c91f4f50e3"
     },
     {
       "id": "story-3",
@@ -215,6 +215,17 @@
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
+      "time": "Sep 19",
+      "headline": "Nottingham Forest stadium expansion approved - so what now?",
+      "excerpt": "Will the dream of a bigger City Ground finally become a reality?",
+      "link": "https://www.bbc.co.uk/news/articles/c674kw873545o?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a8db/live/f4bbffc0-b2a7-11f1-819c-176371125270.jpg"
+    },
+    {
+      "id": "story-20",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "BBC Sport",
       "time": "Sep 18",
       "headline": "'We're unpredictable' - Andrews delighted with 'brilliant' Brentford",
       "excerpt": "Brentford manager Keith Andrews is full of praise after a resounding 3-0 win against West…",
@@ -222,7 +233,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b6ee/live/e2bf7880-b3a9-11f1-bc1f-3f186ca4140c.jpg"
     },
     {
-      "id": "story-20",
+      "id": "story-21",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -233,7 +244,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d409/live/d38de810-b3ae-11f1-ad67-5d87a77e2776.jpg"
     },
     {
-      "id": "story-21",
+      "id": "story-22",
       "league": "Bundesliga",
       "dot": "#FFC469",
       "source": "BBC Sport",
@@ -244,7 +255,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/60a1/live/1bb6c400-b3ae-11f1-a430-4d16ee157c41.jpg"
     },
     {
-      "id": "story-22",
+      "id": "story-23",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -253,17 +264,6 @@
       "excerpt": "Man City come out on top of a thrilling WSL encounter against Liverpool, requiring two…",
       "link": "https://www.bbc.co.uk/sport/football/videos/cvlyl0dg98zpo?at_medium=RSS&amp;at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b85f/live/d11a6a50-b39e-11f1-b1d1-571ed4d7ff2c.jpg"
-    },
-    {
-      "id": "story-23",
-      "league": "Bundesliga",
-      "dot": "#FFC469",
-      "source": "The Guardian",
-      "time": "Sep 18",
-      "headline": "Harry Kane smashes record for fastest to 100 Bundesliga goals in 98th game",
-      "excerpt": "<ul><li><p>Striker’s double helps Bayern Munich beat Union Berlin 7-0</p></li><li><p>Dieter Müller’s record of 129 games had…",
-      "link": "https://www.theguardian.com/football/2026/sep/18/harry-kane-smashes-record-for-fastest-to-100-bundesliga-goals-in-98th-game",
-      "image": "https://i.guim.co.uk/img/media/f8b7216be8dbc7b1d500744e5e70138d2bf3433d/680_0_4248_3398/master/4248.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=15d63acd58eacc8e729f133dc17a5b61"
     }
   ],
   "scoreboard": [
