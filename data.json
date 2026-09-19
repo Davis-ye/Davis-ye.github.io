@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-19T18:44:05.244Z",
+  "updatedAt": "2026-09-19T18:52:21.712Z",
   "hero": {
     "id": "story-0",
     "league": "Football",
@@ -16,23 +16,23 @@
       "id": "story-1",
       "league": "Premier League",
       "dot": "#9CC0F0",
+      "source": "The Guardian",
+      "time": "Sep 19",
+      "headline": "Arsenal 1-1 Manchester United: Women’s Super League – live",
+      "excerpt": "<p>⚽️ WSL updates from the 5.30pm (BST) kick-off<br>⚽️ <a href=\"https://www.theguardian.com/football/2026/sep/18/manchester-city-liverpool-wsl-match-report-womens-super-league\">Man City scramble to WSL win…",
+      "link": "https://www.theguardian.com/football/live/2026/sep/19/arsenal-v-manchester-united-womens-super-league-live",
+      "image": "https://i.guim.co.uk/img/media/f2e6db093ce5d626151ced1ade210c94ea86872d/1362_1377_2489_1992/master/2489.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=87d35b6a718d807035e796730d5fdf2a"
+    },
+    {
+      "id": "story-2",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
       "source": "101 Great Goals",
       "time": "Sep 19",
       "headline": "Nottingham Forest 0-1 Coventry: Sky Blues pick up first Premier League win in 25 years",
       "excerpt": "Coventry City recorded their first Premier League win in 25 years following a narrow 1-0…",
       "link": "https://www.101greatgoals.com/football/premier-league/nottingham-forest-coventry-result-report-goals-highlights/",
       "image": null
-    },
-    {
-      "id": "story-2",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "The Guardian",
-      "time": "Sep 19",
-      "headline": "Arsenal 1-1 Manchester United: Women’s Super League – live",
-      "excerpt": "<p>⚽️ WSL updates from the 5.30pm (BST) kick-off<br>⚽️ <a href=\"https://www.theguardian.com/football/2026/sep/18/manchester-city-liverpool-wsl-match-report-womens-super-league\">Man City scramble to WSL win…",
-      "link": "https://www.theguardian.com/football/live/2026/sep/19/arsenal-v-manchester-united-womens-super-league-live",
-      "image": "https://i.guim.co.uk/img/media/236cb7bd3678d8b575e1361bf6f6a8e6c2d7c312/314_0_3686_2951/master/3686.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b84b427e3817ee9cfbaa1299a381feaf"
     },
     {
       "id": "story-3",
@@ -74,7 +74,7 @@
       "source": "The Guardian",
       "time": "Sep 19",
       "headline": "De Zerbi rips into Spurs players after Villa defeat: ‘Disappointed, sad and frustrated’",
-      "excerpt": "<ul><li><p>Tottenham lose 3-2 at home with two late consolations</p></li><li><p>‘We can’t lose the game in this…",
+      "excerpt": "<ul><li><p>Tottenham lose 3-2 at home with two late goals</p></li><li><p>‘We can’t lose the game in this…",
       "link": "https://www.theguardian.com/football/2026/sep/19/roberto-de-zerbi-spurs-disappointed-sad-frustrated",
       "image": "https://i.guim.co.uk/img/media/b10ba4593b52508ab30fd53422288b4a7b5eeb79/43_0_2008_1606/master/2008.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d9b3f5b6afc0946f5b21f7e04eadbac4"
     },
