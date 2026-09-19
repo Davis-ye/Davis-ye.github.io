@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-19T18:19:10.980Z",
+  "updatedAt": "2026-09-19T18:32:23.293Z",
   "hero": {
     "id": "story-0",
     "league": "Football",
@@ -14,6 +14,28 @@
   "topStories": [
     {
       "id": "story-1",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "101 Great Goals",
+      "time": "Sep 19",
+      "headline": "Nottingham Forest 0-1 Coventry: Sky Blues pick up first Premier League win in 25 years",
+      "excerpt": "Coventry City recorded their first Premier League win in 25 years following a narrow 1-0…",
+      "link": "https://www.101greatgoals.com/football/premier-league/nottingham-forest-coventry-result-report-goals-highlights/",
+      "image": null
+    },
+    {
+      "id": "story-2",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "The Guardian",
+      "time": "Sep 19",
+      "headline": "Arsenal 1-1 Manchester United: Women’s Super League – live",
+      "excerpt": "<p>⚽️ WSL updates from the 5.30pm (BST) kick-off<br>⚽️ <a href=\"https://www.theguardian.com/football/2026/sep/18/manchester-city-liverpool-wsl-match-report-womens-super-league\">Man City scramble to WSL win…",
+      "link": "https://www.theguardian.com/football/live/2026/sep/19/arsenal-v-manchester-united-womens-super-league-live",
+      "image": "https://i.guim.co.uk/img/media/236cb7bd3678d8b575e1361bf6f6a8e6c2d7c312/314_0_3686_2951/master/3686.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b84b427e3817ee9cfbaa1299a381feaf"
+    },
+    {
+      "id": "story-3",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -22,28 +44,6 @@
       "excerpt": "Peterborough United sack manager Luke Williams after Saturday's defeat at home by Doncaster leaves them…",
       "link": "https://www.bbc.co.uk/sport/football/articles/crz6z7ypq6x8o?at_medium=RSS&amp;at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0631/live/f7a59290-b451-11f1-ba76-4da528bd99e6.jpg"
-    },
-    {
-      "id": "story-2",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "The Guardian",
-      "time": "Sep 19",
-      "headline": "Arsenal v Manchester United: Women’s Super League – live",
-      "excerpt": "<p>⚽️ WSL updates from the 5.30pm (BST) kick-off<br>⚽️ <a href=\"https://www.theguardian.com/football/2026/sep/18/manchester-city-liverpool-wsl-match-report-womens-super-league\">Man City scramble to WSL win…",
-      "link": "https://www.theguardian.com/football/live/2026/sep/19/arsenal-v-manchester-united-womens-super-league-live",
-      "image": "https://i.guim.co.uk/img/media/236cb7bd3678d8b575e1361bf6f6a8e6c2d7c312/314_0_3686_2951/master/3686.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b84b427e3817ee9cfbaa1299a381feaf"
-    },
-    {
-      "id": "story-3",
-      "league": "La Liga",
-      "dot": "#E3B4F5",
-      "source": "101 Great Goals",
-      "time": "Sep 19",
-      "headline": "Sevilla v Barcelona: Confirmed team news and line-ups",
-      "excerpt": "Barcelona look to maintain their perfect start to the league season. Get all the team…",
-      "link": "https://www.101greatgoals.com/football/la-liga/sevilla-v-barcelona-confirmed-team-news-and-line-ups/",
-      "image": null
     },
     {
       "id": "story-4",
@@ -140,7 +140,7 @@
       "source": "The Guardian",
       "time": "Sep 19",
       "headline": "Everton hold off Ipswich thanks to Thierno Barry goal despite VAR controversy",
-      "excerpt": "<p>After the trials and tribulations of the transfer window Everton can be content to reach…",
+      "excerpt": "<p>After the trials and tribulations of the transfer window, Everton can be content with fifth…",
       "link": "https://www.theguardian.com/football/2026/sep/19/everton-ipswich-premier-league-match-report",
       "image": "https://i.guim.co.uk/img/media/05130d14c000cbe51589506ce3cd4df6b71ea0b8/233_0_2327_1861/master/2327.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=bac55e0a37b5b998a7ee2f787d195805"
     },
@@ -162,7 +162,7 @@
       "source": "The Guardian",
       "time": "Sep 19",
       "headline": "Newcastle back to winning ways as Willock and Hall end Hull’s unbeaten start",
-      "excerpt": "<p>Hull always knew that, sooner or later, they would lose a Premier League game but…",
+      "excerpt": "<p>Hull always knew, sooner or later, they would lose a Premier League game, but no…",
       "link": "https://www.theguardian.com/football/2026/sep/19/newcastle-hull-premier-league-match-report",
       "image": "https://i.guim.co.uk/img/media/332b3392ea537e390724040a3c748fd232cedab5/260_0_2680_2145/master/2680.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=cb3c7b3d907e755d67be2dfb4897e76d"
     },
@@ -263,10 +263,30 @@
       "headline": "Kanté and Mavropanos rescue late point for West Ham in derby thriller at Millwall",
       "excerpt": "<p>Welcome back, then, <a href=\"https://www.theguardian.com/football/2026/sep/18/millwall-west-ham-rivalry-championship-game\">the Dockers Derby</a>. We really must do this again. On a…",
       "link": "https://www.theguardian.com/football/2026/sep/19/millwall-west-ham-championship-match-report",
-      "image": "https://i.guim.co.uk/img/media/950b2ac82c70e0db610d7bf7a2834f2e0ad34908/883_275_2899_2319/master/2899.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=4dfc8cec004bd91272fb1aa4e946d196"
+      "image": "https://i.guim.co.uk/img/media/c652f64fbfc0d05b6793496206f0d751481ed6d5/768_228_3994_3196/master/3994.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=8ef00267fff664f9d085582515c78f33"
     }
   ],
   "scoreboard": [
+    {
+      "id": "score-560589",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "time": "Sep 19",
+      "home": "Nottingham Forest FC",
+      "away": "Coventry City FC",
+      "homeScore": 1,
+      "awayScore": 1
+    },
+    {
+      "id": "score-565806",
+      "league": "Bundesliga",
+      "dot": "#FFC469",
+      "time": "Sep 19",
+      "home": "VfB Stuttgart",
+      "away": "Borussia Dortmund",
+      "homeScore": 0,
+      "awayScore": 1
+    },
     {
       "id": "score-558593",
       "league": "Serie A",
@@ -306,26 +326,6 @@
       "away": "Ipswich Town FC",
       "homeScore": 1,
       "awayScore": 0
-    },
-    {
-      "id": "score-560586",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "time": "Sep 19",
-      "home": "Brighton & Hove Albion FC",
-      "away": "Arsenal FC",
-      "homeScore": 3,
-      "awayScore": 0
-    },
-    {
-      "id": "score-560588",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "time": "Sep 19",
-      "home": "Newcastle United FC",
-      "away": "Hull City AFC",
-      "homeScore": 2,
-      "awayScore": 1
     }
   ]
 }
