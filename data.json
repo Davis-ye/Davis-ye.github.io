@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-09-19T17:47:29.715Z",
+  "updatedAt": "2026-09-19T17:54:40.421Z",
   "hero": {
     "id": "story-0",
-    "league": "Premier League",
-    "dot": "#9CC0F0",
-    "source": "The Guardian",
+    "league": "La Liga",
+    "dot": "#E3B4F5",
+    "source": "101 Great Goals",
     "time": "Sep 19",
-    "headline": "Arsenal v Manchester United: Women’s Super League – live",
-    "excerpt": "<p>⚽️ WSL updates from the 5.30pm (BST) kick-off<br>⚽️ <a href=\"https://www.theguardian.com/football/2026/sep/18/manchester-city-liverpool-wsl-match-report-womens-super-league\">Man City scramble to WSL win…",
-    "link": "https://www.theguardian.com/football/live/2026/sep/19/arsenal-v-manchester-united-womens-super-league-live",
-    "image": "https://i.guim.co.uk/img/media/3ef8c6e79ad8a053302c7540ee85022dbb4610bf/433_168_4067_3254/master/4067.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b7b58104d35533cb020d6694aa3f861e"
+    "headline": "Sevilla v Barcelona: Confirmed team news and line-ups",
+    "excerpt": "Barcelona look to maintain their perfect start to the league season. Get all the team…",
+    "link": "https://www.101greatgoals.com/football/la-liga/sevilla-v-barcelona-confirmed-team-news-and-line-ups/",
+    "image": null
   },
   "topStories": [
     {
@@ -18,13 +18,24 @@
       "dot": "#AFC4AC",
       "source": "BBC Sport",
       "time": "Sep 19",
-      "headline": "Lowly Posh sack manager Williams",
+      "headline": "Lowly Peterborough sack manager Williams",
       "excerpt": "Peterborough United sack manager Luke Williams after Saturday's defeat at home by Doncaster leaves them…",
       "link": "https://www.bbc.co.uk/sport/football/articles/crz6z7ypq6x8o?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb7a/live/5c0f70d0-6139-11ee-ac8c-9d18dbc280ea.png"
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0631/live/f7a59290-b451-11f1-ba76-4da528bd99e6.jpg"
     },
     {
       "id": "story-2",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "The Guardian",
+      "time": "Sep 19",
+      "headline": "Arsenal v Manchester United: Women’s Super League – live",
+      "excerpt": "<p>⚽️ WSL updates from the 5.30pm (BST) kick-off<br>⚽️ <a href=\"https://www.theguardian.com/football/2026/sep/18/manchester-city-liverpool-wsl-match-report-womens-super-league\">Man City scramble to WSL win…",
+      "link": "https://www.theguardian.com/football/live/2026/sep/19/arsenal-v-manchester-united-womens-super-league-live",
+      "image": "https://i.guim.co.uk/img/media/3ef8c6e79ad8a053302c7540ee85022dbb4610bf/433_168_4067_3254/master/4067.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b7b58104d35533cb020d6694aa3f861e"
+    },
+    {
+      "id": "story-3",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -33,17 +44,6 @@
       "excerpt": "Melvine Malard scores on her WSL debut for Chelsea as the Blues run out as…",
       "link": "https://www.bbc.co.uk/sport/football/videos/cx980qzv905do?at_medium=RSS&amp;at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5f31/live/69afaf60-b42f-11f1-b1d1-571ed4d7ff2c.jpg"
-    },
-    {
-      "id": "story-3",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "101 Great Goals",
-      "time": "Sep 19",
-      "headline": "Arteta laments ‘extremely poor’ Arsenal after Brighton defeat",
-      "excerpt": "It was a first loss of the season for the Gunners",
-      "link": "https://www.101greatgoals.com/football/premier-league/arteta-laments-extremely-poor-arsenal-after-brighton-defeat/",
-      "image": null
     },
     {
       "id": "story-4",
