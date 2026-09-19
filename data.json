@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-09-19T16:17:15.630Z",
+  "updatedAt": "2026-09-19T16:28:43.535Z",
   "hero": {
     "id": "story-0",
     "league": "Premier League",
     "dot": "#9CC0F0",
-    "source": "The Guardian",
+    "source": "101 Great Goals",
     "time": "Sep 19",
-    "headline": "Arsenal beaten 3-0 by Brighton as Newcastle and Everton grab wins: clockwatch – live",
-    "excerpt": "<p>⚽️ Updates from across the grounds for Saturday’s games<br>⚽️ <a href=\"https://www.theguardian.com/football/live\">Live scoreboard</a> | <a href=\"https://www.theguardian.com/football/live/2026/sep/19/tottenham-v-aston-villa-premier-league-live\">Spurs…",
-    "link": "https://www.theguardian.com/football/live/2026/sep/19/brighton-arsenal-newcastle-hull-more-football-clockwatch-live-scores-updates",
-    "image": "https://i.guim.co.uk/img/media/5c93e333834bd0335777e62a2d266e73881f46d7/619_215_5393_4316/master/5393.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=02457db14659ab297b5730c91f4f50e3"
+    "headline": "Premier League Review: Arsenal hammered, more misery for Tottenham and Hull lose unbeaten record",
+    "excerpt": "Arsenal were hammered at Brighton while there were wins for Aston Villa, Everton and Newcastle…",
+    "link": "https://www.101greatgoals.com/football/premier-league/premier-league-review-arsenal-tottenham-hull-villa-newcastle-brighton/",
+    "image": null
   },
   "topStories": [
     {
@@ -18,21 +18,21 @@
       "dot": "#9CC0F0",
       "source": "The Guardian",
       "time": "Sep 19",
-      "headline": "Arsenal v Manchester United: Women’s Super League – live",
-      "excerpt": "<p>⚽️ WSL updates from the 5.30pm (BST) kick-off<br>⚽️ <a href=\"https://www.theguardian.com/football/2026/sep/18/manchester-city-liverpool-wsl-match-report-womens-super-league\">Man City scramble to WSL win…",
-      "link": "https://www.theguardian.com/football/live/2026/sep/19/arsenal-v-manchester-united-womens-super-league-live",
-      "image": "https://i.guim.co.uk/img/media/d2304192f0d0c417950cbc4a622c3bb061c57ffd/0_106_3360_2688/master/3360.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=037c5b04b04e701a81388e392d6681fe"
+      "headline": "Arsenal beaten 3-0 by Brighton as Newcastle and Everton grab wins: clockwatch – live",
+      "excerpt": "<p>⚽️ Updates from across the grounds for Saturday’s games<br>⚽️ <a href=\"https://www.theguardian.com/football/live\">Live scoreboard</a> | <a href=\"https://www.theguardian.com/football/live/2026/sep/19/tottenham-v-aston-villa-premier-league-live\">Spurs…",
+      "link": "https://www.theguardian.com/football/live/2026/sep/19/brighton-arsenal-newcastle-hull-more-football-clockwatch-live-scores-updates",
+      "image": "https://i.guim.co.uk/img/media/5c93e333834bd0335777e62a2d266e73881f46d7/619_215_5393_4316/master/5393.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=02457db14659ab297b5730c91f4f50e3"
     },
     {
       "id": "story-2",
       "league": "Premier League",
       "dot": "#9CC0F0",
-      "source": "101 Great Goals",
+      "source": "The Guardian",
       "time": "Sep 19",
-      "headline": "Brighton 3-0 Arsenal: Seagulls soar to see off champions in style",
-      "excerpt": "It was a statement of intent from Fabian Hurzeler's side.",
-      "link": "https://www.101greatgoals.com/football/premier-league/brighton-arsenal-result-report-goals-highlights/",
-      "image": null
+      "headline": "Arsenal v Manchester United: Women’s Super League – live",
+      "excerpt": "<p>⚽️ WSL updates from the 5.30pm (BST) kick-off<br>⚽️ <a href=\"https://www.theguardian.com/football/2026/sep/18/manchester-city-liverpool-wsl-match-report-womens-super-league\">Man City scramble to WSL win…",
+      "link": "https://www.theguardian.com/football/live/2026/sep/19/arsenal-v-manchester-united-womens-super-league-live",
+      "image": "https://i.guim.co.uk/img/media/d2304192f0d0c417950cbc4a622c3bb061c57ffd/0_106_3360_2688/master/3360.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=037c5b04b04e701a81388e392d6681fe"
     },
     {
       "id": "story-3",
