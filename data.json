@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-09-19T17:14:32.670Z",
+  "updatedAt": "2026-09-19T17:24:32.475Z",
   "hero": {
     "id": "story-0",
     "league": "Premier League",
     "dot": "#9CC0F0",
-    "source": "BBC Sport",
+    "source": "101 Great Goals",
     "time": "Sep 19",
-    "headline": "Suzuki proves worthy replacement for Martinez at Villa",
-    "excerpt": "Aston Villa new boy Zion Suzuki deserves as much credit as anyone for their first…",
-    "link": "https://www.bbc.co.uk/sport/football/articles/cmg490nn12pvo?at_medium=RSS&amp;at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f966/live/3d335240-b446-11f1-8eb0-59fdbbab66e7.jpg"
+    "headline": "Arteta laments ‘extremely poor’ Arsenal after Brighton defeat",
+    "excerpt": "It was a first loss of the season for the Gunners",
+    "link": "https://www.101greatgoals.com/football/premier-league/arteta-laments-extremely-poor-arsenal-after-brighton-defeat/",
+    "image": null
   },
   "topStories": [
     {
@@ -29,13 +29,24 @@
       "dot": "#9CC0F0",
       "source": "BBC Sport",
       "time": "Sep 19",
+      "headline": "Suzuki proves worthy replacement for Martinez at Villa",
+      "excerpt": "Aston Villa new boy Zion Suzuki deserves as much credit as anyone for their first…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cmg490nn12pvo?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f966/live/3d335240-b446-11f1-8eb0-59fdbbab66e7.jpg"
+    },
+    {
+      "id": "story-3",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "BBC Sport",
+      "time": "Sep 19",
       "headline": "'It's a big lesson to learn' - Arteta on 'painful' Brighton defeat",
       "excerpt": "Arsenal manager Mikel Arteta says Arsenal were \"very far\" from the standards required to compete…",
       "link": "https://www.bbc.co.uk/sport/football/videos/c6kgxl5x12y9o?at_medium=RSS&amp;at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/94b4/live/024c35f0-b448-11f1-a430-4d16ee157c41.jpg"
     },
     {
-      "id": "story-3",
+      "id": "story-4",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -46,7 +57,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b98/live/e32725a0-b446-11f1-a430-4d16ee157c41.jpg"
     },
     {
-      "id": "story-4",
+      "id": "story-5",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -57,7 +68,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d405/live/4d820140-b32a-11f1-b1d1-571ed4d7ff2c.jpg"
     },
     {
-      "id": "story-5",
+      "id": "story-6",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -68,7 +79,7 @@
       "image": "https://i.guim.co.uk/img/media/88f175198236342310eaa83013f31ca503abf701/8_0_3000_2400/master/3000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c0c20085fa7fe7cc7dc8ada740d26594"
     },
     {
-      "id": "story-6",
+      "id": "story-7",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -77,17 +88,6 @@
       "excerpt": "<p>After the trials and tribulations of the transfer window Everton can be content to reach…",
       "link": "https://www.theguardian.com/football/2026/sep/19/everton-ipswich-premier-league-match-report",
       "image": "https://i.guim.co.uk/img/media/05130d14c000cbe51589506ce3cd4df6b71ea0b8/233_0_2327_1861/master/2327.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=bac55e0a37b5b998a7ee2f787d195805"
-    },
-    {
-      "id": "story-7",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "101 Great Goals",
-      "time": "Sep 19",
-      "headline": "Premier League Review: Arsenal hammered, more misery for Tottenham and Hull lose unbeaten record",
-      "excerpt": "Arsenal were hammered at Brighton while there were wins for Aston Villa, Everton and Newcastle…",
-      "link": "https://www.101greatgoals.com/football/premier-league/premier-league-review-arsenal-tottenham-hull-villa-newcastle-brighton/",
-      "image": null
     },
     {
       "id": "story-8",
@@ -268,6 +268,16 @@
   ],
   "scoreboard": [
     {
+      "id": "score-559679",
+      "league": "Ligue 1",
+      "dot": "#B8D4E8",
+      "time": "Sep 19",
+      "home": "Paris FC",
+      "away": "RC Strasbourg Alsace",
+      "homeScore": 2,
+      "awayScore": 1
+    },
+    {
       "id": "score-564691",
       "league": "La Liga",
       "dot": "#E3B4F5",
@@ -316,16 +326,6 @@
       "away": "1. FC Köln",
       "homeScore": 2,
       "awayScore": 1
-    },
-    {
-      "id": "score-565809",
-      "league": "Bundesliga",
-      "dot": "#FFC469",
-      "time": "Sep 19",
-      "home": "Borussia Mönchengladbach",
-      "away": "1. FSV Mainz 05",
-      "homeScore": 3,
-      "awayScore": 4
     }
   ]
 }
