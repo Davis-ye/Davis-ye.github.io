@@ -1,30 +1,41 @@
 {
-  "updatedAt": "2026-09-19T17:40:05.883Z",
+  "updatedAt": "2026-09-19T17:47:29.715Z",
   "hero": {
     "id": "story-0",
     "league": "Premier League",
     "dot": "#9CC0F0",
-    "source": "BBC Sport",
+    "source": "The Guardian",
     "time": "Sep 19",
-    "headline": "Malard scores on debut as Chelsea beat Birmingham",
-    "excerpt": "Melvine Malard scores on her WSL debut for Chelsea as the Blues run out as…",
-    "link": "https://www.bbc.co.uk/sport/football/videos/cx980qzv905do?at_medium=RSS&amp;at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5f31/live/69afaf60-b42f-11f1-b1d1-571ed4d7ff2c.jpg"
+    "headline": "Arsenal v Manchester United: Women’s Super League – live",
+    "excerpt": "<p>⚽️ WSL updates from the 5.30pm (BST) kick-off<br>⚽️ <a href=\"https://www.theguardian.com/football/2026/sep/18/manchester-city-liverpool-wsl-match-report-womens-super-league\">Man City scramble to WSL win…",
+    "link": "https://www.theguardian.com/football/live/2026/sep/19/arsenal-v-manchester-united-womens-super-league-live",
+    "image": "https://i.guim.co.uk/img/media/3ef8c6e79ad8a053302c7540ee85022dbb4610bf/433_168_4067_3254/master/4067.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b7b58104d35533cb020d6694aa3f861e"
   },
   "topStories": [
     {
       "id": "story-1",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "The Guardian",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "BBC Sport",
       "time": "Sep 19",
-      "headline": "Arsenal v Manchester United: Women’s Super League – live",
-      "excerpt": "<p>⚽️ WSL updates from the 5.30pm (BST) kick-off<br>⚽️ <a href=\"https://www.theguardian.com/football/2026/sep/18/manchester-city-liverpool-wsl-match-report-womens-super-league\">Man City scramble to WSL win…",
-      "link": "https://www.theguardian.com/football/live/2026/sep/19/arsenal-v-manchester-united-womens-super-league-live",
-      "image": "https://i.guim.co.uk/img/media/3ef8c6e79ad8a053302c7540ee85022dbb4610bf/433_168_4067_3254/master/4067.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b7b58104d35533cb020d6694aa3f861e"
+      "headline": "Lowly Posh sack manager Williams",
+      "excerpt": "Peterborough United sack manager Luke Williams after Saturday's defeat at home by Doncaster leaves them…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/crz6z7ypq6x8o?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb7a/live/5c0f70d0-6139-11ee-ac8c-9d18dbc280ea.png"
     },
     {
       "id": "story-2",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "BBC Sport",
+      "time": "Sep 19",
+      "headline": "Malard scores on debut as Chelsea beat Birmingham",
+      "excerpt": "Melvine Malard scores on her WSL debut for Chelsea as the Blues run out as…",
+      "link": "https://www.bbc.co.uk/sport/football/videos/cx980qzv905do?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5f31/live/69afaf60-b42f-11f1-b1d1-571ed4d7ff2c.jpg"
+    },
+    {
+      "id": "story-3",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "101 Great Goals",
@@ -35,7 +46,7 @@
       "image": null
     },
     {
-      "id": "story-3",
+      "id": "story-4",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -46,7 +57,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f966/live/3d335240-b446-11f1-8eb0-59fdbbab66e7.jpg"
     },
     {
-      "id": "story-4",
+      "id": "story-5",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -57,7 +68,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/94b4/live/024c35f0-b448-11f1-a430-4d16ee157c41.jpg"
     },
     {
-      "id": "story-5",
+      "id": "story-6",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -68,7 +79,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b98/live/e32725a0-b446-11f1-a430-4d16ee157c41.jpg"
     },
     {
-      "id": "story-6",
+      "id": "story-7",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -79,7 +90,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d405/live/4d820140-b32a-11f1-b1d1-571ed4d7ff2c.jpg"
     },
     {
-      "id": "story-7",
+      "id": "story-8",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -90,7 +101,7 @@
       "image": "https://i.guim.co.uk/img/media/88f175198236342310eaa83013f31ca503abf701/8_0_3000_2400/master/3000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c0c20085fa7fe7cc7dc8ada740d26594"
     },
     {
-      "id": "story-8",
+      "id": "story-9",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -101,7 +112,7 @@
       "image": "https://i.guim.co.uk/img/media/05130d14c000cbe51589506ce3cd4df6b71ea0b8/233_0_2327_1861/master/2327.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=bac55e0a37b5b998a7ee2f787d195805"
     },
     {
-      "id": "story-9",
+      "id": "story-10",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -112,18 +123,29 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f1e9/live/037681f0-b444-11f1-8eb0-59fdbbab66e7.jpg"
     },
     {
-      "id": "story-10",
+      "id": "story-11",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
       "time": "Sep 19",
-      "headline": "Newcastle bounce back from Leeds rout as Willock and Hall see off Hull",
+      "headline": "Manchester United Muslim fans group calls on co-owner Jim Ratcliffe to quit",
+      "excerpt": "<p>Supporters’ club says billionaire should stand down after ‘completely unacceptable’ comments on the UK and…",
+      "link": "https://www.theguardian.com/business/2026/sep/19/jim-ratcliffe-uk-immigration-tax-manchester-united-ineos",
+      "image": "https://i.guim.co.uk/img/media/41a1b4e4cc7b8c79ae4996169fb1738e1ec0f6cd/667_0_6673_5338/master/6673.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=9c60f1093773458db02b62be66e6a573"
+    },
+    {
+      "id": "story-12",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "The Guardian",
+      "time": "Sep 19",
+      "headline": "Newcastle back to winning ways as Willock and Hall end Hull’s unbeaten start",
       "excerpt": "<p>Hull always knew that, sooner or later, they would lose a Premier League game but…",
       "link": "https://www.theguardian.com/football/2026/sep/19/newcastle-hull-premier-league-match-report",
       "image": "https://i.guim.co.uk/img/media/332b3392ea537e390724040a3c748fd232cedab5/260_0_2680_2145/master/2680.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=cb3c7b3d907e755d67be2dfb4897e76d"
     },
     {
-      "id": "story-11",
+      "id": "story-13",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -134,7 +156,7 @@
       "image": "https://i.guim.co.uk/img/media/1228a50605a5a22deb872ad7287b752e4c0726d3/538_0_5663_4531/master/5663.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=723a8c03dbaf8bd48dd2468b59b2ed75"
     },
     {
-      "id": "story-12",
+      "id": "story-14",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -145,7 +167,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c3b2/live/3710e500-b430-11f1-9fa0-111a12dcb7b0.jpg"
     },
     {
-      "id": "story-13",
+      "id": "story-15",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -156,7 +178,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d005/live/7df7ad90-b43b-11f1-a430-4d16ee157c41.jpg"
     },
     {
-      "id": "story-14",
+      "id": "story-16",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -167,7 +189,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2829/live/db9f9e90-b43a-11f1-8eb0-59fdbbab66e7.jpg"
     },
     {
-      "id": "story-15",
+      "id": "story-17",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "The Guardian",
@@ -178,7 +200,7 @@
       "image": "https://i.guim.co.uk/img/media/8ba40c15f5d5c7dd35fd0de18d17e2808df0bd78/112_0_3882_3107/master/3882.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ac2bb3b61c7469516c9e845d4ca13a2c"
     },
     {
-      "id": "story-16",
+      "id": "story-18",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -189,7 +211,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c4c4/live/23346a20-b435-11f1-9fa0-111a12dcb7b0.jpg"
     },
     {
-      "id": "story-17",
+      "id": "story-19",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -200,7 +222,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3169/live/36ff34f0-b434-11f1-b1d1-571ed4d7ff2c.jpg"
     },
     {
-      "id": "story-18",
+      "id": "story-20",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -211,7 +233,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fe56/live/0de6fe50-b433-11f1-a430-4d16ee157c41.jpg"
     },
     {
-      "id": "story-19",
+      "id": "story-21",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -222,7 +244,7 @@
       "image": "https://i.guim.co.uk/img/media/950b2ac82c70e0db610d7bf7a2834f2e0ad34908/883_275_2899_2319/master/2899.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=4dfc8cec004bd91272fb1aa4e946d196"
     },
     {
-      "id": "story-20",
+      "id": "story-22",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -233,7 +255,7 @@
       "image": "https://i.guim.co.uk/img/media/e2e45dbefa8c083976052e57cf49ccafbd872062/458_0_4050_3240/master/4050.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=cc7c79d574c2766a0ef2690cdde85619"
     },
     {
-      "id": "story-21",
+      "id": "story-23",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -242,28 +264,6 @@
       "excerpt": "London City Lionesses earn their first away win of the season, with Isobel Goodwin scoring…",
       "link": "https://www.bbc.co.uk/sport/football/videos/cxnvl60le139o?at_medium=RSS&amp;at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ea0b/live/106461c0-b430-11f1-b1d1-571ed4d7ff2c.jpg"
-    },
-    {
-      "id": "story-22",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "BBC Sport",
-      "time": "Sep 19",
-      "headline": "Manzambi catches eye as Villa beat Spurs - player ratings",
-      "excerpt": "Tottenham are still looking for their first Premier League goal of the season.",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cqj3d7rvpr7ko?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4ead/live/eeb638c0-b432-11f1-a430-4d16ee157c41.jpg"
-    },
-    {
-      "id": "story-23",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "BBC Sport",
-      "time": "Sep 19",
-      "headline": "Why the Black Country derby means so much to Wolves and West Brom",
-      "excerpt": "Wolves and West Bromwich Albion meet for the first time in a Black Country derby…",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c64gd454lykno?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/430e/live/3a78fbb0-b26e-11f1-b67f-2b40fa83cfed.png"
     }
   ],
   "scoreboard": [
