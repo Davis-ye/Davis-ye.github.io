@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-19T18:32:23.293Z",
+  "updatedAt": "2026-09-19T18:44:05.244Z",
   "hero": {
     "id": "story-0",
     "league": "Football",
@@ -274,8 +274,18 @@
       "time": "Sep 19",
       "home": "Nottingham Forest FC",
       "away": "Coventry City FC",
-      "homeScore": 1,
+      "homeScore": 0,
       "awayScore": 1
+    },
+    {
+      "id": "score-564694",
+      "league": "La Liga",
+      "dot": "#E3B4F5",
+      "time": "Sep 19",
+      "home": "RC Celta de Vigo",
+      "away": "Real Racing Club de Santander",
+      "homeScore": 5,
+      "awayScore": 0
     },
     {
       "id": "score-565806",
@@ -315,16 +325,6 @@
       "home": "Athletic Club",
       "away": "Deportivo Alavés",
       "homeScore": 0,
-      "awayScore": 0
-    },
-    {
-      "id": "score-560584",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "time": "Sep 19",
-      "home": "Everton FC",
-      "away": "Ipswich Town FC",
-      "homeScore": 1,
       "awayScore": 0
     }
   ]
