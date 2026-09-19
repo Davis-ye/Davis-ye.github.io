@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-09-19T11:07:42.256Z",
+  "updatedAt": "2026-09-19T11:19:52.170Z",
   "hero": {
     "id": "story-0",
     "league": "Premier League",
     "dot": "#9CC0F0",
     "source": "The Guardian",
     "time": "Sep 19",
-    "headline": "Tottenham v Aston Villa: Premier League – live",
-    "excerpt": "<p>⚽️ Premier League updates from 12.30pm (BST)<br>⚽️ <a href=\"https://www.theguardian.com/football/live\">Today’s fixtures</a> | Send Daniel your thoughts…",
-    "link": "https://www.theguardian.com/football/live/2026/sep/19/tottenham-v-aston-villa-premier-league-live",
-    "image": "https://i.guim.co.uk/img/media/a8427b898f35ebd290de128fedbd6e63f4968c8e/1134_0_4779_3825/master/4779.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=4aa358c97ccea355d77b8743db71020d"
+    "headline": "Police on high alert before Millwall v West Ham, Inter legend Mazzola dies – matchday live",
+    "excerpt": "<ul><li><p>News, discussion and updates before Saturday’s games</p></li><li><p><a href=\"https://www.theguardian.com/football/fixtures\">This weekend’s fixtures</a> | <a href=\"https://www.theguardian.com/football/tables\">Tables</a> | <a…",
+    "link": "https://www.theguardian.com/football/live/2026/sep/19/police-on-high-alert-before-millwall-v-west-ham-spurs-and-villa-face-crunch-clash-matchday-live",
+    "image": "https://i.guim.co.uk/img/media/2b7707515b5b92a641850dad803fd09b6595bf35/0_0_5000_3999/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d08fb68ba763fcfb86cd546088f1a9c3"
   },
   "topStories": [
     {
@@ -18,10 +18,10 @@
       "dot": "#9CC0F0",
       "source": "The Guardian",
       "time": "Sep 19",
-      "headline": "Police on high alert before Millwall v West Ham, Inter legend Mazzola dies – matchday live",
-      "excerpt": "<ul><li><p>News, discussion and updates before Saturday’s games</p></li><li><p><a href=\"https://www.theguardian.com/football/fixtures\">This weekend’s fixtures</a> | <a href=\"https://www.theguardian.com/football/tables\">Tables</a> | <a…",
-      "link": "https://www.theguardian.com/football/live/2026/sep/19/police-on-high-alert-before-millwall-v-west-ham-spurs-and-villa-face-crunch-clash-matchday-live",
-      "image": "https://i.guim.co.uk/img/media/2b7707515b5b92a641850dad803fd09b6595bf35/0_0_5000_3999/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d08fb68ba763fcfb86cd546088f1a9c3"
+      "headline": "Tottenham v Aston Villa: Premier League – live",
+      "excerpt": "<p>⚽️ Premier League updates from 12.30pm (BST)<br>⚽️ <a href=\"https://www.theguardian.com/football/live\">Today’s fixtures</a> | Send Daniel your thoughts…",
+      "link": "https://www.theguardian.com/football/live/2026/sep/19/tottenham-v-aston-villa-premier-league-live",
+      "image": "https://i.guim.co.uk/img/media/b539196d6e23f90285bc62e70612370ea3aa498c/0_930_3678_2941/master/3678.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=417ffdbf5424a3fa92cfeb0b0521e2f9"
     },
     {
       "id": "story-2",
