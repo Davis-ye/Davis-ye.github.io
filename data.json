@@ -1,27 +1,27 @@
 {
-  "updatedAt": "2026-09-19T10:22:44.717Z",
+  "updatedAt": "2026-09-19T10:32:55.030Z",
   "hero": {
     "id": "story-0",
     "league": "Premier League",
     "dot": "#9CC0F0",
-    "source": "101 Great Goals",
+    "source": "The Guardian",
     "time": "Sep 19",
-    "headline": "Tottenham v Aston Villa: Confirmed team news and line-ups",
-    "excerpt": "Tottenham and Aston Villa go in search of their first Premier League win of the…",
-    "link": "https://www.101greatgoals.com/football/premier-league/tottenham-v-aston-villa-confirmed-team-news/",
-    "image": null
+    "headline": "Police on high alert before Millwall v West Ham, Spurs and Villa face crunch clash – matchday live",
+    "excerpt": "<ul><li><p>News, discussion and updates before Saturday’s games</p></li><li><p><a href=\"https://www.theguardian.com/football/fixtures\">This weekend’s fixtures</a> | <a href=\"https://www.theguardian.com/football/tables\">Tables</a> | <a…",
+    "link": "https://www.theguardian.com/football/live/2026/sep/19/police-on-high-alert-before-millwall-v-west-ham-spurs-and-villa-face-crunch-clash-matchday-live",
+    "image": "https://i.guim.co.uk/img/media/2b7707515b5b92a641850dad803fd09b6595bf35/0_0_5000_3999/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d08fb68ba763fcfb86cd546088f1a9c3"
   },
   "topStories": [
     {
       "id": "story-1",
       "league": "Premier League",
       "dot": "#9CC0F0",
-      "source": "The Guardian",
+      "source": "101 Great Goals",
       "time": "Sep 19",
-      "headline": "Police on high alert before Millwall v West Ham, Spurs and Villa face crunch clash – matchday live",
-      "excerpt": "<ul><li><p>News, discussion and updates before Saturday’s games</p></li><li><p><a href=\"https://www.theguardian.com/football/fixtures\">This weekend’s fixtures</a> | <a href=\"https://www.theguardian.com/football/tables\">Tables</a> | <a…",
-      "link": "https://www.theguardian.com/football/live/2026/sep/19/police-on-high-alert-before-millwall-v-west-ham-spurs-and-villa-face-crunch-clash-matchday-live",
-      "image": "https://i.guim.co.uk/img/media/2b7707515b5b92a641850dad803fd09b6595bf35/0_0_5000_3999/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d08fb68ba763fcfb86cd546088f1a9c3"
+      "headline": "Tottenham v Aston Villa: Confirmed team news and line-ups",
+      "excerpt": "Tottenham and Aston Villa go in search of their first Premier League win of the…",
+      "link": "https://www.101greatgoals.com/football/premier-league/tottenham-v-aston-villa-confirmed-team-news/",
+      "image": null
     },
     {
       "id": "story-2",
