@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-19T12:00:37.144Z",
+  "updatedAt": "2026-09-19T12:17:16.002Z",
   "hero": {
     "id": "story-0",
     "league": "Football",
@@ -25,6 +25,17 @@
     },
     {
       "id": "story-2",
+      "league": "La Liga",
+      "dot": "#E3B4F5",
+      "source": "101 Great Goals",
+      "time": "Sep 19",
+      "headline": "Atletico Madrid v Real Madrid: Preview, expected line-ups, stats and where to watch",
+      "excerpt": "The first Madrid derby of the season takes place at the Metropolitano on Sunday afternoon.…",
+      "link": "https://www.101greatgoals.com/match-previews/la-liga-matches/atletico-madrid-v-real-madrid-preview-expected-line-ups-stats-stream-where-to-watch/",
+      "image": null
+    },
+    {
+      "id": "story-3",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -35,7 +46,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/430e/live/3a78fbb0-b26e-11f1-b67f-2b40fa83cfed.png"
     },
     {
-      "id": "story-3",
+      "id": "story-4",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -44,17 +55,6 @@
       "excerpt": "African football boss Patrice Motsepe wants a \"heightened sense of urgency\" from Afcon 2027 co-hosts…",
       "link": "https://www.bbc.co.uk/sport/football/articles/cxr50lgjgz98o?at_medium=RSS&amp;at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/661f/live/5d15cef0-b372-11f1-9023-9990160baacc.jpg"
-    },
-    {
-      "id": "story-4",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "101 Great Goals",
-      "time": "Sep 19",
-      "headline": "Tottenham v Aston Villa: Confirmed team news and line-ups",
-      "excerpt": "Tottenham and Aston Villa go in search of their first Premier League win of the…",
-      "link": "https://www.101greatgoals.com/football/premier-league/tottenham-v-aston-villa-confirmed-team-news/",
-      "image": null
     },
     {
       "id": "story-5",
@@ -85,7 +85,7 @@
       "source": "The Guardian",
       "time": "Sep 19",
       "headline": "Andoni Iraola makes Bournemouth return still learning on the job at Liverpool",
-      "excerpt": "<p>Making big decisions and turning draws into wins is vital as head coach looks to…",
+      "excerpt": "<p>Making big decisions and turning draws into wins is vital as head coach seeks to…",
       "link": "https://www.theguardian.com/football/2026/sep/19/andoni-iraola-bournemouth-return-learning-on-job-liverpool",
       "image": "https://i.guim.co.uk/img/media/c7c13a504b15f9e17985a3c6488b2af88f675dea/168_0_2082_1666/master/2082.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=4601b299e33c92c364b4f225ac8b4f1b"
     },
