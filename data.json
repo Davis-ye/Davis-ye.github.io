@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-19T20:42:06.006Z",
+  "updatedAt": "2026-09-19T20:49:24.587Z",
   "hero": {
     "id": "story-0",
     "league": "Premier League",
@@ -278,6 +278,36 @@
       "awayScore": 2
     },
     {
+      "id": "score-559677",
+      "league": "Ligue 1",
+      "dot": "#B8D4E8",
+      "time": "Sep 19",
+      "home": "Le Mans FC",
+      "away": "FC Lorient",
+      "homeScore": 2,
+      "awayScore": 1
+    },
+    {
+      "id": "score-559680",
+      "league": "Ligue 1",
+      "dot": "#B8D4E8",
+      "time": "Sep 19",
+      "home": "Toulouse FC",
+      "away": "Le Havre AC",
+      "homeScore": 3,
+      "awayScore": 2
+    },
+    {
+      "id": "score-559681",
+      "league": "Ligue 1",
+      "dot": "#B8D4E8",
+      "time": "Sep 19",
+      "home": "Angers SCO",
+      "away": "ES Troyes AC",
+      "homeScore": 2,
+      "awayScore": 0
+    },
+    {
       "id": "score-560589",
       "league": "Premier League",
       "dot": "#9CC0F0",
@@ -296,36 +326,6 @@
       "away": "Real Racing Club de Santander",
       "homeScore": 5,
       "awayScore": 0
-    },
-    {
-      "id": "score-565806",
-      "league": "Bundesliga",
-      "dot": "#FFC469",
-      "time": "Sep 19",
-      "home": "VfB Stuttgart",
-      "away": "Borussia Dortmund",
-      "homeScore": 0,
-      "awayScore": 1
-    },
-    {
-      "id": "score-558593",
-      "league": "Serie A",
-      "dot": "#A9E6A0",
-      "time": "Sep 19",
-      "home": "AS Roma",
-      "away": "FC Internazionale Milano",
-      "homeScore": 2,
-      "awayScore": 2
-    },
-    {
-      "id": "score-559679",
-      "league": "Ligue 1",
-      "dot": "#B8D4E8",
-      "time": "Sep 19",
-      "home": "Paris FC",
-      "away": "RC Strasbourg Alsace",
-      "homeScore": 2,
-      "awayScore": 1
     }
   ]
 }
