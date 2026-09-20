@@ -1,27 +1,27 @@
 {
-  "updatedAt": "2026-09-20T12:36:52.017Z",
+  "updatedAt": "2026-09-20T12:49:00.502Z",
   "hero": {
     "id": "story-0",
-    "league": "Premier League",
-    "dot": "#9CC0F0",
+    "league": "Football",
+    "dot": "#AFC4AC",
     "source": "The Guardian",
     "time": "Sep 20",
-    "headline": "Bournemouth v Liverpool: Premier League – live",
-    "excerpt": "<ul><li><p>Updates from 2pm (BST) kickoff at the Vitality Stadium</p></li><li><p>Get in touch: contact Daniel <a href=\"mailto:daniel.harris.casual@guardian.co.uk\">via…",
-    "link": "https://www.theguardian.com/football/live/2026/sep/20/bournemouth-v-liverpool-premier-league-live",
-    "image": "https://i.guim.co.uk/img/media/8bfb1a3f68320a477c51e12965195be5fcf9c72f/265_0_4752_3803/master/4752.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e0734cdadb9f7b509f00260d1ef6d554"
+    "headline": "Celtic v Rangers: Scottish Premiership – live",
+    "excerpt": "<ul><li><p>Updates from Old Firm derby, midday kickoff (BST)</p></li><li><p>Get in touch: <a href=\"mailto:john.brewin.casual@guardian.co.uk\">email John</a> about the…",
+    "link": "https://www.theguardian.com/football/live/2026/sep/20/celtic-v-rangers-scottish-premiership-live",
+    "image": "https://i.guim.co.uk/img/media/6f0ca7bbcc1ec32c7a13615b10d206fb8771333f/1068_0_3675_2940/master/3675.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=aedcbf37f7155221562c9c00d026574d"
   },
   "topStories": [
     {
       "id": "story-1",
-      "league": "Football",
-      "dot": "#AFC4AC",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
       "source": "The Guardian",
       "time": "Sep 20",
-      "headline": "Celtic v Rangers: Scottish Premiership – live",
-      "excerpt": "<ul><li><p>Updates from Old Firm derby, midday kickoff (BST)</p></li><li><p>Get in touch: <a href=\"mailto:john.brewin.casual@guardian.co.uk\">email John</a> about the…",
-      "link": "https://www.theguardian.com/football/live/2026/sep/20/celtic-v-rangers-scottish-premiership-live",
-      "image": "https://i.guim.co.uk/img/media/6f0ca7bbcc1ec32c7a13615b10d206fb8771333f/1068_0_3675_2940/master/3675.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=aedcbf37f7155221562c9c00d026574d"
+      "headline": "Bournemouth v Liverpool: Premier League – live",
+      "excerpt": "<ul><li><p>Updates from 2pm (BST) kickoff at the Vitality Stadium</p></li><li><p>Get in touch: contact Daniel <a href=\"mailto:daniel.harris.casual@guardian.co.uk\">via…",
+      "link": "https://www.theguardian.com/football/live/2026/sep/20/bournemouth-v-liverpool-premier-league-live",
+      "image": "https://i.guim.co.uk/img/media/8bfb1a3f68320a477c51e12965195be5fcf9c72f/265_0_4752_3803/master/4752.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e0734cdadb9f7b509f00260d1ef6d554"
     },
     {
       "id": "story-2",
