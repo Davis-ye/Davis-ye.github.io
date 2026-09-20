@@ -1,19 +1,30 @@
 {
-  "updatedAt": "2026-09-20T17:23:25.029Z",
+  "updatedAt": "2026-09-20T17:32:24.290Z",
   "hero": {
     "id": "story-0",
     "league": "Premier League",
     "dot": "#9CC0F0",
-    "source": "The Guardian",
+    "source": "101 Great Goals",
     "time": "Sep 20",
-    "headline": "Fulham v Manchester United: Premier League – live",
-    "excerpt": "<ul><li><p>Updates from 4.30pm (BST) kickoff at Craven Cottage</p></li><li><p>Get in touch: <a href=\"mailto:taha.hashim@guardian.co.uk\">email Taha</a> about the…",
-    "link": "https://www.theguardian.com/football/live/2026/sep/20/fulham-v-manchester-united-premier-league-live",
-    "image": "https://i.guim.co.uk/img/media/5e80fc039bb504180b4c82092252d2d9e3172591/1659_418_4173_3338/master/4173.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=6bf9fedc70507ad786998e058e0c47a1"
+    "headline": "Fulham 1-1 Manchester United: Report, result, goals from Premier League",
+    "excerpt": "Man United are winless in four Premier League games",
+    "link": "https://www.101greatgoals.com/football/premier-league/fulham-manchester-united-report-result-goals-cunha-martinez-own-goal/",
+    "image": null
   },
   "topStories": [
     {
       "id": "story-1",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "The Guardian",
+      "time": "Sep 20",
+      "headline": "Fulham v Manchester United: Premier League – live",
+      "excerpt": "<ul><li><p>Updates from 4.30pm (BST) kickoff at Craven Cottage</p></li><li><p>Get in touch: <a href=\"mailto:taha.hashim@guardian.co.uk\">email Taha</a> about the…",
+      "link": "https://www.theguardian.com/football/live/2026/sep/20/fulham-v-manchester-united-premier-league-live",
+      "image": "https://i.guim.co.uk/img/media/5e80fc039bb504180b4c82092252d2d9e3172591/1659_418_4173_3338/master/4173.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=6bf9fedc70507ad786998e058e0c47a1"
+    },
+    {
+      "id": "story-2",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "101 Great Goals",
@@ -24,7 +35,7 @@
       "image": null
     },
     {
-      "id": "story-2",
+      "id": "story-3",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -35,7 +46,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6ef6/live/3597c030-b4f9-11f1-947c-4906c0564be0.jpg"
     },
     {
-      "id": "story-3",
+      "id": "story-4",
       "league": "La Liga",
       "dot": "#E3B4F5",
       "source": "BBC Sport",
@@ -46,7 +57,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0c9d/live/54171140-b513-11f1-b1d1-571ed4d7ff2c.jpg"
     },
     {
-      "id": "story-4",
+      "id": "story-5",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -57,7 +68,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/340c/live/c082ab20-b50c-11f1-91cc-c5691e33b858.jpg"
     },
     {
-      "id": "story-5",
+      "id": "story-6",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "101 Great Goals",
@@ -68,7 +79,7 @@
       "image": null
     },
     {
-      "id": "story-6",
+      "id": "story-7",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -79,7 +90,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1732/live/e8376180-b50a-11f1-91cc-c5691e33b858.jpg"
     },
     {
-      "id": "story-7",
+      "id": "story-8",
       "league": "La Liga",
       "dot": "#E3B4F5",
       "source": "101 Great Goals",
@@ -90,7 +101,7 @@
       "image": null
     },
     {
-      "id": "story-8",
+      "id": "story-9",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -101,7 +112,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7d6a/live/78a0d860-b50f-11f1-b1d1-571ed4d7ff2c.jpg"
     },
     {
-      "id": "story-9",
+      "id": "story-10",
       "league": "La Liga",
       "dot": "#E3B4F5",
       "source": "101 Great Goals",
@@ -112,7 +123,7 @@
       "image": null
     },
     {
-      "id": "story-10",
+      "id": "story-11",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "101 Great Goals",
@@ -123,7 +134,7 @@
       "image": null
     },
     {
-      "id": "story-11",
+      "id": "story-12",
       "league": "La Liga",
       "dot": "#E3B4F5",
       "source": "101 Great Goals",
@@ -134,7 +145,7 @@
       "image": null
     },
     {
-      "id": "story-12",
+      "id": "story-13",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -145,7 +156,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/442d/live/16d88de0-b509-11f1-91cc-c5691e33b858.jpg"
     },
     {
-      "id": "story-13",
+      "id": "story-14",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "101 Great Goals",
@@ -156,7 +167,7 @@
       "image": null
     },
     {
-      "id": "story-14",
+      "id": "story-15",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "101 Great Goals",
@@ -167,7 +178,7 @@
       "image": null
     },
     {
-      "id": "story-15",
+      "id": "story-16",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "101 Great Goals",
@@ -178,7 +189,7 @@
       "image": null
     },
     {
-      "id": "story-16",
+      "id": "story-17",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "101 Great Goals",
@@ -189,7 +200,7 @@
       "image": null
     },
     {
-      "id": "story-17",
+      "id": "story-18",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -200,7 +211,7 @@
       "image": "https://i.guim.co.uk/img/media/18b17853f7c20aa2f8e6a8656a44dda6136cae21/457_0_3217_2573/master/3217.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=760dbb29c2e25c42ad0e9b6f9bd72538"
     },
     {
-      "id": "story-18",
+      "id": "story-19",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -211,7 +222,7 @@
       "image": "https://i.guim.co.uk/img/media/3cbbd04d595be7d375fdbd0d66bd4fe8f042e458/492_350_4042_3235/master/4042.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=2560a31b8d170c26a98b0b28b7f89c93"
     },
     {
-      "id": "story-19",
+      "id": "story-20",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "101 Great Goals",
@@ -222,7 +233,7 @@
       "image": null
     },
     {
-      "id": "story-20",
+      "id": "story-21",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -233,7 +244,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3833/live/6b51f730-b4ff-11f1-91cc-c5691e33b858.jpg"
     },
     {
-      "id": "story-21",
+      "id": "story-22",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -244,7 +255,7 @@
       "image": "https://i.guim.co.uk/img/media/5abac2e7945814b08c37c1e59939afaf6ceb6273/490_0_3447_2758/master/3447.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=699ec8b4ccef28c90695d06aa76a4d88"
     },
     {
-      "id": "story-22",
+      "id": "story-23",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -253,20 +264,29 @@
       "excerpt": "How Bournemouth and Liverpool's players rated during their Premier League match.",
       "link": "https://www.bbc.co.uk/sport/football/articles/cw7v4959g4zpo?at_medium=RSS&amp;at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9de6/live/e54c4920-b502-11f1-91cc-c5691e33b858.jpg"
-    },
-    {
-      "id": "story-23",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "101 Great Goals",
-      "time": "Sep 20",
-      "headline": "Man City vs Sunderland live: Watch Antoine Semenyo, Enzo Fernandez and Brian Brobbey goals",
-      "excerpt": "Man City and Sunderland shared five first-half goals",
-      "link": "https://www.101greatgoals.com/football/premier-league/man-city-vs-sunderland-live-watch-antoine-semenyo-enzo-fernandez-brian-brobbey-goals-var/",
-      "image": null
     }
   ],
   "scoreboard": [
+    {
+      "id": "score-560583",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "time": "Sep 20",
+      "home": "Fulham FC",
+      "away": "Manchester United FC",
+      "homeScore": 1,
+      "awayScore": 1
+    },
+    {
+      "id": "score-565805",
+      "league": "Bundesliga",
+      "dot": "#FFC469",
+      "time": "Sep 20",
+      "home": "FC Schalke 04",
+      "away": "SV 07 Elversberg",
+      "homeScore": 0,
+      "awayScore": 0
+    },
     {
       "id": "score-559678",
       "league": "Ligue 1",
@@ -306,26 +326,6 @@
       "away": "Liverpool FC",
       "homeScore": 0,
       "awayScore": 1
-    },
-    {
-      "id": "score-560585",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "time": "Sep 20",
-      "home": "Leeds United FC",
-      "away": "Crystal Palace FC",
-      "homeScore": 0,
-      "awayScore": 0
-    },
-    {
-      "id": "score-560590",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "time": "Sep 20",
-      "home": "Manchester City FC",
-      "away": "Sunderland AFC",
-      "homeScore": 5,
-      "awayScore": 3
     }
   ]
 }
