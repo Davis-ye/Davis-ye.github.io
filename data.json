@@ -1,19 +1,30 @@
 {
-  "updatedAt": "2026-09-20T07:18:18.825Z",
+  "updatedAt": "2026-09-20T07:28:51.653Z",
   "hero": {
     "id": "story-0",
-    "league": "Premier League",
-    "dot": "#9CC0F0",
-    "source": "The Guardian",
+    "league": "Football",
+    "dot": "#AFC4AC",
+    "source": "BBC Sport",
     "time": "Sep 20",
-    "headline": "Iraola returns to Bournemouth and Manchester United head to Fulham – matchday live",
-    "excerpt": "<ul><li><p>News, discussion and updates before Sunday’s games</p></li><li><p><a href=\"https://www.theguardian.com/football/fixtures\">This weekend’s fixtures</a> | <a href=\"mailto:matchday.live@guardian.co.uk\">Mail us your…",
-    "link": "https://www.theguardian.com/football/live/2026/sep/20/iraola-returns-to-bournemouth-and-manchester-united-head-to-fulham-matchday-live",
-    "image": "https://i.guim.co.uk/img/media/ff6e1d58f304b75d3d0a96c46934976c59ddaca0/0_0_5000_3999/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=2b0bd5e7cffda854f653368bacca42e3"
+    "headline": "Will the three-week break put more pressure on managers?",
+    "excerpt": "So far this season three coaches have lost their jobs, but plenty of others will…",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cmg49gv74qzlo?at_medium=RSS&amp;at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/779c/live/ca336e00-b35b-11f1-b1d1-571ed4d7ff2c.jpg"
   },
   "topStories": [
     {
       "id": "story-1",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "The Guardian",
+      "time": "Sep 20",
+      "headline": "Iraola returns to Bournemouth and Manchester United head to Fulham – matchday live",
+      "excerpt": "<ul><li><p>News, discussion and updates before Sunday’s games</p></li><li><p><a href=\"https://www.theguardian.com/football/fixtures\">This weekend’s fixtures</a> | <a href=\"mailto:matchday.live@guardian.co.uk\">Mail us your…",
+      "link": "https://www.theguardian.com/football/live/2026/sep/20/iraola-returns-to-bournemouth-and-manchester-united-head-to-fulham-matchday-live",
+      "image": "https://i.guim.co.uk/img/media/ff6e1d58f304b75d3d0a96c46934976c59ddaca0/0_0_5000_3999/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=2b0bd5e7cffda854f653368bacca42e3"
+    },
+    {
+      "id": "story-2",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "The Guardian",
@@ -24,7 +35,7 @@
       "image": "https://i.guim.co.uk/img/media/01c648d3819b239de6ba5a60ab70303c704126f6/0_215_750_599/master/750.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=55d13ce7eb4822b8588ce100b345056b"
     },
     {
-      "id": "story-2",
+      "id": "story-3",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -35,7 +46,7 @@
       "image": "https://i.guim.co.uk/img/media/7872c33928eb64bd0dbe30959b1b5fb1253d8467/420_0_4205_3364/master/4205.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e385a10838c11519552a5d69589e4dc9"
     },
     {
-      "id": "story-3",
+      "id": "story-4",
       "league": "La Liga",
       "dot": "#E3B4F5",
       "source": "BBC Sport",
@@ -46,7 +57,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7681/live/60bfc640-b445-11f1-8eb0-59fdbbab66e7.png"
     },
     {
-      "id": "story-4",
+      "id": "story-5",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -57,7 +68,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/70d9/live/eb25ea50-9afd-11f1-b792-a710e56a11dc.jpg"
     },
     {
-      "id": "story-5",
+      "id": "story-6",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -66,17 +77,6 @@
       "excerpt": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
       "link": "https://www.bbc.co.uk/sport/football/articles/c9gk5863zz2po?at_medium=RSS&amp;at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ada7/live/27df4c70-9658-11f1-b2ab-0dd01740f9f6.jpg"
-    },
-    {
-      "id": "story-6",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "BBC Sport",
-      "time": "Sep 20",
-      "headline": "Will the three-week break put more pressure on managers?",
-      "excerpt": "So far this season two coaches have lost their jobs, but plenty of others will…",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cmg49gv74qzlo?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/779c/live/ca336e00-b35b-11f1-b1d1-571ed4d7ff2c.jpg"
     },
     {
       "id": "story-7",
