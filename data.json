@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-09-20T14:54:55.091Z",
+  "updatedAt": "2026-09-20T15:02:38.168Z",
   "hero": {
     "id": "story-0",
     "league": "Premier League",
     "dot": "#9CC0F0",
-    "source": "101 Great Goals",
+    "source": "The Guardian",
     "time": "Sep 20",
-    "headline": "Fulham v Manchester United LIVE: Commentary, updates, goals and stats with Sesko out",
-    "excerpt": "Follow live Premier League updates from Fulham v Man United",
-    "link": "https://www.101greatgoals.com/live/fulham-vs-manchester-united-live-latest-score-text-updates-goals-stats-latest-result-la-liga/",
-    "image": null
+    "headline": "Bournemouth 0-1 Liverpool: Premier League – live reaction",
+    "excerpt": "<ul><li><p>Isak’s strike gives Iraola happy return to former club</p></li><li><p>Get in touch: contact Daniel <a href=\"mailto:daniel.harris.casual@guardian.co.uk\">via…",
+    "link": "https://www.theguardian.com/football/live/2026/sep/20/bournemouth-v-liverpool-premier-league-live",
+    "image": "https://i.guim.co.uk/img/media/5edf92108f1744d2c252fb4c57202d3f403a33b6/669_0_1679_1343/master/1679.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f306f33d4ce622420d573c69a3493dc8"
   },
   "topStories": [
     {
@@ -18,13 +18,35 @@
       "dot": "#9CC0F0",
       "source": "The Guardian",
       "time": "Sep 20",
-      "headline": "Bournemouth v Liverpool: Premier League – live",
-      "excerpt": "<ul><li><p>Updates from 2pm (BST) kickoff at the Vitality Stadium</p></li><li><p>Get in touch: contact Daniel <a href=\"mailto:daniel.harris.casual@guardian.co.uk\">via…",
-      "link": "https://www.theguardian.com/football/live/2026/sep/20/bournemouth-v-liverpool-premier-league-live",
-      "image": "https://i.guim.co.uk/img/media/5edf92108f1744d2c252fb4c57202d3f403a33b6/669_0_1679_1343/master/1679.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f306f33d4ce622420d573c69a3493dc8"
+      "headline": "Semenyo helps perfect Manchester City edge out Sunderland after Brobbey hat-trick",
+      "excerpt": "<p>Manchester City and Sunderland shared eight goals in a madcap contest that Enzo Maresca’s side…",
+      "link": "https://www.theguardian.com/football/2026/sep/20/manchester-city-sunderland-premier-league-match-report",
+      "image": "https://i.guim.co.uk/img/media/5abac2e7945814b08c37c1e59939afaf6ceb6273/490_0_3447_2758/master/3447.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=699ec8b4ccef28c90695d06aa76a4d88"
     },
     {
       "id": "story-2",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "101 Great Goals",
+      "time": "Sep 20",
+      "headline": "Bournemouth 0-1 Liverpool: Report, result, goals as Isak seals Reds&#8217; win",
+      "excerpt": "Alexander Isak's strike gave Liverpool victory at Bournemouth",
+      "link": "https://www.101greatgoals.com/football/premier-league/bournemouth-liverpool-report-result-goals-isak/",
+      "image": null
+    },
+    {
+      "id": "story-3",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "BBC Sport",
+      "time": "Sep 20",
+      "headline": "Jacquet and Alisson impress - Bournemouth v Liverpool ratings",
+      "excerpt": "How Bournemouth and Liverpool's players rated during their Premier League match.",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cw7v4959g4zpo?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9de6/live/e54c4920-b502-11f1-91cc-c5691e33b858.jpg"
+    },
+    {
+      "id": "story-4",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -35,7 +57,7 @@
       "image": "https://i.guim.co.uk/img/media/a66981183537d82c2b5893669cacc53ff30aa6f7/559_0_4201_3360/master/4201.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=0d33c639dcc00d1ebaaefc2e494df65d"
     },
     {
-      "id": "story-3",
+      "id": "story-5",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "The Guardian",
@@ -46,7 +68,7 @@
       "image": "https://i.guim.co.uk/img/media/e81eac8c64a6529fa8ca16ef4cf81cd8f192be0a/7_184_3304_2643/master/3304.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b07c3c77eabb73fd618d35bd44e41716"
     },
     {
-      "id": "story-4",
+      "id": "story-6",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -57,7 +79,7 @@
       "image": "https://i.guim.co.uk/img/media/d1c7dbebe8b8f69ccb7fdb55c30249f8d6bffca6/0_0_1366_1093/master/1366.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=44ee5ab0eb35fd5942e2d98bf2c994d9"
     },
     {
-      "id": "story-5",
+      "id": "story-7",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -68,7 +90,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dffc/live/8ec1f110-b4d3-11f1-b55d-81b847f392df.jpg"
     },
     {
-      "id": "story-6",
+      "id": "story-8",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -79,7 +101,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4831/live/332ab140-b4cc-11f1-bc1f-3f186ca4140c.png"
     },
     {
-      "id": "story-7",
+      "id": "story-9",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -90,7 +112,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/779c/live/ca336e00-b35b-11f1-b1d1-571ed4d7ff2c.jpg"
     },
     {
-      "id": "story-8",
+      "id": "story-10",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "The Guardian",
@@ -101,7 +123,7 @@
       "image": "https://i.guim.co.uk/img/media/01c648d3819b239de6ba5a60ab70303c704126f6/0_215_750_599/master/750.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=55d13ce7eb4822b8588ce100b345056b"
     },
     {
-      "id": "story-9",
+      "id": "story-11",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -112,7 +134,7 @@
       "image": "https://i.guim.co.uk/img/media/7872c33928eb64bd0dbe30959b1b5fb1253d8467/420_0_4205_3364/master/4205.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e385a10838c11519552a5d69589e4dc9"
     },
     {
-      "id": "story-10",
+      "id": "story-12",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -123,7 +145,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/70d9/live/eb25ea50-9afd-11f1-b792-a710e56a11dc.jpg"
     },
     {
-      "id": "story-11",
+      "id": "story-13",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -134,7 +156,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ada7/live/27df4c70-9658-11f1-b2ab-0dd01740f9f6.jpg"
     },
     {
-      "id": "story-12",
+      "id": "story-14",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -145,7 +167,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/55db/live/648ac0a0-b287-11f1-8096-b33a1297275a.jpg"
     },
     {
-      "id": "story-13",
+      "id": "story-15",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -156,7 +178,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5663/live/9a7dedf0-b47a-11f1-bc1f-3f186ca4140c.jpg"
     },
     {
-      "id": "story-14",
+      "id": "story-16",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -167,7 +189,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1228/live/b97163c0-b477-11f1-a430-4d16ee157c41.jpg"
     },
     {
-      "id": "story-15",
+      "id": "story-17",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -178,7 +200,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d405/live/e60c97b0-b459-11f1-a430-4d16ee157c41.jpg"
     },
     {
-      "id": "story-16",
+      "id": "story-18",
       "league": "La Liga",
       "dot": "#E3B4F5",
       "source": "BBC Sport",
@@ -189,7 +211,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dc38/live/8efc0af0-b472-11f1-a430-4d16ee157c41.jpg"
     },
     {
-      "id": "story-17",
+      "id": "story-19",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -200,7 +222,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b874/live/5423d830-b473-11f1-a430-4d16ee157c41.jpg"
     },
     {
-      "id": "story-18",
+      "id": "story-20",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -211,18 +233,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6733/live/1337c710-b472-11f1-bc1f-3f186ca4140c.png"
     },
     {
-      "id": "story-19",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "BBC Sport",
-      "time": "Sep 19",
-      "headline": "Carrick has faith in VAR despite derby error",
-      "excerpt": "Manchester United head coach Michael Carrick still has faith in VAR despite the derby blunder…",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cq8r64ppml6lo?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aa39/live/bfe16820-b406-11f1-b1d1-571ed4d7ff2c.jpg"
-    },
-    {
-      "id": "story-20",
+      "id": "story-21",
       "league": "La Liga",
       "dot": "#E3B4F5",
       "source": "The Guardian",
@@ -233,7 +244,7 @@
       "image": "https://i.guim.co.uk/img/media/adb54ee678703af8bfc7389e016c84706c18eccc/421_0_3272_2618/master/3272.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=7ba9ec4d997ba1dfd1854b356dc51df5"
     },
     {
-      "id": "story-21",
+      "id": "story-22",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -244,7 +255,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/84d4/live/d5a8ebb0-b465-11f1-a184-cb4c2456e9a6.jpg"
     },
     {
-      "id": "story-22",
+      "id": "story-23",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -253,20 +264,39 @@
       "excerpt": "A week ago, the picture at Manchester United looked bleak. Then on Saturday, victory was…",
       "link": "https://www.bbc.co.uk/sport/football/articles/cx2z7ev28zeo?at_medium=RSS&amp;at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/75a2/live/79134db0-b469-11f1-ba71-ffd6620ab0d3.jpg"
-    },
-    {
-      "id": "story-23",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "BBC Sport",
-      "time": "Sep 19",
-      "headline": "Moyes demands more from Everton - but don't mention Europe",
-      "excerpt": "Fifth in the Premier League table and yet to lose this season, Everton are on…",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cmlye7z7q5r7o?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/de68/live/6f6fddc0-b458-11f1-ba76-4da528bd99e6.jpg"
     }
   ],
   "scoreboard": [
+    {
+      "id": "score-560582",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "time": "Sep 20",
+      "home": "AFC Bournemouth",
+      "away": "Liverpool FC",
+      "homeScore": 0,
+      "awayScore": 1
+    },
+    {
+      "id": "score-560585",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "time": "Sep 20",
+      "home": "Leeds United FC",
+      "away": "Crystal Palace FC",
+      "homeScore": 0,
+      "awayScore": 1
+    },
+    {
+      "id": "score-559676",
+      "league": "Ligue 1",
+      "dot": "#B8D4E8",
+      "time": "Sep 20",
+      "home": "AJ Auxerre",
+      "away": "Stade Brestois 29",
+      "homeScore": 2,
+      "awayScore": 1
+    },
     {
       "id": "score-564697",
       "league": "La Liga",
@@ -296,36 +326,6 @@
       "away": "FC Barcelona",
       "homeScore": 1,
       "awayScore": 3
-    },
-    {
-      "id": "score-558594",
-      "league": "Serie A",
-      "dot": "#A9E6A0",
-      "time": "Sep 19",
-      "home": "Venezia FC",
-      "away": "SS Lazio",
-      "homeScore": 0,
-      "awayScore": 2
-    },
-    {
-      "id": "score-559677",
-      "league": "Ligue 1",
-      "dot": "#B8D4E8",
-      "time": "Sep 19",
-      "home": "Le Mans FC",
-      "away": "FC Lorient",
-      "homeScore": 2,
-      "awayScore": 1
-    },
-    {
-      "id": "score-559680",
-      "league": "Ligue 1",
-      "dot": "#B8D4E8",
-      "time": "Sep 19",
-      "home": "Toulouse FC",
-      "away": "Le Havre AC",
-      "homeScore": 3,
-      "awayScore": 2
     }
   ]
 }
