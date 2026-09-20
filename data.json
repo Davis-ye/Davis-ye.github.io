@@ -1,19 +1,41 @@
 {
-  "updatedAt": "2026-09-20T16:26:34.892Z",
+  "updatedAt": "2026-09-20T16:37:14.912Z",
   "hero": {
     "id": "story-0",
-    "league": "La Liga",
-    "dot": "#E3B4F5",
-    "source": "101 Great Goals",
+    "league": "Premier League",
+    "dot": "#9CC0F0",
+    "source": "The Guardian",
     "time": "Sep 20",
-    "headline": "Atletico v Real Madrid as it happened: Stats and updates as Blancos are beaten",
-    "excerpt": "Relive text updates from Atleti v Real Madrid",
-    "link": "https://www.101greatgoals.com/live/atletico-vs-real-madrid-live-latest-score-updates-premier-league-goals-stats/",
-    "image": null
+    "headline": "Fulham v Manchester United: Premier League – live",
+    "excerpt": "<ul><li><p>Updates from 4.30pm (BST) kickoff at Craven Cottage</p></li><li><p>Get in touch: <a href=\"mailto:taha.hashim@guardian.co.uk\">email Taha</a> about the…",
+    "link": "https://www.theguardian.com/football/live/2026/sep/20/fulham-v-manchester-united-premier-league-live",
+    "image": "https://i.guim.co.uk/img/media/10abe15ad924fc3f2b00b8bb4b73013399f84e51/35_156_2298_1840/master/2298.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=59203e10e5887dde6301105c9214e7b5"
   },
   "topStories": [
     {
       "id": "story-1",
+      "league": "La Liga",
+      "dot": "#E3B4F5",
+      "source": "101 Great Goals",
+      "time": "Sep 20",
+      "headline": "Atletico v Real Madrid as it happened: Stats and updates as Blancos are beaten",
+      "excerpt": "Relive text updates from Atleti v Real Madrid",
+      "link": "https://www.101greatgoals.com/live/atletico-vs-real-madrid-live-latest-score-updates-premier-league-goals-stats/",
+      "image": null
+    },
+    {
+      "id": "story-2",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "BBC Sport",
+      "time": "Sep 20",
+      "headline": "Rangers look like they know where they want to go - Celtic just look lost",
+      "excerpt": "Tom English reflects on the first Old Firm league game of the season, in which…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c317j2lzg8rdo?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7d6a/live/78a0d860-b50f-11f1-b1d1-571ed4d7ff2c.jpg"
+    },
+    {
+      "id": "story-3",
       "league": "La Liga",
       "dot": "#E3B4F5",
       "source": "101 Great Goals",
@@ -24,18 +46,7 @@
       "image": null
     },
     {
-      "id": "story-2",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "The Guardian",
-      "time": "Sep 20",
-      "headline": "Fulham v Manchester United: Premier League – live",
-      "excerpt": "<ul><li><p>Updates from 4.30pm (BST) kickoff at Craven Cottage</p></li><li><p>Get in touch: <a href=\"mailto:taha.hashim@guardian.co.uk\">email Taha</a> about the…",
-      "link": "https://www.theguardian.com/football/live/2026/sep/20/fulham-v-manchester-united-premier-league-live",
-      "image": "https://i.guim.co.uk/img/media/10abe15ad924fc3f2b00b8bb4b73013399f84e51/35_156_2298_1840/master/2298.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=59203e10e5887dde6301105c9214e7b5"
-    },
-    {
-      "id": "story-3",
+      "id": "story-4",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "101 Great Goals",
@@ -46,7 +57,7 @@
       "image": null
     },
     {
-      "id": "story-4",
+      "id": "story-5",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "101 Great Goals",
@@ -57,7 +68,7 @@
       "image": null
     },
     {
-      "id": "story-5",
+      "id": "story-6",
       "league": "La Liga",
       "dot": "#E3B4F5",
       "source": "101 Great Goals",
@@ -68,7 +79,7 @@
       "image": null
     },
     {
-      "id": "story-6",
+      "id": "story-7",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -79,7 +90,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/442d/live/16d88de0-b509-11f1-91cc-c5691e33b858.jpg"
     },
     {
-      "id": "story-7",
+      "id": "story-8",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "101 Great Goals",
@@ -90,7 +101,7 @@
       "image": null
     },
     {
-      "id": "story-8",
+      "id": "story-9",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "101 Great Goals",
@@ -101,7 +112,7 @@
       "image": null
     },
     {
-      "id": "story-9",
+      "id": "story-10",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "101 Great Goals",
@@ -112,7 +123,7 @@
       "image": null
     },
     {
-      "id": "story-10",
+      "id": "story-11",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "101 Great Goals",
@@ -123,7 +134,7 @@
       "image": null
     },
     {
-      "id": "story-11",
+      "id": "story-12",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -134,7 +145,7 @@
       "image": "https://i.guim.co.uk/img/media/18b17853f7c20aa2f8e6a8656a44dda6136cae21/457_0_3217_2573/master/3217.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=760dbb29c2e25c42ad0e9b6f9bd72538"
     },
     {
-      "id": "story-12",
+      "id": "story-13",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -145,7 +156,7 @@
       "image": "https://i.guim.co.uk/img/media/3cbbd04d595be7d375fdbd0d66bd4fe8f042e458/492_350_4042_3235/master/4042.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=2560a31b8d170c26a98b0b28b7f89c93"
     },
     {
-      "id": "story-13",
+      "id": "story-14",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "101 Great Goals",
@@ -156,7 +167,7 @@
       "image": null
     },
     {
-      "id": "story-14",
+      "id": "story-15",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -167,7 +178,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3833/live/6b51f730-b4ff-11f1-91cc-c5691e33b858.jpg"
     },
     {
-      "id": "story-15",
+      "id": "story-16",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -178,7 +189,7 @@
       "image": "https://i.guim.co.uk/img/media/5abac2e7945814b08c37c1e59939afaf6ceb6273/490_0_3447_2758/master/3447.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=699ec8b4ccef28c90695d06aa76a4d88"
     },
     {
-      "id": "story-16",
+      "id": "story-17",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -189,7 +200,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9de6/live/e54c4920-b502-11f1-91cc-c5691e33b858.jpg"
     },
     {
-      "id": "story-17",
+      "id": "story-18",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "101 Great Goals",
@@ -200,7 +211,7 @@
       "image": null
     },
     {
-      "id": "story-18",
+      "id": "story-19",
       "league": "La Liga",
       "dot": "#E3B4F5",
       "source": "101 Great Goals",
@@ -211,7 +222,7 @@
       "image": null
     },
     {
-      "id": "story-19",
+      "id": "story-20",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "The Guardian",
@@ -222,7 +233,7 @@
       "image": "https://i.guim.co.uk/img/media/e81eac8c64a6529fa8ca16ef4cf81cd8f192be0a/7_184_3304_2643/master/3304.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b07c3c77eabb73fd618d35bd44e41716"
     },
     {
-      "id": "story-20",
+      "id": "story-21",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "101 Great Goals",
@@ -233,7 +244,7 @@
       "image": null
     },
     {
-      "id": "story-21",
+      "id": "story-22",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "101 Great Goals",
@@ -244,7 +255,7 @@
       "image": null
     },
     {
-      "id": "story-22",
+      "id": "story-23",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "101 Great Goals",
@@ -252,17 +263,6 @@
       "headline": "Bournemouth vs Liverpool live: Confirmed teams and full line ups",
       "excerpt": "Confirmed teams from Bournemouth vs Liverpool",
       "link": "https://www.101greatgoals.com/football/premier-league/bournemouth-vs-liverpool-live-teams-line-ups-where-to-watch-tv-channel-online-stream/",
-      "image": null
-    },
-    {
-      "id": "story-23",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "101 Great Goals",
-      "time": "Sep 20",
-      "headline": "Celtic 0-1 Rangers: Report, result, goals from Scottish Premiership",
-      "excerpt": "Watch highlights as Rangers beat Celtic",
-      "link": "https://www.101greatgoals.com/news/celtic-rangers-report-result-goals-scottish-premiership-ryan-naderi-goal/",
       "image": null
     }
   ],
