@@ -1,27 +1,27 @@
 {
-  "updatedAt": "2026-09-20T10:12:24.939Z",
+  "updatedAt": "2026-09-20T10:24:01.923Z",
   "hero": {
     "id": "story-0",
-    "league": "Football",
-    "dot": "#AFC4AC",
+    "league": "Premier League",
+    "dot": "#9CC0F0",
     "source": "The Guardian",
     "time": "Sep 20",
-    "headline": "Celtic v Rangers: Scottish Premiership – live",
-    "excerpt": "<ul><li><p>Updates from Old Firm derby, midday kickoff (BST)</p></li><li><p>Get in touch: <a href=\"mailto:john.brewin.casual@guardian.co.uk\">email John</a> about the…",
-    "link": "https://www.theguardian.com/football/live/2026/sep/20/celtic-v-rangers-scottish-premiership-live",
-    "image": "https://i.guim.co.uk/img/media/4b5afe50c2c5428f0ed8eba7ff65ddb239518c2e/541_0_3864_3092/master/3864.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=9d059ffc0faba975c09ff24b22fd7617"
+    "headline": "Iraola returns to Bournemouth, Premier League buildup and Townsend’s bizarre accident – matchday live",
+    "excerpt": "<ul><li><p>News, discussion and updates before Sunday’s games</p></li><li><p><a href=\"https://www.theguardian.com/football/fixtures\">This weekend’s fixtures</a> | <a href=\"mailto:matchday.live@guardian.co.uk\">Mail us your…",
+    "link": "https://www.theguardian.com/football/live/2026/sep/20/iraola-returns-to-bournemouth-and-manchester-united-head-to-fulham-matchday-live",
+    "image": "https://i.guim.co.uk/img/media/ff6e1d58f304b75d3d0a96c46934976c59ddaca0/0_0_5000_3999/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=2b0bd5e7cffda854f653368bacca42e3"
   },
   "topStories": [
     {
       "id": "story-1",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
+      "league": "Football",
+      "dot": "#AFC4AC",
       "source": "The Guardian",
       "time": "Sep 20",
-      "headline": "Iraola returns to Bournemouth, Premier League buildup and Townsend’s bizarre accident – matchday live",
-      "excerpt": "<ul><li><p>News, discussion and updates before Sunday’s games</p></li><li><p><a href=\"https://www.theguardian.com/football/fixtures\">This weekend’s fixtures</a> | <a href=\"mailto:matchday.live@guardian.co.uk\">Mail us your…",
-      "link": "https://www.theguardian.com/football/live/2026/sep/20/iraola-returns-to-bournemouth-and-manchester-united-head-to-fulham-matchday-live",
-      "image": "https://i.guim.co.uk/img/media/ff6e1d58f304b75d3d0a96c46934976c59ddaca0/0_0_5000_3999/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=2b0bd5e7cffda854f653368bacca42e3"
+      "headline": "Celtic v Rangers: Scottish Premiership – live",
+      "excerpt": "<ul><li><p>Updates from Old Firm derby, midday kickoff (BST)</p></li><li><p>Get in touch: <a href=\"mailto:john.brewin.casual@guardian.co.uk\">email John</a> about the…",
+      "link": "https://www.theguardian.com/football/live/2026/sep/20/celtic-v-rangers-scottish-premiership-live",
+      "image": "https://i.guim.co.uk/img/media/4b5afe50c2c5428f0ed8eba7ff65ddb239518c2e/541_0_3864_3092/master/3864.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=9d059ffc0faba975c09ff24b22fd7617"
     },
     {
       "id": "story-2",
