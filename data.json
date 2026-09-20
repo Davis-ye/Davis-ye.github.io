@@ -1,41 +1,30 @@
 {
-  "updatedAt": "2026-09-20T14:29:53.455Z",
+  "updatedAt": "2026-09-20T14:39:56.036Z",
   "hero": {
     "id": "story-0",
-    "league": "La Liga",
-    "dot": "#E3B4F5",
-    "source": "101 Great Goals",
+    "league": "Premier League",
+    "dot": "#9CC0F0",
+    "source": "The Guardian",
     "time": "Sep 20",
-    "headline": "Atletico vs Real Madrid: Confirmed teams, full line ups in La Liga",
-    "excerpt": "Full team news from Atleti vs Real Madrid in La Liga",
-    "link": "https://www.101greatgoals.com/football/la-liga/atletico-vs-real-madrid-live-teams-line-ups-online-stream-tv-channel-jude-bellingham/",
-    "image": null
+    "headline": "Bournemouth v Liverpool: Premier League – live",
+    "excerpt": "<ul><li><p>Updates from 2pm (BST) kickoff at the Vitality Stadium</p></li><li><p>Get in touch: contact Daniel <a href=\"mailto:daniel.harris.casual@guardian.co.uk\">via…",
+    "link": "https://www.theguardian.com/football/live/2026/sep/20/bournemouth-v-liverpool-premier-league-live",
+    "image": "https://i.guim.co.uk/img/media/5edf92108f1744d2c252fb4c57202d3f403a33b6/669_0_1679_1343/master/1679.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f306f33d4ce622420d573c69a3493dc8"
   },
   "topStories": [
     {
       "id": "story-1",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "The Guardian",
+      "league": "La Liga",
+      "dot": "#E3B4F5",
+      "source": "101 Great Goals",
       "time": "Sep 20",
-      "headline": "Bournemouth v Liverpool: Premier League – live",
-      "excerpt": "<ul><li><p>Updates from 2pm (BST) kickoff at the Vitality Stadium</p></li><li><p>Get in touch: contact Daniel <a href=\"mailto:daniel.harris.casual@guardian.co.uk\">via…",
-      "link": "https://www.theguardian.com/football/live/2026/sep/20/bournemouth-v-liverpool-premier-league-live",
-      "image": "https://i.guim.co.uk/img/media/dd89d6ed0beb6420f75ea00dbbce3036903a487d/459_0_3534_2827/master/3534.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=2ba7dd4780a19b6e7ca04549e4bf5cd1"
+      "headline": "Atletico vs Real Madrid: Confirmed teams, full line ups in La Liga",
+      "excerpt": "Full team news from Atleti vs Real Madrid in La Liga",
+      "link": "https://www.101greatgoals.com/football/la-liga/atletico-vs-real-madrid-live-teams-line-ups-online-stream-tv-channel-jude-bellingham/",
+      "image": null
     },
     {
       "id": "story-2",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "The Guardian",
-      "time": "Sep 20",
-      "headline": "Rangers and Ryan Naderi finish off Celtic’s horror week with Old Firm victory",
-      "excerpt": "<p>If ever a stadium can be rocked by silence, this was the moment. With no…",
-      "link": "https://www.theguardian.com/football/2026/sep/20/celtic-rangers-scottish-premiership-match-report",
-      "image": "https://i.guim.co.uk/img/media/e81eac8c64a6529fa8ca16ef4cf81cd8f192be0a/7_184_3304_2643/master/3304.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b07c3c77eabb73fd618d35bd44e41716"
-    },
-    {
-      "id": "story-3",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -44,6 +33,17 @@
       "excerpt": "<ul><li><p>Updates from 4.30pm (BST) kickoff at Craven Cottage</p></li><li><p>Get in touch: <a href=\"mailto:taha.hashim@guardian.co.uk\">email Taha</a> about the…",
       "link": "https://www.theguardian.com/football/live/2026/sep/20/fulham-v-manchester-united-premier-league-live",
       "image": "https://i.guim.co.uk/img/media/a66981183537d82c2b5893669cacc53ff30aa6f7/559_0_4201_3360/master/4201.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=0d33c639dcc00d1ebaaefc2e494df65d"
+    },
+    {
+      "id": "story-3",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "The Guardian",
+      "time": "Sep 20",
+      "headline": "Rangers and Ryan Naderi finish off Celtic’s horror week with Old Firm victory",
+      "excerpt": "<p>If ever a stadium can be rocked by silence, this was the moment. With no…",
+      "link": "https://www.theguardian.com/football/2026/sep/20/celtic-rangers-scottish-premiership-match-report",
+      "image": "https://i.guim.co.uk/img/media/e81eac8c64a6529fa8ca16ef4cf81cd8f192be0a/7_184_3304_2643/master/3304.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b07c3c77eabb73fd618d35bd44e41716"
     },
     {
       "id": "story-4",
