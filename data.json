@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-20T22:00:31.156Z",
+  "updatedAt": "2026-09-20T22:13:02.322Z",
   "hero": {
     "id": "story-0",
     "league": "Premier League",
@@ -14,13 +14,13 @@
   "topStories": [
     {
       "id": "story-1",
-      "league": "Football",
-      "dot": "#AFC4AC",
+      "league": "Serie A",
+      "dot": "#A9E6A0",
       "source": "101 Great Goals",
       "time": "Sep 20",
-      "headline": "NFL: Maye and Patriots bounce back in Week 2 as Bengals beat Texans and Packers squeeze past Jets",
-      "excerpt": "Catch up with all the action from the early games in the NFL.",
-      "link": "https://www.101greatgoals.com/nfl/nfl-patriots-bounce-back-week-2-as-bengals-beat-texans-packers-jets/",
+      "headline": "European round-up: Torres and Marquinhos fire PSG, Milan end drought at San Siro, Juventus back on track",
+      "excerpt": "Catch up with all the action from across Europe on Sunday.",
+      "link": "https://www.101greatgoals.com/football/european-round-up-psg-milan-juventus/",
       "image": null
     },
     {
