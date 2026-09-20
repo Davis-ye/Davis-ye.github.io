@@ -1,27 +1,27 @@
 {
-  "updatedAt": "2026-09-20T14:39:56.036Z",
+  "updatedAt": "2026-09-20T14:47:57.540Z",
   "hero": {
     "id": "story-0",
     "league": "Premier League",
     "dot": "#9CC0F0",
-    "source": "The Guardian",
+    "source": "101 Great Goals",
     "time": "Sep 20",
-    "headline": "Bournemouth v Liverpool: Premier League – live",
-    "excerpt": "<ul><li><p>Updates from 2pm (BST) kickoff at the Vitality Stadium</p></li><li><p>Get in touch: contact Daniel <a href=\"mailto:daniel.harris.casual@guardian.co.uk\">via…",
-    "link": "https://www.theguardian.com/football/live/2026/sep/20/bournemouth-v-liverpool-premier-league-live",
-    "image": "https://i.guim.co.uk/img/media/5edf92108f1744d2c252fb4c57202d3f403a33b6/669_0_1679_1343/master/1679.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f306f33d4ce622420d573c69a3493dc8"
+    "headline": "Manchester City v Sunderland LIVE: Haaland ends drought to put hosts 5-3 ahead",
+    "excerpt": "Follow live text updates as Manchester City host Sunderland",
+    "link": "https://www.101greatgoals.com/live/man-city-vs-sunderland-live-latest-score-updates-premier-league-goals-stats/",
+    "image": null
   },
   "topStories": [
     {
       "id": "story-1",
-      "league": "La Liga",
-      "dot": "#E3B4F5",
-      "source": "101 Great Goals",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "The Guardian",
       "time": "Sep 20",
-      "headline": "Atletico vs Real Madrid: Confirmed teams, full line ups in La Liga",
-      "excerpt": "Full team news from Atleti vs Real Madrid in La Liga",
-      "link": "https://www.101greatgoals.com/football/la-liga/atletico-vs-real-madrid-live-teams-line-ups-online-stream-tv-channel-jude-bellingham/",
-      "image": null
+      "headline": "Bournemouth v Liverpool: Premier League – live",
+      "excerpt": "<ul><li><p>Updates from 2pm (BST) kickoff at the Vitality Stadium</p></li><li><p>Get in touch: contact Daniel <a href=\"mailto:daniel.harris.casual@guardian.co.uk\">via…",
+      "link": "https://www.theguardian.com/football/live/2026/sep/20/bournemouth-v-liverpool-premier-league-live",
+      "image": "https://i.guim.co.uk/img/media/5edf92108f1744d2c252fb4c57202d3f403a33b6/669_0_1679_1343/master/1679.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f306f33d4ce622420d573c69a3493dc8"
     },
     {
       "id": "story-2",
