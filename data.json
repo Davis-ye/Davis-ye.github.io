@@ -1,19 +1,30 @@
 {
-  "updatedAt": "2026-09-20T17:41:40.040Z",
+  "updatedAt": "2026-09-20T17:49:04.140Z",
   "hero": {
     "id": "story-0",
     "league": "Premier League",
     "dot": "#9CC0F0",
-    "source": "BBC Sport",
+    "source": "The Guardian",
     "time": "Sep 20",
-    "headline": "Who rated highest in Fulham v Man Utd?",
-    "excerpt": "Last minute Cunha goal saves Man Utd from another defeat - who rated highest at…",
-    "link": "https://www.bbc.co.uk/sport/football/articles/cxddvp49gg1ro?at_medium=RSS&amp;at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7f9d/live/e867c380-b50e-11f1-a430-4d16ee157c41.jpg"
+    "headline": "Fulham 1-1 Manchester United: Premier League – live reaction",
+    "excerpt": "<ul><li><p>Updates from 4.30pm (BST) kickoff at Craven Cottage</p></li><li><p>Get in touch: <a href=\"mailto:taha.hashim@guardian.co.uk\">email Taha</a> about the…",
+    "link": "https://www.theguardian.com/football/live/2026/sep/20/fulham-v-manchester-united-premier-league-live",
+    "image": "https://i.guim.co.uk/img/media/dc2cb47602fa981f13da8c2a6cf85f869dc48b9b/0_65_2792_2234/master/2792.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=2c55ba7d560a434ca233f4c81e6b93f3"
   },
   "topStories": [
     {
       "id": "story-1",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "BBC Sport",
+      "time": "Sep 20",
+      "headline": "Who rated highest in Fulham v Man Utd?",
+      "excerpt": "Last minute Cunha goal saves Man Utd from another defeat - who rated highest at…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cxddvp49gg1ro?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7f9d/live/e867c380-b50e-11f1-a430-4d16ee157c41.jpg"
+    },
+    {
+      "id": "story-2",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "101 Great Goals",
@@ -22,17 +33,6 @@
       "excerpt": "Relive Premier League updates from Fulham v Man United",
       "link": "https://www.101greatgoals.com/live/fulham-vs-manchester-united-live-latest-score-text-updates-goals-stats-latest-result-la-liga/",
       "image": null
-    },
-    {
-      "id": "story-2",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "The Guardian",
-      "time": "Sep 20",
-      "headline": "Fulham 1-1 Manchester United: Premier League – live reaction",
-      "excerpt": "<ul><li><p>Updates from 4.30pm (BST) kickoff at Craven Cottage</p></li><li><p>Get in touch: <a href=\"mailto:taha.hashim@guardian.co.uk\">email Taha</a> about the…",
-      "link": "https://www.theguardian.com/football/live/2026/sep/20/fulham-v-manchester-united-premier-league-live",
-      "image": "https://i.guim.co.uk/img/media/dc2cb47602fa981f13da8c2a6cf85f869dc48b9b/0_65_2792_2234/master/2792.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=2c55ba7d560a434ca233f4c81e6b93f3"
     },
     {
       "id": "story-3",
