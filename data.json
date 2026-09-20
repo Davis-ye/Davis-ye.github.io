@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-20T21:46:17.852Z",
+  "updatedAt": "2026-09-20T21:53:11.130Z",
   "hero": {
     "id": "story-0",
     "league": "Premier League",
@@ -14,14 +14,14 @@
   "topStories": [
     {
       "id": "story-1",
-      "league": "Bundesliga",
-      "dot": "#FFC469",
-      "source": "BBC Sport",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "101 Great Goals",
       "time": "Sep 20",
-      "headline": "Bundesliga",
-      "excerpt": "Watch highlights from matchday four in the Bundesliga.",
-      "link": "https://www.bbc.co.uk/iplayer/episode/l0058tms?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0p8slj9.jpg"
+      "headline": "NFL: Maye and Patriots bounce back in Week 2 as Bengals beat Texans and Packers squeeze past Jets",
+      "excerpt": "Catch up with all the action from the early games in the NFL.",
+      "link": "https://www.101greatgoals.com/nfl/nfl-patriots-bounce-back-week-2-as-bengals-beat-texans-packers-jets/",
+      "image": null
     },
     {
       "id": "story-2",
