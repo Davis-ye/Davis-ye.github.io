@@ -1,27 +1,27 @@
 {
-  "updatedAt": "2026-09-20T07:28:51.653Z",
+  "updatedAt": "2026-09-20T07:38:58.056Z",
   "hero": {
     "id": "story-0",
-    "league": "Football",
-    "dot": "#AFC4AC",
-    "source": "BBC Sport",
+    "league": "Premier League",
+    "dot": "#9CC0F0",
+    "source": "The Guardian",
     "time": "Sep 20",
-    "headline": "Will the three-week break put more pressure on managers?",
-    "excerpt": "So far this season three coaches have lost their jobs, but plenty of others will…",
-    "link": "https://www.bbc.co.uk/sport/football/articles/cmg49gv74qzlo?at_medium=RSS&amp;at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/779c/live/ca336e00-b35b-11f1-b1d1-571ed4d7ff2c.jpg"
+    "headline": "Iraola returns to Bournemouth and Manchester United head to Fulham – matchday live",
+    "excerpt": "<ul><li><p>News, discussion and updates before Sunday’s games</p></li><li><p><a href=\"https://www.theguardian.com/football/fixtures\">This weekend’s fixtures</a> | <a href=\"mailto:matchday.live@guardian.co.uk\">Mail us your…",
+    "link": "https://www.theguardian.com/football/live/2026/sep/20/iraola-returns-to-bournemouth-and-manchester-united-head-to-fulham-matchday-live",
+    "image": "https://i.guim.co.uk/img/media/ff6e1d58f304b75d3d0a96c46934976c59ddaca0/0_0_5000_3999/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=2b0bd5e7cffda854f653368bacca42e3"
   },
   "topStories": [
     {
       "id": "story-1",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "The Guardian",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "BBC Sport",
       "time": "Sep 20",
-      "headline": "Iraola returns to Bournemouth and Manchester United head to Fulham – matchday live",
-      "excerpt": "<ul><li><p>News, discussion and updates before Sunday’s games</p></li><li><p><a href=\"https://www.theguardian.com/football/fixtures\">This weekend’s fixtures</a> | <a href=\"mailto:matchday.live@guardian.co.uk\">Mail us your…",
-      "link": "https://www.theguardian.com/football/live/2026/sep/20/iraola-returns-to-bournemouth-and-manchester-united-head-to-fulham-matchday-live",
-      "image": "https://i.guim.co.uk/img/media/ff6e1d58f304b75d3d0a96c46934976c59ddaca0/0_0_5000_3999/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=2b0bd5e7cffda854f653368bacca42e3"
+      "headline": "Will the three-week break put more pressure on managers?",
+      "excerpt": "So far this season three coaches have lost their jobs, but plenty of others will…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cmg49gv74qzlo?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/779c/live/ca336e00-b35b-11f1-b1d1-571ed4d7ff2c.jpg"
     },
     {
       "id": "story-2",
