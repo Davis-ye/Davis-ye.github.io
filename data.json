@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-09-20T15:16:57.857Z",
+  "updatedAt": "2026-09-20T15:28:08.600Z",
   "hero": {
     "id": "story-0",
     "league": "Premier League",
     "dot": "#9CC0F0",
     "source": "101 Great Goals",
     "time": "Sep 20",
-    "headline": "Bournemouth 0-1 Liverpool: Report, result, goals as Isak seals Reds&#8217; win",
-    "excerpt": "Alexander Isak's strike gave Liverpool victory at Bournemouth",
-    "link": "https://www.101greatgoals.com/football/premier-league/bournemouth-liverpool-report-result-goals-isak/",
+    "headline": "Man City v Sunderland as it happened: Result, stats and updates",
+    "excerpt": "Relive text updates as Man City edged past Sunderland",
+    "link": "https://www.101greatgoals.com/live/man-city-vs-sunderland-live-latest-score-updates-premier-league-goals-stats/",
     "image": null
   },
   "topStories": [
@@ -18,35 +18,46 @@
       "dot": "#9CC0F0",
       "source": "The Guardian",
       "time": "Sep 20",
-      "headline": "Bournemouth 0-1 Liverpool: Premier League – live reaction",
-      "excerpt": "<ul><li><p>Isak’s strike gives Iraola happy return to former club</p></li><li><p>Get in touch: contact Daniel <a href=\"mailto:daniel.harris.casual@guardian.co.uk\">via…",
-      "link": "https://www.theguardian.com/football/live/2026/sep/20/bournemouth-v-liverpool-premier-league-live",
-      "image": "https://i.guim.co.uk/img/media/5edf92108f1744d2c252fb4c57202d3f403a33b6/669_0_1679_1343/master/1679.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f306f33d4ce622420d573c69a3493dc8"
+      "headline": "Fulham v Manchester United: Premier League – live",
+      "excerpt": "<ul><li><p>Updates from 4.30pm (BST) kickoff at Craven Cottage</p></li><li><p>Get in touch: <a href=\"mailto:taha.hashim@guardian.co.uk\">email Taha</a> about the…",
+      "link": "https://www.theguardian.com/football/live/2026/sep/20/fulham-v-manchester-united-premier-league-live",
+      "image": "https://i.guim.co.uk/img/media/a66981183537d82c2b5893669cacc53ff30aa6f7/559_0_4201_3360/master/4201.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=0d33c639dcc00d1ebaaefc2e494df65d"
     },
     {
       "id": "story-2",
       "league": "Premier League",
       "dot": "#9CC0F0",
-      "source": "BBC Sport",
+      "source": "The Guardian",
       "time": "Sep 20",
-      "headline": "Hat-trick hero Brobbey on losing side - player ratings for Man City v Sunderland",
-      "excerpt": "How Manchester City and Sunderland players rated in their eventful Premier League match on Sunday.",
-      "link": "https://www.bbc.co.uk/sport/football/articles/ckvgyzx4jqwwo?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3833/live/6b51f730-b4ff-11f1-91cc-c5691e33b858.jpg"
+      "headline": "Alexander Isak edges Liverpool to victory on Iraola’s return to Bournemouth",
+      "excerpt": "<p>At the final whistle, victory secured, Andoni Iraola embraced both his current players and those…",
+      "link": "https://www.theguardian.com/football/2026/sep/20/bournemouth-liverpool-premier-league-match-report",
+      "image": "https://i.guim.co.uk/img/media/3cbbd04d595be7d375fdbd0d66bd4fe8f042e458/492_350_4042_3235/master/4042.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=2560a31b8d170c26a98b0b28b7f89c93"
     },
     {
       "id": "story-3",
       "league": "Premier League",
       "dot": "#9CC0F0",
+      "source": "BBC Sport",
+      "time": "Sep 20",
+      "headline": "Brobbey hits hat-trick on losing side - player ratings for Man City v Sunderland",
+      "excerpt": "How Manchester City and Sunderland players rated in their eventful Premier League match on Sunday.",
+      "link": "https://www.bbc.co.uk/sport/football/articles/ckvgyzx4jqwwo?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3833/live/6b51f730-b4ff-11f1-91cc-c5691e33b858.jpg"
+    },
+    {
+      "id": "story-4",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
       "source": "The Guardian",
       "time": "Sep 20",
-      "headline": "Semenyo helps perfect Manchester City edge out Sunderland after Brobbey hat-trick",
+      "headline": "Semenyo helps perfect Manchester City beat Sunderland 5-3 after Brobbey hat-trick",
       "excerpt": "<p>Manchester City and Sunderland shared eight goals in a madcap contest that Enzo Maresca’s side…",
       "link": "https://www.theguardian.com/football/2026/sep/20/manchester-city-sunderland-premier-league-match-report",
       "image": "https://i.guim.co.uk/img/media/5abac2e7945814b08c37c1e59939afaf6ceb6273/490_0_3447_2758/master/3447.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=699ec8b4ccef28c90695d06aa76a4d88"
     },
     {
-      "id": "story-4",
+      "id": "story-5",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -55,17 +66,6 @@
       "excerpt": "How Bournemouth and Liverpool's players rated during their Premier League match.",
       "link": "https://www.bbc.co.uk/sport/football/articles/cw7v4959g4zpo?at_medium=RSS&amp;at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9de6/live/e54c4920-b502-11f1-91cc-c5691e33b858.jpg"
-    },
-    {
-      "id": "story-5",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "The Guardian",
-      "time": "Sep 20",
-      "headline": "Fulham v Manchester United: Premier League – live",
-      "excerpt": "<ul><li><p>Updates from 4.30pm (BST) kickoff at Craven Cottage</p></li><li><p>Get in touch: <a href=\"mailto:taha.hashim@guardian.co.uk\">email Taha</a> about the…",
-      "link": "https://www.theguardian.com/football/live/2026/sep/20/fulham-v-manchester-united-premier-league-live",
-      "image": "https://i.guim.co.uk/img/media/a66981183537d82c2b5893669cacc53ff30aa6f7/559_0_4201_3360/master/4201.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=0d33c639dcc00d1ebaaefc2e494df65d"
     },
     {
       "id": "story-6",
