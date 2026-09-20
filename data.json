@@ -1,27 +1,27 @@
 {
-  "updatedAt": "2026-09-20T15:46:11.620Z",
+  "updatedAt": "2026-09-20T15:53:26.534Z",
   "hero": {
     "id": "story-0",
-    "league": "La Liga",
-    "dot": "#E3B4F5",
-    "source": "101 Great Goals",
+    "league": "Premier League",
+    "dot": "#9CC0F0",
+    "source": "The Guardian",
     "time": "Sep 20",
-    "headline": "Atletico Madrid v Real Madrid LIVE: Grimaldo scores penalty after Huijsen red card",
-    "excerpt": "Follow live text updates from Atleti v Real Madrid",
-    "link": "https://www.101greatgoals.com/live/atletico-vs-real-madrid-live-latest-score-updates-premier-league-goals-stats/",
-    "image": null
+    "headline": "Fulham v Manchester United: Premier League – live",
+    "excerpt": "<ul><li><p>Updates from 4.30pm (BST) kickoff at Craven Cottage</p></li><li><p>Get in touch: <a href=\"mailto:taha.hashim@guardian.co.uk\">email Taha</a> about the…",
+    "link": "https://www.theguardian.com/football/live/2026/sep/20/fulham-v-manchester-united-premier-league-live",
+    "image": "https://i.guim.co.uk/img/media/474a56179950b2d29d4b776a1f06e424b7ab34a4/875_58_2977_2381/master/2977.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=35950f42f76e6907d7e48ef1ea087bef"
   },
   "topStories": [
     {
       "id": "story-1",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "The Guardian",
+      "league": "La Liga",
+      "dot": "#E3B4F5",
+      "source": "101 Great Goals",
       "time": "Sep 20",
-      "headline": "Fulham v Manchester United: Premier League – live",
-      "excerpt": "<ul><li><p>Updates from 4.30pm (BST) kickoff at Craven Cottage</p></li><li><p>Get in touch: <a href=\"mailto:taha.hashim@guardian.co.uk\">email Taha</a> about the…",
-      "link": "https://www.theguardian.com/football/live/2026/sep/20/fulham-v-manchester-united-premier-league-live",
-      "image": "https://i.guim.co.uk/img/media/a66981183537d82c2b5893669cacc53ff30aa6f7/559_0_4201_3360/master/4201.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=0d33c639dcc00d1ebaaefc2e494df65d"
+      "headline": "Atletico Madrid v Real Madrid LIVE: Grimaldo scores penalty after Huijsen red card",
+      "excerpt": "Follow live text updates from Atleti v Real Madrid",
+      "link": "https://www.101greatgoals.com/live/atletico-vs-real-madrid-live-latest-score-updates-premier-league-goals-stats/",
+      "image": null
     },
     {
       "id": "story-2",
@@ -62,8 +62,8 @@
       "dot": "#9CC0F0",
       "source": "The Guardian",
       "time": "Sep 20",
-      "headline": "Semenyo helps perfect Manchester City beat Sunderland 5-3 after Brobbey hat-trick",
-      "excerpt": "<p>Manchester City and Sunderland shared eight goals in a madcap contest that Enzo Maresca’s side…",
+      "headline": "Semenyo helps chaotic Manchester City beat Sunderland 5-3 after Brobbey hat-trick",
+      "excerpt": "<p>Manchester City sent a message to Arsenal with this chaotic victory that takes Enzo Maresca’s…",
       "link": "https://www.theguardian.com/football/2026/sep/20/manchester-city-sunderland-premier-league-match-report",
       "image": "https://i.guim.co.uk/img/media/5abac2e7945814b08c37c1e59939afaf6ceb6273/490_0_3447_2758/master/3447.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=699ec8b4ccef28c90695d06aa76a4d88"
     },
