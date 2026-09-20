@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-20T19:19:32.356Z",
+  "updatedAt": "2026-09-20T19:29:00.178Z",
   "hero": {
     "id": "story-0",
     "league": "Premier League",
@@ -268,6 +268,16 @@
   ],
   "scoreboard": [
     {
+      "id": "score-565803",
+      "league": "Bundesliga",
+      "dot": "#FFC469",
+      "time": "Sep 20",
+      "home": "SC Paderborn 07",
+      "away": "TSG 1899 Hoffenheim",
+      "homeScore": 3,
+      "awayScore": 1
+    },
+    {
       "id": "score-564695",
       "league": "La Liga",
       "dot": "#E3B4F5",
@@ -316,16 +326,6 @@
       "away": "SV 07 Elversberg",
       "homeScore": 0,
       "awayScore": 0
-    },
-    {
-      "id": "score-559678",
-      "league": "Ligue 1",
-      "dot": "#B8D4E8",
-      "time": "Sep 20",
-      "home": "OGC Nice",
-      "away": "Lille OSC",
-      "homeScore": 2,
-      "awayScore": 1
     }
   ]
 }
