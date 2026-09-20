@@ -1,27 +1,27 @@
 {
-  "updatedAt": "2026-09-20T10:58:37.629Z",
+  "updatedAt": "2026-09-20T11:09:34.799Z",
   "hero": {
     "id": "story-0",
-    "league": "Premier League",
-    "dot": "#9CC0F0",
+    "league": "Football",
+    "dot": "#AFC4AC",
     "source": "The Guardian",
     "time": "Sep 20",
-    "headline": "Iraola returns to Bournemouth, Premier League buildup and Townsend’s bizarre accident – matchday live",
-    "excerpt": "<ul><li><p>News, discussion and updates before Sunday’s games</p></li><li><p><a href=\"https://www.theguardian.com/football/fixtures\">This weekend’s fixtures</a> | <a href=\"mailto:matchday.live@guardian.co.uk\">Mail us your…",
-    "link": "https://www.theguardian.com/football/live/2026/sep/20/iraola-returns-to-bournemouth-and-manchester-united-head-to-fulham-matchday-live",
-    "image": "https://i.guim.co.uk/img/media/ff6e1d58f304b75d3d0a96c46934976c59ddaca0/0_0_5000_3999/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=2b0bd5e7cffda854f653368bacca42e3"
+    "headline": "Celtic v Rangers: Scottish Premiership – live",
+    "excerpt": "<ul><li><p>Updates from Old Firm derby, midday kickoff (BST)</p></li><li><p>Get in touch: <a href=\"mailto:john.brewin.casual@guardian.co.uk\">email John</a> about the…",
+    "link": "https://www.theguardian.com/football/live/2026/sep/20/celtic-v-rangers-scottish-premiership-live",
+    "image": "https://i.guim.co.uk/img/media/54e6f33996936b88a31449f6ee8234e9021dbdf4/750_0_4830_3864/master/4830.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=35c4126dda7767916b350b11b2bb05ab"
   },
   "topStories": [
     {
       "id": "story-1",
-      "league": "Football",
-      "dot": "#AFC4AC",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
       "source": "The Guardian",
       "time": "Sep 20",
-      "headline": "Celtic v Rangers: Scottish Premiership – live",
-      "excerpt": "<ul><li><p>Updates from Old Firm derby, midday kickoff (BST)</p></li><li><p>Get in touch: <a href=\"mailto:john.brewin.casual@guardian.co.uk\">email John</a> about the…",
-      "link": "https://www.theguardian.com/football/live/2026/sep/20/celtic-v-rangers-scottish-premiership-live",
-      "image": "https://i.guim.co.uk/img/media/4b5afe50c2c5428f0ed8eba7ff65ddb239518c2e/541_0_3864_3092/master/3864.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=9d059ffc0faba975c09ff24b22fd7617"
+      "headline": "Andros Townsend avoids injury after bizarre pitch roller incident in Thailand",
+      "excerpt": "<ul><li><p>Former England player run over while warming up</p></li><li><p>‘It turns out Stoke away wasn’t so bad,’…",
+      "link": "https://www.theguardian.com/football/2026/sep/20/andros-townsend-avoids-injury-after-bizarre-pitch-roller-incident-in-thailand",
+      "image": "https://i.guim.co.uk/img/media/d1c7dbebe8b8f69ccb7fdb55c30249f8d6bffca6/0_0_1366_1093/master/1366.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=44ee5ab0eb35fd5942e2d98bf2c994d9"
     },
     {
       "id": "story-2",
