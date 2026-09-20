@@ -1,27 +1,27 @@
 {
-  "updatedAt": "2026-09-20T13:40:54.982Z",
+  "updatedAt": "2026-09-20T13:49:23.784Z",
   "hero": {
     "id": "story-0",
     "league": "Premier League",
     "dot": "#9CC0F0",
-    "source": "101 Great Goals",
+    "source": "The Guardian",
     "time": "Sep 20",
-    "headline": "Manchester City v Sunderland LIVE: Brobbey second brings visitors level",
-    "excerpt": "Follow live text updates as Manchester City host Sunderland",
-    "link": "https://www.101greatgoals.com/live/man-city-vs-sunderland-live-latest-score-updates-premier-league-goals-stats/",
-    "image": null
+    "headline": "Bournemouth v Liverpool: Premier League – live",
+    "excerpt": "<ul><li><p>Updates from 2pm (BST) kickoff at the Vitality Stadium</p></li><li><p>Get in touch: contact Daniel <a href=\"mailto:daniel.harris.casual@guardian.co.uk\">via…",
+    "link": "https://www.theguardian.com/football/live/2026/sep/20/bournemouth-v-liverpool-premier-league-live",
+    "image": "https://i.guim.co.uk/img/media/dd89d6ed0beb6420f75ea00dbbce3036903a487d/459_0_3534_2827/master/3534.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=2ba7dd4780a19b6e7ca04549e4bf5cd1"
   },
   "topStories": [
     {
       "id": "story-1",
       "league": "Premier League",
       "dot": "#9CC0F0",
-      "source": "The Guardian",
+      "source": "101 Great Goals",
       "time": "Sep 20",
-      "headline": "Bournemouth v Liverpool: Premier League – live",
-      "excerpt": "<ul><li><p>Updates from 2pm (BST) kickoff at the Vitality Stadium</p></li><li><p>Get in touch: contact Daniel <a href=\"mailto:daniel.harris.casual@guardian.co.uk\">via…",
-      "link": "https://www.theguardian.com/football/live/2026/sep/20/bournemouth-v-liverpool-premier-league-live",
-      "image": "https://i.guim.co.uk/img/media/6158c89cf0f1dfe1ace23581e69f70c690b982eb/0_0_4150_3320/master/4150.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=18581e97f0284b8abdc0454281219dbf"
+      "headline": "Manchester City v Sunderland LIVE: Brobbey second brings visitors level",
+      "excerpt": "Follow live text updates as Manchester City host Sunderland",
+      "link": "https://www.101greatgoals.com/live/man-city-vs-sunderland-live-latest-score-updates-premier-league-goals-stats/",
+      "image": null
     },
     {
       "id": "story-2",
