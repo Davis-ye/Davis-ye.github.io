@@ -1,30 +1,19 @@
 {
-  "updatedAt": "2026-09-20T22:58:49.165Z",
+  "updatedAt": "2026-09-20T23:09:33.468Z",
   "hero": {
     "id": "story-0",
-    "league": "Premier League",
-    "dot": "#9CC0F0",
-    "source": "BBC Sport",
+    "league": "Serie A",
+    "dot": "#A9E6A0",
+    "source": "101 Great Goals",
     "time": "Sep 20",
-    "headline": "Match of the Day",
-    "excerpt": "With Man City v Sunderland and Andoni Iraola’s return to Bournemouth with Liverpool",
-    "link": "https://www.bbc.co.uk/iplayer/episode/m0031yfv?at_medium=RSS&amp;at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0pb8hq0.jpg"
+    "headline": "European round-up: Torres and Marquinhos fire PSG, Milan end drought at San Siro, Juventus back on track",
+    "excerpt": "Catch up with all the action from across Europe on Sunday.",
+    "link": "https://www.101greatgoals.com/football/european-round-up-psg-milan-juventus/",
+    "image": null
   },
   "topStories": [
     {
       "id": "story-1",
-      "league": "Serie A",
-      "dot": "#A9E6A0",
-      "source": "101 Great Goals",
-      "time": "Sep 20",
-      "headline": "European round-up: Torres and Marquinhos fire PSG, Milan end drought at San Siro, Juventus back on track",
-      "excerpt": "Catch up with all the action from across Europe on Sunday.",
-      "link": "https://www.101greatgoals.com/football/european-round-up-psg-milan-juventus/",
-      "image": null
-    },
-    {
-      "id": "story-2",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -35,7 +24,7 @@
       "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0pb3f0t.jpg"
     },
     {
-      "id": "story-3",
+      "id": "story-2",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -46,7 +35,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c1e8/live/97abe0f0-b524-11f1-b1e2-034207760e32.jpg"
     },
     {
-      "id": "story-4",
+      "id": "story-3",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -55,6 +44,17 @@
       "excerpt": "Spurs could move for Morgan Gibbs‑White, JJ Gabriel's next step remains unresolved and Antonio Conte…",
       "link": "https://www.bbc.co.uk/sport/football/articles/c6y8z29nxn4mo?at_medium=RSS&amp;at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb22/live/e29ee6f0-b503-11f1-91cc-c5691e33b858.png"
+    },
+    {
+      "id": "story-4",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "The Guardian",
+      "time": "Sep 20",
+      "headline": "Carrick disputes Cunha’s claim that Manchester United lacked energy in Fulham draw",
+      "excerpt": "<ul><li><p>Michael Carrick insists team ‘kept pushing’ for leveller</p></li><li><p>Matheus Cunha: ‘Fulham put in more energy than…",
+      "link": "https://www.theguardian.com/football/2026/sep/20/michael-carrick-matheus-cunha-fulham-manchester-united-premier-league",
+      "image": "https://i.guim.co.uk/img/media/9b78cfa6a21599416e415fb13a4f9950fca92f1b/254_0_2258_1806/master/2258.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=5119ab60cbda463151fc19bdf87ff593"
     },
     {
       "id": "story-5",
@@ -225,23 +225,23 @@
       "id": "story-20",
       "league": "Premier League",
       "dot": "#9CC0F0",
-      "source": "The Guardian",
-      "time": "Sep 20",
-      "headline": "Cunha strikes late to deny Fulham and salvage point for Manchester United",
-      "excerpt": "<p>To paraphrase a former Manchester United manager, Michael Carrick knew that the storm would come.…",
-      "link": "https://www.theguardian.com/football/2026/sep/20/fulham-manchester-united-premier-league-match-report",
-      "image": "https://i.guim.co.uk/img/media/99e9d4fb307d3c984985a6f141d3d854190b8e1f/132_0_1760_1408/master/1760.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ae4a8d3ad9845bd9efd28c1b8e9213e3"
-    },
-    {
-      "id": "story-21",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
       "source": "BBC Sport",
       "time": "Sep 20",
       "headline": "Who rated highest in Fulham v Man Utd?",
       "excerpt": "Last minute Cunha goal saves Man Utd from another defeat - who rated highest at…",
       "link": "https://www.bbc.co.uk/sport/football/articles/cxddvp49gg1ro?at_medium=RSS&amp;at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d59f/live/bd0d34a0-b526-11f1-b1d1-571ed4d7ff2c.jpg"
+    },
+    {
+      "id": "story-21",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "The Guardian",
+      "time": "Sep 20",
+      "headline": "Maresca dismisses title talk as ‘too early’ after Manchester City take over at the top",
+      "excerpt": "<ul><li><p>‘I prefer to win 1-0 than 5-3 but expected a difficult game’</p></li><li><p>Semenyo scored twice in…",
+      "link": "https://www.theguardian.com/football/2026/sep/20/enzo-maresca-manchester-city-sunderland-premier-league",
+      "image": "https://i.guim.co.uk/img/media/60ebccd6ddf33ce8016ee7de8a7b78dca34d8f66/280_0_2804_2243/master/2804.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3129ef3f5aa7cc19a70a6b9d8b13d32b"
     },
     {
       "id": "story-22",
