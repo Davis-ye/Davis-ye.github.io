@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-09-20T19:10:02.273Z",
+  "updatedAt": "2026-09-20T19:19:32.356Z",
   "hero": {
     "id": "story-0",
-    "league": "Football",
-    "dot": "#AFC4AC",
+    "league": "Premier League",
+    "dot": "#9CC0F0",
     "source": "BBC Sport",
     "time": "Sep 20",
-    "headline": "Watch: Sportscene - Celtic v Rangers highlights",
-    "excerpt": "Highlights of Celtic v Rangers, plus a look back at Saturday's action.",
-    "link": "https://www.bbc.co.uk/iplayer/live/bbcscotland?at_medium=RSS&amp;at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0pbm1s3.jpg"
+    "headline": "What have we learned from the Premier League so far?",
+    "excerpt": "BBC Sport takes a look at the opening weeks of the Premier League season as…",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cvp8d4116zglo?at_medium=RSS&amp;at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b6b/live/4871c290-b51d-11f1-b01b-6bc45d07eb85.jpg"
   },
   "topStories": [
     {
@@ -164,7 +164,7 @@
       "headline": "Who rated highest in Fulham v Man Utd?",
       "excerpt": "Last minute Cunha goal saves Man Utd from another defeat - who rated highest at…",
       "link": "https://www.bbc.co.uk/sport/football/articles/cxddvp49gg1ro?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7f9d/live/e867c380-b50e-11f1-a430-4d16ee157c41.jpg"
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d59f/live/bd0d34a0-b526-11f1-b1d1-571ed4d7ff2c.jpg"
     },
     {
       "id": "story-15",
@@ -208,7 +208,7 @@
       "headline": "Impressive defence seals solid start at Liverpool for Iraola",
       "excerpt": "Liverpool are looking good defensively but Andoni Iraola needs more from his attackers after a…",
       "link": "https://www.bbc.co.uk/sport/football/articles/cklyjpgj3nv6o?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/340c/live/c082ab20-b50c-11f1-91cc-c5691e33b858.jpg"
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/26d9/live/e8a52dc0-b526-11f1-b1d1-571ed4d7ff2c.jpg"
     },
     {
       "id": "story-19",
@@ -234,6 +234,17 @@
     },
     {
       "id": "story-21",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "BBC Sport",
+      "time": "Sep 20",
+      "headline": "Watch highlights of Rangers' narrow Celtic Park win",
+      "excerpt": "Highlights of the 2026/27 Scottish Premiership match between Celtic v Rangers.",
+      "link": "https://www.bbc.co.uk/iplayer/episode/m0031xcr?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0pbm26b.jpg"
+    },
+    {
+      "id": "story-22",
       "league": "La Liga",
       "dot": "#E3B4F5",
       "source": "101 Great Goals",
@@ -244,7 +255,7 @@
       "image": null
     },
     {
-      "id": "story-22",
+      "id": "story-23",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -253,17 +264,6 @@
       "excerpt": "Tom English reflects on the first Old Firm league game of the season, in which…",
       "link": "https://www.bbc.co.uk/sport/football/articles/c317j2lzg8rdo?at_medium=RSS&amp;at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7d6a/live/78a0d860-b50f-11f1-b1d1-571ed4d7ff2c.jpg"
-    },
-    {
-      "id": "story-23",
-      "league": "La Liga",
-      "dot": "#E3B4F5",
-      "source": "101 Great Goals",
-      "time": "Sep 20",
-      "headline": "Atletico 2-1 Real Madrid: Report, result, goals as hosts go second in La Liga",
-      "excerpt": "Atleti beat Madrid to earn their third straight win",
-      "link": "https://www.101greatgoals.com/football/la-liga/atletico-real-madrid-report-result-goals-grimaldo-penalty-david-huijsen-red-card/",
-      "image": null
     }
   ],
   "scoreboard": [
