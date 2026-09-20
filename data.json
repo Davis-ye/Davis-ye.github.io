@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-09-20T17:55:59.194Z",
+  "updatedAt": "2026-09-20T18:05:30.598Z",
   "hero": {
     "id": "story-0",
     "league": "Premier League",
     "dot": "#9CC0F0",
     "source": "The Guardian",
     "time": "Sep 20",
-    "headline": "Fulham 1-1 Manchester United: Premier League – live reaction",
-    "excerpt": "<ul><li><p>Updates from 4.30pm (BST) kickoff at Craven Cottage</p></li><li><p>Get in touch: <a href=\"mailto:taha.hashim@guardian.co.uk\">email Taha</a> about the…",
-    "link": "https://www.theguardian.com/football/live/2026/sep/20/fulham-v-manchester-united-premier-league-live",
-    "image": "https://i.guim.co.uk/img/media/dc2cb47602fa981f13da8c2a6cf85f869dc48b9b/0_65_2792_2234/master/2792.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=2c55ba7d560a434ca233f4c81e6b93f3"
+    "headline": "Cunha strikes late to deny Fulham and salvage point for Manchester United",
+    "excerpt": "<p>To paraphrase a former Manchester United manager, Michael Carrick knew that the storm would come.…",
+    "link": "https://www.theguardian.com/football/2026/sep/20/fulham-manchester-united-premier-league-match-report",
+    "image": "https://i.guim.co.uk/img/media/99e9d4fb307d3c984985a6f141d3d854190b8e1f/132_0_1760_1408/master/1760.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ae4a8d3ad9845bd9efd28c1b8e9213e3"
   },
   "topStories": [
     {
@@ -268,6 +268,16 @@
   ],
   "scoreboard": [
     {
+      "id": "score-558595",
+      "league": "Serie A",
+      "dot": "#A9E6A0",
+      "time": "Sep 20",
+      "home": "Juventus FC",
+      "away": "Atalanta BC",
+      "homeScore": 2,
+      "awayScore": 0
+    },
+    {
       "id": "score-560583",
       "league": "Premier League",
       "dot": "#9CC0F0",
@@ -316,16 +326,6 @@
       "away": "RB Leipzig",
       "homeScore": 2,
       "awayScore": 0
-    },
-    {
-      "id": "score-560582",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "time": "Sep 20",
-      "home": "AFC Bournemouth",
-      "away": "Liverpool FC",
-      "homeScore": 0,
-      "awayScore": 1
     }
   ]
 }
