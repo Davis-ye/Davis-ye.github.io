@@ -1,27 +1,27 @@
 {
-  "updatedAt": "2026-09-20T08:27:40.579Z",
+  "updatedAt": "2026-09-20T08:38:50.845Z",
   "hero": {
     "id": "story-0",
-    "league": "Football",
-    "dot": "#AFC4AC",
-    "source": "BBC Sport",
+    "league": "Premier League",
+    "dot": "#9CC0F0",
+    "source": "The Guardian",
     "time": "Sep 20",
-    "headline": "Celtic to rekindle Gineitis move in January - gossip",
-    "excerpt": "Celtic are still keen on Lithuanian midfielder as Martin O'Neill laments lack of a replacement…",
-    "link": "https://www.bbc.co.uk/sport/football/articles/c59v9lwgwz9xo?at_medium=RSS&amp;at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4831/live/332ab140-b4cc-11f1-bc1f-3f186ca4140c.png"
+    "headline": "Iraola returns to Bournemouth, Premier League buildup and Townsend’s bizarre accident – matchday live",
+    "excerpt": "<ul><li><p>News, discussion and updates before Sunday’s games</p></li><li><p><a href=\"https://www.theguardian.com/football/fixtures\">This weekend’s fixtures</a> | <a href=\"mailto:matchday.live@guardian.co.uk\">Mail us your…",
+    "link": "https://www.theguardian.com/football/live/2026/sep/20/iraola-returns-to-bournemouth-and-manchester-united-head-to-fulham-matchday-live",
+    "image": "https://i.guim.co.uk/img/media/ff6e1d58f304b75d3d0a96c46934976c59ddaca0/0_0_5000_3999/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=2b0bd5e7cffda854f653368bacca42e3"
   },
   "topStories": [
     {
       "id": "story-1",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "The Guardian",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "BBC Sport",
       "time": "Sep 20",
-      "headline": "Iraola returns to Bournemouth, Premier League buildup and Townsend’s bizarre accident – matchday live",
-      "excerpt": "<ul><li><p>News, discussion and updates before Sunday’s games</p></li><li><p><a href=\"https://www.theguardian.com/football/fixtures\">This weekend’s fixtures</a> | <a href=\"mailto:matchday.live@guardian.co.uk\">Mail us your…",
-      "link": "https://www.theguardian.com/football/live/2026/sep/20/iraola-returns-to-bournemouth-and-manchester-united-head-to-fulham-matchday-live",
-      "image": "https://i.guim.co.uk/img/media/ff6e1d58f304b75d3d0a96c46934976c59ddaca0/0_0_5000_3999/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=2b0bd5e7cffda854f653368bacca42e3"
+      "headline": "Celtic to rekindle Gineitis move in January - gossip",
+      "excerpt": "Celtic are still keen on Lithuanian midfielder as Martin O'Neill laments lack of a replacement…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c59v9lwgwz9xo?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4831/live/332ab140-b4cc-11f1-bc1f-3f186ca4140c.png"
     },
     {
       "id": "story-2",
