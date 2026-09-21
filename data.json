@@ -1,27 +1,27 @@
 {
-  "updatedAt": "2026-09-21T10:46:42.458Z",
+  "updatedAt": "2026-09-21T10:54:39.485Z",
   "hero": {
     "id": "story-0",
     "league": "Football",
     "dot": "#AFC4AC",
-    "source": "BBC Sport",
+    "source": "101 Great Goals",
     "time": "Sep 21",
-    "headline": "Will three-week break put more pressure on managers?",
-    "excerpt": "So far this season three coaches have lost their jobs, but plenty of others will…",
-    "link": "https://www.bbc.co.uk/sport/football/articles/cmg49gv74qzlo?at_medium=RSS&amp;at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ee6/live/e96601c0-b59f-11f1-abe6-535e7b14de4c.jpg"
+    "headline": "Gibbs-White to be called up to England squad as injured Palmer withdraws",
+    "excerpt": "Palmer reportedly has a minor injury.",
+    "link": "https://www.101greatgoals.com/football/internationals/gibbs-white-england-squad-palmer-out/",
+    "image": null
   },
   "topStories": [
     {
       "id": "story-1",
       "league": "Football",
       "dot": "#AFC4AC",
-      "source": "101 Great Goals",
+      "source": "BBC Sport",
       "time": "Sep 21",
-      "headline": "Xhaka released from Switzerland squad after admitting obtaining a fraudulent Covid certificate",
-      "excerpt": "Granit Xhaka will not play for Switzerland during this international break after confirming he deceived…",
-      "link": "https://www.101greatgoals.com/football/internationals/granit-xhaka-switzerland-fraudulent-covid-certificate/",
-      "image": null
+      "headline": "Will three-week break put more pressure on managers?",
+      "excerpt": "So far this season three coaches have lost their jobs, but plenty of others will…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cmg49gv74qzlo?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ee6/live/e96601c0-b59f-11f1-abe6-535e7b14de4c.jpg"
     },
     {
       "id": "story-2",
