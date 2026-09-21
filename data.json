@@ -1,27 +1,27 @@
 {
-  "updatedAt": "2026-09-21T21:23:33.171Z",
+  "updatedAt": "2026-09-21T21:33:38.754Z",
   "hero": {
     "id": "story-0",
-    "league": "Football",
-    "dot": "#AFC4AC",
-    "source": "The Guardian",
+    "league": "Premier League",
+    "dot": "#9CC0F0",
+    "source": "101 Great Goals",
     "time": "Sep 21",
-    "headline": "Infantino proposes an ‘independent external review’ of Fifa governance",
-    "excerpt": "<ul><li><p>President writes to council and member nations</p></li><li><p>Infantino says he is ‘fully committed to leading Fifa’</p></li></ul><p>The…",
-    "link": "https://www.theguardian.com/football/2026/sep/21/gianni-infantino-proposes-independent-external-review-fifa-governance",
-    "image": "https://i.guim.co.uk/img/media/4af8b240b563f6351f0623ec0cedf5c46bd5c555/385_79_4462_3569/master/4462.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=148b6ac28d617798f1547e8a20e9fe40"
+    "headline": "England face the world champions as Klopp, Xavi and Zidane make bows: Five Nations League games to look out for",
+    "excerpt": "The new-look, three-week international break is here and while Premier League fans will be counting…",
+    "link": "https://www.101greatgoals.com/football/internationals/five-nations-league-games-to-look-out-for/",
+    "image": null
   },
   "topStories": [
     {
       "id": "story-1",
       "league": "Football",
       "dot": "#AFC4AC",
-      "source": "101 Great Goals",
+      "source": "The Guardian",
       "time": "Sep 21",
-      "headline": "Five England players to watch during the international break",
-      "excerpt": "Tuchel's England squad has a number of new and returning faces",
-      "link": "https://www.101greatgoals.com/football/internationals/five-england-players-to-watch-during-the-international-break/",
-      "image": null
+      "headline": "Infantino proposes an ‘independent external review’ of Fifa governance",
+      "excerpt": "<ul><li><p>President writes to council and member nations</p></li><li><p>Infantino says he is ‘fully committed to leading Fifa’</p></li></ul><p>The…",
+      "link": "https://www.theguardian.com/football/2026/sep/21/gianni-infantino-proposes-independent-external-review-fifa-governance",
+      "image": "https://i.guim.co.uk/img/media/4af8b240b563f6351f0623ec0cedf5c46bd5c555/385_79_4462_3569/master/4462.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=148b6ac28d617798f1547e8a20e9fe40"
     },
     {
       "id": "story-2",
@@ -41,7 +41,7 @@
       "source": "BBC Sport",
       "time": "Sep 21",
       "headline": "Infantino says Fifa can change as he proposes external review",
-      "excerpt": "Fifa president Gianni Infantino has proposed an external review of the governance of world football's…",
+      "excerpt": "Fifa president Gianni Infantino has proposed an external review of how world football's governing body…",
       "link": "https://www.bbc.co.uk/sport/football/articles/c639m2yggm1ro?at_medium=RSS&amp;at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d76a/live/7932d8f0-b5f0-11f1-8f79-396899948b9b.jpg"
     },
