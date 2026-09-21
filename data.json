@@ -1,27 +1,27 @@
 {
-  "updatedAt": "2026-09-21T16:31:16.373Z",
+  "updatedAt": "2026-09-21T16:43:24.945Z",
   "hero": {
     "id": "story-0",
-    "league": "Football",
-    "dot": "#AFC4AC",
-    "source": "BBC Sport",
+    "league": "Premier League",
+    "dot": "#9CC0F0",
+    "source": "101 Great Goals",
     "time": "Sep 21",
-    "headline": "Palmer & Rice among five withdrawals from England squad",
-    "excerpt": "Tino Livramento, Kobbie Mainoo, Cole Palmer, Marcus Rashford and Declan Rice all pull out of…",
-    "link": "https://www.bbc.co.uk/sport/football/articles/c617j2prweejo?at_medium=RSS&amp;at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8faf/live/d4790270-b5be-11f1-bc1f-3f186ca4140c.png"
+    "headline": "Man United striker Sesko set for tests after withdrawing from Slovenia squad",
+    "excerpt": "The striker missed the draw at Fulham through injury.",
+    "link": "https://www.101greatgoals.com/football/premier-league/man-united-sesko-withdraws-slovenia-squad/",
+    "image": null
   },
   "topStories": [
     {
       "id": "story-1",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "101 Great Goals",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "BBC Sport",
       "time": "Sep 21",
-      "headline": "Premier League: 5 key talking points as City steal early march in title race and Carrick comes under fire",
-      "excerpt": "Manchester City go into the international break top of the Premier League, while Tottenham sit…",
-      "link": "https://www.101greatgoals.com/football/premier-league/premier-league-5-key-talking-points-as-city-steal-early-march-in-title-race-and-carrick-comes-under-fire/",
-      "image": "https://www.101greatgoals.com/wp-content/uploads/2026/09/3FJG7WF-2.jpg"
+      "headline": "Palmer & Rice among five withdrawals from England squad",
+      "excerpt": "Tino Livramento, Kobbie Mainoo, Cole Palmer, Marcus Rashford and Declan Rice all pull out of…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c617j2prweejo?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8faf/live/d4790270-b5be-11f1-bc1f-3f186ca4140c.png"
     },
     {
       "id": "story-2",
