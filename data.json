@@ -1,19 +1,30 @@
 {
-  "updatedAt": "2026-09-21T14:17:01.242Z",
+  "updatedAt": "2026-09-21T14:30:36.443Z",
   "hero": {
     "id": "story-0",
-    "league": "Football",
-    "dot": "#AFC4AC",
-    "source": "BBC Sport",
+    "league": "Premier League",
+    "dot": "#9CC0F0",
+    "source": "101 Great Goals",
     "time": "Sep 21",
-    "headline": "Pocognoli Facetime helps Miller over summer of discontent",
-    "excerpt": "Lennon Miller was Facetimed by new Scotland head coach Sebastien Pocognoli as he returns to…",
-    "link": "https://www.bbc.co.uk/sport/football/articles/c6zxz2722jjvo?at_medium=RSS&amp;at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fd2e/live/b55227f0-b5be-11f1-abb5-85e9be42cb76.jpg"
+    "headline": "Who has impressed across the first five weeks? Our Team of the Premier League season so far&#8230;",
+    "excerpt": "There have been some stand-out performers across the first five weeks of Premier League action.…",
+    "link": "https://www.101greatgoals.com/football/premier-league/team-of-the-premier-league-season-so-far/",
+    "image": null
   },
   "topStories": [
     {
       "id": "story-1",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "BBC Sport",
+      "time": "Sep 21",
+      "headline": "Pocognoli Facetime helps Miller over summer of discontent",
+      "excerpt": "Lennon Miller was Facetimed by new Scotland head coach Sebastien Pocognoli as he returns to…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c6zxz2722jjvo?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fd2e/live/b55227f0-b5be-11f1-abb5-85e9be42cb76.jpg"
+    },
+    {
+      "id": "story-2",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -24,7 +35,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aa3f/live/ddfb2c90-b5c0-11f1-abb5-85e9be42cb76.jpg"
     },
     {
-      "id": "story-2",
+      "id": "story-3",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -35,7 +46,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aa3f/live/ddfb2c90-b5c0-11f1-abb5-85e9be42cb76.jpg"
     },
     {
-      "id": "story-3",
+      "id": "story-4",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -46,7 +57,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2f4e/live/9a0d0230-b5c3-11f1-abb5-85e9be42cb76.jpg"
     },
     {
-      "id": "story-4",
+      "id": "story-5",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "The Guardian",
@@ -57,7 +68,7 @@
       "image": "https://i.guim.co.uk/img/media/6ef93d3a514d89fc8388d4aa7e64499ec70576aa/292_0_2917_2333/master/2917.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=7cd5b66a88c119d230574399cc8ce806"
     },
     {
-      "id": "story-5",
+      "id": "story-6",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -66,17 +77,6 @@
       "excerpt": "BBC Sport looks at how clubs are planning to deal with the extended three-week international…",
       "link": "https://www.bbc.co.uk/sport/football/articles/c93v020y7qgo?at_medium=RSS&amp;at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/254f/live/e6170dc0-b5b3-11f1-8d1d-a985658d9d3a.jpg"
-    },
-    {
-      "id": "story-6",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "101 Great Goals",
-      "time": "Sep 21",
-      "headline": "England: Rice, Rashford, Mainoo and Livramento join Palmer in withdrawing from Nations League squad",
-      "excerpt": "Morgan Gibbs-White and James Garner will come into the squad.",
-      "link": "https://www.101greatgoals.com/football/internationals/england-rice-rashford-mainoo-livramento-withdrawin-squad/",
-      "image": null
     },
     {
       "id": "story-7",
