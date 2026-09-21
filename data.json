@@ -1,27 +1,27 @@
 {
-  "updatedAt": "2026-09-21T09:51:58.046Z",
+  "updatedAt": "2026-09-21T09:59:28.027Z",
   "hero": {
     "id": "story-0",
     "league": "Football",
     "dot": "#AFC4AC",
-    "source": "BBC Sport",
+    "source": "101 Great Goals",
     "time": "Sep 21",
-    "headline": "Gibbs-White set to replace Palmer in England squad",
-    "excerpt": "Morgan Gibbs-White is in line for an England recall to replace Cole Palmer, who is…",
-    "link": "https://www.bbc.co.uk/sport/football/articles/c617j2prweejo?at_medium=RSS&amp;at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee8c/live/525ef0d0-b59e-11f1-bc1f-3f186ca4140c.png"
+    "headline": "Xhaka released from Switzerland squad after admitting obtaining a fraudulent Covid certificate",
+    "excerpt": "Granit Xhaka will not play for Switzerland during this international break after confirming he deceived…",
+    "link": "https://www.101greatgoals.com/football/internationals/granit-xhaka-switzerland-fraudulent-covid-certificate/",
+    "image": null
   },
   "topStories": [
     {
       "id": "story-1",
       "league": "Football",
       "dot": "#AFC4AC",
-      "source": "101 Great Goals",
+      "source": "BBC Sport",
       "time": "Sep 21",
-      "headline": "Tip of the Day: Bank on Rams and Adams to see off Giants",
-      "excerpt": "The Los Angeles Rams will expect to bounce back from the Week One defeat to…",
-      "link": "https://www.101greatgoals.com/nfl/tip-of-the-day-los-angeles-rams-davante-adams-new-york-giants/",
-      "image": null
+      "headline": "Gibbs-White set to replace Palmer in England squad",
+      "excerpt": "Morgan Gibbs-White is in line for an England recall to replace Cole Palmer, who is…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c617j2prweejo?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee8c/live/525ef0d0-b59e-11f1-bc1f-3f186ca4140c.png"
     },
     {
       "id": "story-2",
