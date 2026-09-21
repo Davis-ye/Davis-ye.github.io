@@ -1,19 +1,30 @@
 {
-  "updatedAt": "2026-09-21T21:11:06.305Z",
+  "updatedAt": "2026-09-21T21:23:33.171Z",
   "hero": {
     "id": "story-0",
     "league": "Football",
     "dot": "#AFC4AC",
-    "source": "101 Great Goals",
+    "source": "The Guardian",
     "time": "Sep 21",
-    "headline": "Five England players to watch during the international break",
-    "excerpt": "Tuchel's England squad has a number of new and returning faces",
-    "link": "https://www.101greatgoals.com/football/internationals/five-england-players-to-watch-during-the-international-break/",
-    "image": null
+    "headline": "Infantino proposes an ‘independent external review’ of Fifa governance",
+    "excerpt": "<ul><li><p>President writes to council and member nations</p></li><li><p>Infantino says he is ‘fully committed to leading Fifa’</p></li></ul><p>The…",
+    "link": "https://www.theguardian.com/football/2026/sep/21/gianni-infantino-proposes-independent-external-review-fifa-governance",
+    "image": "https://i.guim.co.uk/img/media/4af8b240b563f6351f0623ec0cedf5c46bd5c555/385_79_4462_3569/master/4462.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=148b6ac28d617798f1547e8a20e9fe40"
   },
   "topStories": [
     {
       "id": "story-1",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "101 Great Goals",
+      "time": "Sep 21",
+      "headline": "Five England players to watch during the international break",
+      "excerpt": "Tuchel's England squad has a number of new and returning faces",
+      "link": "https://www.101greatgoals.com/football/internationals/five-england-players-to-watch-during-the-international-break/",
+      "image": null
+    },
+    {
+      "id": "story-2",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -22,17 +33,6 @@
       "excerpt": "<p>Brighton have impressed in a goal-laden start to the season, in a league that remains…",
       "link": "https://www.theguardian.com/football/2026/sep/21/premier-league-mega-product-brighton-arsenal-international-break",
       "image": "https://i.guim.co.uk/img/media/307641161e2d2fd4f01ce6f9a22d1790f0e9a0ef/275_0_6562_5252/master/6562.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f28a121da49eab96cb74a470162e665f"
-    },
-    {
-      "id": "story-2",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "The Guardian",
-      "time": "Sep 21",
-      "headline": "Infantino proposes an ‘independent external review’ of Fifa governance",
-      "excerpt": "<ul><li><p>President writes to council and member nations</p></li><li><p>Infantino says he is ‘fully committed to leading Fifa’</p></li></ul><p>The…",
-      "link": "https://www.theguardian.com/football/2026/sep/21/gianni-infantino-proposes-independent-external-review-fifa-governance",
-      "image": "https://i.guim.co.uk/img/media/4af8b240b563f6351f0623ec0cedf5c46bd5c555/385_79_4462_3569/master/4462.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=148b6ac28d617798f1547e8a20e9fe40"
     },
     {
       "id": "story-3",
