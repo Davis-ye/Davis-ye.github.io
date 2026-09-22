@@ -1,19 +1,30 @@
 {
-  "updatedAt": "2026-09-22T13:34:44.872Z",
+  "updatedAt": "2026-09-22T13:47:05.096Z",
   "hero": {
     "id": "story-0",
-    "league": "Football",
-    "dot": "#AFC4AC",
-    "source": "BBC Sport",
+    "league": "Premier League",
+    "dot": "#9CC0F0",
+    "source": "101 Great Goals",
     "time": "Sep 22",
-    "headline": "Bradley linked with Hibs as Ferry puts Dundee United talks on hold - gossip",
-    "excerpt": "Dundee United's Republic of Ireland international not willing to decide future in September as Scottish…",
-    "link": "https://www.bbc.co.uk/sport/football/articles/cqlylxz65608o?at_medium=RSS&amp;at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dd21/live/bf8b9c40-b651-11f1-a430-4d16ee157c41.png"
+    "headline": "Kylian Mbappe reveals his mother &#8216;fell in love&#8217; with Liverpool during transfer talks",
+    "excerpt": "Kylian Mbappe has opened up on how he nearly joined Liverpool.",
+    "link": "https://www.101greatgoals.com/football/kylian-mbappe-reveals-mother-fell-love-liverpool/",
+    "image": null
   },
   "topStories": [
     {
       "id": "story-1",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "BBC Sport",
+      "time": "Sep 22",
+      "headline": "Bradley linked with Hibs as Ferry puts Dundee United talks on hold - gossip",
+      "excerpt": "Dundee United's Republic of Ireland international not willing to decide future in September as Scottish…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cqlylxz65608o?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dd21/live/bf8b9c40-b651-11f1-a430-4d16ee157c41.png"
+    },
+    {
+      "id": "story-2",
       "league": "La Liga",
       "dot": "#E3B4F5",
       "source": "The Guardian",
@@ -24,7 +35,7 @@
       "image": "https://i.guim.co.uk/img/media/89e8db24292026966d36d441107801323a59f992/333_171_2491_1993/master/2491.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=35baf33b78b9423c97c7ad66f1ad65ce"
     },
     {
-      "id": "story-2",
+      "id": "story-3",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -33,17 +44,6 @@
       "excerpt": "BBC Sport explores the backdrop to the Republic of Ireland's matches against Israel, amid fraught…",
       "link": "https://www.bbc.co.uk/sport/football/articles/ckz7z5w7ey2jo?at_medium=RSS&amp;at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b192/live/4b340370-b668-11f1-b785-7d19738c6de2.jpg"
-    },
-    {
-      "id": "story-3",
-      "league": "La Liga",
-      "dot": "#E3B4F5",
-      "source": "101 Great Goals",
-      "time": "Sep 22",
-      "headline": "&#8216;Stop blaming the refs Jose!&#8217; La Liga chief Tebas says Mourinho needs to look closer to home to sort Real Madrid issues",
-      "excerpt": "Real Madrid are fourth in La Liga and Javier Tebas believes Jose Mourinho has more…",
-      "link": "https://www.101greatgoals.com/football/la-liga/stop-blaming-refs-jose-mourinho-la-liga-chief-tebas-real-madrid-issues/",
-      "image": null
     },
     {
       "id": "story-4",
