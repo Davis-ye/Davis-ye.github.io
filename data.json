@@ -1,19 +1,30 @@
 {
-  "updatedAt": "2026-09-22T07:52:55.532Z",
+  "updatedAt": "2026-09-22T07:59:55.279Z",
   "hero": {
     "id": "story-0",
-    "league": "Premier League",
-    "dot": "#9CC0F0",
-    "source": "BBC Sport",
+    "league": "Football",
+    "dot": "#AFC4AC",
+    "source": "101 Great Goals",
     "time": "Sep 22",
-    "headline": "Egan's late career resurgence back to Premier League",
-    "excerpt": "BBC Sport NI looks at Republic of Ireland centre-back's John Egan's rise back to the…",
-    "link": "https://www.bbc.co.uk/sport/articles/cgjq1x0wj7qo?at_medium=RSS&amp;at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6021/live/4e772100-add7-11f1-871b-cb14676e811d.jpg"
+    "headline": "Jaxson Dart injury update: Harbaugh discusses QB&#8217;s knee problem as Giants blown away by Rams on MNF",
+    "excerpt": "It was a miserable night for the New York Giants as they were well beaten…",
+    "link": "https://www.101greatgoals.com/nfl/jaxson-dart-injury-update-john-harbaugh-knee-new-york-giants-blown-away-by-rams-on-mnf/",
+    "image": null
   },
   "topStories": [
     {
       "id": "story-1",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "BBC Sport",
+      "time": "Sep 22",
+      "headline": "Egan's late career resurgence back to Premier League",
+      "excerpt": "BBC Sport NI looks at Republic of Ireland centre-back's John Egan's rise back to the…",
+      "link": "https://www.bbc.co.uk/sport/articles/cgjq1x0wj7qo?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6021/live/4e772100-add7-11f1-871b-cb14676e811d.jpg"
+    },
+    {
+      "id": "story-2",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -24,7 +35,7 @@
       "image": "https://i.guim.co.uk/img/media/067b53f7be2969905133dc18a7023c617c2b58c4/1226_65_4873_3899/master/4873.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ac476ce66f28c5c9e41c072b0e9a3639"
     },
     {
-      "id": "story-2",
+      "id": "story-3",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "The Guardian",
@@ -35,7 +46,7 @@
       "image": "https://i.guim.co.uk/img/media/0c5c604457b7e929eb0e4359a7af097cfba8e1ea/688_0_6880_5504/master/6880.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=bb9491e7e738efb00143d52589454242"
     },
     {
-      "id": "story-3",
+      "id": "story-4",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -46,7 +57,7 @@
       "image": "https://i.guim.co.uk/img/media/e004982368843a75e819dcb009790480b48c34c0/0_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=2bdbeccf762ea6893cf41c82c3c3ae9c"
     },
     {
-      "id": "story-4",
+      "id": "story-5",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -57,7 +68,7 @@
       "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0pbv95w.jpg"
     },
     {
-      "id": "story-5",
+      "id": "story-6",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -68,7 +79,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dd21/live/bf8b9c40-b651-11f1-a430-4d16ee157c41.png"
     },
     {
-      "id": "story-6",
+      "id": "story-7",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -79,7 +90,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2678/live/6caf7300-b34c-11f1-bc1f-3f186ca4140c.png"
     },
     {
-      "id": "story-7",
+      "id": "story-8",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -90,7 +101,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0eba/live/eef93fd0-b5e0-11f1-aff1-eb6baa3fda4f.jpg"
     },
     {
-      "id": "story-8",
+      "id": "story-9",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -101,7 +112,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e55d/live/32849ca0-b5d1-11f1-8c16-65d8f060d73f.jpg"
     },
     {
-      "id": "story-9",
+      "id": "story-10",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -112,7 +123,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ada7/live/27df4c70-9658-11f1-b2ab-0dd01740f9f6.jpg"
     },
     {
-      "id": "story-10",
+      "id": "story-11",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -123,7 +134,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bf09/live/ff9b7b10-b58a-11f1-bc1f-3f186ca4140c.jpg"
     },
     {
-      "id": "story-11",
+      "id": "story-12",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -134,7 +145,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4f60/live/5a858420-b604-11f1-a9b8-1d52a2930956.jpg"
     },
     {
-      "id": "story-12",
+      "id": "story-13",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -145,7 +156,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e3f1/live/1132b1b0-b606-11f1-a9b8-1d52a2930956.jpg"
     },
     {
-      "id": "story-13",
+      "id": "story-14",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -156,7 +167,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/79b7/live/196df630-b603-11f1-b1d1-571ed4d7ff2c.png"
     },
     {
-      "id": "story-14",
+      "id": "story-15",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -165,17 +176,6 @@
       "excerpt": "What is stopping Brentford & Brighton reaching the next level?",
       "link": "https://www.bbc.co.uk/sounds/play/p0pbt6j0?at_medium=RSS&amp;at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0pbt6l2.jpg"
-    },
-    {
-      "id": "story-15",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "101 Great Goals",
-      "time": "Sep 21",
-      "headline": "England face the world champions as Klopp, Xavi and Zidane make bows: Five Nations League games to look out for",
-      "excerpt": "The new-look, three-week international break is here and while Premier League fans will be counting…",
-      "link": "https://www.101greatgoals.com/football/internationals/five-nations-league-games-to-look-out-for/",
-      "image": null
     },
     {
       "id": "story-16",
