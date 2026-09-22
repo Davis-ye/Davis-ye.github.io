@@ -1,27 +1,27 @@
 {
-  "updatedAt": "2026-09-22T15:44:43.148Z",
+  "updatedAt": "2026-09-22T15:53:18.083Z",
   "hero": {
     "id": "story-0",
-    "league": "La Liga",
-    "dot": "#E3B4F5",
-    "source": "101 Great Goals",
+    "league": "Premier League",
+    "dot": "#9CC0F0",
+    "source": "The Guardian",
     "time": "Sep 22",
-    "headline": "Javier Tebas: Real Madrid call for La Liga president to leave over &#8216;intolerable attacks&#8217;",
-    "excerpt": "Madrid want La Liga boss Javier Tebas replaced",
-    "link": "https://www.101greatgoals.com/football/la-liga/javier-tebas-real-madrid-la-liga-president-statement/",
-    "image": "https://www.101greatgoals.com/wp-content/uploads/2026/09/shutterstock_2133523995-1.jpg"
+    "headline": "Bayern Munich v Manchester City: Women’s Champions League – live",
+    "excerpt": "<ul><li><p>WCL match updates from the 5.45pm BST kick-off</p></li><li><p><a href=\"https://www.theguardian.com/football/2026/sep/22/womens-champions-league-preview-ol-lyonnes-arsenal-chelsea-manchester-city-barcelona\">Will Lyonnes or English trio topple Barça?</a>…",
+    "link": "https://www.theguardian.com/football/live/2026/sep/22/bayern-munich-v-manchester-city-womens-champions-league-live",
+    "image": "https://i.guim.co.uk/img/media/b717bffe634c2246ffb78a8792e99c8970fa8947/414_168_5163_4133/master/5163.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=8549c933b2249f6d59dcd5c3ef6976ed"
   },
   "topStories": [
     {
       "id": "story-1",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "The Guardian",
+      "league": "La Liga",
+      "dot": "#E3B4F5",
+      "source": "101 Great Goals",
       "time": "Sep 22",
-      "headline": "Bayern Munich v Manchester City: Women’s Champions League – live",
-      "excerpt": "<ul><li><p>WCL match updates from the 5.45pm BST kick-off</p></li><li><p><a href=\"https://www.theguardian.com/football/2026/sep/22/womens-champions-league-preview-ol-lyonnes-arsenal-chelsea-manchester-city-barcelona\">Will Lyonnes or English trio topple Barça?</a>…",
-      "link": "https://www.theguardian.com/football/live/2026/sep/22/bayern-munich-v-manchester-city-womens-champions-league-live",
-      "image": "https://i.guim.co.uk/img/media/b717bffe634c2246ffb78a8792e99c8970fa8947/414_168_5163_4133/master/5163.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=8549c933b2249f6d59dcd5c3ef6976ed"
+      "headline": "Javier Tebas: Real Madrid call for La Liga president to leave over &#8216;intolerable attacks&#8217;",
+      "excerpt": "Madrid want La Liga boss Javier Tebas replaced",
+      "link": "https://www.101greatgoals.com/football/la-liga/javier-tebas-real-madrid-la-liga-president-statement/",
+      "image": "https://www.101greatgoals.com/wp-content/uploads/2026/09/shutterstock_2133523995-1.jpg"
     },
     {
       "id": "story-2",
