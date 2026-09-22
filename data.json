@@ -1,19 +1,30 @@
 {
-  "updatedAt": "2026-09-22T19:59:03.640Z",
+  "updatedAt": "2026-09-22T20:10:51.965Z",
   "hero": {
     "id": "story-0",
     "league": "Football",
     "dot": "#AFC4AC",
     "source": "BBC Sport",
     "time": "Sep 22",
-    "headline": "Israel FA comments on Hallgrimsson 'unacceptable' - Irish taoiseach Martin",
-    "excerpt": "Irish taoiseach Micheal Martin says comments made by the Israel Football Association about the Republic…",
-    "link": "https://www.bbc.co.uk/sport/football/articles/cmkgw0drzr38o?at_medium=RSS&amp;at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a4d8/live/7195f740-b6b7-11f1-8448-334c53ba4316.jpg"
+    "headline": "O'Neill receives Celtic backing after 'painful' week",
+    "excerpt": "Celtic will \"come together and support\" manager Martin O'Neill after a \"painful\" week for the…",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cmlyq01pzdy8o?at_medium=RSS&amp;at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/845b/live/393840c0-b6c0-11f1-9432-8739e6adbfdf.jpg"
   },
   "topStories": [
     {
       "id": "story-1",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "BBC Sport",
+      "time": "Sep 22",
+      "headline": "Israel FA comments on Hallgrimsson 'unacceptable' - Irish taoiseach Martin",
+      "excerpt": "Irish taoiseach Micheal Martin says comments made by the Israel Football Association about the Republic…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cmkgw0drzr38o?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a4d8/live/7195f740-b6b7-11f1-8448-334c53ba4316.jpg"
+    },
+    {
+      "id": "story-2",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "The Guardian",
@@ -24,7 +35,7 @@
       "image": "https://i.guim.co.uk/img/media/48725c8846636c00405cf75b5b5ea2a3e9203fe1/0_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=45dfc4fab35f71bc286f6cdaa541673a"
     },
     {
-      "id": "story-2",
+      "id": "story-3",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -32,10 +43,10 @@
       "headline": "Wamser rescues point for Manchester City in WCL fightback at Bayern Munich",
       "excerpt": "<p>Manchester City produced a gutsy performance to fight back from 2-0 down and earn a…",
       "link": "https://www.theguardian.com/football/2026/sep/22/bayern-munich-manchester-city-womens-champions-league-match-report",
-      "image": "https://i.guim.co.uk/img/media/6f72fad2deac0e45f80190952617554660f99715/220_0_2463_1970/master/2463.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=fba57fe6a8af03fcd606fc3eeb274e8e"
+      "image": "https://i.guim.co.uk/img/media/6f72fad2deac0e45f80190952617554660f99715/634_90_2317_1854/master/2317.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=1b2b1391434eea0b0e099aaf3890a29d"
     },
     {
-      "id": "story-3",
+      "id": "story-4",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -46,7 +57,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5f5a/live/f01fef00-b6b0-11f1-8448-334c53ba4316.jpg"
     },
     {
-      "id": "story-4",
+      "id": "story-5",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "101 Great Goals",
@@ -57,7 +68,7 @@
       "image": null
     },
     {
-      "id": "story-5",
+      "id": "story-6",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -68,7 +79,7 @@
       "image": "https://i.guim.co.uk/img/media/d8c26acdcf196fcb29878c727d9df1151b19c423/1362_0_6830_5464/master/6830.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=1b75e5b7c18f8663a8719c2df067074b"
     },
     {
-      "id": "story-6",
+      "id": "story-7",
       "league": "La Liga",
       "dot": "#E3B4F5",
       "source": "The Guardian",
@@ -79,7 +90,7 @@
       "image": "https://i.guim.co.uk/img/media/89e8db24292026966d36d441107801323a59f992/333_171_2491_1993/master/2491.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=35baf33b78b9423c97c7ad66f1ad65ce"
     },
     {
-      "id": "story-7",
+      "id": "story-8",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -90,7 +101,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2012/live/31e44ed0-b69e-11f1-ba3d-1d5c8a47f823.jpg"
     },
     {
-      "id": "story-8",
+      "id": "story-9",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -101,7 +112,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2012/live/31e44ed0-b69e-11f1-ba3d-1d5c8a47f823.jpg"
     },
     {
-      "id": "story-9",
+      "id": "story-10",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -112,7 +123,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a0d6/live/96e98bf0-b690-11f1-99b0-21d40bed432b.jpg"
     },
     {
-      "id": "story-10",
+      "id": "story-11",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "The Guardian",
@@ -123,7 +134,7 @@
       "image": "https://i.guim.co.uk/img/media/ec3a1551bf877572e22b9389e14eeeb16984ab13/394_0_3167_2534/master/3167.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=54f528c212e36e3ee7d32ba762e5cb08"
     },
     {
-      "id": "story-11",
+      "id": "story-12",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -134,7 +145,7 @@
       "image": "https://i.guim.co.uk/img/media/806b3b13d82fd6fe9ca7802c9692c21843e43dc1/0_0_3750_3000/master/3750.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a24965be10c05bfcb516c3dc0975213e"
     },
     {
-      "id": "story-12",
+      "id": "story-13",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -145,7 +156,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0067/live/557a5840-b5b7-11f1-8d1d-a985658d9d3a.png"
     },
     {
-      "id": "story-13",
+      "id": "story-14",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -156,7 +167,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b192/live/4b340370-b668-11f1-b785-7d19738c6de2.jpg"
     },
     {
-      "id": "story-14",
+      "id": "story-15",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -165,17 +176,6 @@
       "excerpt": "Football Association of Wales chief executive Noel Mooney challenges suggestions Fifa is planning major reforms.",
       "link": "https://www.bbc.co.uk/sport/football/articles/ck9802yzr716o?at_medium=RSS&amp;at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eca5/live/4e5db730-b68b-11f1-97fb-8d66d3951490.jpg"
-    },
-    {
-      "id": "story-15",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "BBC Sport",
-      "time": "Sep 22",
-      "headline": "Bradley linked with Hibs as Ferry puts Dundee United talks on hold - gossip",
-      "excerpt": "Dundee United's Republic of Ireland international not willing to decide future in September as Scottish…",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cqlylxz65608o?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dd21/live/bf8b9c40-b651-11f1-a430-4d16ee157c41.png"
     },
     {
       "id": "story-16",
