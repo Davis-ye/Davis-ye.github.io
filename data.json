@@ -1,27 +1,27 @@
 {
-  "updatedAt": "2026-09-22T14:35:13.418Z",
+  "updatedAt": "2026-09-22T14:48:26.202Z",
   "hero": {
     "id": "story-0",
     "league": "Football",
     "dot": "#AFC4AC",
-    "source": "BBC Sport",
+    "source": "101 Great Goals",
     "time": "Sep 22",
-    "headline": "Neutral venues and no 'away' fans - how Israel v Republic of Ireland became so contentious",
-    "excerpt": "BBC Sport explores the backdrop to the Republic of Ireland's matches against Israel, amid fraught…",
-    "link": "https://www.bbc.co.uk/sport/football/articles/ckz7z5w7ey2jo?at_medium=RSS&amp;at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b192/live/4b340370-b668-11f1-b785-7d19738c6de2.jpg"
+    "headline": "When is Tyson Fury vs Anthony Joshua? Latest updates on fight",
+    "excerpt": "The latest on the Tyson Fury vs Anthony Joshua boxing match",
+    "link": "https://www.101greatgoals.com/boxing/when-is-fury-vs-joshua-updates-news-date-venue-tickets/",
+    "image": null
   },
   "topStories": [
     {
       "id": "story-1",
       "league": "Football",
       "dot": "#AFC4AC",
-      "source": "101 Great Goals",
+      "source": "BBC Sport",
       "time": "Sep 22",
-      "headline": "England squad announcement: Full list for Nations League 2026",
-      "excerpt": "The squad for England's Nations League 2026 fixtures",
-      "link": "https://www.101greatgoals.com/football/internationals/england-squad-nations-league-spain-czech-republic-croatia-cole-palmer-trent-alexander-arnold/",
-      "image": null
+      "headline": "Neutral venues and no 'away' fans - how Israel v Republic of Ireland became so contentious",
+      "excerpt": "BBC Sport explores the backdrop to the Republic of Ireland's matches against Israel, amid fraught…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/ckz7z5w7ey2jo?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b192/live/4b340370-b668-11f1-b785-7d19738c6de2.jpg"
     },
     {
       "id": "story-2",
