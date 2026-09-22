@@ -1,19 +1,30 @@
 {
-  "updatedAt": "2026-09-22T16:28:53.443Z",
+  "updatedAt": "2026-09-22T16:41:31.733Z",
   "hero": {
     "id": "story-0",
     "league": "Premier League",
     "dot": "#9CC0F0",
-    "source": "101 Great Goals",
+    "source": "The Guardian",
     "time": "Sep 22",
-    "headline": "Benjamin Sesko vows to &#8216;fully dedicate&#8217; himself to recovery from shin injury",
-    "excerpt": "Benjamin Sesko has opened up on his recent injury issues at Manchester United",
-    "link": "https://www.101greatgoals.com/football/premier-league/benjamin-sesko-vows-fully-dedicate-himself-recovery-injury/",
-    "image": "https://www.101greatgoals.com/wp-content/uploads/2026/09/3D3A331-1.jpg"
+    "headline": "Bayern Munich v Manchester City: Women’s Champions League – live",
+    "excerpt": "<ul><li><p>WCL match updates from the 5.45pm BST kick-off</p></li><li><p><a href=\"https://www.theguardian.com/football/2026/sep/22/womens-champions-league-preview-ol-lyonnes-arsenal-chelsea-manchester-city-barcelona\">Will Lyonnes or English trio topple Barça?</a>…",
+    "link": "https://www.theguardian.com/football/live/2026/sep/22/bayern-munich-v-manchester-city-womens-champions-league-live",
+    "image": "https://i.guim.co.uk/img/media/e9cdea47d05c3a190a9f4f319f0cdb0c6f0b7736/0_140_2132_1704/master/2132.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=91c76a2d8efe47d90b1fa9394b14076d"
   },
   "topStories": [
     {
       "id": "story-1",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "101 Great Goals",
+      "time": "Sep 22",
+      "headline": "Benjamin Sesko vows to &#8216;fully dedicate&#8217; himself to recovery from shin injury",
+      "excerpt": "Benjamin Sesko has opened up on his recent injury issues at Manchester United",
+      "link": "https://www.101greatgoals.com/football/premier-league/benjamin-sesko-vows-fully-dedicate-himself-recovery-injury/",
+      "image": "https://www.101greatgoals.com/wp-content/uploads/2026/09/3D3A331-1.jpg"
+    },
+    {
+      "id": "story-2",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -24,7 +35,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2012/live/31e44ed0-b69e-11f1-ba3d-1d5c8a47f823.jpg"
     },
     {
-      "id": "story-2",
+      "id": "story-3",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -33,17 +44,6 @@
       "excerpt": "Kylian Mbappe says his mum was a \"big fan\" of Jurgen Klopp and wanted her…",
       "link": "https://www.bbc.co.uk/sport/football/articles/c68042y9l4kno?at_medium=RSS&amp;at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a0d6/live/96e98bf0-b690-11f1-99b0-21d40bed432b.jpg"
-    },
-    {
-      "id": "story-3",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "The Guardian",
-      "time": "Sep 22",
-      "headline": "Bayern Munich v Manchester City: Women’s Champions League – live",
-      "excerpt": "<ul><li><p>WCL match updates from the 5.45pm BST kick-off</p></li><li><p><a href=\"https://www.theguardian.com/football/2026/sep/22/womens-champions-league-preview-ol-lyonnes-arsenal-chelsea-manchester-city-barcelona\">Will Lyonnes or English trio topple Barça?</a>…",
-      "link": "https://www.theguardian.com/football/live/2026/sep/22/bayern-munich-v-manchester-city-womens-champions-league-live",
-      "image": "https://i.guim.co.uk/img/media/b717bffe634c2246ffb78a8792e99c8970fa8947/414_168_5163_4133/master/5163.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=8549c933b2249f6d59dcd5c3ef6976ed"
     },
     {
       "id": "story-4",
