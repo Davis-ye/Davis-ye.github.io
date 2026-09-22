@@ -1,19 +1,30 @@
 {
-  "updatedAt": "2026-09-22T10:05:57.808Z",
+  "updatedAt": "2026-09-22T10:22:22.607Z",
   "hero": {
     "id": "story-0",
     "league": "Premier League",
     "dot": "#9CC0F0",
-    "source": "BBC Sport",
+    "source": "101 Great Goals",
     "time": "Sep 22",
-    "headline": "Who has scored against the most Premier League teams?",
-    "excerpt": "BBC Sport's Ask Me Anything team looks at which players have scored against the most…",
-    "link": "https://www.bbc.co.uk/sport/football/articles/cmwyzk1jq35go?at_medium=RSS&amp;at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f87e/live/06384860-b665-11f1-b785-7d19738c6de2.jpg"
+    "headline": "Manchester United is now a soulless football club and Ratcliffe, Carrick and Fernandes must shoulder the blame",
+    "excerpt": "Sunday's draw with Fulham typified the apathy at Manchester United - a club at which…",
+    "link": "https://www.101greatgoals.com/football/premier-league/manchester-united-cold-football-club-jim-ratcliffe-michael-carrick-bruno-fernandes-shoulder-blame/",
+    "image": null
   },
   "topStories": [
     {
       "id": "story-1",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "BBC Sport",
+      "time": "Sep 22",
+      "headline": "Who has scored against the most Premier League teams?",
+      "excerpt": "BBC Sport's Ask Me Anything team looks at which players have scored against the most…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cmwyzk1jq35go?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f87e/live/06384860-b665-11f1-b785-7d19738c6de2.jpg"
+    },
+    {
+      "id": "story-2",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -24,7 +35,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e4f2/live/1571e6d0-b5aa-11f1-abe6-535e7b14de4c.jpg"
     },
     {
-      "id": "story-2",
+      "id": "story-3",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -35,7 +46,7 @@
       "image": "https://i.guim.co.uk/img/media/59cb2509e4536323dfd3ccdc56fee89e264fc68c/327_0_1634_1307/master/1634.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=79ea4d885662f5432b3c120ec0a4369e"
     },
     {
-      "id": "story-3",
+      "id": "story-4",
       "league": "Serie A",
       "dot": "#A9E6A0",
       "source": "The Guardian",
@@ -44,17 +55,6 @@
       "excerpt": "<p>Every deal in the NWSL, WSL, Liga F, Frauen-Bundesliga, Première Ligue and Serie A Femminile…",
       "link": "https://www.theguardian.com/football/ng-interactive/2026/sep/01/womens-transfer-window-summer-2026-all-deals-from-worlds-top-six-leagues",
       "image": "https://i.guim.co.uk/img/media/05fc0800306c28571b9c257d5e4854d677517434/0_0_4724_3780/master/4724.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=1648b31c3dedbf58aaa124152708ac10"
-    },
-    {
-      "id": "story-4",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "101 Great Goals",
-      "time": "Sep 22",
-      "headline": "Jaxson Dart injury update: Harbaugh discusses QB&#8217;s knee problem as Giants blown away by Rams on MNF",
-      "excerpt": "It was a miserable night for the New York Giants as they were well beaten…",
-      "link": "https://www.101greatgoals.com/nfl/jaxson-dart-injury-update-john-harbaugh-knee-new-york-giants-blown-away-by-rams-on-mnf/",
-      "image": null
     },
     {
       "id": "story-5",
