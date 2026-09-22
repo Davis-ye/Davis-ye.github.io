@@ -1,19 +1,30 @@
 {
-  "updatedAt": "2026-09-22T10:34:16.521Z",
+  "updatedAt": "2026-09-22T10:46:16.107Z",
   "hero": {
     "id": "story-0",
     "league": "Premier League",
     "dot": "#9CC0F0",
-    "source": "101 Great Goals",
+    "source": "The Guardian",
     "time": "Sep 22",
-    "headline": "Manchester United is now a soulless football club and Ratcliffe, Carrick and Fernandes must shoulder the blame",
-    "excerpt": "Sunday's draw with Fulham typified the apathy at Manchester United - a club at which…",
-    "link": "https://www.101greatgoals.com/football/premier-league/manchester-united-cold-football-club-jim-ratcliffe-michael-carrick-bruno-fernandes-shoulder-blame/",
-    "image": null
+    "headline": "Spurs in seventh heaven, Arsenal rescue a point and late goals galore: Women’s Football Weekly – podcast",
+    "excerpt": "<p><a href=\"https://www.theguardian.com/profile/faye-carruthers\">Faye Carruthers</a> is joined by<a href=\"https://www.theguardian.com/profile/suzanne-wrack\"> Suzanne Wrack</a>, Emma Sanders and Freddie Cardy to…",
+    "link": "https://www.theguardian.com/football/audio/2026/sep/22/spurs-in-seventh-heaven-arsenal-rescue-a-point-and-late-goals-galore-womens-football-weekly",
+    "image": "https://i.guim.co.uk/img/media/02014b73fb711e2080fa7f76d24ab73d8c58f4dd/477_0_3439_2751/master/3439.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=eb177f2bda428bae4276c6419a47b54b"
   },
   "topStories": [
     {
       "id": "story-1",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "101 Great Goals",
+      "time": "Sep 22",
+      "headline": "Manchester United is now a soulless football club and Ratcliffe, Carrick and Fernandes must shoulder the blame",
+      "excerpt": "Sunday's draw with Fulham typified the apathy at Manchester United - a club at which…",
+      "link": "https://www.101greatgoals.com/football/premier-league/manchester-united-cold-football-club-jim-ratcliffe-michael-carrick-bruno-fernandes-shoulder-blame/",
+      "image": null
+    },
+    {
+      "id": "story-2",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -24,7 +35,7 @@
       "image": "https://i.guim.co.uk/img/media/738dc357c9634788357cbbe74e3312c593589fe1/80_338_669_535/master/669.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ef14ecd94f8f3d99e96defca87b64c14"
     },
     {
-      "id": "story-2",
+      "id": "story-3",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -35,7 +46,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f87e/live/06384860-b665-11f1-b785-7d19738c6de2.jpg"
     },
     {
-      "id": "story-3",
+      "id": "story-4",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -46,7 +57,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e4f2/live/1571e6d0-b5aa-11f1-abe6-535e7b14de4c.jpg"
     },
     {
-      "id": "story-4",
+      "id": "story-5",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -57,7 +68,7 @@
       "image": "https://i.guim.co.uk/img/media/59cb2509e4536323dfd3ccdc56fee89e264fc68c/327_0_1634_1307/master/1634.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=79ea4d885662f5432b3c120ec0a4369e"
     },
     {
-      "id": "story-5",
+      "id": "story-6",
       "league": "Serie A",
       "dot": "#A9E6A0",
       "source": "The Guardian",
@@ -68,7 +79,7 @@
       "image": "https://i.guim.co.uk/img/media/05fc0800306c28571b9c257d5e4854d677517434/0_0_4724_3780/master/4724.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=1648b31c3dedbf58aaa124152708ac10"
     },
     {
-      "id": "story-6",
+      "id": "story-7",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -79,7 +90,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6021/live/4e772100-add7-11f1-871b-cb14676e811d.jpg"
     },
     {
-      "id": "story-7",
+      "id": "story-8",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -90,7 +101,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2993/live/8bddf0d0-b35b-11f1-b949-71f91f81d1ab.jpg"
     },
     {
-      "id": "story-8",
+      "id": "story-9",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -101,7 +112,7 @@
       "image": "https://i.guim.co.uk/img/media/067b53f7be2969905133dc18a7023c617c2b58c4/1226_65_4873_3899/master/4873.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ac476ce66f28c5c9e41c072b0e9a3639"
     },
     {
-      "id": "story-9",
+      "id": "story-10",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "The Guardian",
@@ -112,7 +123,7 @@
       "image": "https://i.guim.co.uk/img/media/0c5c604457b7e929eb0e4359a7af097cfba8e1ea/688_0_6880_5504/master/6880.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=bb9491e7e738efb00143d52589454242"
     },
     {
-      "id": "story-10",
+      "id": "story-11",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -123,7 +134,7 @@
       "image": "https://i.guim.co.uk/img/media/e004982368843a75e819dcb009790480b48c34c0/0_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=2bdbeccf762ea6893cf41c82c3c3ae9c"
     },
     {
-      "id": "story-11",
+      "id": "story-12",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -134,7 +145,7 @@
       "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0pbv95w.jpg"
     },
     {
-      "id": "story-12",
+      "id": "story-13",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -145,7 +156,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dd21/live/bf8b9c40-b651-11f1-a430-4d16ee157c41.png"
     },
     {
-      "id": "story-13",
+      "id": "story-14",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -156,7 +167,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2678/live/6caf7300-b34c-11f1-bc1f-3f186ca4140c.png"
     },
     {
-      "id": "story-14",
+      "id": "story-15",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -167,7 +178,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0eba/live/eef93fd0-b5e0-11f1-aff1-eb6baa3fda4f.jpg"
     },
     {
-      "id": "story-15",
+      "id": "story-16",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -178,7 +189,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e55d/live/32849ca0-b5d1-11f1-8c16-65d8f060d73f.jpg"
     },
     {
-      "id": "story-16",
+      "id": "story-17",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -189,7 +200,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ada7/live/27df4c70-9658-11f1-b2ab-0dd01740f9f6.jpg"
     },
     {
-      "id": "story-17",
+      "id": "story-18",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -200,7 +211,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bf09/live/ff9b7b10-b58a-11f1-bc1f-3f186ca4140c.jpg"
     },
     {
-      "id": "story-18",
+      "id": "story-19",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -211,7 +222,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4f60/live/5a858420-b604-11f1-a9b8-1d52a2930956.jpg"
     },
     {
-      "id": "story-19",
+      "id": "story-20",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -222,7 +233,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e3f1/live/1132b1b0-b606-11f1-a9b8-1d52a2930956.jpg"
     },
     {
-      "id": "story-20",
+      "id": "story-21",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -233,7 +244,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/79b7/live/196df630-b603-11f1-b1d1-571ed4d7ff2c.png"
     },
     {
-      "id": "story-21",
+      "id": "story-22",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -244,7 +255,7 @@
       "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0pbt6l2.jpg"
     },
     {
-      "id": "story-22",
+      "id": "story-23",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "The Guardian",
@@ -253,17 +264,6 @@
       "excerpt": "<ul><li><p>President writes to council and member nations</p></li><li><p>Infantino says he is ‘fully committed to leading Fifa’</p></li></ul><p>The…",
       "link": "https://www.theguardian.com/football/2026/sep/21/gianni-infantino-proposes-independent-external-review-fifa-governance",
       "image": "https://i.guim.co.uk/img/media/4af8b240b563f6351f0623ec0cedf5c46bd5c555/385_79_4462_3569/master/4462.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=148b6ac28d617798f1547e8a20e9fe40"
-    },
-    {
-      "id": "story-23",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "The Guardian",
-      "time": "Sep 21",
-      "headline": "Come back soon Premier League, the endlessly moreish mega-product | Barney Ronay",
-      "excerpt": "<p>Brighton have impressed in a goal-laden start to the season, in a league that remains…",
-      "link": "https://www.theguardian.com/football/2026/sep/21/premier-league-mega-product-brighton-arsenal-international-break",
-      "image": "https://i.guim.co.uk/img/media/307641161e2d2fd4f01ce6f9a22d1790f0e9a0ef/275_0_6562_5252/master/6562.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f28a121da49eab96cb74a470162e665f"
     }
   ],
   "scoreboard": [
