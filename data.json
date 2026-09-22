@@ -1,19 +1,30 @@
 {
-  "updatedAt": "2026-09-22T21:00:53.265Z",
+  "updatedAt": "2026-09-22T21:13:27.213Z",
   "hero": {
     "id": "story-0",
-    "league": "Football",
-    "dot": "#AFC4AC",
-    "source": "BBC Sport",
+    "league": "Premier League",
+    "dot": "#9CC0F0",
+    "source": "101 Great Goals",
     "time": "Sep 22",
-    "headline": "O'Neill receives Celtic backing after 'painful' week",
-    "excerpt": "Celtic will \"come together and support\" manager Martin O'Neill after a \"painful\" week for the…",
-    "link": "https://www.bbc.co.uk/sport/football/articles/cmlyq01pzdy8o?at_medium=RSS&amp;at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/845b/live/393840c0-b6c0-11f1-9432-8739e6adbfdf.jpg"
+    "headline": "Full list of Premier League fixtures in November including TV changes",
+    "excerpt": "The full list of Premier League games chosen for TV",
+    "link": "https://www.101greatgoals.com/football/premier-league/football-on-tv-november-fixture-changes-matches-channels-live-online-streams-where-watch-kick-off-times-schedule/",
+    "image": null
   },
   "topStories": [
     {
       "id": "story-1",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "BBC Sport",
+      "time": "Sep 22",
+      "headline": "O'Neill receives Celtic backing after 'painful' week",
+      "excerpt": "Celtic will \"come together and support\" manager Martin O'Neill after a \"painful\" week for the…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cmlyq01pzdy8o?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/845b/live/393840c0-b6c0-11f1-9432-8739e6adbfdf.jpg"
+    },
+    {
+      "id": "story-2",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -24,7 +35,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a4d8/live/7195f740-b6b7-11f1-8448-334c53ba4316.jpg"
     },
     {
-      "id": "story-2",
+      "id": "story-3",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "The Guardian",
@@ -35,7 +46,7 @@
       "image": "https://i.guim.co.uk/img/media/48725c8846636c00405cf75b5b5ea2a3e9203fe1/0_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=45dfc4fab35f71bc286f6cdaa541673a"
     },
     {
-      "id": "story-3",
+      "id": "story-4",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -46,7 +57,7 @@
       "image": "https://i.guim.co.uk/img/media/6f72fad2deac0e45f80190952617554660f99715/634_90_2317_1854/master/2317.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=1b2b1391434eea0b0e099aaf3890a29d"
     },
     {
-      "id": "story-4",
+      "id": "story-5",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -55,17 +66,6 @@
       "excerpt": "Celtic announce a loss after tax of £4.8m for the year ending June 30, 12…",
       "link": "https://www.bbc.co.uk/sport/football/articles/cke87m23eg05o?at_medium=RSS&amp;at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5f5a/live/f01fef00-b6b0-11f1-8448-334c53ba4316.jpg"
-    },
-    {
-      "id": "story-5",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "101 Great Goals",
-      "time": "Sep 22",
-      "headline": "Roberto De Zerbi still the man to turn Tottenham&#8217;s fortunes around despite sitting bottom of Premier League",
-      "excerpt": "Proof Roberto De Zerbi has Tottenham heading in the right direction",
-      "link": "https://www.101greatgoals.com/football/premier-league/roberto-de-zerbi-still-man-turn-tottenham-fortunes-around/",
-      "image": null
     },
     {
       "id": "story-6",
