@@ -1,27 +1,27 @@
 {
-  "updatedAt": "2026-09-22T21:52:42.327Z",
+  "updatedAt": "2026-09-22T21:59:40.501Z",
   "hero": {
     "id": "story-0",
     "league": "Premier League",
     "dot": "#9CC0F0",
-    "source": "BBC Sport",
+    "source": "101 Great Goals",
     "time": "Sep 22",
-    "headline": "Man Utd & Liverpool eye Mitchell - Wednesday's gossip",
-    "excerpt": "Manchester United and Liverpool are keen on Crystal Palace defender Tyrick Mitchell, Aston Villa loan…",
-    "link": "https://www.bbc.co.uk/sport/football/articles/c6g7k421gvj4o?at_medium=RSS&amp;at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/db3a/live/9219d670-b6c7-11f1-991e-856baf8e71f7.png"
+    "headline": "Crystal Palace full Europa League fixtures, results, confirmed squad and schedule 2026/27",
+    "excerpt": "Key details on Palace's 2026/27 Europa League campaign",
+    "link": "https://www.101greatgoals.com/football/europa-league/crystal-palace-europa-league-fixtures-results-squad-schedule/",
+    "image": "https://www.101greatgoals.com/wp-content/uploads/2026/08/3F2Y6KY-1.jpg"
   },
   "topStories": [
     {
       "id": "story-1",
       "league": "Premier League",
       "dot": "#9CC0F0",
-      "source": "101 Great Goals",
+      "source": "BBC Sport",
       "time": "Sep 22",
-      "headline": "Full list of Premier League fixtures in November including TV changes",
-      "excerpt": "The full list of Premier League games chosen for TV",
-      "link": "https://www.101greatgoals.com/football/premier-league/football-on-tv-november-fixture-changes-matches-channels-live-online-streams-where-watch-kick-off-times-schedule/",
-      "image": null
+      "headline": "Man Utd & Liverpool eye Mitchell - Wednesday's gossip",
+      "excerpt": "Manchester United and Liverpool are keen on Crystal Palace defender Tyrick Mitchell, Aston Villa loan…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c6g7k421gvj4o?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/db3a/live/9219d670-b6c7-11f1-991e-856baf8e71f7.png"
     },
     {
       "id": "story-2",
