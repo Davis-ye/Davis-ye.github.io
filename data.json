@@ -1,19 +1,30 @@
 {
-  "updatedAt": "2026-09-22T14:21:55.690Z",
+  "updatedAt": "2026-09-22T14:35:13.418Z",
   "hero": {
     "id": "story-0",
     "league": "Football",
     "dot": "#AFC4AC",
-    "source": "101 Great Goals",
+    "source": "BBC Sport",
     "time": "Sep 22",
-    "headline": "England squad announcement: Full list for Nations League 2026",
-    "excerpt": "The squad for England's Nations League 2026 fixtures",
-    "link": "https://www.101greatgoals.com/football/internationals/england-squad-nations-league-spain-czech-republic-croatia-cole-palmer-trent-alexander-arnold/",
-    "image": null
+    "headline": "Neutral venues and no 'away' fans - how Israel v Republic of Ireland became so contentious",
+    "excerpt": "BBC Sport explores the backdrop to the Republic of Ireland's matches against Israel, amid fraught…",
+    "link": "https://www.bbc.co.uk/sport/football/articles/ckz7z5w7ey2jo?at_medium=RSS&amp;at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b192/live/4b340370-b668-11f1-b785-7d19738c6de2.jpg"
   },
   "topStories": [
     {
       "id": "story-1",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "101 Great Goals",
+      "time": "Sep 22",
+      "headline": "England squad announcement: Full list for Nations League 2026",
+      "excerpt": "The squad for England's Nations League 2026 fixtures",
+      "link": "https://www.101greatgoals.com/football/internationals/england-squad-nations-league-spain-czech-republic-croatia-cole-palmer-trent-alexander-arnold/",
+      "image": null
+    },
+    {
+      "id": "story-2",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -24,7 +35,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eca5/live/4e5db730-b68b-11f1-97fb-8d66d3951490.jpg"
     },
     {
-      "id": "story-2",
+      "id": "story-3",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -35,7 +46,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dd21/live/bf8b9c40-b651-11f1-a430-4d16ee157c41.png"
     },
     {
-      "id": "story-3",
+      "id": "story-4",
       "league": "La Liga",
       "dot": "#E3B4F5",
       "source": "The Guardian",
@@ -44,17 +55,6 @@
       "excerpt": "<ul><li><p>‘The competition belongs to no one,’ says Javier Tebas</p></li><li><p>President hits out after Mourinho’s reaction to…",
       "link": "https://www.theguardian.com/football/2026/sep/22/la-liga-president-javier-tebas-real-madrid-conspiracy-claims-derby-defeat",
       "image": "https://i.guim.co.uk/img/media/89e8db24292026966d36d441107801323a59f992/333_171_2491_1993/master/2491.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=35baf33b78b9423c97c7ad66f1ad65ce"
-    },
-    {
-      "id": "story-4",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "BBC Sport",
-      "time": "Sep 22",
-      "headline": "Neutral venues and no 'away' fans - how Israel v Republic of Ireland became so contentious",
-      "excerpt": "BBC Sport explores the backdrop to the Republic of Ireland's matches against Israel, amid fraught…",
-      "link": "https://www.bbc.co.uk/sport/football/articles/ckz7z5w7ey2jo?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b192/live/4b340370-b668-11f1-b785-7d19738c6de2.jpg"
     },
     {
       "id": "story-5",
