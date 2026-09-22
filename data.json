@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-22T20:10:51.965Z",
+  "updatedAt": "2026-09-22T20:23:33.851Z",
   "hero": {
     "id": "story-0",
     "league": "Football",
@@ -150,13 +150,24 @@
       "dot": "#AFC4AC",
       "source": "BBC Sport",
       "time": "Sep 22",
+      "headline": "Five charged over football pitch hearse disorder",
+      "excerpt": "Five are charged over disorder which saw a hearse driven onto the pitch at Dunston…",
+      "link": "https://www.bbc.co.uk/news/articles/crwyzkw2lzk1o?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9893/live/37927210-d7b9-11ee-9a5b-e35447f6c53b.png"
+    },
+    {
+      "id": "story-14",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "BBC Sport",
+      "time": "Sep 22",
       "headline": "Who will start for England at Euro 2028? BBC Sport's predictions",
       "excerpt": "As England prepare to face world champions Spain on Saturday, BBC Sport's experts predict who…",
       "link": "https://www.bbc.co.uk/sport/football/articles/cm3v41epe3l9o?at_medium=RSS&amp;at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0067/live/557a5840-b5b7-11f1-8d1d-a985658d9d3a.png"
     },
     {
-      "id": "story-14",
+      "id": "story-15",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -167,7 +178,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b192/live/4b340370-b668-11f1-b785-7d19738c6de2.jpg"
     },
     {
-      "id": "story-15",
+      "id": "story-16",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -178,7 +189,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eca5/live/4e5db730-b68b-11f1-97fb-8d66d3951490.jpg"
     },
     {
-      "id": "story-16",
+      "id": "story-17",
       "league": "La Liga",
       "dot": "#E3B4F5",
       "source": "BBC Sport",
@@ -189,7 +200,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aa09/live/e1cb3660-b67b-11f1-ba87-73dd9416d9df.jpg"
     },
     {
-      "id": "story-17",
+      "id": "story-18",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -200,7 +211,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8eb1/live/9e099bd0-ad1e-11f1-826f-933990eae6f0.jpg"
     },
     {
-      "id": "story-18",
+      "id": "story-19",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "The Guardian",
@@ -211,7 +222,7 @@
       "image": "https://i.guim.co.uk/img/media/03cb34251968383ac5bc2339c63ea9ddf4249e70/673_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f180e90db5e93e9cd79811aebb2df7b1"
     },
     {
-      "id": "story-19",
+      "id": "story-20",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -222,7 +233,7 @@
       "image": "https://i.guim.co.uk/img/media/6b9d362795559e1bb382a34359d7ddfcb7483275/772_186_4824_3861/master/4824.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ad05755ec0693943ff850580221e90ab"
     },
     {
-      "id": "story-20",
+      "id": "story-21",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -233,7 +244,7 @@
       "image": "https://i.guim.co.uk/img/media/e6b849615908d067acc007c5726811aca31ca6ad/28_0_3474_2779/master/3474.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=886887b814d62e9dbdba62e012455f57"
     },
     {
-      "id": "story-21",
+      "id": "story-22",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -244,7 +255,7 @@
       "image": "https://i.guim.co.uk/img/media/c3e834f1c372a54320c5503c5531e0ddfac03cda/61_0_3011_2409/master/3011.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=42cd19f44aa74c083ea2ed3f12dad1d3"
     },
     {
-      "id": "story-22",
+      "id": "story-23",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -253,17 +264,6 @@
       "excerpt": "<p>The Swiss international explains why she became involved in the club’s Beyond the Goalposts initiative</p><p>“When…",
       "link": "https://www.theguardian.com/football/2026/sep/22/liverpool-aurelie-csillag-womens-football-more-diverse-moving-the-goalposts",
       "image": "https://i.guim.co.uk/img/media/f76aa24d48b28f4900c99b9e7c147ca544472f05/114_0_5557_4445/master/5557.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=69f1ebf0bbde83a0ea5a5628e32d4414"
-    },
-    {
-      "id": "story-23",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "The Guardian",
-      "time": "Sep 22",
-      "headline": "Spurs in seventh heaven, Arsenal rescue a point and late goals galore: Women’s Football Weekly – podcast",
-      "excerpt": "<p><a href=\"https://www.theguardian.com/profile/faye-carruthers\">Faye Carruthers</a> is joined by<a href=\"https://www.theguardian.com/profile/suzanne-wrack\"> Suzanne Wrack</a>, Emma Sanders and Freddie Cardy to…",
-      "link": "https://www.theguardian.com/football/audio/2026/sep/22/spurs-in-seventh-heaven-arsenal-rescue-a-point-and-late-goals-galore-womens-football-weekly",
-      "image": "https://i.guim.co.uk/img/media/02014b73fb711e2080fa7f76d24ab73d8c58f4dd/477_0_3439_2751/master/3439.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=eb177f2bda428bae4276c6419a47b54b"
     }
   ],
   "scoreboard": [
