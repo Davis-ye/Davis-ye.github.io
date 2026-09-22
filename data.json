@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-22T16:58:44.540Z",
+  "updatedAt": "2026-09-22T17:10:02.168Z",
   "hero": {
     "id": "story-0",
     "league": "Premier League",
@@ -9,11 +9,22 @@
     "headline": "Bayern Munich v Manchester City: Women’s Champions League – live",
     "excerpt": "<ul><li><p>WCL match updates from the 5.45pm BST kick-off</p></li><li><p><a href=\"https://www.theguardian.com/football/2026/sep/22/womens-champions-league-preview-ol-lyonnes-arsenal-chelsea-manchester-city-barcelona\">Will Lyonnes or English trio topple Barça?</a>…",
     "link": "https://www.theguardian.com/football/live/2026/sep/22/bayern-munich-v-manchester-city-womens-champions-league-live",
-    "image": "https://i.guim.co.uk/img/media/e9cdea47d05c3a190a9f4f319f0cdb0c6f0b7736/0_140_2132_1704/master/2132.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=91c76a2d8efe47d90b1fa9394b14076d"
+    "image": "https://i.guim.co.uk/img/media/69d4070df978ce7a45c93069768bfb532659d8ed/417_0_3118_2495/master/3118.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=03d308f60d492c67c52579156b1351a6"
   },
   "topStories": [
     {
       "id": "story-1",
+      "league": "La Liga",
+      "dot": "#E3B4F5",
+      "source": "The Guardian",
+      "time": "Sep 22",
+      "headline": "Real Madrid call for La Liga president’s removal after response to derby complaints",
+      "excerpt": "<ul><li><p>Javier Tebas accused club of ‘permanent conspiracy’ talk</p></li><li><p>Real Madrid hit back at president’s ‘intolerable’ behaviour</p></li></ul><p>Real…",
+      "link": "https://www.theguardian.com/football/2026/sep/22/la-liga-president-javier-tebas-real-madrid-conspiracy-claims-derby-defeat",
+      "image": "https://i.guim.co.uk/img/media/89e8db24292026966d36d441107801323a59f992/333_171_2491_1993/master/2491.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=35baf33b78b9423c97c7ad66f1ad65ce"
+    },
+    {
+      "id": "story-2",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "101 Great Goals",
@@ -24,7 +35,7 @@
       "image": "https://www.101greatgoals.com/wp-content/uploads/2026/09/3D3A331-1.jpg"
     },
     {
-      "id": "story-2",
+      "id": "story-3",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -35,7 +46,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2012/live/31e44ed0-b69e-11f1-ba3d-1d5c8a47f823.jpg"
     },
     {
-      "id": "story-3",
+      "id": "story-4",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -46,7 +57,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a0d6/live/96e98bf0-b690-11f1-99b0-21d40bed432b.jpg"
     },
     {
-      "id": "story-4",
+      "id": "story-5",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "The Guardian",
@@ -57,7 +68,7 @@
       "image": "https://i.guim.co.uk/img/media/ec3a1551bf877572e22b9389e14eeeb16984ab13/394_0_3167_2534/master/3167.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=54f528c212e36e3ee7d32ba762e5cb08"
     },
     {
-      "id": "story-5",
+      "id": "story-6",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -68,7 +79,7 @@
       "image": "https://i.guim.co.uk/img/media/806b3b13d82fd6fe9ca7802c9692c21843e43dc1/0_0_3750_3000/master/3750.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a24965be10c05bfcb516c3dc0975213e"
     },
     {
-      "id": "story-6",
+      "id": "story-7",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -79,7 +90,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0067/live/557a5840-b5b7-11f1-8d1d-a985658d9d3a.png"
     },
     {
-      "id": "story-7",
+      "id": "story-8",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -90,7 +101,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b192/live/4b340370-b668-11f1-b785-7d19738c6de2.jpg"
     },
     {
-      "id": "story-8",
+      "id": "story-9",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -101,7 +112,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eca5/live/4e5db730-b68b-11f1-97fb-8d66d3951490.jpg"
     },
     {
-      "id": "story-9",
+      "id": "story-10",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -110,17 +121,6 @@
       "excerpt": "Dundee United's Republic of Ireland international not willing to decide future in September as Scottish…",
       "link": "https://www.bbc.co.uk/sport/football/articles/cqlylxz65608o?at_medium=RSS&amp;at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dd21/live/bf8b9c40-b651-11f1-a430-4d16ee157c41.png"
-    },
-    {
-      "id": "story-10",
-      "league": "La Liga",
-      "dot": "#E3B4F5",
-      "source": "The Guardian",
-      "time": "Sep 22",
-      "headline": "La Liga president says Real Madrid conspiracy claims are ‘in another galaxy’",
-      "excerpt": "<ul><li><p>‘The competition belongs to no one,’ says Javier Tebas</p></li><li><p>President hits out after Mourinho’s reaction to…",
-      "link": "https://www.theguardian.com/football/2026/sep/22/la-liga-president-javier-tebas-real-madrid-conspiracy-claims-derby-defeat",
-      "image": "https://i.guim.co.uk/img/media/89e8db24292026966d36d441107801323a59f992/333_171_2491_1993/master/2491.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=35baf33b78b9423c97c7ad66f1ad65ce"
     },
     {
       "id": "story-11",
