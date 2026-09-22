@@ -1,30 +1,52 @@
 {
-  "updatedAt": "2026-09-22T16:00:46.678Z",
+  "updatedAt": "2026-09-22T16:14:20.430Z",
   "hero": {
     "id": "story-0",
     "league": "Premier League",
     "dot": "#9CC0F0",
-    "source": "The Guardian",
+    "source": "101 Great Goals",
     "time": "Sep 22",
-    "headline": "Bayern Munich v Manchester City: Women’s Champions League – live",
-    "excerpt": "<ul><li><p>WCL match updates from the 5.45pm BST kick-off</p></li><li><p><a href=\"https://www.theguardian.com/football/2026/sep/22/womens-champions-league-preview-ol-lyonnes-arsenal-chelsea-manchester-city-barcelona\">Will Lyonnes or English trio topple Barça?</a>…",
-    "link": "https://www.theguardian.com/football/live/2026/sep/22/bayern-munich-v-manchester-city-womens-champions-league-live",
-    "image": "https://i.guim.co.uk/img/media/b717bffe634c2246ffb78a8792e99c8970fa8947/414_168_5163_4133/master/5163.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=8549c933b2249f6d59dcd5c3ef6976ed"
+    "headline": "Benjamin Sesko vows to &#8216;fully dedicate&#8217; himself to recovery from shin injury",
+    "excerpt": "Benjamin Sesko has opened up on his recent injury issues at Manchester United",
+    "link": "https://www.101greatgoals.com/football/premier-league/benjamin-sesko-vows-fully-dedicate-himself-recovery-injury/",
+    "image": "https://www.101greatgoals.com/wp-content/uploads/2026/09/3D3A331-1.jpg"
   },
   "topStories": [
     {
       "id": "story-1",
-      "league": "La Liga",
-      "dot": "#E3B4F5",
-      "source": "101 Great Goals",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "BBC Sport",
       "time": "Sep 22",
-      "headline": "Javier Tebas: Real Madrid call for La Liga president to leave over &#8216;intolerable attacks&#8217;",
-      "excerpt": "Madrid want La Liga boss Javier Tebas replaced",
-      "link": "https://www.101greatgoals.com/football/la-liga/javier-tebas-real-madrid-la-liga-president-statement/",
-      "image": "https://www.101greatgoals.com/wp-content/uploads/2026/09/shutterstock_2133523995-1.jpg"
+      "headline": "Well-travelled Binks eager to make mark for Scotland",
+      "excerpt": "From searching for pizza with Thierry Henry in Canada during Covid to leading a Danish…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cm70dyzjwg91o?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2012/live/31e44ed0-b69e-11f1-ba3d-1d5c8a47f823.jpg"
     },
     {
       "id": "story-2",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "BBC Sport",
+      "time": "Sep 22",
+      "headline": "I was close to joining Liverpool in 2016 - Mbappe",
+      "excerpt": "Kylian Mbappe says his mum was a \"big fan\" of Jurgen Klopp and wanted her…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c68042y9l4kno?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a0d6/live/96e98bf0-b690-11f1-99b0-21d40bed432b.jpg"
+    },
+    {
+      "id": "story-3",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "The Guardian",
+      "time": "Sep 22",
+      "headline": "Bayern Munich v Manchester City: Women’s Champions League – live",
+      "excerpt": "<ul><li><p>WCL match updates from the 5.45pm BST kick-off</p></li><li><p><a href=\"https://www.theguardian.com/football/2026/sep/22/womens-champions-league-preview-ol-lyonnes-arsenal-chelsea-manchester-city-barcelona\">Will Lyonnes or English trio topple Barça?</a>…",
+      "link": "https://www.theguardian.com/football/live/2026/sep/22/bayern-munich-v-manchester-city-womens-champions-league-live",
+      "image": "https://i.guim.co.uk/img/media/b717bffe634c2246ffb78a8792e99c8970fa8947/414_168_5163_4133/master/5163.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=8549c933b2249f6d59dcd5c3ef6976ed"
+    },
+    {
+      "id": "story-4",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "The Guardian",
@@ -35,7 +57,18 @@
       "image": "https://i.guim.co.uk/img/media/ec3a1551bf877572e22b9389e14eeeb16984ab13/394_0_3167_2534/master/3167.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=54f528c212e36e3ee7d32ba762e5cb08"
     },
     {
-      "id": "story-3",
+      "id": "story-5",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "The Guardian",
+      "time": "Sep 22",
+      "headline": "Football Daily | Klopp, Xavi, Zidane, Mancini: big nations ready to unleash bigger dogs",
+      "excerpt": "<p><a href=\"https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up\"><strong>Sign up now! Sign up now! Sign up now? Sign up now!</strong></a></p><p>While Thomas Tuchel…",
+      "link": "https://www.theguardian.com/football/2026/sep/22/klopp-xavi-zidane-mancini-football-daily-newsletter",
+      "image": "https://i.guim.co.uk/img/media/806b3b13d82fd6fe9ca7802c9692c21843e43dc1/0_0_3750_3000/master/3750.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a24965be10c05bfcb516c3dc0975213e"
+    },
+    {
+      "id": "story-6",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -46,7 +79,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0067/live/557a5840-b5b7-11f1-8d1d-a985658d9d3a.png"
     },
     {
-      "id": "story-4",
+      "id": "story-7",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -57,7 +90,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b192/live/4b340370-b668-11f1-b785-7d19738c6de2.jpg"
     },
     {
-      "id": "story-5",
+      "id": "story-8",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -68,7 +101,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eca5/live/4e5db730-b68b-11f1-97fb-8d66d3951490.jpg"
     },
     {
-      "id": "story-6",
+      "id": "story-9",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -79,7 +112,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dd21/live/bf8b9c40-b651-11f1-a430-4d16ee157c41.png"
     },
     {
-      "id": "story-7",
+      "id": "story-10",
       "league": "La Liga",
       "dot": "#E3B4F5",
       "source": "The Guardian",
@@ -90,7 +123,7 @@
       "image": "https://i.guim.co.uk/img/media/89e8db24292026966d36d441107801323a59f992/333_171_2491_1993/master/2491.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=35baf33b78b9423c97c7ad66f1ad65ce"
     },
     {
-      "id": "story-8",
+      "id": "story-11",
       "league": "La Liga",
       "dot": "#E3B4F5",
       "source": "BBC Sport",
@@ -101,7 +134,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aa09/live/e1cb3660-b67b-11f1-ba87-73dd9416d9df.jpg"
     },
     {
-      "id": "story-9",
+      "id": "story-12",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -112,7 +145,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8eb1/live/9e099bd0-ad1e-11f1-826f-933990eae6f0.jpg"
     },
     {
-      "id": "story-10",
+      "id": "story-13",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "The Guardian",
@@ -123,7 +156,7 @@
       "image": "https://i.guim.co.uk/img/media/03cb34251968383ac5bc2339c63ea9ddf4249e70/673_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f180e90db5e93e9cd79811aebb2df7b1"
     },
     {
-      "id": "story-11",
+      "id": "story-14",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -134,7 +167,7 @@
       "image": "https://i.guim.co.uk/img/media/6b9d362795559e1bb382a34359d7ddfcb7483275/772_186_4824_3861/master/4824.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ad05755ec0693943ff850580221e90ab"
     },
     {
-      "id": "story-12",
+      "id": "story-15",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -145,7 +178,7 @@
       "image": "https://i.guim.co.uk/img/media/e6b849615908d067acc007c5726811aca31ca6ad/28_0_3474_2779/master/3474.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=886887b814d62e9dbdba62e012455f57"
     },
     {
-      "id": "story-13",
+      "id": "story-16",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -156,7 +189,7 @@
       "image": "https://i.guim.co.uk/img/media/c3e834f1c372a54320c5503c5531e0ddfac03cda/61_0_3011_2409/master/3011.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=42cd19f44aa74c083ea2ed3f12dad1d3"
     },
     {
-      "id": "story-14",
+      "id": "story-17",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -167,7 +200,7 @@
       "image": "https://i.guim.co.uk/img/media/f76aa24d48b28f4900c99b9e7c147ca544472f05/114_0_5557_4445/master/5557.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=69f1ebf0bbde83a0ea5a5628e32d4414"
     },
     {
-      "id": "story-15",
+      "id": "story-18",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -178,7 +211,7 @@
       "image": "https://i.guim.co.uk/img/media/02014b73fb711e2080fa7f76d24ab73d8c58f4dd/477_0_3439_2751/master/3439.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=eb177f2bda428bae4276c6419a47b54b"
     },
     {
-      "id": "story-16",
+      "id": "story-19",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -189,7 +222,7 @@
       "image": "https://i.guim.co.uk/img/media/738dc357c9634788357cbbe74e3312c593589fe1/80_338_669_535/master/669.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ef14ecd94f8f3d99e96defca87b64c14"
     },
     {
-      "id": "story-17",
+      "id": "story-20",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -200,7 +233,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f87e/live/06384860-b665-11f1-b785-7d19738c6de2.jpg"
     },
     {
-      "id": "story-18",
+      "id": "story-21",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -211,7 +244,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e4f2/live/1571e6d0-b5aa-11f1-abe6-535e7b14de4c.jpg"
     },
     {
-      "id": "story-19",
+      "id": "story-22",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -222,7 +255,7 @@
       "image": "https://i.guim.co.uk/img/media/59cb2509e4536323dfd3ccdc56fee89e264fc68c/327_0_1634_1307/master/1634.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=79ea4d885662f5432b3c120ec0a4369e"
     },
     {
-      "id": "story-20",
+      "id": "story-23",
       "league": "Serie A",
       "dot": "#A9E6A0",
       "source": "The Guardian",
@@ -231,39 +264,6 @@
       "excerpt": "<p>Every deal in the NWSL, WSL, Liga F, Frauen-Bundesliga, Première Ligue and Serie A Femminile…",
       "link": "https://www.theguardian.com/football/ng-interactive/2026/sep/01/womens-transfer-window-summer-2026-all-deals-from-worlds-top-six-leagues",
       "image": "https://i.guim.co.uk/img/media/05fc0800306c28571b9c257d5e4854d677517434/0_0_4724_3780/master/4724.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=1648b31c3dedbf58aaa124152708ac10"
-    },
-    {
-      "id": "story-21",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "BBC Sport",
-      "time": "Sep 22",
-      "headline": "Egan's late career resurgence back to Premier League",
-      "excerpt": "BBC Sport NI looks at Republic of Ireland centre-back's John Egan's rise back to the…",
-      "link": "https://www.bbc.co.uk/sport/articles/cgjq1x0wj7qo?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6021/live/4e772100-add7-11f1-871b-cb14676e811d.jpg"
-    },
-    {
-      "id": "story-22",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "BBC Sport",
-      "time": "Sep 22",
-      "headline": "'This is not Wrexham. I'm not Ryan Reynolds' - behind the scenes at world's oldest club",
-      "excerpt": "A new BBC podcast Mud, Sweat and Cheers: Trouble at the Bottom – Sheffield FC…",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c617j8rz8q4lo?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2993/live/8bddf0d0-b35b-11f1-b949-71f91f81d1ab.jpg"
-    },
-    {
-      "id": "story-23",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "The Guardian",
-      "time": "Sep 22",
-      "headline": "Lions and Irons: the Dockers derby – a photo essay",
-      "excerpt": "<p>For the first time in 14 years, Millwall and West Ham faced each other in…",
-      "link": "https://www.theguardian.com/football/2026/sep/22/millwall-west-ham-dockers-derby-in-pictures",
-      "image": "https://i.guim.co.uk/img/media/067b53f7be2969905133dc18a7023c617c2b58c4/1226_65_4873_3899/master/4873.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ac476ce66f28c5c9e41c072b0e9a3639"
     }
   ],
   "scoreboard": [
