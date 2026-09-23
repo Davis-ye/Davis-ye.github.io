@@ -1,19 +1,30 @@
 {
-  "updatedAt": "2026-09-23T18:40:25.289Z",
+  "updatedAt": "2026-09-23T18:51:43.317Z",
   "hero": {
     "id": "story-0",
     "league": "Premier League",
     "dot": "#9CC0F0",
-    "source": "The Guardian",
+    "source": "101 Great Goals",
     "time": "Sep 23",
-    "headline": "Chelsea v Austria Vienna: Women’s Champions League – live",
-    "excerpt": "<ul><li><p>Champions League updates from the 8pm BST kick-off</p></li><li><p><a href=\"https://www.theguardian.com/football/live\">Live scoreboard</a> | <a href=\"https://www.theguardian.com/football/2026/sep/23/disney-advert-break-womens-champions-league-arsenal\">Disney+ criticised</a> |…",
-    "link": "https://www.theguardian.com/football/live/2026/sep/23/chelsea-v-austria-vienna-womens-champions-league-live-score-updates",
-    "image": "https://i.guim.co.uk/img/media/b8fced2ed61023360b59577c106f37c33ef72ea2/338_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=cc83d6d2d9e9ebeccca03b30f1da2af4"
+    "headline": "Cristiano Ronaldo: Portugal legend considered retirement after World Cup but now targeting 1,000th goal and Nations League triumph",
+    "excerpt": "Cristiano Ronaldo has admitted he considered retirement from international football after the World Cup, before…",
+    "link": "https://www.101greatgoals.com/football/internationals/cristiano-ronaldo-portugal-legend-considered-retirement-after-world-cup-but-now-targeting-1000th-goal-and-nations-league-triumph/",
+    "image": null
   },
   "topStories": [
     {
       "id": "story-1",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "The Guardian",
+      "time": "Sep 23",
+      "headline": "Chelsea v Austria Vienna: Women’s Champions League – live",
+      "excerpt": "<ul><li><p>Champions League updates from the 8pm BST kick-off</p></li><li><p><a href=\"https://www.theguardian.com/football/live\">Live scoreboard</a> | <a href=\"https://www.theguardian.com/football/2026/sep/23/disney-advert-break-womens-champions-league-arsenal\">Disney+ criticised</a> |…",
+      "link": "https://www.theguardian.com/football/live/2026/sep/23/chelsea-v-austria-vienna-womens-champions-league-live-score-updates",
+      "image": "https://i.guim.co.uk/img/media/b8fced2ed61023360b59577c106f37c33ef72ea2/338_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=cc83d6d2d9e9ebeccca03b30f1da2af4"
+    },
+    {
+      "id": "story-2",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "The Guardian",
@@ -22,17 +33,6 @@
       "excerpt": "<ul><li><p>‘It wasn’t the team that we wanted and said we’d be’</p></li><li><p>England host Spain in Nations…",
       "link": "https://www.theguardian.com/football/2026/sep/23/harry-kane-england-world-cup-argentina-nations-league-spain",
       "image": "https://i.guim.co.uk/img/media/222832b656c43ee0e623323ae51d721820678d28/295_0_3370_2696/master/3370.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3b7623d37f92de214a32c54c084a860e"
-    },
-    {
-      "id": "story-2",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "101 Great Goals",
-      "time": "Sep 23",
-      "headline": "Paul Gascoigne slams muted England celebrations at World Cup and says they &#8216;drive me nuts&#8217;",
-      "excerpt": "Paul Gascoigne has opened up on how frustrated the current England squad makes him.",
-      "link": "https://www.101greatgoals.com/football/internationals/paul-gascoigne-england-players-world-cup/",
-      "image": null
     },
     {
       "id": "story-3",
