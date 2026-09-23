@@ -1,19 +1,30 @@
 {
-  "updatedAt": "2026-09-23T18:10:01.818Z",
+  "updatedAt": "2026-09-23T18:26:52.984Z",
   "hero": {
     "id": "story-0",
-    "league": "Football",
-    "dot": "#AFC4AC",
+    "league": "Premier League",
+    "dot": "#9CC0F0",
     "source": "The Guardian",
     "time": "Sep 23",
-    "headline": "Harry Kane says England’s World Cup exit ‘hurt more than any other’",
-    "excerpt": "<ul><li><p>‘It wasn’t the team that we wanted and said we’d be’</p></li><li><p>England host Spain in Nations…",
-    "link": "https://www.theguardian.com/football/2026/sep/23/harry-kane-england-world-cup-argentina-nations-league-spain",
-    "image": "https://i.guim.co.uk/img/media/222832b656c43ee0e623323ae51d721820678d28/295_0_3370_2696/master/3370.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3b7623d37f92de214a32c54c084a860e"
+    "headline": "Chelsea v Austria Vienna: Women’s Champions League – live",
+    "excerpt": "<ul><li><p>Champions League updates from the 8pm BST kick-off</p></li><li><p><a href=\"https://www.theguardian.com/football/live\">Live scoreboard</a> | <a href=\"https://www.theguardian.com/football/2026/sep/23/disney-advert-break-womens-champions-league-arsenal\">Disney+ criticised</a> |…",
+    "link": "https://www.theguardian.com/football/live/2026/sep/23/chelsea-v-austria-vienna-womens-champions-league-live-score-updates",
+    "image": "https://i.guim.co.uk/img/media/8331df105cdeb6ac550a497bfb4683c5d86b8442/296_0_3756_3008/master/3756.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b4c897b622b723da7d6b98ba2ad8ba6e"
   },
   "topStories": [
     {
       "id": "story-1",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "The Guardian",
+      "time": "Sep 23",
+      "headline": "Harry Kane says England’s World Cup exit ‘hurt more than any other’",
+      "excerpt": "<ul><li><p>‘It wasn’t the team that we wanted and said we’d be’</p></li><li><p>England host Spain in Nations…",
+      "link": "https://www.theguardian.com/football/2026/sep/23/harry-kane-england-world-cup-argentina-nations-league-spain",
+      "image": "https://i.guim.co.uk/img/media/222832b656c43ee0e623323ae51d721820678d28/295_0_3370_2696/master/3370.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3b7623d37f92de214a32c54c084a860e"
+    },
+    {
+      "id": "story-2",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "101 Great Goals",
@@ -24,7 +35,7 @@
       "image": null
     },
     {
-      "id": "story-2",
+      "id": "story-3",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -33,17 +44,6 @@
       "excerpt": "<p>Klopp, with Germany, and Xavi, with the Netherlands, face each other in Nations League after…",
       "link": "https://www.theguardian.com/football/2026/sep/23/special-klopp-and-xavi-take-first-steps-on-international-stage-with-revival-in-mind",
       "image": "https://i.guim.co.uk/img/media/ea2873ca3d909b919713c8fb46838bb1f0b6d25b/0_0_5000_4002/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=70895c05d15191de464b2a50da3034b8"
-    },
-    {
-      "id": "story-3",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "The Guardian",
-      "time": "Sep 23",
-      "headline": "Chelsea v Austria Vienna: Women’s Champions League – live",
-      "excerpt": "<ul><li><p>Champions League updates from the 8pm BST kick-off</p></li><li><p><a href=\"https://www.theguardian.com/football/live\">Live scoreboard</a> | <a href=\"https://www.theguardian.com/football/2026/sep/23/disney-advert-break-womens-champions-league-arsenal\">Disney+ criticised</a> |…",
-      "link": "https://www.theguardian.com/football/live/2026/sep/23/chelsea-v-austria-vienna-womens-champions-league-live-score-updates",
-      "image": "https://i.guim.co.uk/img/media/8331df105cdeb6ac550a497bfb4683c5d86b8442/296_0_3756_3008/master/3756.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b4c897b622b723da7d6b98ba2ad8ba6e"
     },
     {
       "id": "story-4",
