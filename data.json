@@ -1,19 +1,41 @@
 {
-  "updatedAt": "2026-09-23T12:33:33.852Z",
+  "updatedAt": "2026-09-23T12:50:12.448Z",
   "hero": {
     "id": "story-0",
-    "league": "Premier League",
-    "dot": "#9CC0F0",
-    "source": "BBC Sport",
+    "league": "Football",
+    "dot": "#AFC4AC",
+    "source": "101 Great Goals",
     "time": "Sep 23",
-    "headline": "Ad break during game was unscheduled, says Disney+",
-    "excerpt": "Coverage of Arsenal's Women's Champions League opener also featured a dog on set, a vegetable…",
-    "link": "https://www.bbc.co.uk/sport/football/articles/cv8e328r7w4go?at_medium=RSS&amp;at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a626/live/bb6f3220-b741-11f1-aa9c-3d062fa3aea7.jpg"
+    "headline": "NFL: Jaxson Dart could miss rest of season as Giants assess serious knee injury",
+    "excerpt": "The New York Giants fear Jaxson Dart could miss the rest of the season with…",
+    "link": "https://www.101greatgoals.com/news/nfl-jaxson-dart-miss-rest-season-knee-injury/",
+    "image": null
   },
   "topStories": [
     {
       "id": "story-1",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "BBC Sport",
+      "time": "Sep 23",
+      "headline": "Scots recall 'versatile' Kerr & Thomas for World Cup play-offs",
+      "excerpt": "Sam Kerr and Martha Thomas are named in their first Scotland squad in almost a…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c63d7ypd11ydo?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5499/live/73697ff0-b6d1-11f1-b2fe-f10f693c3bae.jpg"
+    },
+    {
+      "id": "story-2",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "BBC Sport",
+      "time": "Sep 23",
+      "headline": "Ad break during game was unscheduled, says Disney+",
+      "excerpt": "Coverage of Arsenal's Women's Champions League opener also featured a dog on set, a vegetable…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cv8e328r7w4go?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a626/live/bb6f3220-b741-11f1-aa9c-3d062fa3aea7.jpg"
+    },
+    {
+      "id": "story-3",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -24,7 +46,7 @@
       "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0pc16hs.jpg"
     },
     {
-      "id": "story-2",
+      "id": "story-4",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -35,7 +57,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/603f/live/9996e8b0-b740-11f1-aa9c-3d062fa3aea7.jpg"
     },
     {
-      "id": "story-3",
+      "id": "story-5",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -46,7 +68,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/815c/live/f1c474d0-b740-11f1-aa9c-3d062fa3aea7.jpg"
     },
     {
-      "id": "story-4",
+      "id": "story-6",
       "league": "Serie A",
       "dot": "#A9E6A0",
       "source": "The Guardian",
@@ -57,18 +79,7 @@
       "image": "https://i.guim.co.uk/img/media/e34ef9004ac74cfcaeda69a3a4383fd331f0f552/13_4_4964_3971/master/4964.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=0e46d6af852f81616b96c37061eaaa65"
     },
     {
-      "id": "story-5",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "101 Great Goals",
-      "time": "Sep 23",
-      "headline": "Lamine Yamal explains why goals should not decide the Ballon d&#8217;Or",
-      "excerpt": "Lamine Yamal has put forward another reason why he should win the Ballon d'Or.",
-      "link": "https://www.101greatgoals.com/news/lamine-yamal-explains-why-goals-should-not-decide-the-ballon-dor/",
-      "image": null
-    },
-    {
-      "id": "story-6",
+      "id": "story-7",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -79,7 +90,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4567/live/cc2b1e00-b73a-11f1-aa9c-3d062fa3aea7.jpg"
     },
     {
-      "id": "story-7",
+      "id": "story-8",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -90,7 +101,7 @@
       "image": "https://i.guim.co.uk/img/media/66fec6d502aa9b012657b92228d0cf5b6a609721/845_0_4815_3853/master/4815.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a47d323b0cd9b5aa9a0ca66586f4ddad"
     },
     {
-      "id": "story-8",
+      "id": "story-9",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -101,7 +112,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/49ad/live/ae4e5010-843f-11f1-b16e-0f7ab380f520.jpg"
     },
     {
-      "id": "story-9",
+      "id": "story-10",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -112,7 +123,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/456a/live/861e5dd0-b697-11f1-b1d1-571ed4d7ff2c.png"
     },
     {
-      "id": "story-10",
+      "id": "story-11",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -123,7 +134,7 @@
       "image": "https://i.guim.co.uk/img/media/d6fa54861fd167104edaa4f4d7dbdaec101b1679/375_0_3752_3002/master/3752.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b2dbf99689d3f35fe9d1b4f6dca22532"
     },
     {
-      "id": "story-11",
+      "id": "story-12",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -132,17 +143,6 @@
       "excerpt": "Former Afcon winner Segun Odegbami has slammed those running Nigerian football after the country missed…",
       "link": "https://www.bbc.co.uk/sport/football/articles/cmrer1vexl5jo?at_medium=RSS&amp;at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3170/live/f4f62cd0-b67c-11f1-ba87-73dd9416d9df.jpg"
-    },
-    {
-      "id": "story-12",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "BBC Sport",
-      "time": "Sep 23",
-      "headline": "Scots recall Kerr & Thomas for World Cup play-offs",
-      "excerpt": "Sam Kerr and Martha Thomas are named in their first Scotland squad in almost a…",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c63d7ypd11ydo?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5499/live/73697ff0-b6d1-11f1-b2fe-f10f693c3bae.jpg"
     },
     {
       "id": "story-13",
