@@ -1,27 +1,27 @@
 {
-  "updatedAt": "2026-09-23T20:14:55.012Z",
+  "updatedAt": "2026-09-23T20:28:26.995Z",
   "hero": {
     "id": "story-0",
-    "league": "Bundesliga",
-    "dot": "#FFC469",
-    "source": "101 Great Goals",
+    "league": "Premier League",
+    "dot": "#9CC0F0",
+    "source": "The Guardian",
     "time": "Sep 23",
-    "headline": "Harry Kane: England captain reiterates aims to become NFL kicker post-football career and weighs up MLS move",
-    "excerpt": "Harry Kane says he is serious about the potential of becoming a kicker in the…",
-    "link": "https://www.101greatgoals.com/football/harry-kane-england-captain-reiterates-aims-to-become-nfl-kicker-post-football-career-and-weighs-up-mls-move/",
-    "image": null
+    "headline": "Chelsea v Austria Vienna: Women’s Champions League – live",
+    "excerpt": "<ul><li><p>Champions League updates from the 8pm BST kick-off</p></li><li><p><a href=\"https://www.theguardian.com/football/live\">Live scoreboard</a> | <a href=\"https://www.theguardian.com/football/2026/sep/23/disney-advert-break-womens-champions-league-arsenal\">Disney+ criticised</a> |…",
+    "link": "https://www.theguardian.com/football/live/2026/sep/23/chelsea-v-austria-vienna-womens-champions-league-live-score-updates",
+    "image": "https://i.guim.co.uk/img/media/825fedf165ef9e21e31a9970f9f7265c6c10b37f/248_0_4503_3602/master/4503.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=22786ce07a77c4f7d565fda0919b145a"
   },
   "topStories": [
     {
       "id": "story-1",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "The Guardian",
+      "league": "Bundesliga",
+      "dot": "#FFC469",
+      "source": "101 Great Goals",
       "time": "Sep 23",
-      "headline": "Chelsea v Austria Vienna: Women’s Champions League – live",
-      "excerpt": "<ul><li><p>Champions League updates from the 8pm BST kick-off</p></li><li><p><a href=\"https://www.theguardian.com/football/live\">Live scoreboard</a> | <a href=\"https://www.theguardian.com/football/2026/sep/23/disney-advert-break-womens-champions-league-arsenal\">Disney+ criticised</a> |…",
-      "link": "https://www.theguardian.com/football/live/2026/sep/23/chelsea-v-austria-vienna-womens-champions-league-live-score-updates",
-      "image": "https://i.guim.co.uk/img/media/825fedf165ef9e21e31a9970f9f7265c6c10b37f/248_0_4503_3602/master/4503.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=22786ce07a77c4f7d565fda0919b145a"
+      "headline": "Harry Kane: England captain reiterates aims to become NFL kicker post-football career and weighs up MLS move",
+      "excerpt": "Harry Kane says he is serious about the potential of becoming a kicker in the…",
+      "link": "https://www.101greatgoals.com/football/harry-kane-england-captain-reiterates-aims-to-become-nfl-kicker-post-football-career-and-weighs-up-mls-move/",
+      "image": null
     },
     {
       "id": "story-2",
