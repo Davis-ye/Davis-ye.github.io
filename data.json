@@ -1,19 +1,30 @@
 {
-  "updatedAt": "2026-09-23T10:45:08.177Z",
+  "updatedAt": "2026-09-23T10:54:37.136Z",
   "hero": {
     "id": "story-0",
     "league": "Football",
     "dot": "#AFC4AC",
-    "source": "BBC Sport",
+    "source": "101 Great Goals",
     "time": "Sep 23",
-    "headline": "What have we learned from the Championship so far?",
-    "excerpt": "As we enter the three-week international break, BBC Sport looks back at the opening block…",
-    "link": "https://www.bbc.co.uk/sport/football/articles/cqe9ep4nvxr8o?at_medium=RSS&amp;at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/456a/live/861e5dd0-b697-11f1-b1d1-571ed4d7ff2c.png"
+    "headline": "Atlanta Falcons @ Green Bay Packers: Preview, prediction and odds",
+    "excerpt": "The Packers face the Packers on Thursday Night Football",
+    "link": "https://www.101greatgoals.com/news/atlanta-falcons-vs-green-bay-packers-preview-prediction-odds-tv-channel-where-to-watch-live-online-stream/",
+    "image": null
   },
   "topStories": [
     {
       "id": "story-1",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "BBC Sport",
+      "time": "Sep 23",
+      "headline": "What have we learned from the Championship so far?",
+      "excerpt": "As we enter the three-week international break, BBC Sport looks back at the opening block…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cqe9ep4nvxr8o?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/456a/live/861e5dd0-b697-11f1-b1d1-571ed4d7ff2c.png"
+    },
+    {
+      "id": "story-2",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -24,7 +35,7 @@
       "image": "https://i.guim.co.uk/img/media/d6fa54861fd167104edaa4f4d7dbdaec101b1679/375_0_3752_3002/master/3752.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b2dbf99689d3f35fe9d1b4f6dca22532"
     },
     {
-      "id": "story-2",
+      "id": "story-3",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -35,7 +46,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3170/live/f4f62cd0-b67c-11f1-ba87-73dd9416d9df.jpg"
     },
     {
-      "id": "story-3",
+      "id": "story-4",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -46,7 +57,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5499/live/73697ff0-b6d1-11f1-b2fe-f10f693c3bae.jpg"
     },
     {
-      "id": "story-4",
+      "id": "story-5",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "The Guardian",
@@ -57,7 +68,7 @@
       "image": "https://i.guim.co.uk/img/media/d91dcf5ca282e64132ea23004a5951e87e092be1/0_0_1755_1405/master/1755.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=bb75becb178ccdceaf05ead1ed86d4a1"
     },
     {
-      "id": "story-5",
+      "id": "story-6",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "The Guardian",
@@ -68,7 +79,7 @@
       "image": "https://i.guim.co.uk/img/media/8ed1a20a415c417b53fd29cf2c1b1d6d93bb7236/1157_174_5907_4724/master/5907.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=13015deb75a74a03dec594ee92143029"
     },
     {
-      "id": "story-6",
+      "id": "story-7",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -79,7 +90,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8451/live/31e0a2e0-b72e-11f1-9f81-a10976817ca3.jpg"
     },
     {
-      "id": "story-7",
+      "id": "story-8",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -88,17 +99,6 @@
       "excerpt": "Having made his mark in the early stages of the season at Liverpool, Lewis Koumas…",
       "link": "https://www.bbc.co.uk/sport/football/articles/cmn8eq56lv24o?at_medium=RSS&amp;at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3713/live/8b2b24a0-b716-11f1-8d21-19ad84e0e822.jpg"
-    },
-    {
-      "id": "story-8",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "talkSPORT",
-      "time": "Sep 23",
-      "headline": "NFL needs to wake up to &#8216;disrespected&#8217; $265m QB who is ranked second only to Josh Allen",
-      "excerpt": "",
-      "link": "https://talksport.com/nfl/4597507/brock-purdy-disrespected-sanfrancisco-niners-josh-allen-top-quarterback/",
-      "image": null
     },
     {
       "id": "story-9",
@@ -214,28 +214,6 @@
       "id": "story-19",
       "league": "Premier League",
       "dot": "#9CC0F0",
-      "source": "talkSPORT",
-      "time": "Sep 22",
-      "headline": "&#8216;Why wouldn&#8217;t I?&#8217; &#8211; Ex-Premier League star admits he made Saudi Arabia move for the money",
-      "excerpt": "",
-      "link": "https://talksport.com/football/4599656/financial-reason-saudi-arabia-transfer-tijjani-reijnders/",
-      "image": null
-    },
-    {
-      "id": "story-20",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "talkSPORT",
-      "time": "Sep 22",
-      "headline": "Wayne Rooney says Man United squad is &#8216;weak&#8217; as he lays out challenge for Michael Carrick",
-      "excerpt": "",
-      "link": "https://talksport.com/football/4599549/wayne-rooney-man-utd-squad-weak-michael-carrick-challenge/",
-      "image": null
-    },
-    {
-      "id": "story-21",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
       "source": "BBC Sport",
       "time": "Sep 22",
       "headline": "Man Utd & Liverpool eye Mitchell - Wednesday's gossip",
@@ -244,18 +222,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/db3a/live/9219d670-b6c7-11f1-991e-856baf8e71f7.png"
     },
     {
-      "id": "story-22",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "talkSPORT",
-      "time": "Sep 22",
-      "headline": "Wayne Rooney: JJ Gabriel wanting to leave Man United is no shock, everyone saw this coming",
-      "excerpt": "",
-      "link": "https://talksport.com/football/4599433/man-utd-wayne-rooney-jj-gabriel-transfer-no-shock/",
-      "image": null
-    },
-    {
-      "id": "story-23",
+      "id": "story-20",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -264,6 +231,39 @@
       "excerpt": "Celtic will \"come together and support\" manager Martin O'Neill after a \"painful\" week for the…",
       "link": "https://www.bbc.co.uk/sport/football/articles/cmlyq01pzdy8o?at_medium=RSS&amp;at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/845b/live/393840c0-b6c0-11f1-9432-8739e6adbfdf.jpg"
+    },
+    {
+      "id": "story-21",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "BBC Sport",
+      "time": "Sep 22",
+      "headline": "Israel FA comments on Hallgrimsson 'unacceptable' - Irish taoiseach Martin",
+      "excerpt": "Irish taoiseach Micheal Martin says comments made by the Israel Football Association about the Republic…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cmkgw0drzr38o?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a4d8/live/7195f740-b6b7-11f1-8448-334c53ba4316.jpg"
+    },
+    {
+      "id": "story-22",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "The Guardian",
+      "time": "Sep 22",
+      "headline": "Will anyone topple Infantino? How Fifa president is trying to cling on after World Cup sell-off debacle",
+      "excerpt": "<p>Fifa president continues to lobby for re-election despite no other candidates coming forward to challenge…",
+      "link": "https://www.theguardian.com/football/2026/sep/22/gianni-infantino-fifa-president-election-world-cup-sell-off-debacle",
+      "image": "https://i.guim.co.uk/img/media/48725c8846636c00405cf75b5b5ea2a3e9203fe1/0_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=45dfc4fab35f71bc286f6cdaa541673a"
+    },
+    {
+      "id": "story-23",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "The Guardian",
+      "time": "Sep 22",
+      "headline": "Wamser rescues point for gutsy Manchester City in WCL fightback at Bayern",
+      "excerpt": "<p>Manchester City produced a gutsy performance to fight back and earn a valuable 2-2 draw…",
+      "link": "https://www.theguardian.com/football/2026/sep/22/bayern-munich-manchester-city-womens-champions-league-match-report",
+      "image": "https://i.guim.co.uk/img/media/6f72fad2deac0e45f80190952617554660f99715/634_90_2317_1854/master/2317.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=1b2b1391434eea0b0e099aaf3890a29d"
     }
   ],
   "scoreboard": []
