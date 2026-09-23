@@ -1,19 +1,30 @@
 {
-  "updatedAt": "2026-09-23T15:18:14.555Z",
+  "updatedAt": "2026-09-23T15:32:02.695Z",
   "hero": {
     "id": "story-0",
-    "league": "La Liga",
-    "dot": "#E3B4F5",
-    "source": "The Guardian",
+    "league": "Premier League",
+    "dot": "#9CC0F0",
+    "source": "101 Great Goals",
     "time": "Sep 23",
-    "headline": "Football Daily | Madrid, Mourinho and the fight for neutrality in row with Javier Tebas",
-    "excerpt": "<p><a href=\"https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up\"><strong>Sign up now! Sign up now! Sign up now? Sign up now!</strong></a></p><p>While football managers…",
-    "link": "https://www.theguardian.com/football/2026/sep/23/madrid-mourinho-javier-tebas-football-daily-newsletter",
-    "image": "https://i.guim.co.uk/img/media/1c0e016695af389c7d5620ba542e5082c3390858/575_0_3816_3054/master/3816.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=8085878c83038d95815d6b056dd5cf65"
+    "headline": "Tottenham defender Pedro Porro set to miss four weeks with hamstring injury",
+    "excerpt": "Tottenham will be without Pedro Porro for a month after he picked up an injury.",
+    "link": "https://www.101greatgoals.com/football/premier-league/tottenham-pedro-porro-miss-four-weeks-hamstring-injury/",
+    "image": null
   },
   "topStories": [
     {
       "id": "story-1",
+      "league": "La Liga",
+      "dot": "#E3B4F5",
+      "source": "The Guardian",
+      "time": "Sep 23",
+      "headline": "Football Daily | Madrid, Mourinho and the fight for neutrality in row with Javier Tebas",
+      "excerpt": "<p><a href=\"https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up\"><strong>Sign up now! Sign up now! Sign up now? Sign up now!</strong></a></p><p>While football managers…",
+      "link": "https://www.theguardian.com/football/2026/sep/23/madrid-mourinho-javier-tebas-football-daily-newsletter",
+      "image": "https://i.guim.co.uk/img/media/1c0e016695af389c7d5620ba542e5082c3390858/575_0_3816_3054/master/3816.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=8085878c83038d95815d6b056dd5cf65"
+    },
+    {
+      "id": "story-2",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -24,7 +35,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9a61/live/ae28e830-b74c-11f1-a430-4d16ee157c41.jpg"
     },
     {
-      "id": "story-2",
+      "id": "story-3",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -33,17 +44,6 @@
       "excerpt": "England winger Bukayo Saka says the team are still carrying the \"scar\" of their heartbreaking…",
       "link": "https://www.bbc.co.uk/sport/football/articles/cvde0jw2l6g4o?at_medium=RSS&amp;at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8aa8/live/5af6d780-b74c-11f1-b1d1-571ed4d7ff2c.jpg"
-    },
-    {
-      "id": "story-3",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "101 Great Goals",
-      "time": "Sep 23",
-      "headline": "Manchester United spending &#8216;financially sustainable&#8217; in summer after recording more losses",
-      "excerpt": "Manchester United have had their say on recent spending after publishing the latest accounts.",
-      "link": "https://www.101greatgoals.com/football/premier-league/manchester-united-spending-financially-sustainable/",
-      "image": null
     },
     {
       "id": "story-4",
