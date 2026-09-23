@@ -1,27 +1,27 @@
 {
-  "updatedAt": "2026-09-23T18:59:37.120Z",
+  "updatedAt": "2026-09-23T19:11:47.160Z",
   "hero": {
     "id": "story-0",
-    "league": "Football",
-    "dot": "#AFC4AC",
-    "source": "101 Great Goals",
+    "league": "Premier League",
+    "dot": "#9CC0F0",
+    "source": "The Guardian",
     "time": "Sep 23",
-    "headline": "Cristiano Ronaldo: Portugal legend considered retirement after World Cup but now targeting 1,000th goal and Nations League triumph",
-    "excerpt": "Ronaldo will earn his 234th Portugal cap on Thursday",
-    "link": "https://www.101greatgoals.com/football/internationals/cristiano-ronaldo-portugal-legend-considered-retirement-after-world-cup-but-now-targeting-1000th-goal-and-nations-league-triumph/",
-    "image": null
+    "headline": "Chelsea v Austria Vienna: Women’s Champions League – live",
+    "excerpt": "<ul><li><p>Champions League updates from the 8pm BST kick-off</p></li><li><p><a href=\"https://www.theguardian.com/football/live\">Live scoreboard</a> | <a href=\"https://www.theguardian.com/football/2026/sep/23/disney-advert-break-womens-champions-league-arsenal\">Disney+ criticised</a> |…",
+    "link": "https://www.theguardian.com/football/live/2026/sep/23/chelsea-v-austria-vienna-womens-champions-league-live-score-updates",
+    "image": "https://i.guim.co.uk/img/media/3adeb6cfded5b0576e996816633fd04180cb3008/255_0_3708_2966/master/3708.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=91142dd84a987bc4204861659ba943d4"
   },
   "topStories": [
     {
       "id": "story-1",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "The Guardian",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "101 Great Goals",
       "time": "Sep 23",
-      "headline": "Chelsea v Austria Vienna: Women’s Champions League – live",
-      "excerpt": "<ul><li><p>Champions League updates from the 8pm BST kick-off</p></li><li><p><a href=\"https://www.theguardian.com/football/live\">Live scoreboard</a> | <a href=\"https://www.theguardian.com/football/2026/sep/23/disney-advert-break-womens-champions-league-arsenal\">Disney+ criticised</a> |…",
-      "link": "https://www.theguardian.com/football/live/2026/sep/23/chelsea-v-austria-vienna-womens-champions-league-live-score-updates",
-      "image": "https://i.guim.co.uk/img/media/3adeb6cfded5b0576e996816633fd04180cb3008/255_0_3708_2966/master/3708.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=91142dd84a987bc4204861659ba943d4"
+      "headline": "Cristiano Ronaldo: Portugal legend considered retirement after World Cup but now targeting 1,000th goal and Nations League triumph",
+      "excerpt": "Ronaldo will earn his 234th Portugal cap on Thursday",
+      "link": "https://www.101greatgoals.com/football/internationals/cristiano-ronaldo-portugal-legend-considered-retirement-after-world-cup-but-now-targeting-1000th-goal-and-nations-league-triumph/",
+      "image": null
     },
     {
       "id": "story-2",
