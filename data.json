@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-23T21:41:39.166Z",
+  "updatedAt": "2026-09-23T21:49:28.744Z",
   "hero": {
     "id": "story-0",
     "league": "Premier League",
@@ -80,6 +80,17 @@
     },
     {
       "id": "story-7",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "BBC Sport",
+      "time": "Sep 23",
+      "headline": "Serious business resumes for Wales boss Bellamy",
+      "excerpt": "With the Burnley interest firmly behind him, Craig Bellamy is focused on leading Wales in…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cm780yp0nq7eo?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/11a9/live/8e94a0e0-b783-11f1-8455-1b23d6f34f34.jpg"
+    },
+    {
+      "id": "story-8",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "The Guardian",
@@ -90,7 +101,7 @@
       "image": "https://i.guim.co.uk/img/media/6557ef5074b2d36ad0e663e44818f2bd6533d0fa/394_0_3810_3047/master/3810.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=2d6f01d80b9d600d706e2c2ed9c25b6e"
     },
     {
-      "id": "story-8",
+      "id": "story-9",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "The Guardian",
@@ -101,7 +112,7 @@
       "image": "https://i.guim.co.uk/img/media/222832b656c43ee0e623323ae51d721820678d28/295_0_3370_2696/master/3370.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3b7623d37f92de214a32c54c084a860e"
     },
     {
-      "id": "story-9",
+      "id": "story-10",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -112,7 +123,7 @@
       "image": "https://i.guim.co.uk/img/media/ea2873ca3d909b919713c8fb46838bb1f0b6d25b/0_0_5000_4002/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=70895c05d15191de464b2a50da3034b8"
     },
     {
-      "id": "story-10",
+      "id": "story-11",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -123,7 +134,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/367e/live/7d376ef0-b769-11f1-a7b2-f3bdba1cd194.jpg"
     },
     {
-      "id": "story-11",
+      "id": "story-12",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -134,7 +145,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c828/live/4299c9d0-b78e-11f1-a570-89f3bfbcef81.jpg"
     },
     {
-      "id": "story-12",
+      "id": "story-13",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -145,7 +156,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9a59/live/5d7b8060-b769-11f1-a7b2-f3bdba1cd194.jpg"
     },
     {
-      "id": "story-13",
+      "id": "story-14",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "The Guardian",
@@ -156,7 +167,7 @@
       "image": "https://i.guim.co.uk/img/media/f7a24d077b3d9dafb19fda2dae20b3e5aeef330d/285_0_2270_1816/master/2270.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=01f2fe2cce4775a22866286aad21d94d"
     },
     {
-      "id": "story-14",
+      "id": "story-15",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -167,7 +178,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d522/live/ec875980-b761-11f1-8e7f-6f99c81f3136.jpg"
     },
     {
-      "id": "story-15",
+      "id": "story-16",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -178,7 +189,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/231a/live/44cfa110-b5d7-11f1-bc1f-3f186ca4140c.png"
     },
     {
-      "id": "story-16",
+      "id": "story-17",
       "league": "La Liga",
       "dot": "#E3B4F5",
       "source": "The Guardian",
@@ -189,7 +200,7 @@
       "image": "https://i.guim.co.uk/img/media/1c0e016695af389c7d5620ba542e5082c3390858/575_0_3816_3054/master/3816.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=8085878c83038d95815d6b056dd5cf65"
     },
     {
-      "id": "story-17",
+      "id": "story-18",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -200,7 +211,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9a61/live/ae28e830-b74c-11f1-a430-4d16ee157c41.jpg"
     },
     {
-      "id": "story-18",
+      "id": "story-19",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -211,7 +222,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8aa8/live/5af6d780-b74c-11f1-b1d1-571ed4d7ff2c.jpg"
     },
     {
-      "id": "story-19",
+      "id": "story-20",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -222,7 +233,7 @@
       "image": "https://i.guim.co.uk/img/media/6b6236975911b0c90ce8e81f3e23d3694a583109/376_567_3951_3161/master/3951.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c2d034d23d6509e2754900fb7baae17e"
     },
     {
-      "id": "story-20",
+      "id": "story-21",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -233,7 +244,7 @@
       "image": "https://i.guim.co.uk/img/media/d8f10b3001503e5823b0b1d4be33a33bd508bd7e/63_0_5277_4222/master/5277.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=2f723bae7e70b1211372e48bc430b0bd"
     },
     {
-      "id": "story-21",
+      "id": "story-22",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -244,7 +255,7 @@
       "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0p3n9ks.jpg"
     },
     {
-      "id": "story-22",
+      "id": "story-23",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -253,17 +264,6 @@
       "excerpt": "<p>The Blues’ lack of success was no impediment to Todd Boehly and Mark Walter recouping…",
       "link": "https://www.theguardian.com/football/2026/sep/23/chelsea-sale-american-sports-capitalism",
       "image": "https://i.guim.co.uk/img/media/c7eb197f9bd87f35313ec17288b0356a33dd2b30/359_0_4623_3700/master/4623.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=50364d67e3ccef4b26317563f05d0499"
-    },
-    {
-      "id": "story-23",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "BBC Sport",
-      "time": "Sep 23",
-      "headline": "Scots recall 'versatile' Kerr & Thomas for World Cup play-offs",
-      "excerpt": "Sam Kerr and Martha Thomas are named in their first Scotland squad in almost a…",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c63d7ypd11ydo?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5499/live/73697ff0-b6d1-11f1-b2fe-f10f693c3bae.jpg"
     }
   ],
   "scoreboard": []
