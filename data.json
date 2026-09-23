@@ -1,27 +1,27 @@
 {
-  "updatedAt": "2026-09-23T20:48:14.561Z",
+  "updatedAt": "2026-09-23T20:55:34.337Z",
   "hero": {
     "id": "story-0",
-    "league": "Football",
-    "dot": "#AFC4AC",
-    "source": "101 Great Goals",
+    "league": "Premier League",
+    "dot": "#9CC0F0",
+    "source": "The Guardian",
     "time": "Sep 23",
-    "headline": "&#8216;Utter nonsense&#8217;: Virgil van Dijk hits back at claims he influenced Ronald Koeman&#8217;s World Cup tactics in fiery press conference",
-    "excerpt": "Van Dijk took the time to deny claims he influenced the Netherlands' tactics",
-    "link": "https://www.101greatgoals.com/football/internationals/utter-nonsense-virgil-van-dijk-hits-back-at-claims-he-influenced-ronald-koemans-world-cup-tactics-in-fiery-press-conference/",
-    "image": null
+    "headline": "Chelsea 1-0 Austria Vienna: Women’s Champions League – live reaction",
+    "excerpt": "<ul><li><p>Champions League updates from the 8pm BST kick-off</p></li><li><p><a href=\"https://www.theguardian.com/football/live\">Live scoreboard</a> | <a href=\"https://www.theguardian.com/football/2026/sep/23/disney-advert-break-womens-champions-league-arsenal\">Disney+ criticised</a> |…",
+    "link": "https://www.theguardian.com/football/live/2026/sep/23/chelsea-v-austria-vienna-womens-champions-league-live-score-updates",
+    "image": "https://i.guim.co.uk/img/media/825fedf165ef9e21e31a9970f9f7265c6c10b37f/248_0_4503_3602/master/4503.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=22786ce07a77c4f7d565fda0919b145a"
   },
   "topStories": [
     {
       "id": "story-1",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "The Guardian",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "101 Great Goals",
       "time": "Sep 23",
-      "headline": "Chelsea v Austria Vienna: Women’s Champions League – live",
-      "excerpt": "<ul><li><p>Champions League updates from the 8pm BST kick-off</p></li><li><p><a href=\"https://www.theguardian.com/football/live\">Live scoreboard</a> | <a href=\"https://www.theguardian.com/football/2026/sep/23/disney-advert-break-womens-champions-league-arsenal\">Disney+ criticised</a> |…",
-      "link": "https://www.theguardian.com/football/live/2026/sep/23/chelsea-v-austria-vienna-womens-champions-league-live-score-updates",
-      "image": "https://i.guim.co.uk/img/media/825fedf165ef9e21e31a9970f9f7265c6c10b37f/248_0_4503_3602/master/4503.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=22786ce07a77c4f7d565fda0919b145a"
+      "headline": "&#8216;Utter nonsense&#8217;: Virgil van Dijk hits back at claims he influenced Ronald Koeman&#8217;s World Cup tactics in fiery press conference",
+      "excerpt": "Van Dijk took the time to deny claims he influenced the Netherlands' tactics",
+      "link": "https://www.101greatgoals.com/football/internationals/utter-nonsense-virgil-van-dijk-hits-back-at-claims-he-influenced-ronald-koemans-world-cup-tactics-in-fiery-press-conference/",
+      "image": null
     },
     {
       "id": "story-2",
@@ -51,7 +51,7 @@
       "dot": "#AFC4AC",
       "source": "The Guardian",
       "time": "Sep 23",
-      "headline": "Harry Kane says England’s World Cup exit ‘hurt more than any other’",
+      "headline": "Harry Kane admits England’s World Cup 2026 exit ‘hurt more than any other’",
       "excerpt": "<ul><li><p>‘It wasn’t the team that we wanted and said we’d be’</p></li><li><p>England host Spain in Nations…",
       "link": "https://www.theguardian.com/football/2026/sep/23/harry-kane-england-world-cup-argentina-nations-league-spain",
       "image": "https://i.guim.co.uk/img/media/222832b656c43ee0e623323ae51d721820678d28/295_0_3370_2696/master/3370.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3b7623d37f92de214a32c54c084a860e"
@@ -63,7 +63,7 @@
       "source": "The Guardian",
       "time": "Sep 23",
       "headline": "Netherlands v Germany: Klopp and Xavi begin revival projects with derby",
-      "excerpt": "<p>Klopp, with Germany, and Xavi, with the Netherlands, face each other in Nations League after…",
+      "excerpt": "<p>Jürgen Klopp and Xavi Hernández face each other in Nations League as they take the…",
       "link": "https://www.theguardian.com/football/2026/sep/23/special-klopp-and-xavi-take-first-steps-on-international-stage-with-revival-in-mind",
       "image": "https://i.guim.co.uk/img/media/ea2873ca3d909b919713c8fb46838bb1f0b6d25b/0_0_5000_4002/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=70895c05d15191de464b2a50da3034b8"
     },
