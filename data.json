@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-09-24T11:32:14.131Z",
+  "updatedAt": "2026-09-24T11:44:23.169Z",
   "hero": {
     "id": "story-0",
     "league": "Football",
     "dot": "#AFC4AC",
-    "source": "BBC Sport",
+    "source": "101 Great Goals",
     "time": "Sep 24",
-    "headline": "Wilson & Curtis leave Scotland squad to join U-21s",
-    "excerpt": "Forwards James Wilson and Findlay Curtis leave the Scotland Nations League squad in order to…",
-    "link": "https://www.bbc.co.uk/sport/football/articles/c6y8zmndyjkro?at_medium=RSS&amp;at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f2b2/live/9ea28950-b807-11f1-bc1f-3f186ca4140c.png"
+    "headline": "Italy v Belgium: Preview, expected line-ups, stats and where to watch",
+    "excerpt": "Italy face Belgium in the Nations League on Friday. Read our in-depth preview here.",
+    "link": "https://www.101greatgoals.com/match-previews/italy-v-belgium-preview-expected-line-ups-stats-and-where-to-watch/",
+    "image": null
   },
   "topStories": [
     {
@@ -18,13 +18,24 @@
       "dot": "#AFC4AC",
       "source": "BBC Sport",
       "time": "Sep 24",
+      "headline": "Wilson & Curtis leave Scotland squad to join U-21s",
+      "excerpt": "Forwards James Wilson and Findlay Curtis leave the Scotland Nations League squad in order to…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c6y8zmndyjkro?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f2b2/live/9ea28950-b807-11f1-bc1f-3f186ca4140c.png"
+    },
+    {
+      "id": "story-2",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "BBC Sport",
+      "time": "Sep 24",
       "headline": "Hibs appoint Dutchman Reedijk as new manager",
-      "excerpt": "Marink Reedijk has vow to develop a \"brave, intense and committed\" Hibernian team after leaving…",
+      "excerpt": "Former Beveren head coach Marink Reedijk vows to develop a \"brave, intense and committed\" Hibernian…",
       "link": "https://www.bbc.co.uk/sport/football/articles/cqe9e7ver2xpo?at_medium=RSS&amp;at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fe99/live/b67dfd90-b80a-11f1-93f5-ff96839fb91e.jpg"
     },
     {
-      "id": "story-2",
+      "id": "story-3",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -35,7 +46,7 @@
       "image": "https://i.guim.co.uk/img/media/35083f0578a65fdcd9cb8f60ebdf481f41cf43b0/339_140_2053_1642/master/2053.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=caadb72a227fbe53023293b3135761ca"
     },
     {
-      "id": "story-3",
+      "id": "story-4",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "The Guardian",
@@ -44,17 +55,6 @@
       "excerpt": "<ul><li><p>Council members also want Balogun affair included</p></li><li><p>Fifa president says review letter been well received </p></li></ul><p>Fifa…",
       "link": "https://www.theguardian.com/football/2026/sep/24/gianni-infantino-under-pressure-abandoned-world-cup-sell-off-fifa-review",
       "image": "https://i.guim.co.uk/img/media/23f65bcf16de8959041bc5c0886140e1f47a19db/393_0_6792_5434/master/6792.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ac3c0940e8c4a1d61a3ae32c04d7ddc8"
-    },
-    {
-      "id": "story-4",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "101 Great Goals",
-      "time": "Sep 24",
-      "headline": "Anthony Gordon calls on England utilise own strengths rather than replicate Spain&#8217;s style at future tournaments",
-      "excerpt": "Anthony Gordon says England must follow their own path rather than try to copy other…",
-      "link": "https://www.101greatgoals.com/football/internationals/anthony-gordon-england-utilise-own-strengths/",
-      "image": null
     },
     {
       "id": "story-5",
