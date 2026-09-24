@@ -1,27 +1,27 @@
 {
-  "updatedAt": "2026-09-24T17:14:33.154Z",
+  "updatedAt": "2026-09-24T17:26:58.997Z",
   "hero": {
     "id": "story-0",
-    "league": "La Liga",
-    "dot": "#E3B4F5",
-    "source": "The Guardian",
+    "league": "Football",
+    "dot": "#AFC4AC",
+    "source": "101 Great Goals",
     "time": "Sep 24",
-    "headline": "Raphinha: ‘In my head I was leaving Barça, but a few small words can change you’",
-    "excerpt": "<p>Two years ago the Brazilian thought his time at Barcelona was ending but, two La…",
-    "link": "https://www.theguardian.com/football/2026/sep/24/raphinha-barcelona-interview-la-liga-no9",
-    "image": "https://i.guim.co.uk/img/media/da998ddd178f2bc1bbb628d22a3cdb08ab877ccc/16_69_2285_1828/master/2285.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=4a36b546b31532120d15f6a410864e57"
+    "headline": "Madrid confirm Konate knee ligament injury after defender pulls out of France squad",
+    "excerpt": "Konate has avoided a serious injury.",
+    "link": "https://www.101greatgoals.com/football/la-liga/madrid-confirm-konate-knee-ligament-injury/",
+    "image": null
   },
   "topStories": [
     {
       "id": "story-1",
-      "league": "Bundesliga",
-      "dot": "#FFC469",
-      "source": "101 Great Goals",
+      "league": "La Liga",
+      "dot": "#E3B4F5",
+      "source": "The Guardian",
       "time": "Sep 24",
-      "headline": "Tuchel reveals thoughts on Kane&#8217;s 2030 World Cup hopes as he backs England captain for Ballon d&#8217;Or",
-      "excerpt": "The England and Bayern star is the odds-on favourite.",
-      "link": "https://www.101greatgoals.com/football/internationals/tuchel-kane-2030-world-cup-ballon-dor/",
-      "image": null
+      "headline": "Raphinha: ‘In my head I was leaving Barça, but a few small words can change you’",
+      "excerpt": "<p>Two years ago the Brazilian thought his time at Barcelona was ending but, two La…",
+      "link": "https://www.theguardian.com/football/2026/sep/24/raphinha-barcelona-interview-la-liga-no9",
+      "image": "https://i.guim.co.uk/img/media/da998ddd178f2bc1bbb628d22a3cdb08ab877ccc/16_69_2285_1828/master/2285.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=4a36b546b31532120d15f6a410864e57"
     },
     {
       "id": "story-2",
