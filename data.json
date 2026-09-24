@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-24T16:30:25.263Z",
+  "updatedAt": "2026-09-24T16:42:56.978Z",
   "hero": {
     "id": "story-0",
     "league": "Serie A",
@@ -84,13 +84,24 @@
       "dot": "#9CC0F0",
       "source": "BBC Sport",
       "time": "Sep 24",
+      "headline": "The best Women's Champions League goals from week one",
+      "excerpt": "Watch the best goals from the league stage of the women's Champion's League, including a…",
+      "link": "https://www.bbc.co.uk/sport/football/videos/cje3r4vgr3yyo?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b0b0/live/821d32b0-b81d-11f1-a430-4d16ee157c41.jpg"
+    },
+    {
+      "id": "story-8",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "BBC Sport",
+      "time": "Sep 24",
       "headline": "Is this really the Premier League's 'Bermuda Triangle'?",
       "excerpt": "Do the stats back the social media meme that Bournemouth, Brighton and Brentford form a…",
       "link": "https://www.bbc.co.uk/sport/football/articles/c39w40g8n59yo?at_medium=RSS&amp;at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ecfe/live/925d3e30-b81e-11f1-b19f-05e2dfdadad2.jpg"
     },
     {
-      "id": "story-8",
+      "id": "story-9",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -101,7 +112,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/faa1/live/e73726c0-b803-11f1-b1d1-571ed4d7ff2c.png"
     },
     {
-      "id": "story-9",
+      "id": "story-10",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "The Guardian",
@@ -112,7 +123,7 @@
       "image": "https://i.guim.co.uk/img/media/c82c134b56464a9093349ca6aaca769037f2ffb2/132_0_1444_1155/master/1444.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=5cfcecb0b1c9076b42201d595dd43ed6"
     },
     {
-      "id": "story-10",
+      "id": "story-11",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -123,7 +134,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4be2/live/5a69c020-a2bb-11f1-9024-715001d09aeb.jpg"
     },
     {
-      "id": "story-11",
+      "id": "story-12",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -134,7 +145,7 @@
       "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0p4zrww.jpg"
     },
     {
-      "id": "story-12",
+      "id": "story-13",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -145,7 +156,7 @@
       "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0pbcq71.jpg"
     },
     {
-      "id": "story-13",
+      "id": "story-14",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -156,7 +167,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/716e/live/6bc32f50-b80f-11f1-b205-219f899eccc7.jpg"
     },
     {
-      "id": "story-14",
+      "id": "story-15",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -167,7 +178,7 @@
       "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0pc29n5.jpg"
     },
     {
-      "id": "story-15",
+      "id": "story-16",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -178,7 +189,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f2b2/live/9ea28950-b807-11f1-bc1f-3f186ca4140c.png"
     },
     {
-      "id": "story-16",
+      "id": "story-17",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -189,7 +200,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/030d/live/8aa1c2f0-b81f-11f1-9173-8b6ede38f022.jpg"
     },
     {
-      "id": "story-17",
+      "id": "story-18",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "The Guardian",
@@ -200,7 +211,7 @@
       "image": "https://i.guim.co.uk/img/media/b5fb4393b2a723fd40dd5973144fe26f753834cb/1035_0_5472_4378/master/5472.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b2f149857bdc8df65e6b93a0462bd732"
     },
     {
-      "id": "story-18",
+      "id": "story-19",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -211,7 +222,7 @@
       "image": "https://i.guim.co.uk/img/media/35083f0578a65fdcd9cb8f60ebdf481f41cf43b0/339_140_2053_1642/master/2053.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=caadb72a227fbe53023293b3135761ca"
     },
     {
-      "id": "story-19",
+      "id": "story-20",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "The Guardian",
@@ -222,7 +233,7 @@
       "image": "https://i.guim.co.uk/img/media/23f65bcf16de8959041bc5c0886140e1f47a19db/393_0_6792_5434/master/6792.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ac3c0940e8c4a1d61a3ae32c04d7ddc8"
     },
     {
-      "id": "story-20",
+      "id": "story-21",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -233,7 +244,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a0ec/live/a3f20410-b7fa-11f1-8ef6-b9665ffdab6f.jpg"
     },
     {
-      "id": "story-21",
+      "id": "story-22",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -244,26 +255,15 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6174/live/467fc120-9a43-11f1-aed2-8d6da8d75094.jpg"
     },
     {
-      "id": "story-22",
+      "id": "story-23",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
       "time": "Sep 24",
-      "headline": "Man Utd selling Old Trafford turf cubes for £125",
-      "excerpt": "Manchester United is selling pieces of its Old Trafford pitch for £125 each, an initiative…",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cmwyzjedq51lo?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9154/live/b1ab3510-b7e4-11f1-b86f-f9f95031dc8c.jpg"
-    },
-    {
-      "id": "story-23",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "BBC Sport",
-      "time": "Sep 24",
-      "headline": "'Eternally grateful' McBurnie ready to show what Scotland have missed",
-      "excerpt": "Overlooked by Steve Clarke and dismissed by some Scotland fans, but Oli McBurnie returns with…",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c6qjk1122e9jo?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c261/live/ccad4ab0-b758-11f1-a430-4d16ee157c41.jpg"
+      "headline": "Kaptein scores stunning long-range goal in Chelsea win",
+      "excerpt": "Chelsea's Wieke Kaptein scores a \"glorious\" long-range goal in their 1-0 win against Austria Vienna…",
+      "link": "https://www.bbc.co.uk/sport/football/videos/cq783g70drkgo?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a3be/live/bba5c280-b7f1-11f1-a430-4d16ee157c41.jpg"
     }
   ],
   "scoreboard": []
