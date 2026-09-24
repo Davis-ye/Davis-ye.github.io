@@ -1,19 +1,30 @@
 {
-  "updatedAt": "2026-09-24T15:00:38.952Z",
+  "updatedAt": "2026-09-24T15:15:32.670Z",
   "hero": {
     "id": "story-0",
     "league": "Football",
     "dot": "#AFC4AC",
     "source": "BBC Sport",
     "time": "Sep 24",
-    "headline": "Drinking at football matches - would fans welcome it?",
-    "excerpt": "Andy Burnham has long championed a repeal of the ban which prevents football supporters from…",
-    "link": "https://www.bbc.co.uk/sport/football/articles/cq1kx140gwlzo?at_medium=RSS&amp;at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3d61/live/70189f60-b812-11f1-9172-17f860da9de7.jpg"
+    "headline": "Bradford 'reluctantly' let Preston talk to Alexander",
+    "excerpt": "Bradford City \"reluctantly\" give Championship strugglers Preston permission to speak to boss Graham Alexander about…",
+    "link": "https://www.bbc.co.uk/sport/football/articles/ckzdzm01ymdzo?at_medium=RSS&amp;at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7ae7/live/30e233e0-b819-11f1-b19f-05e2dfdadad2.jpg"
   },
   "topStories": [
     {
       "id": "story-1",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "BBC Sport",
+      "time": "Sep 24",
+      "headline": "Drinking at football matches - would fans welcome it?",
+      "excerpt": "Andy Burnham has long championed a repeal of the ban which prevents football supporters from…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cq1kx140gwlzo?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3d61/live/70189f60-b812-11f1-9172-17f860da9de7.jpg"
+    },
+    {
+      "id": "story-2",
       "league": "Champions League",
       "dot": "#F0C878",
       "source": "The Guardian",
@@ -22,17 +33,6 @@
       "excerpt": "<p>A golden retriever and a game of guess the pasta were unusual to see in…",
       "link": "https://www.theguardian.com/football/2026/sep/24/disney-womens-champions-league-coverage",
       "image": "https://i.guim.co.uk/img/media/5cf55759ed5a9b3479eadf7a19bf34c33659c81b/686_1702_2302_1841/master/2302.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=dfa590311e3dff8b5e3f053be9bcb204"
-    },
-    {
-      "id": "story-2",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "101 Great Goals",
-      "time": "Sep 24",
-      "headline": "Australia vs Brazil: Preview, expected line-ups, stats and where to watch",
-      "excerpt": "Australia face Brazil in an international friendly on Friday. Read our in-depth preview here.",
-      "link": "https://www.101greatgoals.com/match-previews/australia-vs-brazil-preview-expected-line-ups-stats-and-where-to-watch/",
-      "image": null
     },
     {
       "id": "story-3",
