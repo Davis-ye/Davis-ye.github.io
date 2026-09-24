@@ -1,27 +1,27 @@
 {
-  "updatedAt": "2026-09-24T19:22:22.803Z",
+  "updatedAt": "2026-09-24T19:32:17.166Z",
   "hero": {
     "id": "story-0",
-    "league": "Football",
-    "dot": "#AFC4AC",
-    "source": "101 Great Goals",
+    "league": "La Liga",
+    "dot": "#E3B4F5",
+    "source": "The Guardian",
     "time": "Sep 24",
-    "headline": "WATCH: Felix gives Portugal the lead against Wales",
-    "excerpt": "The Nations League holders are ahead",
-    "link": "https://www.101greatgoals.com/news/watch-felix-gives-portugal-the-lead-against-wales/",
-    "image": null
+    "headline": "Netherlands v Germany, Portugal v Wales and more: Uefa Nations League – live",
+    "excerpt": "<p>⚽ Updates across Thursday night’s Nations League games<br>⚽ Get in touch: <a href=\"mailto:daniel.harris.casual@guardian.co.uk\">email Daniel</a> and…",
+    "link": "https://www.theguardian.com/football/live/2026/sep/24/netherlands-v-germany-portugal-v-wales-and-more-uefa-nations-league-live",
+    "image": "https://i.guim.co.uk/img/media/057e494a4f8d051c4e5e3e6a8788a8460c7eb479/209_0_3025_2420/master/3025.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e19058424ac26aa5795aa4288ad1eb9d"
   },
   "topStories": [
     {
       "id": "story-1",
-      "league": "La Liga",
-      "dot": "#E3B4F5",
-      "source": "The Guardian",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "101 Great Goals",
       "time": "Sep 24",
-      "headline": "Netherlands v Germany, Portugal v Wales and more: Uefa Nations League – live",
-      "excerpt": "<p>⚽ Updates across Thursday night’s Nations League games<br>⚽ Get in touch: <a href=\"mailto:daniel.harris.casual@guardian.co.uk\">email Daniel</a> and…",
-      "link": "https://www.theguardian.com/football/live/2026/sep/24/netherlands-v-germany-portugal-v-wales-and-more-uefa-nations-league-live",
-      "image": "https://i.guim.co.uk/img/media/057e494a4f8d051c4e5e3e6a8788a8460c7eb479/209_0_3025_2420/master/3025.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e19058424ac26aa5795aa4288ad1eb9d"
+      "headline": "WATCH: Felix gives Portugal the lead against Wales",
+      "excerpt": "The Nations League holders are ahead",
+      "link": "https://www.101greatgoals.com/news/watch-felix-gives-portugal-the-lead-against-wales/",
+      "image": null
     },
     {
       "id": "story-2",
