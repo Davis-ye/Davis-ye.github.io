@@ -1,19 +1,52 @@
 {
-  "updatedAt": "2026-09-24T07:01:31.190Z",
+  "updatedAt": "2026-09-24T07:17:27.063Z",
   "hero": {
     "id": "story-0",
-    "league": "Football",
-    "dot": "#AFC4AC",
+    "league": "Premier League",
+    "dot": "#9CC0F0",
     "source": "BBC Sport",
     "time": "Sep 24",
-    "headline": "Hibs impressed by Reedijk in manager search - gossip",
-    "excerpt": "Hibs nearing a decision on new coach as Rangers star admits he was ready to…",
-    "link": "https://www.bbc.co.uk/sport/football/articles/ckz7zdv38rreo?at_medium=RSS&amp;at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b5a2/live/5f5e5440-b7e4-11f1-bc1f-3f186ca4140c.png"
+    "headline": "Man Utd selling Old Trafford turf cubes for £125",
+    "excerpt": "Manchester United is selling pieces of its Old Trafford pitch for £125 each, an initiative…",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cmwyzjedq51lo?at_medium=RSS&amp;at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9154/live/b1ab3510-b7e4-11f1-b86f-f9f95031dc8c.jpg"
   },
   "topStories": [
     {
       "id": "story-1",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "BBC Sport",
+      "time": "Sep 24",
+      "headline": "'Eternally grateful' McBurnie ready to show what Scotland have missed",
+      "excerpt": "Overlooked by Steve Clarke and dismissed by some Scotland fans, but Oli McBurnie returns with…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c6qjk1122e9jo?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c261/live/ccad4ab0-b758-11f1-a430-4d16ee157c41.jpg"
+    },
+    {
+      "id": "story-2",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "The Guardian",
+      "time": "Sep 24",
+      "headline": "The system, not Tuchel, led to World Cup failure but Euro 2028 offers new hope | Barney Ronay",
+      "excerpt": "<p>England can learn from being five minutes from the final and they have home advantage…",
+      "link": "https://www.theguardian.com/football/2026/sep/24/the-system-not-tuchel-led-to-world-cup-failure-but-euro-2028-offers-new-hope",
+      "image": "https://i.guim.co.uk/img/media/0af7e1e8c2d774c3f607b4a4649772ff9cffe6fb/202_0_2020_1616/master/2020.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=07c343ff79c60c20867da66e8cbce7f2"
+    },
+    {
+      "id": "story-3",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "BBC Sport",
+      "time": "Sep 24",
+      "headline": "Hibs impressed by Reedijk in manager search - gossip",
+      "excerpt": "Hibs nearing a decision on new coach as Rangers star admits he was ready to…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/ckz7zdv38rreo?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b5a2/live/5f5e5440-b7e4-11f1-bc1f-3f186ca4140c.png"
+    },
+    {
+      "id": "story-4",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -24,7 +57,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ef7a/live/485f9690-b740-11f1-aa9c-3d062fa3aea7.jpg"
     },
     {
-      "id": "story-2",
+      "id": "story-5",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -35,7 +68,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ada7/live/27df4c70-9658-11f1-b2ab-0dd01740f9f6.jpg"
     },
     {
-      "id": "story-3",
+      "id": "story-6",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -46,7 +79,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c068/live/df157960-541c-11f1-8b8c-6d33e1d5abb6.jpg"
     },
     {
-      "id": "story-4",
+      "id": "story-7",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -57,7 +90,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cc5f/live/7a5b14e0-b767-11f1-b1d1-571ed4d7ff2c.png"
     },
     {
-      "id": "story-5",
+      "id": "story-8",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -68,7 +101,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a4dc/live/9936a4d0-b783-11f1-b3b9-2dc27b32a5b3.jpg"
     },
     {
-      "id": "story-6",
+      "id": "story-9",
       "league": "La Liga",
       "dot": "#E3B4F5",
       "source": "The Guardian",
@@ -79,7 +112,7 @@
       "image": "https://i.guim.co.uk/img/media/e07ebc008355e9b3193de2e1545e93d1e9b27f68/135_0_2687_2151/master/2687.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=fa1302581c9fae51d6508f9dd818bf1f"
     },
     {
-      "id": "story-7",
+      "id": "story-10",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -90,7 +123,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b75f/live/d18ca640-b792-11f1-bc1f-3f186ca4140c.png"
     },
     {
-      "id": "story-8",
+      "id": "story-11",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -101,7 +134,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/be58/live/7a629a90-b699-11f1-ba3d-1d5c8a47f823.jpg"
     },
     {
-      "id": "story-9",
+      "id": "story-12",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -112,7 +145,7 @@
       "image": "https://i.guim.co.uk/img/media/d51e8153dcc2e7a52181bdf23cb91280a384b42c/274_0_3755_3006/master/3755.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=58c9155004e4eaf7b01497f815a54b08"
     },
     {
-      "id": "story-10",
+      "id": "story-13",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -123,7 +156,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ce25/live/08123a00-b78d-11f1-9871-9f85ee3099c6.jpg"
     },
     {
-      "id": "story-11",
+      "id": "story-14",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -134,7 +167,7 @@
       "image": "https://i.guim.co.uk/img/media/3c402484e2580ddb31acf5021f32fde9cbe46c84/864_0_6880_5504/master/6880.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f7921ed4f88b146d9d83db3125465cc0"
     },
     {
-      "id": "story-12",
+      "id": "story-15",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "101 Great Goals",
@@ -145,7 +178,7 @@
       "image": null
     },
     {
-      "id": "story-13",
+      "id": "story-16",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -156,7 +189,7 @@
       "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0pc4s0g.jpg"
     },
     {
-      "id": "story-14",
+      "id": "story-17",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -167,7 +200,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/11a9/live/8e94a0e0-b783-11f1-8455-1b23d6f34f34.jpg"
     },
     {
-      "id": "story-15",
+      "id": "story-18",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "The Guardian",
@@ -178,7 +211,7 @@
       "image": "https://i.guim.co.uk/img/media/6557ef5074b2d36ad0e663e44818f2bd6533d0fa/394_0_3810_3047/master/3810.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=2d6f01d80b9d600d706e2c2ed9c25b6e"
     },
     {
-      "id": "story-16",
+      "id": "story-19",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "The Guardian",
@@ -189,7 +222,7 @@
       "image": "https://i.guim.co.uk/img/media/222832b656c43ee0e623323ae51d721820678d28/295_0_3370_2696/master/3370.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3b7623d37f92de214a32c54c084a860e"
     },
     {
-      "id": "story-17",
+      "id": "story-20",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -200,7 +233,7 @@
       "image": "https://i.guim.co.uk/img/media/ea2873ca3d909b919713c8fb46838bb1f0b6d25b/0_0_5000_4002/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=70895c05d15191de464b2a50da3034b8"
     },
     {
-      "id": "story-18",
+      "id": "story-21",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -211,7 +244,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/367e/live/7d376ef0-b769-11f1-a7b2-f3bdba1cd194.jpg"
     },
     {
-      "id": "story-19",
+      "id": "story-22",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -222,7 +255,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c828/live/4299c9d0-b78e-11f1-a570-89f3bfbcef81.jpg"
     },
     {
-      "id": "story-20",
+      "id": "story-23",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -231,39 +264,6 @@
       "excerpt": "Cristiano Ronaldo contemplated retirement after the World Cup but wants to reach 1,000 career goals…",
       "link": "https://www.bbc.co.uk/sport/football/articles/ck4glyl0nwd6o?at_medium=RSS&amp;at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9a59/live/5d7b8060-b769-11f1-a7b2-f3bdba1cd194.jpg"
-    },
-    {
-      "id": "story-21",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "The Guardian",
-      "time": "Sep 23",
-      "headline": "Cristiano Ronaldo vows to play on for Portugal and targets 1,000 career goals",
-      "excerpt": "<ul><li><p>Player reflects on critics, says ‘they’ve tried to kill me’</p></li><li><p>Jorge Jesus launches passionate defence of…",
-      "link": "https://www.theguardian.com/football/2026/sep/23/cristiano-ronaldo-portugal-wales-nations-league",
-      "image": "https://i.guim.co.uk/img/media/f7a24d077b3d9dafb19fda2dae20b3e5aeef330d/285_0_2270_1816/master/2270.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=01f2fe2cce4775a22866286aad21d94d"
-    },
-    {
-      "id": "story-22",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "BBC Sport",
-      "time": "Sep 23",
-      "headline": "FA charges Cardiff's Bielik as police end inquiry",
-      "excerpt": "The Football Association charges Cardiff City defender Krystian Bielik over an altercation involving Portsmouth fans,…",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cmeq8d8g0zq8o?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d522/live/ec875980-b761-11f1-8e7f-6f99c81f3136.jpg"
-    },
-    {
-      "id": "story-23",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "BBC Sport",
-      "time": "Sep 23",
-      "headline": "Spotlight on new coaches as road to Afcon 2027 begins",
-      "excerpt": "Patrick Vieira and Herve Renard are among the high-profile managerial arrivals as the qualification campaign…",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cwn74ppgmeyjo?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/231a/live/44cfa110-b5d7-11f1-bc1f-3f186ca4140c.png"
     }
   ],
   "scoreboard": []
