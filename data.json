@@ -1,19 +1,30 @@
 {
-  "updatedAt": "2026-09-24T20:42:44.564Z",
+  "updatedAt": "2026-09-24T20:51:45.852Z",
   "hero": {
     "id": "story-0",
-    "league": "La Liga",
-    "dot": "#E3B4F5",
-    "source": "The Guardian",
+    "league": "Football",
+    "dot": "#AFC4AC",
+    "source": "101 Great Goals",
     "time": "Sep 24",
-    "headline": "Netherlands v Germany, Portugal v Wales and more: Uefa Nations League – live",
-    "excerpt": "<p>⚽ Updates across Thursday night’s Nations League games<br>⚽ Get in touch: <a href=\"mailto:daniel.harris.casual@guardian.co.uk\">email Daniel</a> and…",
-    "link": "https://www.theguardian.com/football/live/2026/sep/24/netherlands-v-germany-portugal-v-wales-and-more-uefa-nations-league-live",
-    "image": "https://i.guim.co.uk/img/media/758754ebdd4aa46999cdf8729a25731dce8ebe5e/981_0_4355_3483/master/4355.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=0c09cadbeebf174e7b80e26e982f5c7c"
+    "headline": "Portugal 1-0 Wales: Nations League holders off to winning start in Lisbon",
+    "excerpt": "Ronaldo denied his 980th goal by the VAR in Lisbon",
+    "link": "https://www.101greatgoals.com/football/portugal-1-0-wales-nations-league-holders-off-to-winning-start-in-lisbon/",
+    "image": null
   },
   "topStories": [
     {
       "id": "story-1",
+      "league": "La Liga",
+      "dot": "#E3B4F5",
+      "source": "The Guardian",
+      "time": "Sep 24",
+      "headline": "Netherlands v Germany, Portugal v Wales and more: Uefa Nations League – live",
+      "excerpt": "<p>⚽ Updates across Thursday night’s Nations League games<br>⚽ Get in touch: <a href=\"mailto:daniel.harris.casual@guardian.co.uk\">email Daniel</a> and…",
+      "link": "https://www.theguardian.com/football/live/2026/sep/24/netherlands-v-germany-portugal-v-wales-and-more-uefa-nations-league-live",
+      "image": "https://i.guim.co.uk/img/media/758754ebdd4aa46999cdf8729a25731dce8ebe5e/981_0_4355_3483/master/4355.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=0c09cadbeebf174e7b80e26e982f5c7c"
+    },
+    {
+      "id": "story-2",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -22,17 +33,6 @@
       "excerpt": "Chelsea target Bournemouth's Alex Scott, Bayern Munich are interested in Dani Olmo and Jude Bellingham…",
       "link": "https://www.bbc.co.uk/sport/football/articles/c6eq8eygy4e5o?at_medium=RSS&amp;at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a160/live/eb116930-b84f-11f1-a2ec-c153af45023f.png"
-    },
-    {
-      "id": "story-2",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "101 Great Goals",
-      "time": "Sep 24",
-      "headline": "WATCH: Felix gives Portugal the lead against Wales",
-      "excerpt": "The Nations League holders are ahead",
-      "link": "https://www.101greatgoals.com/news/watch-felix-gives-portugal-the-lead-against-wales/",
-      "image": null
     },
     {
       "id": "story-3",
