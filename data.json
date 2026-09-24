@@ -1,19 +1,41 @@
 {
-  "updatedAt": "2026-09-24T17:01:05.491Z",
+  "updatedAt": "2026-09-24T17:14:33.154Z",
   "hero": {
     "id": "story-0",
-    "league": "Bundesliga",
-    "dot": "#FFC469",
-    "source": "101 Great Goals",
+    "league": "La Liga",
+    "dot": "#E3B4F5",
+    "source": "The Guardian",
     "time": "Sep 24",
-    "headline": "Tuchel reveals thoughts on Kane&#8217;s 2030 World Cup hopes as he backs England captain for Ballon d&#8217;Or",
-    "excerpt": "The England and Bayern star is the odds-on favourite.",
-    "link": "https://www.101greatgoals.com/football/internationals/tuchel-kane-2030-world-cup-ballon-dor/",
-    "image": null
+    "headline": "Raphinha: ‘In my head I was leaving Barça, but a few small words can change you’",
+    "excerpt": "<p>Two years ago the Brazilian thought his time at Barcelona was ending but, two La…",
+    "link": "https://www.theguardian.com/football/2026/sep/24/raphinha-barcelona-interview-la-liga-no9",
+    "image": "https://i.guim.co.uk/img/media/da998ddd178f2bc1bbb628d22a3cdb08ab877ccc/16_69_2285_1828/master/2285.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=4a36b546b31532120d15f6a410864e57"
   },
   "topStories": [
     {
       "id": "story-1",
+      "league": "Bundesliga",
+      "dot": "#FFC469",
+      "source": "101 Great Goals",
+      "time": "Sep 24",
+      "headline": "Tuchel reveals thoughts on Kane&#8217;s 2030 World Cup hopes as he backs England captain for Ballon d&#8217;Or",
+      "excerpt": "The England and Bayern star is the odds-on favourite.",
+      "link": "https://www.101greatgoals.com/football/internationals/tuchel-kane-2030-world-cup-ballon-dor/",
+      "image": null
+    },
+    {
+      "id": "story-2",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "The Guardian",
+      "time": "Sep 24",
+      "headline": "UK Football Police Unit accused of ‘bringing Hillsborough’ into alcohol debate",
+      "excerpt": "<ul><li><p>UKFPU cites post-Hillsborough Taylor Report in backing ban</p></li><li><p>‘The disaster was not caused by alcohol. Full…",
+      "link": "https://www.theguardian.com/football/2026/sep/24/uk-football-police-unit-accused-of-bringing-hillsborough-into-alcohol-debate",
+      "image": "https://i.guim.co.uk/img/media/469a49aee69c8b48fc8d3a3d41fc9d7af96889df/104_31_1007_806/master/1007.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=40dddefcfe9f9d41186e81239c51d0f1"
+    },
+    {
+      "id": "story-3",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -24,7 +46,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bb97/live/86605840-b7e9-11f1-b86f-f9f95031dc8c.jpg"
     },
     {
-      "id": "story-2",
+      "id": "story-4",
       "league": "Serie A",
       "dot": "#A9E6A0",
       "source": "The Guardian",
@@ -35,7 +57,7 @@
       "image": "https://i.guim.co.uk/img/media/6bcdd05b1fea90f3cdfaae879c4084181ea22423/47_0_1821_1456/master/1821.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=16544d29f5a5f08c769d0d91d1c99d95"
     },
     {
-      "id": "story-3",
+      "id": "story-5",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -46,7 +68,7 @@
       "image": "https://i.guim.co.uk/img/media/c57660f0e87edcd9f48627d556e43acabca56fc0/183_53_2551_2041/master/2551.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=7b1cf69d0eb7c085ea2355dc545c4f7b"
     },
     {
-      "id": "story-4",
+      "id": "story-6",
       "league": "La Liga",
       "dot": "#E3B4F5",
       "source": "The Guardian",
@@ -57,7 +79,7 @@
       "image": "https://i.guim.co.uk/img/media/a26e045fd53d2641851b88dae676c92942cfb086/158_41_2150_1721/master/2150.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ee5ba1133e4cba916663cd5b332e039c"
     },
     {
-      "id": "story-5",
+      "id": "story-7",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -68,7 +90,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7ae7/live/30e233e0-b819-11f1-b19f-05e2dfdadad2.jpg"
     },
     {
-      "id": "story-6",
+      "id": "story-8",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -79,7 +101,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3d61/live/70189f60-b812-11f1-9172-17f860da9de7.jpg"
     },
     {
-      "id": "story-7",
+      "id": "story-9",
       "league": "Champions League",
       "dot": "#F0C878",
       "source": "The Guardian",
@@ -90,7 +112,7 @@
       "image": "https://i.guim.co.uk/img/media/5cf55759ed5a9b3479eadf7a19bf34c33659c81b/686_1702_2302_1841/master/2302.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=dfa590311e3dff8b5e3f053be9bcb204"
     },
     {
-      "id": "story-8",
+      "id": "story-10",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -101,7 +123,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b0b0/live/821d32b0-b81d-11f1-a430-4d16ee157c41.jpg"
     },
     {
-      "id": "story-9",
+      "id": "story-11",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -112,7 +134,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ecfe/live/925d3e30-b81e-11f1-b19f-05e2dfdadad2.jpg"
     },
     {
-      "id": "story-10",
+      "id": "story-12",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -123,7 +145,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/faa1/live/e73726c0-b803-11f1-b1d1-571ed4d7ff2c.png"
     },
     {
-      "id": "story-11",
+      "id": "story-13",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "The Guardian",
@@ -134,7 +156,7 @@
       "image": "https://i.guim.co.uk/img/media/c82c134b56464a9093349ca6aaca769037f2ffb2/132_0_1444_1155/master/1444.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=5cfcecb0b1c9076b42201d595dd43ed6"
     },
     {
-      "id": "story-12",
+      "id": "story-14",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -145,7 +167,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4be2/live/5a69c020-a2bb-11f1-9024-715001d09aeb.jpg"
     },
     {
-      "id": "story-13",
+      "id": "story-15",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -156,7 +178,7 @@
       "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0p4zrww.jpg"
     },
     {
-      "id": "story-14",
+      "id": "story-16",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -167,7 +189,7 @@
       "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0pbcq71.jpg"
     },
     {
-      "id": "story-15",
+      "id": "story-17",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -178,7 +200,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/716e/live/6bc32f50-b80f-11f1-b205-219f899eccc7.jpg"
     },
     {
-      "id": "story-16",
+      "id": "story-18",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -189,7 +211,7 @@
       "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0pc29n5.jpg"
     },
     {
-      "id": "story-17",
+      "id": "story-19",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -200,7 +222,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f2b2/live/9ea28950-b807-11f1-bc1f-3f186ca4140c.png"
     },
     {
-      "id": "story-18",
+      "id": "story-20",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -211,7 +233,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/030d/live/8aa1c2f0-b81f-11f1-9173-8b6ede38f022.jpg"
     },
     {
-      "id": "story-19",
+      "id": "story-21",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "The Guardian",
@@ -222,7 +244,7 @@
       "image": "https://i.guim.co.uk/img/media/b5fb4393b2a723fd40dd5973144fe26f753834cb/1035_0_5472_4378/master/5472.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b2f149857bdc8df65e6b93a0462bd732"
     },
     {
-      "id": "story-20",
+      "id": "story-22",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -233,7 +255,7 @@
       "image": "https://i.guim.co.uk/img/media/35083f0578a65fdcd9cb8f60ebdf481f41cf43b0/339_140_2053_1642/master/2053.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=caadb72a227fbe53023293b3135761ca"
     },
     {
-      "id": "story-21",
+      "id": "story-23",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "The Guardian",
@@ -242,28 +264,6 @@
       "excerpt": "<ul><li><p>Council members also want Balogun affair included</p></li><li><p>Fifa president says review letter been well received </p></li></ul><p>Fifa…",
       "link": "https://www.theguardian.com/football/2026/sep/24/gianni-infantino-under-pressure-abandoned-world-cup-sell-off-fifa-review",
       "image": "https://i.guim.co.uk/img/media/23f65bcf16de8959041bc5c0886140e1f47a19db/393_0_6792_5434/master/6792.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ac3c0940e8c4a1d61a3ae32c04d7ddc8"
-    },
-    {
-      "id": "story-22",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "BBC Sport",
-      "time": "Sep 24",
-      "headline": "How Man City overhauled their squad from a 650,000-strong database",
-      "excerpt": "BBC Sport goes inside Manchester City's data team, who have been a key part of…",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cm1wx51gyly5o?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a0ec/live/a3f20410-b7fa-11f1-8ef6-b9665ffdab6f.jpg"
-    },
-    {
-      "id": "story-23",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "BBC Sport",
-      "time": "Sep 24",
-      "headline": "Send us your Scotland World Cup memories of Boston",
-      "excerpt": "BBC Scotland is looking for Scotland supporters to send us their videos, audio and memories…",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c04k6nqgxdpo?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6174/live/467fc120-9a43-11f1-aed2-8d6da8d75094.jpg"
     }
   ],
   "scoreboard": []
