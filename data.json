@@ -1,19 +1,30 @@
 {
-  "updatedAt": "2026-09-24T11:04:09.467Z",
+  "updatedAt": "2026-09-24T11:19:22.767Z",
   "hero": {
     "id": "story-0",
-    "league": "Premier League",
-    "dot": "#9CC0F0",
-    "source": "The Guardian",
+    "league": "Football",
+    "dot": "#AFC4AC",
+    "source": "BBC Sport",
     "time": "Sep 24",
-    "headline": "Has Arsenal been figured out? Three big questions after Brighton’s upset",
-    "excerpt": "<p>This week, we dive into the big questions surrounding the most surprising result of the…",
-    "link": "https://www.theguardian.com/sport/2026/sep/24/arsenal-brighton-premier-league-questions",
-    "image": "https://i.guim.co.uk/img/media/35083f0578a65fdcd9cb8f60ebdf481f41cf43b0/339_140_2053_1642/master/2053.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=caadb72a227fbe53023293b3135761ca"
+    "headline": "Hibs appoint Dutchman Reedijk as new manager",
+    "excerpt": "Marink Reedijk has vow to develop a \"brave, intense and committed\" Hibernian team after leaving…",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cqe9e7ver2xpo?at_medium=RSS&amp;at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb7a/live/5c0f70d0-6139-11ee-ac8c-9d18dbc280ea.png"
   },
   "topStories": [
     {
       "id": "story-1",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "The Guardian",
+      "time": "Sep 24",
+      "headline": "Has Arsenal been figured out? Three big questions after Brighton’s upset",
+      "excerpt": "<p>This week, we dive into the big questions surrounding the most surprising result of the…",
+      "link": "https://www.theguardian.com/sport/2026/sep/24/arsenal-brighton-premier-league-questions",
+      "image": "https://i.guim.co.uk/img/media/35083f0578a65fdcd9cb8f60ebdf481f41cf43b0/339_140_2053_1642/master/2053.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=caadb72a227fbe53023293b3135761ca"
+    },
+    {
+      "id": "story-2",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "The Guardian",
@@ -24,7 +35,7 @@
       "image": "https://i.guim.co.uk/img/media/23f65bcf16de8959041bc5c0886140e1f47a19db/393_0_6792_5434/master/6792.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ac3c0940e8c4a1d61a3ae32c04d7ddc8"
     },
     {
-      "id": "story-2",
+      "id": "story-3",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "101 Great Goals",
@@ -35,7 +46,7 @@
       "image": null
     },
     {
-      "id": "story-3",
+      "id": "story-4",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -46,7 +57,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a0ec/live/a3f20410-b7fa-11f1-8ef6-b9665ffdab6f.jpg"
     },
     {
-      "id": "story-4",
+      "id": "story-5",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -57,7 +68,7 @@
       "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0pc61pv.jpg"
     },
     {
-      "id": "story-5",
+      "id": "story-6",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -68,7 +79,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9154/live/b1ab3510-b7e4-11f1-b86f-f9f95031dc8c.jpg"
     },
     {
-      "id": "story-6",
+      "id": "story-7",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -79,7 +90,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c261/live/ccad4ab0-b758-11f1-a430-4d16ee157c41.jpg"
     },
     {
-      "id": "story-7",
+      "id": "story-8",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "The Guardian",
@@ -88,17 +99,6 @@
       "excerpt": "<p>Manager is not responsible for underlying weaknesses but there are reasons for optimism in the…",
       "link": "https://www.theguardian.com/football/2026/sep/24/the-system-not-tuchel-led-to-world-cup-failure-but-euro-2028-offers-new-hope",
       "image": "https://i.guim.co.uk/img/media/0af7e1e8c2d774c3f607b4a4649772ff9cffe6fb/202_0_2020_1616/master/2020.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=07c343ff79c60c20867da66e8cbce7f2"
-    },
-    {
-      "id": "story-8",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "BBC Sport",
-      "time": "Sep 24",
-      "headline": "Hibs impressed by Reedijk in manager search - gossip",
-      "excerpt": "Hibs nearing a decision on new coach as Rangers star admits he was ready to…",
-      "link": "https://www.bbc.co.uk/sport/football/articles/ckz7zdv38rreo?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b5a2/live/5f5e5440-b7e4-11f1-bc1f-3f186ca4140c.png"
     },
     {
       "id": "story-9",
