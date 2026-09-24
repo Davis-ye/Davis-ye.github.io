@@ -1,27 +1,27 @@
 {
-  "updatedAt": "2026-09-24T09:46:21.820Z",
+  "updatedAt": "2026-09-24T09:55:45.711Z",
   "hero": {
     "id": "story-0",
-    "league": "Premier League",
-    "dot": "#9CC0F0",
-    "source": "BBC Sport",
+    "league": "Football",
+    "dot": "#AFC4AC",
+    "source": "101 Great Goals",
     "time": "Sep 24",
-    "headline": "How Man City overhauled their squad from a 650,000-strong database",
-    "excerpt": "BBC Sport goes inside Manchester City's data team, who have been a key part of…",
-    "link": "https://www.bbc.co.uk/sport/football/articles/cm1wx51gyly5o?at_medium=RSS&amp;at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a0ec/live/a3f20410-b7fa-11f1-8ef6-b9665ffdab6f.jpg"
+    "headline": "Anthony Gordon calls on England utilise own strengths rather than replicate Spain&#8217;s style at future tournaments",
+    "excerpt": "Anthony Gordon says England must follow their own path rather than try to copy other…",
+    "link": "https://www.101greatgoals.com/football/internationals/anthony-gordon-england-utilise-own-strengths/",
+    "image": null
   },
   "topStories": [
     {
       "id": "story-1",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "101 Great Goals",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "BBC Sport",
       "time": "Sep 24",
-      "headline": "Tip of the Day: Portugal, Germany &#038; Netherlands Feature In Nations League Treble",
-      "excerpt": "Three Nations League clashes feature in our Tip of the Day for Thursday.",
-      "link": "https://www.101greatgoals.com/football/tip-of-the-day-portugal-germany-netherlands-nations-league-treble/",
-      "image": null
+      "headline": "How Man City overhauled their squad from a 650,000-strong database",
+      "excerpt": "BBC Sport goes inside Manchester City's data team, who have been a key part of…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cm1wx51gyly5o?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a0ec/live/a3f20410-b7fa-11f1-8ef6-b9665ffdab6f.jpg"
     },
     {
       "id": "story-2",
