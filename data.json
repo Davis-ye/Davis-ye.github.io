@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-09-24T13:33:20.326Z",
+  "updatedAt": "2026-09-24T13:47:32.935Z",
   "hero": {
     "id": "story-0",
-    "league": "Premier League",
-    "dot": "#9CC0F0",
-    "source": "BBC Sport",
+    "league": "La Liga",
+    "dot": "#E3B4F5",
+    "source": "101 Great Goals",
     "time": "Sep 24",
-    "headline": "Is this really the Premier League's 'Bermuda Triangle'?",
-    "excerpt": "Do the stats back the social media meme that Bournemouth, Brighton and Brentford form a…",
-    "link": "https://www.bbc.co.uk/sport/football/articles/c39w40g8n59yo?at_medium=RSS&amp;at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ef55/live/cb001830-b80e-11f1-a430-4d16ee157c41.png"
+    "headline": "&#8216;I still want to achieve something special&#8217; &#8211; Udinese sign former Real Madrid and Bayern star Alaba",
+    "excerpt": "The Austria international still has a desire to compete.",
+    "link": "https://www.101greatgoals.com/football/serie-a/udinese-sign-alaba/",
+    "image": null
   },
   "topStories": [
     {
@@ -18,13 +18,24 @@
       "dot": "#9CC0F0",
       "source": "BBC Sport",
       "time": "Sep 24",
-      "headline": "Unanswered questions for English teams as Women's Champions League returns",
+      "headline": "Is this really the Premier League's 'Bermuda Triangle'?",
+      "excerpt": "Do the stats back the social media meme that Bournemouth, Brighton and Brentford form a…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c39w40g8n59yo?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ef55/live/cb001830-b80e-11f1-a430-4d16ee157c41.png"
+    },
+    {
+      "id": "story-2",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "BBC Sport",
+      "time": "Sep 24",
+      "headline": "Unanswered questions for English teams after Women's Champions League returns",
       "excerpt": "Arsenal, Chelsea and Manchester City start bids for European glory in unconvincing fashion.",
       "link": "https://www.bbc.co.uk/sport/football/articles/cm1e516z2y8qo?at_medium=RSS&amp;at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/faa1/live/e73726c0-b803-11f1-b1d1-571ed4d7ff2c.png"
     },
     {
-      "id": "story-2",
+      "id": "story-3",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "The Guardian",
@@ -35,7 +46,7 @@
       "image": "https://i.guim.co.uk/img/media/c82c134b56464a9093349ca6aaca769037f2ffb2/132_0_1444_1155/master/1444.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=5cfcecb0b1c9076b42201d595dd43ed6"
     },
     {
-      "id": "story-3",
+      "id": "story-4",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -46,7 +57,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4be2/live/5a69c020-a2bb-11f1-9024-715001d09aeb.jpg"
     },
     {
-      "id": "story-4",
+      "id": "story-5",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -55,17 +66,6 @@
       "excerpt": "Can Klopp unlock Wirtz for Germany? & Jose wants justice after Real's Madrid Derby defeat",
       "link": "https://www.bbc.co.uk/sounds/play/p0pc83kj?at_medium=RSS&amp;at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0p4zrww.jpg"
-    },
-    {
-      "id": "story-5",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "101 Great Goals",
-      "time": "Sep 24",
-      "headline": "Fury v Joshua date finally confirmed as Cardiff stages long-awaited heavyweight clash",
-      "excerpt": "Fury is the favourite for the battle of the two great British heavyweights.",
-      "link": "https://www.101greatgoals.com/boxing/fury-v-joshua-date-finally-confirmed/",
-      "image": null
     },
     {
       "id": "story-6",
