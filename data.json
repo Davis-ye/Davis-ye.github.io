@@ -1,27 +1,27 @@
 {
-  "updatedAt": "2026-09-24T20:27:49.085Z",
+  "updatedAt": "2026-09-24T20:42:44.564Z",
   "hero": {
     "id": "story-0",
-    "league": "Premier League",
-    "dot": "#9CC0F0",
-    "source": "BBC Sport",
+    "league": "La Liga",
+    "dot": "#E3B4F5",
+    "source": "The Guardian",
     "time": "Sep 24",
-    "headline": "Chelsea lead race for Scott - Friday's gossip",
-    "excerpt": "Chelsea target Bournemouth's Alex Scott, Bayern Munich are interested in Dani Olmo and Jude Bellingham…",
-    "link": "https://www.bbc.co.uk/sport/football/articles/c6eq8eygy4e5o?at_medium=RSS&amp;at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a160/live/eb116930-b84f-11f1-a2ec-c153af45023f.png"
+    "headline": "Netherlands v Germany, Portugal v Wales and more: Uefa Nations League – live",
+    "excerpt": "<p>⚽ Updates across Thursday night’s Nations League games<br>⚽ Get in touch: <a href=\"mailto:daniel.harris.casual@guardian.co.uk\">email Daniel</a> and…",
+    "link": "https://www.theguardian.com/football/live/2026/sep/24/netherlands-v-germany-portugal-v-wales-and-more-uefa-nations-league-live",
+    "image": "https://i.guim.co.uk/img/media/758754ebdd4aa46999cdf8729a25731dce8ebe5e/981_0_4355_3483/master/4355.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=0c09cadbeebf174e7b80e26e982f5c7c"
   },
   "topStories": [
     {
       "id": "story-1",
-      "league": "La Liga",
-      "dot": "#E3B4F5",
-      "source": "The Guardian",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "BBC Sport",
       "time": "Sep 24",
-      "headline": "Netherlands v Germany, Portugal v Wales and more: Uefa Nations League – live",
-      "excerpt": "<p>⚽ Updates across Thursday night’s Nations League games<br>⚽ Get in touch: <a href=\"mailto:daniel.harris.casual@guardian.co.uk\">email Daniel</a> and…",
-      "link": "https://www.theguardian.com/football/live/2026/sep/24/netherlands-v-germany-portugal-v-wales-and-more-uefa-nations-league-live",
-      "image": "https://i.guim.co.uk/img/media/758754ebdd4aa46999cdf8729a25731dce8ebe5e/981_0_4355_3483/master/4355.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=0c09cadbeebf174e7b80e26e982f5c7c"
+      "headline": "Chelsea lead race for Scott - Friday's gossip",
+      "excerpt": "Chelsea target Bournemouth's Alex Scott, Bayern Munich are interested in Dani Olmo and Jude Bellingham…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c6eq8eygy4e5o?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a160/live/eb116930-b84f-11f1-a2ec-c153af45023f.png"
     },
     {
       "id": "story-2",
