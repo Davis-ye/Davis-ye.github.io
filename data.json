@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-09-24T13:47:32.935Z",
+  "updatedAt": "2026-09-24T13:57:49.214Z",
   "hero": {
     "id": "story-0",
-    "league": "La Liga",
-    "dot": "#E3B4F5",
+    "league": "Football",
+    "dot": "#AFC4AC",
     "source": "101 Great Goals",
     "time": "Sep 24",
-    "headline": "&#8216;I still want to achieve something special&#8217; &#8211; Udinese sign former Real Madrid and Bayern star Alaba",
-    "excerpt": "The Austria international still has a desire to compete.",
-    "link": "https://www.101greatgoals.com/football/serie-a/udinese-sign-alaba/",
+    "headline": "Australia vs Brazil: Preview, expected line-ups, stats and where to watch",
+    "excerpt": "Australia face Brazil in an international friendly on Friday. Read our in-depth preview here.",
+    "link": "https://www.101greatgoals.com/match-previews/australia-vs-brazil-preview-expected-line-ups-stats-and-where-to-watch/",
     "image": null
   },
   "topStories": [
@@ -21,7 +21,7 @@
       "headline": "Is this really the Premier League's 'Bermuda Triangle'?",
       "excerpt": "Do the stats back the social media meme that Bournemouth, Brighton and Brentford form a…",
       "link": "https://www.bbc.co.uk/sport/football/articles/c39w40g8n59yo?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ef55/live/cb001830-b80e-11f1-a430-4d16ee157c41.png"
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ecfe/live/925d3e30-b81e-11f1-b19f-05e2dfdadad2.jpg"
     },
     {
       "id": "story-2",
@@ -128,10 +128,10 @@
       "dot": "#AFC4AC",
       "source": "BBC Sport",
       "time": "Sep 24",
-      "headline": "Hibs appoint Dutchman Reedijk as new manager",
+      "headline": "New boss Reedijk promises 'brave and intense' Hibs",
       "excerpt": "Former Beveren head coach Marink Reedijk vows to develop a \"brave, intense and committed\" Hibernian…",
       "link": "https://www.bbc.co.uk/sport/football/articles/cqe9e7ver2xpo?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fe99/live/b67dfd90-b80a-11f1-93f5-ff96839fb91e.jpg"
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/030d/live/8aa1c2f0-b81f-11f1-9173-8b6ede38f022.jpg"
     },
     {
       "id": "story-12",
