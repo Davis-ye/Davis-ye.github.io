@@ -1,19 +1,30 @@
 {
-  "updatedAt": "2026-09-24T22:43:31.081Z",
+  "updatedAt": "2026-09-24T22:52:46.184Z",
   "hero": {
     "id": "story-0",
-    "league": "Premier League",
-    "dot": "#9CC0F0",
-    "source": "BBC Sport",
+    "league": "Football",
+    "dot": "#AFC4AC",
+    "source": "The Guardian",
     "time": "Sep 24",
-    "headline": "Man Utd borrow another £90m as debt tops £1.1bn",
-    "excerpt": "Manchester United confirm they have borrowed another £90m since 30 June, to take their overall…",
-    "link": "https://www.bbc.co.uk/sport/football/articles/cmx2zv4e320do?at_medium=RSS&amp;at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cdb6/live/a008a730-b842-11f1-b1d1-571ed4d7ff2c.jpg"
+    "headline": "Gakpo denies Klopp perfect start as Xavi’s Netherlands rescue draw against Germany",
+    "excerpt": "<p>At least Germany can be sure it will not be dull. Jürgen Klopp had predicted…",
+    "link": "https://www.theguardian.com/football/2026/sep/24/netherlands-germany-nations-league-match-report",
+    "image": "https://i.guim.co.uk/img/media/21a86f8f7e00d39b4eff84d5dfb159224a2c0ec7/353_0_3903_3122/master/3903.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e5bc0fa4b4907c68f97305f244829686"
   },
   "topStories": [
     {
       "id": "story-1",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "BBC Sport",
+      "time": "Sep 24",
+      "headline": "Man Utd borrow another £90m as debt tops £1.1bn",
+      "excerpt": "Manchester United confirm they have borrowed another £90m since 30 June, to take their overall…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cmx2zv4e320do?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cdb6/live/a008a730-b842-11f1-b1d1-571ed4d7ff2c.jpg"
+    },
+    {
+      "id": "story-2",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -24,7 +35,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8e31/live/e2c56960-b832-11f1-b4bc-39c67eb36497.jpg"
     },
     {
-      "id": "story-2",
+      "id": "story-3",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -35,7 +46,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8c58/live/2ce7a380-b862-11f1-93a5-e363768bffbc.jpg"
     },
     {
-      "id": "story-3",
+      "id": "story-4",
       "league": "Serie A",
       "dot": "#A9E6A0",
       "source": "The Guardian",
@@ -46,7 +57,7 @@
       "image": "https://i.guim.co.uk/img/media/2b4d159a596ea7eaf4f0fe5fcb8ea9051330119e/887_81_2225_1780/master/2225.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f9b23bf35d01013b8576f59f53c93a53"
     },
     {
-      "id": "story-4",
+      "id": "story-5",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -57,7 +68,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/73d2/live/3bc7fc20-b85c-11f1-a8b8-8b929801ec51.jpg"
     },
     {
-      "id": "story-5",
+      "id": "story-6",
       "league": "La Liga",
       "dot": "#E3B4F5",
       "source": "The Guardian",
@@ -68,7 +79,7 @@
       "image": "https://i.guim.co.uk/img/media/e07ebc008355e9b3193de2e1545e93d1e9b27f68/135_0_2687_2151/master/2687.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=fa1302581c9fae51d6508f9dd818bf1f"
     },
     {
-      "id": "story-6",
+      "id": "story-7",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -79,7 +90,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c98f/live/8c586740-b859-11f1-b1d1-571ed4d7ff2c.jpg"
     },
     {
-      "id": "story-7",
+      "id": "story-8",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "101 Great Goals",
@@ -90,24 +101,13 @@
       "image": null
     },
     {
-      "id": "story-8",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "The Guardian",
-      "time": "Sep 24",
-      "headline": "Gakpo denies Klopp perfect start as Xavi’s Netherlands rescue draw against Germany",
-      "excerpt": "<p>Jürgen Klopp had predicted his bow as Germany manager could be wild, a trait he…",
-      "link": "https://www.theguardian.com/football/2026/sep/24/netherlands-germany-nations-league-match-report",
-      "image": "https://i.guim.co.uk/img/media/21a86f8f7e00d39b4eff84d5dfb159224a2c0ec7/353_0_3903_3122/master/3903.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e5bc0fa4b4907c68f97305f244829686"
-    },
-    {
       "id": "story-9",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "The Guardian",
       "time": "Sep 24",
       "headline": "João Félix strike for Portugal enough to sink Wales but Ronaldo fever falls flat",
-      "excerpt": "<p>There was a comic-strip feel to another eventful evening in the world of Cristiano Ronaldo.…",
+      "excerpt": "<p>There was a comic-strip feel to another eventful evening in the kingdom of Cristiano Ronaldo.…",
       "link": "https://www.theguardian.com/football/2026/sep/24/portugal-wales-nations-league-match-report",
       "image": "https://i.guim.co.uk/img/media/a345cbed7acaff2fdd5549aedcda8bccd5328618/80_0_4249_3400/master/4249.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=92bab8cee8c9e1e0cccea65d0c7f36b6"
     },
