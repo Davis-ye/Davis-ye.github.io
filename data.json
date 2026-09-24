@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-24T16:00:25.753Z",
+  "updatedAt": "2026-09-24T16:15:18.460Z",
   "hero": {
     "id": "story-0",
     "league": "Serie A",
@@ -14,6 +14,17 @@
   "topStories": [
     {
       "id": "story-1",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "The Guardian",
+      "time": "Sep 24",
+      "headline": "Football Daily | Pints and points: the arguments for and against booze at football matches",
+      "excerpt": "<p><a href=\"https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up\"><strong>Sign up now! Sign up now! Sign up now? Sign up now!</strong></a></p><p>Considering he is…",
+      "link": "https://www.theguardian.com/football/2026/sep/24/pints-points-arguments-for-against-booze-football-daily",
+      "image": "https://i.guim.co.uk/img/media/c57660f0e87edcd9f48627d556e43acabca56fc0/183_53_2551_2041/master/2551.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=7b1cf69d0eb7c085ea2355dc545c4f7b"
+    },
+    {
+      "id": "story-2",
       "league": "La Liga",
       "dot": "#E3B4F5",
       "source": "101 Great Goals",
@@ -24,7 +35,7 @@
       "image": null
     },
     {
-      "id": "story-2",
+      "id": "story-3",
       "league": "La Liga",
       "dot": "#E3B4F5",
       "source": "The Guardian",
@@ -35,7 +46,7 @@
       "image": "https://i.guim.co.uk/img/media/a26e045fd53d2641851b88dae676c92942cfb086/158_41_2150_1721/master/2150.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ee5ba1133e4cba916663cd5b332e039c"
     },
     {
-      "id": "story-3",
+      "id": "story-4",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -46,7 +57,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7ae7/live/30e233e0-b819-11f1-b19f-05e2dfdadad2.jpg"
     },
     {
-      "id": "story-4",
+      "id": "story-5",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -57,7 +68,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3d61/live/70189f60-b812-11f1-9172-17f860da9de7.jpg"
     },
     {
-      "id": "story-5",
+      "id": "story-6",
       "league": "Champions League",
       "dot": "#F0C878",
       "source": "The Guardian",
@@ -68,7 +79,7 @@
       "image": "https://i.guim.co.uk/img/media/5cf55759ed5a9b3479eadf7a19bf34c33659c81b/686_1702_2302_1841/master/2302.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=dfa590311e3dff8b5e3f053be9bcb204"
     },
     {
-      "id": "story-6",
+      "id": "story-7",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -79,7 +90,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ecfe/live/925d3e30-b81e-11f1-b19f-05e2dfdadad2.jpg"
     },
     {
-      "id": "story-7",
+      "id": "story-8",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -90,7 +101,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/faa1/live/e73726c0-b803-11f1-b1d1-571ed4d7ff2c.png"
     },
     {
-      "id": "story-8",
+      "id": "story-9",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "The Guardian",
@@ -101,7 +112,7 @@
       "image": "https://i.guim.co.uk/img/media/c82c134b56464a9093349ca6aaca769037f2ffb2/132_0_1444_1155/master/1444.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=5cfcecb0b1c9076b42201d595dd43ed6"
     },
     {
-      "id": "story-9",
+      "id": "story-10",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -112,7 +123,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4be2/live/5a69c020-a2bb-11f1-9024-715001d09aeb.jpg"
     },
     {
-      "id": "story-10",
+      "id": "story-11",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -121,17 +132,6 @@
       "excerpt": "Can Klopp unlock Wirtz for Germany? & Jose wants justice after Real's Madrid Derby defeat",
       "link": "https://www.bbc.co.uk/sounds/play/p0pc83kj?at_medium=RSS&amp;at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0p4zrww.jpg"
-    },
-    {
-      "id": "story-11",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "The Guardian",
-      "time": "Sep 24",
-      "headline": "Archive, 1985: Alcohol banned from football grounds in England and Wales",
-      "excerpt": "<p>The violence at the Luton Town v Millwall FA Cup match in 1985, along with…",
-      "link": "https://www.theguardian.com/football/2026/sep/24/archive-1985-alcohol-banned-from-football-grounds-in-england-and-wales",
-      "image": "https://i.guim.co.uk/img/media/096ba813fda74ec08a6cfeb1130ca9e97e468aef/481_0_2523_2019/master/2523.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=88662595332b567f4e69b4f62a357a81"
     },
     {
       "id": "story-12",
