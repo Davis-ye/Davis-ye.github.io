@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-09-24T19:10:09.033Z",
+  "updatedAt": "2026-09-24T19:22:22.803Z",
   "hero": {
     "id": "story-0",
-    "league": "Ligue 1",
-    "dot": "#B8D4E8",
-    "source": "BBC Sport",
+    "league": "Football",
+    "dot": "#AFC4AC",
+    "source": "101 Great Goals",
     "time": "Sep 24",
-    "headline": "How PSG's Ballon d'Or duo are pushing each other on",
-    "excerpt": "While there can only be one winner, team-mates Ousmane Dembele and Khvicha Kvaratskhelia are backing…",
-    "link": "https://www.bbc.co.uk/sport/football/articles/c3qjk1qd1wx0o?at_medium=RSS&amp;at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/25fb/live/b5ee0f40-b82e-11f1-89f8-b5d404417bc8.jpg"
+    "headline": "WATCH: Felix gives Portugal the lead against Wales",
+    "excerpt": "The Nations League holders are ahead",
+    "link": "https://www.101greatgoals.com/news/watch-felix-gives-portugal-the-lead-against-wales/",
+    "image": null
   },
   "topStories": [
     {
@@ -25,6 +25,17 @@
     },
     {
       "id": "story-2",
+      "league": "Ligue 1",
+      "dot": "#B8D4E8",
+      "source": "BBC Sport",
+      "time": "Sep 24",
+      "headline": "How PSG's Ballon d'Or duo are pushing each other on",
+      "excerpt": "While there can only be one winner, team-mates Ousmane Dembele and Khvicha Kvaratskhelia are backing…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c3qjk1qd1wx0o?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/25fb/live/b5ee0f40-b82e-11f1-89f8-b5d404417bc8.jpg"
+    },
+    {
+      "id": "story-3",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "The Guardian",
@@ -35,7 +46,7 @@
       "image": "https://i.guim.co.uk/img/media/469a49aee69c8b48fc8d3a3d41fc9d7af96889df/104_31_1007_806/master/1007.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=40dddefcfe9f9d41186e81239c51d0f1"
     },
     {
-      "id": "story-3",
+      "id": "story-4",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -46,7 +57,7 @@
       "image": "https://i.guim.co.uk/img/media/11938b092f305d47fc9932483dd1b3958963a6d8/219_0_4402_3521/master/4402.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f6f934d853c098203579a7cb6a9e306b"
     },
     {
-      "id": "story-4",
+      "id": "story-5",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -55,17 +66,6 @@
       "excerpt": "The Premier League hopes to reach an agreement with the EFL over its funding model…",
       "link": "https://www.bbc.co.uk/sport/football/articles/cmly4qkly434o?at_medium=RSS&amp;at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2c28/live/c20a8af0-b83e-11f1-aeab-cbd1b7662429.jpg"
-    },
-    {
-      "id": "story-5",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "101 Great Goals",
-      "time": "Sep 24",
-      "headline": "Portugal v Wales: Teams confirmed for Nations League clash",
-      "excerpt": "Rematch of the Euro 2016 semi-final takes place in Lisbon",
-      "link": "https://www.101greatgoals.com/news/portugal-v-wales-teams-confirmed-for-nations-league-clash/",
-      "image": null
     },
     {
       "id": "story-6",
