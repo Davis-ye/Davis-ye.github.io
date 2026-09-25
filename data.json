@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-09-25T11:06:38.815Z",
+  "updatedAt": "2026-09-25T11:21:50.610Z",
   "hero": {
     "id": "story-0",
-    "league": "La Liga",
-    "dot": "#E3B4F5",
-    "source": "The Guardian",
+    "league": "Football",
+    "dot": "#AFC4AC",
+    "source": "101 Great Goals",
     "time": "Sep 25",
-    "headline": "Australia v Brazil: men’s international football friendly – live",
-    "excerpt": "<ul><li><p>Updates from the first of two games in Queensland</p></li><li><p>Any thoughts? Get in touch with an…",
-    "link": "https://www.theguardian.com/football/live/2026/sep/25/australia-socceroos-v-brazil-mens-international-football-live-kick-off",
-    "image": "https://i.guim.co.uk/img/media/ea8d00d5fb1d9152d2ffd1459ce26a159013027c/269_0_2692_2154/master/2692.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=02e8acb2c70bd51ef0d6127f8a68443c"
+    "headline": "NFL: Michael Penix Jr. returns from ACL injury to lead Atlanta Falcons past Packers",
+    "excerpt": "The Atlanta Falcons are finally off the mark in the new NFL season.",
+    "link": "https://www.101greatgoals.com/nfl/nfl-michael-penix-jr-returns-acl-injury-atlanta-falcons-past-packers/",
+    "image": null
   },
   "topStories": [
     {
@@ -25,6 +25,17 @@
     },
     {
       "id": "story-2",
+      "league": "La Liga",
+      "dot": "#E3B4F5",
+      "source": "The Guardian",
+      "time": "Sep 25",
+      "headline": "Australia v Brazil: men’s international football friendly – live",
+      "excerpt": "<ul><li><p>Updates from the first of two games in Queensland</p></li><li><p>Any thoughts? Get in touch with an…",
+      "link": "https://www.theguardian.com/football/live/2026/sep/25/australia-socceroos-v-brazil-mens-international-football-live-kick-off",
+      "image": "https://i.guim.co.uk/img/media/613b6638d34c1115931242c9e86e40c46a68df88/0_55_3787_3030/master/3787.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e55031a2bcc8fc27859f258ac260d92f"
+    },
+    {
+      "id": "story-3",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "The Guardian",
@@ -35,7 +46,7 @@
       "image": "https://i.guim.co.uk/img/media/f5b0a293416a437467df537da17dea0ac393e1fc/636_11_4145_3315/master/4145.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c91dedad2b0b890f2267e955a01df843"
     },
     {
-      "id": "story-3",
+      "id": "story-4",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -46,7 +57,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aec0/live/fd14b290-e25e-11ef-a819-277e390a7a08.jpg"
     },
     {
-      "id": "story-4",
+      "id": "story-5",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -57,7 +68,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5624/live/44eb13b0-b8c9-11f1-ad1f-538855f30ba1.jpg"
     },
     {
-      "id": "story-5",
+      "id": "story-6",
       "league": "Ligue 1",
       "dot": "#B8D4E8",
       "source": "BBC Sport",
@@ -68,7 +79,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f8ab/live/c3a1d910-b8c8-11f1-b1d1-571ed4d7ff2c.png"
     },
     {
-      "id": "story-6",
+      "id": "story-7",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "The Guardian",
@@ -79,7 +90,7 @@
       "image": "https://i.guim.co.uk/img/media/50c07be36e607a8f0781f969e9ca31f905c1be06/408_0_4080_3265/master/4080.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=2ad6e8e41b126d0d301263ef0b1274ca"
     },
     {
-      "id": "story-7",
+      "id": "story-8",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -88,17 +99,6 @@
       "excerpt": "Aberdeen have their ticket allocation cut for the Premier Sports Cup semi-final against Rangers following…",
       "link": "https://www.bbc.co.uk/sport/football/articles/cq62jxymr012o?at_medium=RSS&amp;at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/da7a/live/948aec00-b8c0-11f1-8668-c7d18ac42397.jpg"
-    },
-    {
-      "id": "story-8",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "101 Great Goals",
-      "time": "Sep 25",
-      "headline": "Tip of the Day: Zidane to get off the mark and Mancini to make losing return",
-      "excerpt": "Three Nations League clashes feature in our Tip of the Day for Thursday.",
-      "link": "https://www.101greatgoals.com/football/tip-of-the-day-zidane-mancini/",
-      "image": null
     },
     {
       "id": "story-9",
