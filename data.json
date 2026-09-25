@@ -1,27 +1,27 @@
 {
-  "updatedAt": "2026-09-25T14:25:41.671Z",
+  "updatedAt": "2026-09-25T14:39:07.162Z",
   "hero": {
     "id": "story-0",
     "league": "Premier League",
     "dot": "#9CC0F0",
-    "source": "BBC Sport",
+    "source": "The Guardian",
     "time": "Sep 25",
-    "headline": "Wycombe sign ex-England striker Ings",
-    "excerpt": "Wycombe Wanderers sign former Burnley, Liverpool and England striker Danny Ings.",
-    "link": "https://www.bbc.co.uk/sport/football/articles/cmj6436g4w03o?at_medium=RSS&amp;at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5216/live/ea525b80-b8ea-11f1-8e38-ff13e96f88b3.jpg"
+    "headline": "Manchester City: reports emerging over guilty verdict on almost all charges – live news and reaction",
+    "excerpt": "<p>⚽ All the latest heading in to the weekend’s action<br>⚽ <a href=\"https://www.theguardian.com/football/2026/sep/25/luis-de-la-fuente-spain-world-keep-us-winning\">De la Fuente wants…",
+    "link": "https://www.theguardian.com/football/live/2026/sep/25/havertz-injury-latest-haaland-fires-norway-to-victory-england-v-spain-buildup-and-more-football-news-live",
+    "image": "https://i.guim.co.uk/img/media/649ec4854d87003410d3610761b3954f2177e494/0_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=5c0e7e40bdb01da31db6d864d00a829b"
   },
   "topStories": [
     {
       "id": "story-1",
       "league": "Premier League",
       "dot": "#9CC0F0",
-      "source": "The Guardian",
+      "source": "BBC Sport",
       "time": "Sep 25",
-      "headline": "Manchester City: reports emerging over guilty verdict on almost all charges – live news and reaction",
-      "excerpt": "<p>⚽ All the latest heading in to the weekend’s action<br>⚽ <a href=\"https://www.theguardian.com/football/2026/sep/25/luis-de-la-fuente-spain-world-keep-us-winning\">De la Fuente wants…",
-      "link": "https://www.theguardian.com/football/live/2026/sep/25/havertz-injury-latest-haaland-fires-norway-to-victory-england-v-spain-buildup-and-more-football-news-live",
-      "image": "https://i.guim.co.uk/img/media/649ec4854d87003410d3610761b3954f2177e494/0_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=5c0e7e40bdb01da31db6d864d00a829b"
+      "headline": "Wycombe sign ex-England striker Ings",
+      "excerpt": "Wycombe Wanderers sign former Burnley, Liverpool and England striker Danny Ings.",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cmj6436g4w03o?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5216/live/ea525b80-b8ea-11f1-8e38-ff13e96f88b3.jpg"
     },
     {
       "id": "story-2",
