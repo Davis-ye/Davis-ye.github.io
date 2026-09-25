@@ -1,27 +1,27 @@
 {
-  "updatedAt": "2026-09-25T19:43:16.047Z",
+  "updatedAt": "2026-09-25T19:52:24.346Z",
   "hero": {
     "id": "story-0",
-    "league": "La Liga",
-    "dot": "#E3B4F5",
-    "source": "The Guardian",
+    "league": "Football",
+    "dot": "#AFC4AC",
+    "source": "101 Great Goals",
     "time": "Sep 25",
-    "headline": "Turkey v France, Italy v Belgium, Northern Ireland win in Georgia: Nations League – live",
-    "excerpt": "<p>⚽ Updates from Friday evening’s Nations League games<br>⚽ <a href=\"https://www.theguardian.com/football/live\">Live scoreboard</a> | <a href=\"https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up\">Read Football…",
-    "link": "https://www.theguardian.com/football/live/2026/sep/25/turkey-v-france-italy-v-belgium-and-more-nations-league-clockwatch-live",
-    "image": "https://i.guim.co.uk/img/media/25219966a6dcf8413ee1aa5d5fc19e86a7643646/586_196_3645_2917/master/3645.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=6d9a71a9b121089840b9d89ff97303cd"
+    "headline": "Turkey vs France live: Michael Olise denied as first half ends 0-0",
+    "excerpt": "Turkey and France were level at half-time in the Nations League",
+    "link": "https://www.101greatgoals.com/football/internationals/turkey-vs-france-live-michael-olise-zinedine-zidane-manager-goals/",
+    "image": null
   },
   "topStories": [
     {
       "id": "story-1",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "101 Great Goals",
+      "league": "La Liga",
+      "dot": "#E3B4F5",
+      "source": "The Guardian",
       "time": "Sep 25",
-      "headline": "Turkey vs France live: Confirmed teams and line ups",
-      "excerpt": "Confirmed teams as Turkey and France meet in the Nations League",
-      "link": "https://www.101greatgoals.com/football/internationals/turkey-vs-france-live-teams-line-ups-where-to-watch-tv-channel-live-online-stream-nations-league/",
-      "image": null
+      "headline": "Turkey v France, Italy v Belgium, Northern Ireland win in Georgia: Nations League – live",
+      "excerpt": "<p>⚽ Updates from Friday evening’s Nations League games<br>⚽ <a href=\"https://www.theguardian.com/football/live\">Live scoreboard</a> | <a href=\"https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up\">Read Football…",
+      "link": "https://www.theguardian.com/football/live/2026/sep/25/turkey-v-france-italy-v-belgium-and-more-nations-league-clockwatch-live",
+      "image": "https://i.guim.co.uk/img/media/8936d831ae164f7b7f4073695963bea95b313034/391_0_3526_2820/master/3526.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=6bcf26c3b13b982b58239b8a393f9784"
     },
     {
       "id": "story-2",
