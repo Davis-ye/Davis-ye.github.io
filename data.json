@@ -1,19 +1,41 @@
 {
-  "updatedAt": "2026-09-25T05:23:05.111Z",
+  "updatedAt": "2026-09-25T05:34:29.427Z",
   "hero": {
     "id": "story-0",
     "league": "Football",
     "dot": "#AFC4AC",
-    "source": "101 Great Goals",
-    "time": "Sep 24",
-    "headline": "&#8216;We can play better&#8217; says Klopp after Germany and Netherlands draw",
-    "excerpt": "Klopp and Xavi share the spoils on their international debuts",
-    "link": "https://www.101greatgoals.com/news/we-can-play-better-says-klopp-after-germany-and-netherlands-draw/",
-    "image": null
+    "source": "BBC Sport",
+    "time": "Sep 25",
+    "headline": "Our son's death could have been prevented by FA - Billy Vigar's parents",
+    "excerpt": "Billy Vigar's parents says the Football Association could have prevented their son's death.",
+    "link": "https://www.bbc.co.uk/sport/football/articles/ckwyzjny99vjo?at_medium=RSS&amp;at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/958d/live/8cf37e80-b848-11f1-a2ec-c153af45023f.jpg"
   },
   "topStories": [
     {
       "id": "story-1",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "BBC Sport",
+      "time": "Sep 25",
+      "headline": "Flex your football brain with our daily quizzes",
+      "excerpt": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cxddvld0vqy3o?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ada7/live/27df4c70-9658-11f1-b2ab-0dd01740f9f6.jpg"
+    },
+    {
+      "id": "story-2",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "101 Great Goals",
+      "time": "Sep 24",
+      "headline": "&#8216;We can play better&#8217; says Klopp after Germany and Netherlands draw",
+      "excerpt": "Klopp and Xavi share the spoils on their international debuts",
+      "link": "https://www.101greatgoals.com/news/we-can-play-better-says-klopp-after-germany-and-netherlands-draw/",
+      "image": null
+    },
+    {
+      "id": "story-3",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "The Guardian",
@@ -24,7 +46,7 @@
       "image": "https://i.guim.co.uk/img/media/21a86f8f7e00d39b4eff84d5dfb159224a2c0ec7/353_0_3903_3122/master/3903.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e5bc0fa4b4907c68f97305f244829686"
     },
     {
-      "id": "story-2",
+      "id": "story-4",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -35,7 +57,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5eb3/live/f017e350-b85e-11f1-b1d1-571ed4d7ff2c.jpg"
     },
     {
-      "id": "story-3",
+      "id": "story-5",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -46,7 +68,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cdb6/live/a008a730-b842-11f1-b1d1-571ed4d7ff2c.jpg"
     },
     {
-      "id": "story-4",
+      "id": "story-6",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -57,7 +79,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8e31/live/e2c56960-b832-11f1-b4bc-39c67eb36497.jpg"
     },
     {
-      "id": "story-5",
+      "id": "story-7",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -68,7 +90,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8c58/live/2ce7a380-b862-11f1-93a5-e363768bffbc.jpg"
     },
     {
-      "id": "story-6",
+      "id": "story-8",
       "league": "Serie A",
       "dot": "#A9E6A0",
       "source": "The Guardian",
@@ -79,7 +101,7 @@
       "image": "https://i.guim.co.uk/img/media/2b4d159a596ea7eaf4f0fe5fcb8ea9051330119e/887_81_2225_1780/master/2225.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f9b23bf35d01013b8576f59f53c93a53"
     },
     {
-      "id": "story-7",
+      "id": "story-9",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -90,7 +112,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/73d2/live/3bc7fc20-b85c-11f1-a8b8-8b929801ec51.jpg"
     },
     {
-      "id": "story-8",
+      "id": "story-10",
       "league": "La Liga",
       "dot": "#E3B4F5",
       "source": "The Guardian",
@@ -101,7 +123,7 @@
       "image": "https://i.guim.co.uk/img/media/e07ebc008355e9b3193de2e1545e93d1e9b27f68/135_0_2687_2151/master/2687.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=fa1302581c9fae51d6508f9dd818bf1f"
     },
     {
-      "id": "story-9",
+      "id": "story-11",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -112,7 +134,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c98f/live/8c586740-b859-11f1-b1d1-571ed4d7ff2c.jpg"
     },
     {
-      "id": "story-10",
+      "id": "story-12",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "The Guardian",
@@ -123,7 +145,7 @@
       "image": "https://i.guim.co.uk/img/media/a345cbed7acaff2fdd5549aedcda8bccd5328618/80_0_4249_3400/master/4249.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=92bab8cee8c9e1e0cccea65d0c7f36b6"
     },
     {
-      "id": "story-11",
+      "id": "story-13",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -134,7 +156,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c3fd/live/50f70320-b861-11f1-a430-4d16ee157c41.png"
     },
     {
-      "id": "story-12",
+      "id": "story-14",
       "league": "Ligue 1",
       "dot": "#B8D4E8",
       "source": "BBC Sport",
@@ -145,7 +167,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/25fb/live/b5ee0f40-b82e-11f1-89f8-b5d404417bc8.jpg"
     },
     {
-      "id": "story-13",
+      "id": "story-15",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "The Guardian",
@@ -156,7 +178,7 @@
       "image": "https://i.guim.co.uk/img/media/469a49aee69c8b48fc8d3a3d41fc9d7af96889df/104_31_1007_806/master/1007.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=40dddefcfe9f9d41186e81239c51d0f1"
     },
     {
-      "id": "story-14",
+      "id": "story-16",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -167,7 +189,7 @@
       "image": "https://i.guim.co.uk/img/media/11938b092f305d47fc9932483dd1b3958963a6d8/219_0_4402_3521/master/4402.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f6f934d853c098203579a7cb6a9e306b"
     },
     {
-      "id": "story-15",
+      "id": "story-17",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -178,7 +200,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2c28/live/c20a8af0-b83e-11f1-aeab-cbd1b7662429.jpg"
     },
     {
-      "id": "story-16",
+      "id": "story-18",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -189,7 +211,7 @@
       "image": "https://i.guim.co.uk/img/media/fb742f6a4b2be6f387c4705aad94ad7fa7079037/513_497_2309_1847/master/2309.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3b250a6519a4098b44e1d4fca3753929"
     },
     {
-      "id": "story-17",
+      "id": "story-19",
       "league": "La Liga",
       "dot": "#E3B4F5",
       "source": "The Guardian",
@@ -200,7 +222,7 @@
       "image": "https://i.guim.co.uk/img/media/da998ddd178f2bc1bbb628d22a3cdb08ab877ccc/16_69_2285_1828/master/2285.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=4a36b546b31532120d15f6a410864e57"
     },
     {
-      "id": "story-18",
+      "id": "story-20",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -211,7 +233,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bb97/live/86605840-b7e9-11f1-b86f-f9f95031dc8c.jpg"
     },
     {
-      "id": "story-19",
+      "id": "story-21",
       "league": "Serie A",
       "dot": "#A9E6A0",
       "source": "The Guardian",
@@ -222,7 +244,7 @@
       "image": "https://i.guim.co.uk/img/media/6bcdd05b1fea90f3cdfaae879c4084181ea22423/47_0_1821_1456/master/1821.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=16544d29f5a5f08c769d0d91d1c99d95"
     },
     {
-      "id": "story-20",
+      "id": "story-22",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -233,7 +255,7 @@
       "image": "https://i.guim.co.uk/img/media/c57660f0e87edcd9f48627d556e43acabca56fc0/183_53_2551_2041/master/2551.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=7b1cf69d0eb7c085ea2355dc545c4f7b"
     },
     {
-      "id": "story-21",
+      "id": "story-23",
       "league": "La Liga",
       "dot": "#E3B4F5",
       "source": "The Guardian",
@@ -242,28 +264,6 @@
       "excerpt": "<p>The Seleção’s rebuild after their latest World Cup exit begins against the Socceroos in a…",
       "link": "https://www.theguardian.com/football/2026/sep/24/vinicius-junior-et-al-land-in-unlikely-outpost-of-townsville-as-brazil-reboot-begins",
       "image": "https://i.guim.co.uk/img/media/a26e045fd53d2641851b88dae676c92942cfb086/158_41_2150_1721/master/2150.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ee5ba1133e4cba916663cd5b332e039c"
-    },
-    {
-      "id": "story-22",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "BBC Sport",
-      "time": "Sep 24",
-      "headline": "Bradford 'reluctantly' let Preston talk to Alexander",
-      "excerpt": "Bradford City \"reluctantly\" give Championship strugglers Preston permission to speak to boss Graham Alexander about…",
-      "link": "https://www.bbc.co.uk/sport/football/articles/ckzdzm01ymdzo?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7ae7/live/30e233e0-b819-11f1-b19f-05e2dfdadad2.jpg"
-    },
-    {
-      "id": "story-23",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "BBC Sport",
-      "time": "Sep 24",
-      "headline": "Drinking at football matches - would fans welcome it?",
-      "excerpt": "Andy Burnham has long championed a repeal of the ban which prevents football supporters from…",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cq1kx140gwlzo?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3d61/live/70189f60-b812-11f1-9172-17f860da9de7.jpg"
     }
   ],
   "scoreboard": []
