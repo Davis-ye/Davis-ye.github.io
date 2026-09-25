@@ -1,19 +1,30 @@
 {
-  "updatedAt": "2026-09-25T08:06:02.842Z",
+  "updatedAt": "2026-09-25T08:22:59.078Z",
   "hero": {
     "id": "story-0",
     "league": "Football",
     "dot": "#AFC4AC",
-    "source": "BBC Sport",
+    "source": "The Guardian",
     "time": "Sep 25",
-    "headline": "FA Cup qualifying tie to be replayed after ref's error",
-    "excerpt": "Mulbarton Wanderers are \"deeply upset\" after being told they must replay their FA Cup qualifying…",
-    "link": "https://www.bbc.co.uk/sport/football/articles/cmjw5x569epvo?at_medium=RSS&amp;at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5a1c/live/4b0a9760-b8b6-11f1-8257-a79ccb54f692.jpg"
+    "headline": "Havertz injury latest; Haaland fires Norway to victory; England v Spain buildup: football news – live",
+    "excerpt": "<p>⚽ All the latest heading in to the weekend’s action<br>⚽ <a href=\"https://www.theguardian.com/football/2026/sep/25/luis-de-la-fuente-spain-world-keep-us-winning\">De la Fuente wants…",
+    "link": "https://www.theguardian.com/football/live/2026/sep/25/havertz-injury-latest-haaland-fires-norway-to-victory-england-v-spain-buildup-and-more-football-news-live",
+    "image": "https://i.guim.co.uk/img/media/0ee4c6f4c3702320b5f78f8d40bf9f2e96c38a2d/214_264_2696_2156/master/2696.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=63024654dbba605928709d24ce2a442a"
   },
   "topStories": [
     {
       "id": "story-1",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "BBC Sport",
+      "time": "Sep 25",
+      "headline": "FA Cup qualifying tie to be replayed after ref's error",
+      "excerpt": "Mulbarton Wanderers are \"deeply upset\" after being told they must replay their FA Cup qualifying…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cmjw5x569epvo?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5a1c/live/4b0a9760-b8b6-11f1-8257-a79ccb54f692.jpg"
+    },
+    {
+      "id": "story-2",
       "league": "Serie A",
       "dot": "#A9E6A0",
       "source": "The Guardian",
@@ -22,17 +33,6 @@
       "excerpt": "<ul><li><p>Forward gets second yellow card after equalising</p></li><li><p>Nations League match ends in 3-1 loss for Israel</p></li></ul><p>Israel’s…",
       "link": "https://www.theguardian.com/football/2026/sep/24/israel-saied-abu-farchi-sent-off-gun-gesture-celebration-austria-nations-league",
       "image": "https://i.guim.co.uk/img/media/2b4d159a596ea7eaf4f0fe5fcb8ea9051330119e/887_81_2225_1780/master/2225.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f9b23bf35d01013b8576f59f53c93a53"
-    },
-    {
-      "id": "story-2",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "The Guardian",
-      "time": "Sep 25",
-      "headline": "Havertz injury latest; Haaland fires Norway to victory; England v Spain buildup: football news – live",
-      "excerpt": "<p>⚽ All the latest heading in to the weekend’s action<br>⚽ <a href=\"https://www.theguardian.com/football/2026/sep/25/luis-de-la-fuente-spain-world-keep-us-winning\">De la Fuente wants…",
-      "link": "https://www.theguardian.com/football/live/2026/sep/25/havertz-injury-latest-haaland-fires-norway-to-victory-england-v-spain-buildup-and-more-football-news-live",
-      "image": "https://i.guim.co.uk/img/media/0ee4c6f4c3702320b5f78f8d40bf9f2e96c38a2d/214_264_2696_2156/master/2696.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=63024654dbba605928709d24ce2a442a"
     },
     {
       "id": "story-3",
@@ -117,7 +117,7 @@
       "dot": "#AFC4AC",
       "source": "BBC Sport",
       "time": "Sep 25",
-      "headline": "Why teenagers have become a huge part of football's transfer market",
+      "headline": "Why schoolboys have become a huge part of football's transfer market",
       "excerpt": "BBC Sport explores why clubs at the top of English football are increasingly trading academy…",
       "link": "https://www.bbc.co.uk/sport/football/articles/ckeq8vq7rwe7o?at_medium=RSS&amp;at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5398/live/c66d4f60-b389-11f1-ae81-31b49a394756.jpg"
