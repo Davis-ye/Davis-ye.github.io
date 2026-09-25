@@ -1,27 +1,27 @@
 {
-  "updatedAt": "2026-09-25T12:06:03.964Z",
+  "updatedAt": "2026-09-25T12:26:29.464Z",
   "hero": {
     "id": "story-0",
-    "league": "La Liga",
-    "dot": "#E3B4F5",
+    "league": "Premier League",
+    "dot": "#9CC0F0",
     "source": "The Guardian",
     "time": "Sep 25",
-    "headline": "Australia v Brazil: men’s international football friendly – live",
-    "excerpt": "<ul><li><p>Updates from the first of two games in Queensland</p></li><li><p>Any thoughts? Get in touch with an…",
-    "link": "https://www.theguardian.com/football/live/2026/sep/25/australia-socceroos-v-brazil-mens-international-football-live-kick-off",
-    "image": "https://i.guim.co.uk/img/media/6b021c53b70a2ad27582077bc9d719ef6fe67290/428_0_2318_1855/master/2318.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=0cbe27898bac3068feb57761cfc22b9c"
+    "headline": "Havertz returns to Arsenal; Bellingham scoops England award; Nations League buildup: football news – live",
+    "excerpt": "<p>⚽ All the latest heading in to the weekend’s action<br>⚽ <a href=\"https://www.theguardian.com/football/2026/sep/25/luis-de-la-fuente-spain-world-keep-us-winning\">De la Fuente wants…",
+    "link": "https://www.theguardian.com/football/live/2026/sep/25/havertz-injury-latest-haaland-fires-norway-to-victory-england-v-spain-buildup-and-more-football-news-live",
+    "image": "https://i.guim.co.uk/img/media/1e12b7ebd03a8d020876c136af3c14a5d85bf1d0/190_0_2785_2228/master/2785.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a2fd042c6230b0cc43cb78a84ed07805"
   },
   "topStories": [
     {
       "id": "story-1",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
+      "league": "La Liga",
+      "dot": "#E3B4F5",
       "source": "The Guardian",
       "time": "Sep 25",
-      "headline": "Havertz returns to Arsenal; England v Spain buildup; Haaland fires Norway to victory: football news – live",
-      "excerpt": "<p>⚽ All the latest heading in to the weekend’s action<br>⚽ <a href=\"https://www.theguardian.com/football/2026/sep/25/luis-de-la-fuente-spain-world-keep-us-winning\">De la Fuente wants…",
-      "link": "https://www.theguardian.com/football/live/2026/sep/25/havertz-injury-latest-haaland-fires-norway-to-victory-england-v-spain-buildup-and-more-football-news-live",
-      "image": "https://i.guim.co.uk/img/media/1e12b7ebd03a8d020876c136af3c14a5d85bf1d0/190_0_2785_2228/master/2785.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a2fd042c6230b0cc43cb78a84ed07805"
+      "headline": "Australia 1-1 Brazil: men’s international football friendly – live",
+      "excerpt": "<p>The Socceroos have to settle for a draw as the five-time world champions score a…",
+      "link": "https://www.theguardian.com/football/live/2026/sep/25/australia-socceroos-v-brazil-mens-international-football-live-kick-off",
+      "image": "https://i.guim.co.uk/img/media/b32142b03d71e9eb9956cce3ce2114363d70190b/716_0_4602_3681/master/4602.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=9ccbb10536af7c55a62ba4c39e17f5cb"
     },
     {
       "id": "story-2",
