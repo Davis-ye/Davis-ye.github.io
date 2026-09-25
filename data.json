@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-25T07:22:37.670Z",
+  "updatedAt": "2026-09-25T07:34:50.966Z",
   "hero": {
     "id": "story-0",
     "league": "Premier League",
@@ -40,7 +40,7 @@
       "dot": "#AFC4AC",
       "source": "The Guardian",
       "time": "Sep 25",
-      "headline": "De la Fuente: ‘What we did at the World Cup is not enough to keep us winning’",
+      "headline": "De la Fuente brings insatiable Spain to England knowing World Cup is not enough",
       "excerpt": "<p>Spain have won back-to-back major tournaments, but there is still one more to go to…",
       "link": "https://www.theguardian.com/football/2026/sep/25/luis-de-la-fuente-spain-world-keep-us-winning",
       "image": "https://i.guim.co.uk/img/media/5dd24a1e57fad012f61250cdcf19dfde4d0bcd26/40_0_1892_1513/master/1892.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=7adddefe7e67a9c5117f8d201c7dd30e"
@@ -113,6 +113,17 @@
     },
     {
       "id": "story-10",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "BBC Sport",
+      "time": "Sep 24",
+      "headline": "The FA Cup final assistant ref whose life was turned upside down by tumour discovery",
+      "excerpt": "Dan Robathan tells BBC Newsbeat how his career as a Premier League assistant referee was…",
+      "link": "https://www.bbc.co.uk/news/articles/c62kd2r65l1o?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9460/live/22536360-b82f-11f1-89f8-b5d404417bc8.jpg"
+    },
+    {
+      "id": "story-11",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "The Guardian",
@@ -123,7 +134,7 @@
       "image": "https://i.guim.co.uk/img/media/21a86f8f7e00d39b4eff84d5dfb159224a2c0ec7/353_0_3903_3122/master/3903.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e5bc0fa4b4907c68f97305f244829686"
     },
     {
-      "id": "story-11",
+      "id": "story-12",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -134,7 +145,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5eb3/live/f017e350-b85e-11f1-b1d1-571ed4d7ff2c.jpg"
     },
     {
-      "id": "story-12",
+      "id": "story-13",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -145,7 +156,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cdb6/live/a008a730-b842-11f1-b1d1-571ed4d7ff2c.jpg"
     },
     {
-      "id": "story-13",
+      "id": "story-14",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -156,7 +167,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8e31/live/e2c56960-b832-11f1-b4bc-39c67eb36497.jpg"
     },
     {
-      "id": "story-14",
+      "id": "story-15",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -167,7 +178,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8c58/live/2ce7a380-b862-11f1-93a5-e363768bffbc.jpg"
     },
     {
-      "id": "story-15",
+      "id": "story-16",
       "league": "Serie A",
       "dot": "#A9E6A0",
       "source": "The Guardian",
@@ -178,7 +189,7 @@
       "image": "https://i.guim.co.uk/img/media/2b4d159a596ea7eaf4f0fe5fcb8ea9051330119e/887_81_2225_1780/master/2225.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f9b23bf35d01013b8576f59f53c93a53"
     },
     {
-      "id": "story-16",
+      "id": "story-17",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -189,7 +200,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/73d2/live/3bc7fc20-b85c-11f1-a8b8-8b929801ec51.jpg"
     },
     {
-      "id": "story-17",
+      "id": "story-18",
       "league": "La Liga",
       "dot": "#E3B4F5",
       "source": "The Guardian",
@@ -200,7 +211,7 @@
       "image": "https://i.guim.co.uk/img/media/e07ebc008355e9b3193de2e1545e93d1e9b27f68/135_0_2687_2151/master/2687.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=fa1302581c9fae51d6508f9dd818bf1f"
     },
     {
-      "id": "story-18",
+      "id": "story-19",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -211,7 +222,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c98f/live/8c586740-b859-11f1-b1d1-571ed4d7ff2c.jpg"
     },
     {
-      "id": "story-19",
+      "id": "story-20",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "The Guardian",
@@ -222,7 +233,7 @@
       "image": "https://i.guim.co.uk/img/media/a345cbed7acaff2fdd5549aedcda8bccd5328618/80_0_4249_3400/master/4249.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=92bab8cee8c9e1e0cccea65d0c7f36b6"
     },
     {
-      "id": "story-20",
+      "id": "story-21",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -233,7 +244,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c3fd/live/50f70320-b861-11f1-a430-4d16ee157c41.png"
     },
     {
-      "id": "story-21",
+      "id": "story-22",
       "league": "Ligue 1",
       "dot": "#B8D4E8",
       "source": "BBC Sport",
@@ -244,7 +255,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/25fb/live/b5ee0f40-b82e-11f1-89f8-b5d404417bc8.jpg"
     },
     {
-      "id": "story-22",
+      "id": "story-23",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "The Guardian",
@@ -253,17 +264,6 @@
       "excerpt": "<ul><li><p>‘The disaster was not caused by alcohol,’ says fan group</p></li><li><p>Police say they had not intended…",
       "link": "https://www.theguardian.com/football/2026/sep/24/uk-football-police-unit-accused-of-bringing-hillsborough-into-alcohol-debate",
       "image": "https://i.guim.co.uk/img/media/469a49aee69c8b48fc8d3a3d41fc9d7af96889df/104_31_1007_806/master/1007.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=40dddefcfe9f9d41186e81239c51d0f1"
-    },
-    {
-      "id": "story-23",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "The Guardian",
-      "time": "Sep 24",
-      "headline": "James Garner keen to live up to ‘mini-Valverde’ tag after late England call",
-      "excerpt": "<p>Everton midfielder’s spirit and intelligence earned him another chance and he is eager to test…",
-      "link": "https://www.theguardian.com/football/2026/sep/24/james-garner-mini-valverde-late-england-call",
-      "image": "https://i.guim.co.uk/img/media/11938b092f305d47fc9932483dd1b3958963a6d8/219_0_4402_3521/master/4402.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f6f934d853c098203579a7cb6a9e306b"
     }
   ],
   "scoreboard": []
