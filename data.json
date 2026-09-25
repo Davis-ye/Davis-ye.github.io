@@ -1,27 +1,27 @@
 {
-  "updatedAt": "2026-09-25T14:51:09.907Z",
+  "updatedAt": "2026-09-25T15:00:19.414Z",
   "hero": {
     "id": "story-0",
-    "league": "Premier League",
-    "dot": "#9CC0F0",
-    "source": "The Guardian",
+    "league": "Football",
+    "dot": "#AFC4AC",
+    "source": "101 Great Goals",
     "time": "Sep 25",
-    "headline": "Manchester City: reports emerging over guilty verdict on almost all charges – live news and reaction",
-    "excerpt": "<p>⚽ All the latest heading in to the weekend’s action<br>⚽ <a href=\"https://www.theguardian.com/football/2026/sep/25/luis-de-la-fuente-spain-world-keep-us-winning\">De la Fuente wants…",
-    "link": "https://www.theguardian.com/football/live/2026/sep/25/havertz-injury-latest-haaland-fires-norway-to-victory-england-v-spain-buildup-and-more-football-news-live",
-    "image": "https://i.guim.co.uk/img/media/649ec4854d87003410d3610761b3954f2177e494/0_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=5c0e7e40bdb01da31db6d864d00a829b"
+    "headline": "USA vs Peru: Preview, expected line-ups, stats and where to watch",
+    "excerpt": "The USA face Peru in an international friendly on Saturday. Read our in-depth preview here.",
+    "link": "https://www.101greatgoals.com/match-previews/usa-vs-peru-preview-expected-line-ups-stats-and-where-to-watch/",
+    "image": null
   },
   "topStories": [
     {
       "id": "story-1",
       "league": "Premier League",
       "dot": "#9CC0F0",
-      "source": "101 Great Goals",
+      "source": "The Guardian",
       "time": "Sep 25",
-      "headline": "BREAKING: Man City found guilty on 114 charges relating to financial breaches",
-      "excerpt": "City are expected to appeal the reported decision",
-      "link": "https://www.101greatgoals.com/football/premier-league/man-city-found-guilty-114-charges/",
-      "image": null
+      "headline": "Manchester City: reports emerging over guilty verdict on almost all charges – live news and reaction",
+      "excerpt": "<p>⚽ All the latest heading in to the weekend’s action<br>⚽ <a href=\"https://www.theguardian.com/football/2026/sep/25/luis-de-la-fuente-spain-world-keep-us-winning\">De la Fuente wants…",
+      "link": "https://www.theguardian.com/football/live/2026/sep/25/havertz-injury-latest-haaland-fires-norway-to-victory-england-v-spain-buildup-and-more-football-news-live",
+      "image": "https://i.guim.co.uk/img/media/649ec4854d87003410d3610761b3954f2177e494/0_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=5c0e7e40bdb01da31db6d864d00a829b"
     },
     {
       "id": "story-2",
