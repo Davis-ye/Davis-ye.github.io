@@ -1,19 +1,30 @@
 {
-  "updatedAt": "2026-09-25T08:36:30.331Z",
+  "updatedAt": "2026-09-25T08:48:40.887Z",
   "hero": {
     "id": "story-0",
-    "league": "Football",
-    "dot": "#AFC4AC",
-    "source": "The Guardian",
+    "league": "Premier League",
+    "dot": "#9CC0F0",
+    "source": "101 Great Goals",
     "time": "Sep 25",
-    "headline": "Havertz injury latest; Haaland fires Norway to victory; England v Spain buildup: football news – live",
-    "excerpt": "<p>⚽ All the latest heading in to the weekend’s action<br>⚽ <a href=\"https://www.theguardian.com/football/2026/sep/25/luis-de-la-fuente-spain-world-keep-us-winning\">De la Fuente wants…",
-    "link": "https://www.theguardian.com/football/live/2026/sep/25/havertz-injury-latest-haaland-fires-norway-to-victory-england-v-spain-buildup-and-more-football-news-live",
-    "image": "https://i.guim.co.uk/img/media/0ee4c6f4c3702320b5f78f8d40bf9f2e96c38a2d/214_264_2696_2156/master/2696.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=63024654dbba605928709d24ce2a442a"
+    "headline": "Brobbey to be replaced in Netherlands squad after Sunderland striker injured in Germany draw",
+    "excerpt": "There were worrying scenes for the Black Cats as Brobbey limped off.",
+    "link": "https://www.101greatgoals.com/football/premier-league/brobbey-replaced-netherlands-squad-sunderland-striker-injured-germany-draw/",
+    "image": null
   },
   "topStories": [
     {
       "id": "story-1",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "The Guardian",
+      "time": "Sep 25",
+      "headline": "Havertz injury latest; Haaland fires Norway to victory; England v Spain buildup: football news – live",
+      "excerpt": "<p>⚽ All the latest heading in to the weekend’s action<br>⚽ <a href=\"https://www.theguardian.com/football/2026/sep/25/luis-de-la-fuente-spain-world-keep-us-winning\">De la Fuente wants…",
+      "link": "https://www.theguardian.com/football/live/2026/sep/25/havertz-injury-latest-haaland-fires-norway-to-victory-england-v-spain-buildup-and-more-football-news-live",
+      "image": "https://i.guim.co.uk/img/media/0ee4c6f4c3702320b5f78f8d40bf9f2e96c38a2d/214_264_2696_2156/master/2696.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=63024654dbba605928709d24ce2a442a"
+    },
+    {
+      "id": "story-2",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -24,7 +35,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5a1c/live/4b0a9760-b8b6-11f1-8257-a79ccb54f692.jpg"
     },
     {
-      "id": "story-2",
+      "id": "story-3",
       "league": "Serie A",
       "dot": "#A9E6A0",
       "source": "The Guardian",
@@ -35,7 +46,7 @@
       "image": "https://i.guim.co.uk/img/media/2b4d159a596ea7eaf4f0fe5fcb8ea9051330119e/887_81_2225_1780/master/2225.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f9b23bf35d01013b8576f59f53c93a53"
     },
     {
-      "id": "story-3",
+      "id": "story-4",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -46,7 +57,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0756/live/0f768cf0-b82e-11f1-89f8-b5d404417bc8.jpg"
     },
     {
-      "id": "story-4",
+      "id": "story-5",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -55,17 +66,6 @@
       "excerpt": "Lee Carsley is aware of the challenge ahead, but also the lasting impact more success…",
       "link": "https://www.bbc.co.uk/sport/football/articles/cmqjk1k254dlo?at_medium=RSS&amp;at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fb34/live/1c532780-b842-11f1-bc1f-3f186ca4140c.jpg"
-    },
-    {
-      "id": "story-5",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "101 Great Goals",
-      "time": "Sep 25",
-      "headline": "Arsenal&#8217;s Havertz and Bayern star Musiala have scans after Germany injuries",
-      "excerpt": "The Gunners and Die Roten face an anxious wait.",
-      "link": "https://www.101greatgoals.com/football/premier-league/arsenal-havertz-bayern-star-musiala-scans-germany-injuries/",
-      "image": null
     },
     {
       "id": "story-6",
