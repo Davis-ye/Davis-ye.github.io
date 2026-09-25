@@ -1,27 +1,27 @@
 {
-  "updatedAt": "2026-09-25T21:44:57.514Z",
+  "updatedAt": "2026-09-25T21:54:07.934Z",
   "hero": {
     "id": "story-0",
-    "league": "Football",
-    "dot": "#AFC4AC",
-    "source": "101 Great Goals",
+    "league": "La Liga",
+    "dot": "#E3B4F5",
+    "source": "The Guardian",
     "time": "Sep 25",
-    "headline": "Nations League results today: Belgium win in Italy as Van Bommel beats Mancini",
-    "excerpt": "Italy's misery continued after missing the World Cup 2026",
-    "link": "https://www.101greatgoals.com/football/internationals/nations-league-results-today-results-scores-italy-belgium/",
-    "image": null
+    "headline": "Nations League: Mbappé limps off after scoring France winner in Turkey",
+    "excerpt": "<ul><li><p>France beat 10-man Turkey 1-0 to start Zidane era</p></li><li><p>Italy 0-2 Belgium, Georgia 0-1 Northern Ireland</p></li></ul><p>Kylian…",
+    "link": "https://www.theguardian.com/football/2026/sep/25/nations-league-roundup-turkey-france-kylian-mbappe-italy-belgium",
+    "image": "https://i.guim.co.uk/img/media/ae983f77569f1e50e47dead0c246c149483bdbb0/90_0_2938_2351/master/2938.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d4f4d495729eb9b9ce86ea4ef2cc74f5"
   },
   "topStories": [
     {
       "id": "story-1",
-      "league": "La Liga",
-      "dot": "#E3B4F5",
-      "source": "The Guardian",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "101 Great Goals",
       "time": "Sep 25",
-      "headline": "Turkey 0-1 France, Italy 0-2 Belgium, Georgia 0-1 Northern Ireland: Nations League – as it happened",
-      "excerpt": "<p>Zinedine Zidane started his France era with a win in Turkey but Roberto Mancini’s Italy…",
-      "link": "https://www.theguardian.com/football/live/2026/sep/25/turkey-v-france-italy-v-belgium-and-more-nations-league-clockwatch-live",
-      "image": "https://i.guim.co.uk/img/media/31c7cbe73d259ba001bc1cb3149b22b172d10a1d/0_150_3906_3125/master/3906.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=29a4bd5a1ed43e66971e613bf0aa1747"
+      "headline": "Nations League results today: Belgium win in Italy as Van Bommel beats Mancini",
+      "excerpt": "Italy's misery continued after missing the World Cup 2026",
+      "link": "https://www.101greatgoals.com/football/internationals/nations-league-results-today-results-scores-italy-belgium/",
+      "image": null
     },
     {
       "id": "story-2",
