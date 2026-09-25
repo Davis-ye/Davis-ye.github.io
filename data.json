@@ -1,41 +1,19 @@
 {
-  "updatedAt": "2026-09-25T09:57:56.939Z",
+  "updatedAt": "2026-09-25T10:09:17.393Z",
   "hero": {
     "id": "story-0",
-    "league": "Football",
-    "dot": "#AFC4AC",
-    "source": "BBC Sport",
+    "league": "La Liga",
+    "dot": "#E3B4F5",
+    "source": "The Guardian",
     "time": "Sep 25",
-    "headline": "Aberdeen lose 500 semi-final tickets after pitch invasion",
-    "excerpt": "Aberdeen have their ticket allocation cut for the Premier Sports Cup semi-final against Rangers following…",
-    "link": "https://www.bbc.co.uk/sport/football/articles/cq62jxymr012o?at_medium=RSS&amp;at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/da7a/live/948aec00-b8c0-11f1-8668-c7d18ac42397.jpg"
+    "headline": "Australia v Brazil: men’s international football friendly – live",
+    "excerpt": "<ul><li><p>Updates from the first of two games in Queensland</p></li><li><p>Kick-off time in Townsville is 8pm AEST</p></li><li><p>Any…",
+    "link": "https://www.theguardian.com/football/live/2026/sep/25/australia-socceroos-v-brazil-mens-international-football-live-kick-off",
+    "image": "https://i.guim.co.uk/img/media/6cb209b2692abf69fb74b576e3740bc3768e25f7/842_0_6070_4856/master/6070.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ba06e96a95d5079d96434b0bdd1527c3"
   },
   "topStories": [
     {
       "id": "story-1",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "The Guardian",
-      "time": "Sep 25",
-      "headline": "Australia v Brazil: men’s international football friendly – live",
-      "excerpt": "<ul><li><p>Updates from the first of two games in Queensland</p></li><li><p>Kick-off time in Townsville is 8pm AEST</p></li><li><p>Any…",
-      "link": "https://www.theguardian.com/football/live/2026/sep/25/australia-socceroos-v-brazil-mens-international-football-live-kick-off",
-      "image": "https://i.guim.co.uk/img/media/76a2fdad6b82a2ee988a59f156fa20d68733aa02/341_0_3526_2821/master/3526.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=fbb52b1a8a06af964af04429c57a2467"
-    },
-    {
-      "id": "story-2",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "101 Great Goals",
-      "time": "Sep 25",
-      "headline": "Tip of the Day: Zidane to get off the mark and Mancini to make losing return",
-      "excerpt": "Three Nations League clashes feature in our Tip of the Day for Thursday.",
-      "link": "https://www.101greatgoals.com/football/tip-of-the-day-zidane-mancini/",
-      "image": null
-    },
-    {
-      "id": "story-3",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -44,6 +22,28 @@
       "excerpt": "<p>⚽ All the latest heading in to the weekend’s action<br>⚽ <a href=\"https://www.theguardian.com/football/2026/sep/25/luis-de-la-fuente-spain-world-keep-us-winning\">De la Fuente wants…",
       "link": "https://www.theguardian.com/football/live/2026/sep/25/havertz-injury-latest-haaland-fires-norway-to-victory-england-v-spain-buildup-and-more-football-news-live",
       "image": "https://i.guim.co.uk/img/media/0ee4c6f4c3702320b5f78f8d40bf9f2e96c38a2d/214_264_2696_2156/master/2696.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=63024654dbba605928709d24ce2a442a"
+    },
+    {
+      "id": "story-2",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "BBC Sport",
+      "time": "Sep 25",
+      "headline": "Aberdeen lose 500 semi-final tickets after pitch invasion",
+      "excerpt": "Aberdeen have their ticket allocation cut for the Premier Sports Cup semi-final against Rangers following…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cq62jxymr012o?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/da7a/live/948aec00-b8c0-11f1-8668-c7d18ac42397.jpg"
+    },
+    {
+      "id": "story-3",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "101 Great Goals",
+      "time": "Sep 25",
+      "headline": "Tip of the Day: Zidane to get off the mark and Mancini to make losing return",
+      "excerpt": "Three Nations League clashes feature in our Tip of the Day for Thursday.",
+      "link": "https://www.101greatgoals.com/football/tip-of-the-day-zidane-mancini/",
+      "image": null
     },
     {
       "id": "story-4",
