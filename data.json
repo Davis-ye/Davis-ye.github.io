@@ -1,19 +1,41 @@
 {
-  "updatedAt": "2026-09-25T15:15:10.977Z",
+  "updatedAt": "2026-09-25T15:29:34.228Z",
   "hero": {
     "id": "story-0",
     "league": "Premier League",
     "dot": "#9CC0F0",
-    "source": "BBC Sport",
+    "source": "The Guardian",
     "time": "Sep 25",
-    "headline": "Man City found guilty of breaking financial rules - sources",
-    "excerpt": "Manchester City are found guilty of breaking the majority of the 115 financial rules they…",
-    "link": "https://www.bbc.co.uk/sport/football/articles/cr89jjwy4nqpo?at_medium=RSS&amp;at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6514/live/987b3830-b8f0-11f1-a698-ff5dd8cb1a06.jpg"
+    "headline": "Manchester City: reports emerging over guilty verdict on almost all charges – live news and reaction",
+    "excerpt": "<p>⚽ All the latest heading in to the weekend’s action<br>⚽ <a href=\"https://www.theguardian.com/football/2026/sep/25/luis-de-la-fuente-spain-world-keep-us-winning\">De la Fuente wants…",
+    "link": "https://www.theguardian.com/football/live/2026/sep/25/havertz-injury-latest-haaland-fires-norway-to-victory-england-v-spain-buildup-and-more-football-news-live",
+    "image": "https://i.guim.co.uk/img/media/649ec4854d87003410d3610761b3954f2177e494/0_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=5c0e7e40bdb01da31db6d864d00a829b"
   },
   "topStories": [
     {
       "id": "story-1",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "BBC Sport",
+      "time": "Sep 25",
+      "headline": "Man City found guilty of breaking financial rules - sources",
+      "excerpt": "Manchester City are found guilty of breaking the majority of the 115 financial rules they…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cr89jjwy4nqpo?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6514/live/987b3830-b8f0-11f1-a698-ff5dd8cb1a06.jpg"
+    },
+    {
+      "id": "story-2",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "The Guardian",
+      "time": "Sep 25",
+      "headline": "Mauricio Pochettino regrets not being ‘more involved’ with Balogun decision",
+      "excerpt": "<ul><li><p>US striker had red card ban suspended for Belgium game</p></li><li><p>Trump said he called Infantino asking…",
+      "link": "https://www.theguardian.com/football/2026/sep/25/pochettino-balogun-comments",
+      "image": "https://i.guim.co.uk/img/media/52aca7b78fa84bf004a7c5f5b011f5ad33799fb0/569_127_2792_2234/master/2792.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=2e5a1f0f8a1a4537e3f2951bdd24f73a"
+    },
+    {
+      "id": "story-3",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "101 Great Goals",
@@ -24,7 +46,7 @@
       "image": null
     },
     {
-      "id": "story-2",
+      "id": "story-4",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -32,21 +54,10 @@
       "headline": "What could the potential sanctions for Man City be?",
       "excerpt": "Football finance expert Kieran Maguire says the potential sanctions for Manchester City will be 'significant'…",
       "link": "https://www.bbc.co.uk/sport/football/videos/cj62ee3zydxlo?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b53a/live/a815d160-b8f0-11f1-b1d1-571ed4d7ff2c.jpg"
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c0db/live/85271ca0-b8f4-11f1-b1d1-571ed4d7ff2c.jpg"
     },
     {
-      "id": "story-3",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "The Guardian",
-      "time": "Sep 25",
-      "headline": "Manchester City: reports emerging over guilty verdict on almost all charges – live news and reaction",
-      "excerpt": "<p>⚽ All the latest heading in to the weekend’s action<br>⚽ <a href=\"https://www.theguardian.com/football/2026/sep/25/luis-de-la-fuente-spain-world-keep-us-winning\">De la Fuente wants…",
-      "link": "https://www.theguardian.com/football/live/2026/sep/25/havertz-injury-latest-haaland-fires-norway-to-victory-england-v-spain-buildup-and-more-football-news-live",
-      "image": "https://i.guim.co.uk/img/media/649ec4854d87003410d3610761b3954f2177e494/0_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=5c0e7e40bdb01da31db6d864d00a829b"
-    },
-    {
-      "id": "story-4",
+      "id": "story-5",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "The Guardian",
@@ -57,7 +68,7 @@
       "image": "https://i.guim.co.uk/img/media/dad16cfa756c5f9b59d3949fe8fe4f8221a1b8ed/273_0_2730_2184/master/2730.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=85f81b3cd5dfc6e271e8c2091542e91b"
     },
     {
-      "id": "story-5",
+      "id": "story-6",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -68,7 +79,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c135/live/fce590b0-b8e9-11f1-ba42-19e1456ae537.jpg"
     },
     {
-      "id": "story-6",
+      "id": "story-7",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -79,7 +90,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5216/live/ea525b80-b8ea-11f1-8e38-ff13e96f88b3.jpg"
     },
     {
-      "id": "story-7",
+      "id": "story-8",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -90,7 +101,7 @@
       "image": "https://i.guim.co.uk/img/media/34412b4814a834185c7eb16eadfc46a33a3300ab/766_0_4892_3913/master/4892.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f985cde4e8792bafd48985fb0ab3aac7"
     },
     {
-      "id": "story-8",
+      "id": "story-9",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -101,7 +112,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7d60/live/d13bffa0-b8ce-11f1-a430-4d16ee157c41.jpg"
     },
     {
-      "id": "story-9",
+      "id": "story-10",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "The Guardian",
@@ -112,7 +123,7 @@
       "image": "https://i.guim.co.uk/img/media/bf2cee174bb7d4e4334b61848f48da42546ad9ab/381_111_2177_1741/master/2177.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=228430b701e77298a14bae27c31bc379"
     },
     {
-      "id": "story-10",
+      "id": "story-11",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -123,7 +134,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/597c/live/c2c52b50-b8e1-11f1-ba42-19e1456ae537.jpg"
     },
     {
-      "id": "story-11",
+      "id": "story-12",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -134,7 +145,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5a1c/live/4b0a9760-b8b6-11f1-8257-a79ccb54f692.jpg"
     },
     {
-      "id": "story-12",
+      "id": "story-13",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -145,7 +156,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d9a1/live/237c0b00-b8d6-11f1-a55c-915ce2fce07b.jpg"
     },
     {
-      "id": "story-13",
+      "id": "story-14",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "The Guardian",
@@ -156,7 +167,7 @@
       "image": "https://i.guim.co.uk/img/media/3b5dd99ec368814b9009b33c2e4943fc36a73911/885_284_4040_3232/master/4040.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=09a51ff940758a7b5e9b5e26739440ec"
     },
     {
-      "id": "story-14",
+      "id": "story-15",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -167,7 +178,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/332b/live/4a246600-b8ca-11f1-ad1f-538855f30ba1.jpg"
     },
     {
-      "id": "story-15",
+      "id": "story-16",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -178,7 +189,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9184/live/060c9cf0-b8b4-11f1-8257-a79ccb54f692.jpg"
     },
     {
-      "id": "story-16",
+      "id": "story-17",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "The Guardian",
@@ -189,7 +200,7 @@
       "image": "https://i.guim.co.uk/img/media/f5b0a293416a437467df537da17dea0ac393e1fc/636_11_4145_3315/master/4145.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c91dedad2b0b890f2267e955a01df843"
     },
     {
-      "id": "story-17",
+      "id": "story-18",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -200,7 +211,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aec0/live/fd14b290-e25e-11ef-a819-277e390a7a08.jpg"
     },
     {
-      "id": "story-18",
+      "id": "story-19",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -211,7 +222,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5624/live/44eb13b0-b8c9-11f1-ad1f-538855f30ba1.jpg"
     },
     {
-      "id": "story-19",
+      "id": "story-20",
       "league": "Ligue 1",
       "dot": "#B8D4E8",
       "source": "BBC Sport",
@@ -222,7 +233,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f8ab/live/c3a1d910-b8c8-11f1-b1d1-571ed4d7ff2c.png"
     },
     {
-      "id": "story-20",
+      "id": "story-21",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "The Guardian",
@@ -233,7 +244,7 @@
       "image": "https://i.guim.co.uk/img/media/50c07be36e607a8f0781f969e9ca31f905c1be06/408_0_4080_3265/master/4080.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=2ad6e8e41b126d0d301263ef0b1274ca"
     },
     {
-      "id": "story-21",
+      "id": "story-22",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -244,7 +255,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/da7a/live/948aec00-b8c0-11f1-8668-c7d18ac42397.jpg"
     },
     {
-      "id": "story-22",
+      "id": "story-23",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -253,17 +264,6 @@
       "excerpt": "<ul><li><p>Four leagues says Fifa governance ‘not fit for purpose’</p></li><li><p>They criticise ‘expansionism’ and want more input</p></li></ul><p>The…",
       "link": "https://www.theguardian.com/football/2026/sep/25/gianni-infantino-fifa-pressure-reform-premier-league-bundesliga-la-liga-serie-a",
       "image": "https://i.guim.co.uk/img/media/d58fe9f0a71049f6af73c3837475602aeef38bb9/111_0_2809_2248/master/2809.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=978c4d1b0007c37a0bc82db0e6ad3dae"
-    },
-    {
-      "id": "story-23",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "The Guardian",
-      "time": "Sep 25",
-      "headline": "Mauricio Pochettino regrets not being ‘more involved’ with Balogun decision",
-      "excerpt": "<ul><li><p>US striker had red card ban suspended for Belgium game</p></li><li><p>Trump said he called Infantino asking…",
-      "link": "https://www.theguardian.com/football/2026/sep/25/pochettino-balogun-comments",
-      "image": "https://i.guim.co.uk/img/media/52aca7b78fa84bf004a7c5f5b011f5ad33799fb0/569_127_2792_2234/master/2792.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=2e5a1f0f8a1a4537e3f2951bdd24f73a"
     }
   ],
   "scoreboard": []
