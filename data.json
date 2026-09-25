@@ -1,27 +1,27 @@
 {
-  "updatedAt": "2026-09-25T17:27:41.540Z",
+  "updatedAt": "2026-09-25T17:39:38.604Z",
   "hero": {
     "id": "story-0",
-    "league": "Premier League",
-    "dot": "#9CC0F0",
-    "source": "The Guardian",
+    "league": "Football",
+    "dot": "#AFC4AC",
+    "source": "101 Great Goals",
     "time": "Sep 25",
-    "headline": "Manchester City guilty of breaching Premier League’s financial fair play rules – live reaction",
-    "excerpt": "<ul><li><p><a href=\"https://www.theguardian.com/football/2026/sep/25/manchester-city-found-guilty-of-breaking-premier-leagues-financial-fair-play-rules\">Full story</a> | Club expected to appeal against ruling</p></li><li><p><a href=\"https://www.theguardian.com/football/2026/sep/25/manchester-city-abu-dhabi-era-trophies-transfers-and-charges\">Timeline: City trophies and charges</a>…",
-    "link": "https://www.theguardian.com/football/live/2026/sep/25/havertz-injury-latest-haaland-fires-norway-to-victory-england-v-spain-buildup-and-more-football-news-live",
-    "image": "https://i.guim.co.uk/img/media/a74de0ff9892462728441d401296e1d32e81ef9e/380_0_6901_5522/master/6901.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=96f13e1d047e67e141eef75ff6f7d542"
+    "headline": "Turkey vs France live: Confirmed teams and line ups",
+    "excerpt": "Confirmed teams as Turkey and France meet in the Nations League",
+    "link": "https://www.101greatgoals.com/football/internationals/turkey-vs-france-live-teams-line-ups-where-to-watch-tv-channel-live-online-stream-nations-league/",
+    "image": null
   },
   "topStories": [
     {
       "id": "story-1",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "101 Great Goals",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "The Guardian",
       "time": "Sep 25",
-      "headline": "Thomas Tuchel admits Cole Palmer is missing &#8216;way too many camps&#8217; with England",
-      "excerpt": "Thomas Tuchel does not appear to be happy with Cole Palmer.",
-      "link": "https://www.101greatgoals.com/football/internationals/thomas-tuchel-admits-cole-palmer-missing-too-many-camps-england/",
-      "image": null
+      "headline": "Manchester City guilty of breaching Premier League’s financial fair play rules – live reaction",
+      "excerpt": "<ul><li><p><a href=\"https://www.theguardian.com/football/2026/sep/25/manchester-city-found-guilty-of-breaking-premier-leagues-financial-fair-play-rules\">Full story</a> | Club expected to appeal against ruling</p></li><li><p><a href=\"https://www.theguardian.com/football/2026/sep/25/manchester-city-abu-dhabi-era-trophies-transfers-and-charges\">Timeline: City trophies and charges</a>…",
+      "link": "https://www.theguardian.com/football/live/2026/sep/25/havertz-injury-latest-haaland-fires-norway-to-victory-england-v-spain-buildup-and-more-football-news-live",
+      "image": "https://i.guim.co.uk/img/media/a74de0ff9892462728441d401296e1d32e81ef9e/380_0_6901_5522/master/6901.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=96f13e1d047e67e141eef75ff6f7d542"
     },
     {
       "id": "story-2",
