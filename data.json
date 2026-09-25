@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-09-25T12:42:57.696Z",
+  "updatedAt": "2026-09-25T12:56:01.261Z",
   "hero": {
     "id": "story-0",
     "league": "Football",
     "dot": "#AFC4AC",
-    "source": "BBC Sport",
+    "source": "101 Great Goals",
     "time": "Sep 25",
-    "headline": "FA Cup tie to be replayed after ref's error - will it set a precedent?",
-    "excerpt": "Mulbarton Wanderers are \"deeply upset\" after being told they must replay their FA Cup qualifying…",
-    "link": "https://www.bbc.co.uk/sport/football/articles/cmjw5x569epvo?at_medium=RSS&amp;at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5a1c/live/4b0a9760-b8b6-11f1-8257-a79ccb54f692.jpg"
+    "headline": "England v Spain: Preview, expected line-ups, stats and where to watch",
+    "excerpt": "England face Spain in the Nations League on Saturday Evening. Read our in-depth preview here.",
+    "link": "https://www.101greatgoals.com/match-previews/england-v-spain-preview-expected-line-ups-stats-and-where-to-watch/",
+    "image": null
   },
   "topStories": [
     {
@@ -25,25 +25,25 @@
     },
     {
       "id": "story-2",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "BBC Sport",
+      "time": "Sep 25",
+      "headline": "FA Cup tie to be replayed after ref's error - will it set a precedent?",
+      "excerpt": "Mulbarton Wanderers are \"deeply upset\" after being told they must replay their FA Cup qualifying…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cmjw5x569epvo?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5a1c/live/4b0a9760-b8b6-11f1-8257-a79ccb54f692.jpg"
+    },
+    {
+      "id": "story-3",
       "league": "La Liga",
       "dot": "#E3B4F5",
       "source": "The Guardian",
       "time": "Sep 25",
-      "headline": "Australia 1-1 Brazil: men’s international football friendly – live",
+      "headline": "Australia 1-1 Brazil: men’s international football friendly – live reaction",
       "excerpt": "<p>The Socceroos have to settle for a draw as the five-time world champions score a…",
       "link": "https://www.theguardian.com/football/live/2026/sep/25/australia-socceroos-v-brazil-mens-international-football-live-kick-off",
       "image": "https://i.guim.co.uk/img/media/b32142b03d71e9eb9956cce3ce2114363d70190b/716_0_4602_3681/master/4602.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=9ccbb10536af7c55a62ba4c39e17f5cb"
-    },
-    {
-      "id": "story-3",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "101 Great Goals",
-      "time": "Sep 25",
-      "headline": "Australia 1-1 Brazil: Rayan rescues Selecao after Irankunda stunner",
-      "excerpt": "Brazil were unconvincing in their first game since the World Cup.",
-      "link": "https://www.101greatgoals.com/football/internationals/australia-brazil-report/",
-      "image": null
     },
     {
       "id": "story-4",
