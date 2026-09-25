@@ -1,30 +1,41 @@
 {
-  "updatedAt": "2026-09-25T12:56:01.261Z",
+  "updatedAt": "2026-09-25T13:07:05.269Z",
   "hero": {
     "id": "story-0",
-    "league": "Football",
-    "dot": "#AFC4AC",
-    "source": "101 Great Goals",
+    "league": "Premier League",
+    "dot": "#9CC0F0",
+    "source": "The Guardian",
     "time": "Sep 25",
-    "headline": "England v Spain: Preview, expected line-ups, stats and where to watch",
-    "excerpt": "England face Spain in the Nations League on Saturday Evening. Read our in-depth preview here.",
-    "link": "https://www.101greatgoals.com/match-previews/england-v-spain-preview-expected-line-ups-stats-and-where-to-watch/",
-    "image": null
+    "headline": "Havertz returns to Arsenal; Bellingham scoops England award; Nations League buildup: football news – live",
+    "excerpt": "<p>⚽ All the latest heading in to the weekend’s action<br>⚽ <a href=\"https://www.theguardian.com/football/2026/sep/25/luis-de-la-fuente-spain-world-keep-us-winning\">De la Fuente wants…",
+    "link": "https://www.theguardian.com/football/live/2026/sep/25/havertz-injury-latest-haaland-fires-norway-to-victory-england-v-spain-buildup-and-more-football-news-live",
+    "image": "https://i.guim.co.uk/img/media/1e12b7ebd03a8d020876c136af3c14a5d85bf1d0/190_0_2785_2228/master/2785.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a2fd042c6230b0cc43cb78a84ed07805"
   },
   "topStories": [
     {
       "id": "story-1",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "The Guardian",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "101 Great Goals",
       "time": "Sep 25",
-      "headline": "Havertz returns to Arsenal; Bellingham scoops England award; Nations League buildup: football news – live",
-      "excerpt": "<p>⚽ All the latest heading in to the weekend’s action<br>⚽ <a href=\"https://www.theguardian.com/football/2026/sep/25/luis-de-la-fuente-spain-world-keep-us-winning\">De la Fuente wants…",
-      "link": "https://www.theguardian.com/football/live/2026/sep/25/havertz-injury-latest-haaland-fires-norway-to-victory-england-v-spain-buildup-and-more-football-news-live",
-      "image": "https://i.guim.co.uk/img/media/1e12b7ebd03a8d020876c136af3c14a5d85bf1d0/190_0_2785_2228/master/2785.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a2fd042c6230b0cc43cb78a84ed07805"
+      "headline": "England v Spain: Preview, expected line-ups, stats and where to watch",
+      "excerpt": "England face Spain in the Nations League on Saturday Evening. Read our in-depth preview here.",
+      "link": "https://www.101greatgoals.com/match-previews/england-v-spain-preview-expected-line-ups-stats-and-where-to-watch/",
+      "image": null
     },
     {
       "id": "story-2",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "The Guardian",
+      "time": "Sep 25",
+      "headline": "Socceroos denied famous win as late Brazil goal cancels out Irankunda stunner",
+      "excerpt": "<ul><li><p>Australia 1-1 Brazil in international friendly in Townsville</p></li><li><p>Irankunda hits free kick before Rayan equalises deep…",
+      "link": "https://www.theguardian.com/football/2026/sep/25/australia-socceroos-brazil-irankunda-international-friendly-match-report",
+      "image": "https://i.guim.co.uk/img/media/dad16cfa756c5f9b59d3949fe8fe4f8221a1b8ed/273_0_2730_2184/master/2730.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=85f81b3cd5dfc6e271e8c2091542e91b"
+    },
+    {
+      "id": "story-3",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -33,17 +44,6 @@
       "excerpt": "Mulbarton Wanderers are \"deeply upset\" after being told they must replay their FA Cup qualifying…",
       "link": "https://www.bbc.co.uk/sport/football/articles/cmjw5x569epvo?at_medium=RSS&amp;at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5a1c/live/4b0a9760-b8b6-11f1-8257-a79ccb54f692.jpg"
-    },
-    {
-      "id": "story-3",
-      "league": "La Liga",
-      "dot": "#E3B4F5",
-      "source": "The Guardian",
-      "time": "Sep 25",
-      "headline": "Australia 1-1 Brazil: men’s international football friendly – live reaction",
-      "excerpt": "<p>The Socceroos have to settle for a draw as the five-time world champions score a…",
-      "link": "https://www.theguardian.com/football/live/2026/sep/25/australia-socceroos-v-brazil-mens-international-football-live-kick-off",
-      "image": "https://i.guim.co.uk/img/media/b32142b03d71e9eb9956cce3ce2114363d70190b/716_0_4602_3681/master/4602.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=9ccbb10536af7c55a62ba4c39e17f5cb"
     },
     {
       "id": "story-4",
