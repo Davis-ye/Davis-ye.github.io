@@ -1,19 +1,30 @@
 {
-  "updatedAt": "2026-09-25T12:26:29.464Z",
+  "updatedAt": "2026-09-25T12:42:57.696Z",
   "hero": {
     "id": "story-0",
-    "league": "Premier League",
-    "dot": "#9CC0F0",
-    "source": "The Guardian",
+    "league": "Football",
+    "dot": "#AFC4AC",
+    "source": "BBC Sport",
     "time": "Sep 25",
-    "headline": "Havertz returns to Arsenal; Bellingham scoops England award; Nations League buildup: football news – live",
-    "excerpt": "<p>⚽ All the latest heading in to the weekend’s action<br>⚽ <a href=\"https://www.theguardian.com/football/2026/sep/25/luis-de-la-fuente-spain-world-keep-us-winning\">De la Fuente wants…",
-    "link": "https://www.theguardian.com/football/live/2026/sep/25/havertz-injury-latest-haaland-fires-norway-to-victory-england-v-spain-buildup-and-more-football-news-live",
-    "image": "https://i.guim.co.uk/img/media/1e12b7ebd03a8d020876c136af3c14a5d85bf1d0/190_0_2785_2228/master/2785.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a2fd042c6230b0cc43cb78a84ed07805"
+    "headline": "FA Cup tie to be replayed after ref's error - will it set a precedent?",
+    "excerpt": "Mulbarton Wanderers are \"deeply upset\" after being told they must replay their FA Cup qualifying…",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cmjw5x569epvo?at_medium=RSS&amp;at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5a1c/live/4b0a9760-b8b6-11f1-8257-a79ccb54f692.jpg"
   },
   "topStories": [
     {
       "id": "story-1",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "The Guardian",
+      "time": "Sep 25",
+      "headline": "Havertz returns to Arsenal; Bellingham scoops England award; Nations League buildup: football news – live",
+      "excerpt": "<p>⚽ All the latest heading in to the weekend’s action<br>⚽ <a href=\"https://www.theguardian.com/football/2026/sep/25/luis-de-la-fuente-spain-world-keep-us-winning\">De la Fuente wants…",
+      "link": "https://www.theguardian.com/football/live/2026/sep/25/havertz-injury-latest-haaland-fires-norway-to-victory-england-v-spain-buildup-and-more-football-news-live",
+      "image": "https://i.guim.co.uk/img/media/1e12b7ebd03a8d020876c136af3c14a5d85bf1d0/190_0_2785_2228/master/2785.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a2fd042c6230b0cc43cb78a84ed07805"
+    },
+    {
+      "id": "story-2",
       "league": "La Liga",
       "dot": "#E3B4F5",
       "source": "The Guardian",
@@ -24,7 +35,18 @@
       "image": "https://i.guim.co.uk/img/media/b32142b03d71e9eb9956cce3ce2114363d70190b/716_0_4602_3681/master/4602.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=9ccbb10536af7c55a62ba4c39e17f5cb"
     },
     {
-      "id": "story-2",
+      "id": "story-3",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "101 Great Goals",
+      "time": "Sep 25",
+      "headline": "Australia 1-1 Brazil: Rayan rescues Selecao after Irankunda stunner",
+      "excerpt": "Brazil were unconvincing in their first game since the World Cup.",
+      "link": "https://www.101greatgoals.com/football/internationals/australia-brazil-report/",
+      "image": null
+    },
+    {
+      "id": "story-4",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -35,7 +57,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d9a1/live/237c0b00-b8d6-11f1-a55c-915ce2fce07b.jpg"
     },
     {
-      "id": "story-3",
+      "id": "story-5",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "The Guardian",
@@ -46,7 +68,7 @@
       "image": "https://i.guim.co.uk/img/media/3b5dd99ec368814b9009b33c2e4943fc36a73911/885_284_4040_3232/master/4040.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=09a51ff940758a7b5e9b5e26739440ec"
     },
     {
-      "id": "story-4",
+      "id": "story-6",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -57,18 +79,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/332b/live/4a246600-b8ca-11f1-ad1f-538855f30ba1.jpg"
     },
     {
-      "id": "story-5",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "101 Great Goals",
-      "time": "Sep 25",
-      "headline": "NFL: Michael Penix Jr. returns from ACL injury to lead Atlanta Falcons past Packers",
-      "excerpt": "The Atlanta Falcons are finally off the mark in the new NFL season.",
-      "link": "https://www.101greatgoals.com/nfl/nfl-michael-penix-jr-returns-acl-injury-atlanta-falcons-past-packers/",
-      "image": null
-    },
-    {
-      "id": "story-6",
+      "id": "story-7",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -79,7 +90,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9184/live/060c9cf0-b8b4-11f1-8257-a79ccb54f692.jpg"
     },
     {
-      "id": "story-7",
+      "id": "story-8",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "The Guardian",
@@ -90,7 +101,7 @@
       "image": "https://i.guim.co.uk/img/media/f5b0a293416a437467df537da17dea0ac393e1fc/636_11_4145_3315/master/4145.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c91dedad2b0b890f2267e955a01df843"
     },
     {
-      "id": "story-8",
+      "id": "story-9",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -101,7 +112,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aec0/live/fd14b290-e25e-11ef-a819-277e390a7a08.jpg"
     },
     {
-      "id": "story-9",
+      "id": "story-10",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -112,7 +123,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5624/live/44eb13b0-b8c9-11f1-ad1f-538855f30ba1.jpg"
     },
     {
-      "id": "story-10",
+      "id": "story-11",
       "league": "Ligue 1",
       "dot": "#B8D4E8",
       "source": "BBC Sport",
@@ -123,7 +134,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f8ab/live/c3a1d910-b8c8-11f1-b1d1-571ed4d7ff2c.png"
     },
     {
-      "id": "story-11",
+      "id": "story-12",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "The Guardian",
@@ -134,7 +145,7 @@
       "image": "https://i.guim.co.uk/img/media/50c07be36e607a8f0781f969e9ca31f905c1be06/408_0_4080_3265/master/4080.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=2ad6e8e41b126d0d301263ef0b1274ca"
     },
     {
-      "id": "story-12",
+      "id": "story-13",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -145,7 +156,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/da7a/live/948aec00-b8c0-11f1-8668-c7d18ac42397.jpg"
     },
     {
-      "id": "story-13",
+      "id": "story-14",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -156,7 +167,7 @@
       "image": "https://i.guim.co.uk/img/media/d58fe9f0a71049f6af73c3837475602aeef38bb9/111_0_2809_2248/master/2809.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=978c4d1b0007c37a0bc82db0e6ad3dae"
     },
     {
-      "id": "story-14",
+      "id": "story-15",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "The Guardian",
@@ -165,17 +176,6 @@
       "excerpt": "<ul><li><p>US striker had red card ban suspended for Belgium game</p></li><li><p>Trump said he called Infantino asking…",
       "link": "https://www.theguardian.com/football/2026/sep/25/pochettino-balogun-comments",
       "image": "https://i.guim.co.uk/img/media/52aca7b78fa84bf004a7c5f5b011f5ad33799fb0/569_127_2792_2234/master/2792.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=2e5a1f0f8a1a4537e3f2951bdd24f73a"
-    },
-    {
-      "id": "story-15",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "BBC Sport",
-      "time": "Sep 25",
-      "headline": "FA Cup qualifying tie to be replayed after ref's error",
-      "excerpt": "Mulbarton Wanderers are \"deeply upset\" after being told they must replay their FA Cup qualifying…",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cmjw5x569epvo?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5a1c/live/4b0a9760-b8b6-11f1-8257-a79ccb54f692.jpg"
     },
     {
       "id": "story-16",
