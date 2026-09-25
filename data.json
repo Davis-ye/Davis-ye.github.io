@@ -1,27 +1,27 @@
 {
-  "updatedAt": "2026-09-25T13:48:45.740Z",
+  "updatedAt": "2026-09-25T13:58:02.367Z",
   "hero": {
     "id": "story-0",
     "league": "Premier League",
     "dot": "#9CC0F0",
-    "source": "The Guardian",
+    "source": "101 Great Goals",
     "time": "Sep 25",
-    "headline": "Tuchel says Palmer misses too many England camps; injured Havertz returns to Arsenal: football news – live",
-    "excerpt": "<p>⚽ All the latest heading in to the weekend’s action<br>⚽ <a href=\"https://www.theguardian.com/football/2026/sep/25/luis-de-la-fuente-spain-world-keep-us-winning\">De la Fuente wants…",
-    "link": "https://www.theguardian.com/football/live/2026/sep/25/havertz-injury-latest-haaland-fires-norway-to-victory-england-v-spain-buildup-and-more-football-news-live",
-    "image": "https://i.guim.co.uk/img/media/2aee53d451f6d1a92f30b6ba793e660e66953b7b/336_0_4257_3406/master/4257.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=09d823db3f9d41ce913fb1f17aa5aec2"
+    "headline": "BREAKING: Man City found guilty on 114 charges relating to financial breaches",
+    "excerpt": "City are expected to appeal the decision.",
+    "link": "https://www.101greatgoals.com/football/premier-league/man-city-found-guilty-114-charges/",
+    "image": null
   },
   "topStories": [
     {
       "id": "story-1",
       "league": "Premier League",
       "dot": "#9CC0F0",
-      "source": "101 Great Goals",
+      "source": "The Guardian",
       "time": "Sep 25",
-      "headline": "Wirtz and Burkardt join Germany camp early after Havertz and Musiala injuries",
-      "excerpt": "Klopp will get longer to work with the under-fire Liverpool star.",
-      "link": "https://www.101greatgoals.com/football/internationals/wirtz-burkardt-join-germany-camp-early/",
-      "image": null
+      "headline": "Tuchel says Palmer misses too many England camps; injured Havertz returns to Arsenal: football news – live",
+      "excerpt": "<p>⚽ All the latest heading in to the weekend’s action<br>⚽ <a href=\"https://www.theguardian.com/football/2026/sep/25/luis-de-la-fuente-spain-world-keep-us-winning\">De la Fuente wants…",
+      "link": "https://www.theguardian.com/football/live/2026/sep/25/havertz-injury-latest-haaland-fires-norway-to-victory-england-v-spain-buildup-and-more-football-news-live",
+      "image": "https://i.guim.co.uk/img/media/2aee53d451f6d1a92f30b6ba793e660e66953b7b/336_0_4257_3406/master/4257.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=09d823db3f9d41ce913fb1f17aa5aec2"
     },
     {
       "id": "story-2",
