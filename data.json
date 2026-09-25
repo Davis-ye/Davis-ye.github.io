@@ -1,27 +1,27 @@
 {
-  "updatedAt": "2026-09-25T16:53:59.995Z",
+  "updatedAt": "2026-09-25T17:01:11.620Z",
   "hero": {
     "id": "story-0",
-    "league": "Premier League",
-    "dot": "#9CC0F0",
-    "source": "The Guardian",
+    "league": "Football",
+    "dot": "#AFC4AC",
+    "source": "101 Great Goals",
     "time": "Sep 25",
-    "headline": "Manchester City guilty of breaching Premier League’s financial fair play rules – live reaction",
-    "excerpt": "<ul><li><p><a href=\"https://www.theguardian.com/football/2026/sep/25/manchester-city-found-guilty-of-breaking-premier-leagues-financial-fair-play-rules\">Full story</a> | Club expected to appeal against ruling</p></li><li><p><a href=\"https://www.theguardian.com/football/2026/sep/25/manchester-city-abu-dhabi-era-trophies-transfers-and-charges\">Timeline: City trophies and charges</a>…",
-    "link": "https://www.theguardian.com/football/live/2026/sep/25/havertz-injury-latest-haaland-fires-norway-to-victory-england-v-spain-buildup-and-more-football-news-live",
-    "image": "https://i.guim.co.uk/img/media/a74de0ff9892462728441d401296e1d32e81ef9e/380_0_6901_5522/master/6901.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=96f13e1d047e67e141eef75ff6f7d542"
+    "headline": "Thomas Tuchel admits Cole Palmer is missing &#8216;way too many camps&#8217; with England",
+    "excerpt": "Thomas Tuchel does not appear to be happy with Cole Palmer.",
+    "link": "https://www.101greatgoals.com/football/internationals/thomas-tuchel-admits-cole-palmer-missing-too-many-camps-england/",
+    "image": null
   },
   "topStories": [
     {
       "id": "story-1",
       "league": "Premier League",
       "dot": "#9CC0F0",
-      "source": "101 Great Goals",
+      "source": "The Guardian",
       "time": "Sep 25",
-      "headline": "BREAKING: Man City found guilty on 114 charges relating to financial breaches",
-      "excerpt": "City are expected to appeal the reported decision",
-      "link": "https://www.101greatgoals.com/football/premier-league/man-city-found-guilty-114-charges/",
-      "image": null
+      "headline": "Manchester City guilty of breaching Premier League’s financial fair play rules – live reaction",
+      "excerpt": "<ul><li><p><a href=\"https://www.theguardian.com/football/2026/sep/25/manchester-city-found-guilty-of-breaking-premier-leagues-financial-fair-play-rules\">Full story</a> | Club expected to appeal against ruling</p></li><li><p><a href=\"https://www.theguardian.com/football/2026/sep/25/manchester-city-abu-dhabi-era-trophies-transfers-and-charges\">Timeline: City trophies and charges</a>…",
+      "link": "https://www.theguardian.com/football/live/2026/sep/25/havertz-injury-latest-haaland-fires-norway-to-victory-england-v-spain-buildup-and-more-football-news-live",
+      "image": "https://i.guim.co.uk/img/media/a74de0ff9892462728441d401296e1d32e81ef9e/380_0_6901_5522/master/6901.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=96f13e1d047e67e141eef75ff6f7d542"
     },
     {
       "id": "story-2",
@@ -95,7 +95,7 @@
       "dot": "#9CC0F0",
       "source": "BBC Sport",
       "time": "Sep 25",
-      "headline": "Palmer misses too many opportunities to play for England",
+      "headline": "Palmer misses too many opportunities to play for England - Tuchel",
       "excerpt": "Thomas Tuchel has said that Cole Palmer \"misses too many opportunities\" to play for England…",
       "link": "https://www.bbc.co.uk/sport/football/articles/cm9dww15527lo?at_medium=RSS&amp;at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8cad/live/f8913870-b8ee-11f1-a698-ff5dd8cb1a06.jpg"
