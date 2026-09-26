@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-26T08:33:09.640Z",
+  "updatedAt": "2026-09-26T08:44:56.834Z",
   "hero": {
     "id": "story-0",
     "league": "Football",
@@ -14,17 +14,6 @@
   "topStories": [
     {
       "id": "story-1",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "BBC Sport",
-      "time": "Sep 26",
-      "headline": "Why are Northern Ireland playing Ukraine in Slovakia?",
-      "excerpt": "Northern Ireland will head to Slovakia to face Ukraine in the Nations League",
-      "link": "https://www.bbc.co.uk/sport/football/articles/ck624vw423z6o?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dd6d/live/f91d84e0-b828-11f1-9173-8b6ede38f022.jpg"
-    },
-    {
-      "id": "story-2",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -35,7 +24,29 @@
       "image": "https://i.guim.co.uk/img/media/f1a57f26793c2a52d6684988d954d909030c8d70/1062_0_6880_5504/master/6880.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=25c9a380cea6344e92dbeda62e98fb14"
     },
     {
+      "id": "story-2",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "BBC Sport",
+      "time": "Sep 26",
+      "headline": "Why are Northern Ireland playing Ukraine in Slovakia?",
+      "excerpt": "Northern Ireland will head to Slovakia to face Ukraine in the Nations League",
+      "link": "https://www.bbc.co.uk/sport/football/articles/ck624vw423z6o?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dd6d/live/f91d84e0-b828-11f1-9173-8b6ede38f022.jpg"
+    },
+    {
       "id": "story-3",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "The Guardian",
+      "time": "Sep 26",
+      "headline": "Liverpool rehire Julian Ward as sporting director to replace Richard Hughes",
+      "excerpt": "<ul><li><p>Club’s owners FSG move swiftly to fill key post</p></li><li><p>Move comes amid upheaval in Anfield hierarchy</p></li></ul><p>Liverpool…",
+      "link": "https://www.theguardian.com/football/2026/sep/26/liverpool-rehire-julian-ward-sporting-director-replace-richard-hughes",
+      "image": "https://i.guim.co.uk/img/media/16b26a4749cb16fa025e9d028e3990ac6b6eb82a/482_0_4073_3258/master/4073.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=7b7ef828b18f9ea019536970fcf6424e"
+    },
+    {
+      "id": "story-4",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -44,17 +55,6 @@
       "excerpt": "<p>We analyse what City must do to appeal, why even that might not be the…",
       "link": "https://www.theguardian.com/football/2026/sep/26/manchester-city-verdict-what-happens-next-appeal-relegated",
       "image": "https://i.guim.co.uk/img/media/0e998b26461d8e91fbd98aa5ad03c29efe3edabe/267_0_2982_2386/master/2982.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=09843795a390d7fcee690aa384053f95"
-    },
-    {
-      "id": "story-4",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "The Guardian",
-      "time": "Sep 26",
-      "headline": "How do England beat Spain, or even score against them? The data suggests crosses",
-      "excerpt": "<p>Thomas Tuchel wishes his team could play more like the world champions, but he may…",
-      "link": "https://www.theguardian.com/football/2026/sep/26/how-do-england-beat-spain-or-even-score-against-them-the-data-suggests-crosses",
-      "image": "https://i.guim.co.uk/img/media/35da7c2eea684b9a437932cc93c120ddae5f7d40/176_0_4321_3455/master/4321.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=da66faaf5c3bc080c20060cb0fd7437a"
     },
     {
       "id": "story-5",
@@ -84,13 +84,24 @@
       "dot": "#AFC4AC",
       "source": "The Guardian",
       "time": "Sep 26",
+      "headline": "How do England beat Spain, or even score against them? The data suggests crosses",
+      "excerpt": "<p>Thomas Tuchel wishes his team could play more like the world champions, but he may…",
+      "link": "https://www.theguardian.com/football/2026/sep/26/how-do-england-beat-spain-or-even-score-against-them-the-data-suggests-crosses",
+      "image": "https://i.guim.co.uk/img/media/35da7c2eea684b9a437932cc93c120ddae5f7d40/176_0_4321_3455/master/4321.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=da66faaf5c3bc080c20060cb0fd7437a"
+    },
+    {
+      "id": "story-8",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "The Guardian",
+      "time": "Sep 26",
       "headline": "Burnham’s booze ruse is a non-starter: just keep doing your drinking in the pub | Barney Ronay",
       "excerpt": "<p>The prime minister, a life-long football fan, was just restating a personal opinion about having…",
       "link": "https://www.theguardian.com/football/2026/sep/26/burnhams-booze-ruse-is-a-non-starter-just-keep-doing-your-drinking-in-the-pub",
       "image": "https://i.guim.co.uk/img/media/25f3e8f290efaaa1ce7f1718b84ac8de3e394c81/0_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=15faf1118525b55d450b00698c6865e9"
     },
     {
-      "id": "story-8",
+      "id": "story-9",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -101,7 +112,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8d30/live/31c1d9f0-b823-11f1-9173-8b6ede38f022.jpg"
     },
     {
-      "id": "story-9",
+      "id": "story-10",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -112,7 +123,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9f65/live/16539990-b8f2-11f1-a698-ff5dd8cb1a06.jpg"
     },
     {
-      "id": "story-10",
+      "id": "story-11",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -123,7 +134,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fbf/live/3f1dddd0-b920-11f1-b685-519146636d7f.jpg"
     },
     {
-      "id": "story-11",
+      "id": "story-12",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -134,7 +145,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/35d3/live/b39074f0-f4ed-11ef-896e-d7e7fb1719a4.jpg"
     },
     {
-      "id": "story-12",
+      "id": "story-13",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -145,7 +156,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ada7/live/27df4c70-9658-11f1-b2ab-0dd01740f9f6.jpg"
     },
     {
-      "id": "story-13",
+      "id": "story-14",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -156,7 +167,7 @@
       "image": "https://i.guim.co.uk/img/media/9a242da4d2fe6a6f6235ee49bf4b1a517d38d65e/361_0_3540_2832/master/3540.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e4072d01fe79ea3c9909475426ab4f6e"
     },
     {
-      "id": "story-14",
+      "id": "story-15",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -167,7 +178,7 @@
       "image": "https://i.guim.co.uk/img/media/b25bf3e1482d835759c360ef33b53f16e32a9027/463_0_4900_3920/master/4900.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3ce5e6804b0aa221c310ae8a518ad50d"
     },
     {
-      "id": "story-15",
+      "id": "story-16",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -178,7 +189,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6656/live/face4040-b927-11f1-b247-17210618604e.jpg"
     },
     {
-      "id": "story-16",
+      "id": "story-17",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "101 Great Goals",
@@ -187,17 +198,6 @@
       "excerpt": "Ousmane Dembele took over from Mbappe as captain",
       "link": "https://www.101greatgoals.com/football/internationals/kylian-mbappe-injury-update-knee-france-zidane/",
       "image": null
-    },
-    {
-      "id": "story-17",
-      "league": "La Liga",
-      "dot": "#E3B4F5",
-      "source": "The Guardian",
-      "time": "Sep 25",
-      "headline": "Nations League: Kylian Mbappé injured after scoring France winner in Turkey",
-      "excerpt": "<ul><li><p>France beat 10-man Turkey 1-0 to start Zidane era</p></li><li><p>Italy 0-2 Belgium, Georgia 0-1 Northern Ireland</p></li></ul><p>Kylian…",
-      "link": "https://www.theguardian.com/football/2026/sep/25/nations-league-roundup-turkey-france-kylian-mbappe-italy-belgium",
-      "image": "https://i.guim.co.uk/img/media/ae983f77569f1e50e47dead0c246c149483bdbb0/90_0_2938_2351/master/2938.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d4f4d495729eb9b9ce86ea4ef2cc74f5"
     },
     {
       "id": "story-18",
