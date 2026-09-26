@@ -1,27 +1,27 @@
 {
-  "updatedAt": "2026-09-26T20:50:29.959Z",
+  "updatedAt": "2026-09-26T20:57:56.349Z",
   "hero": {
     "id": "story-0",
     "league": "Football",
     "dot": "#AFC4AC",
-    "source": "BBC Sport",
+    "source": "The Guardian",
     "time": "Sep 26",
-    "headline": "Who made an uncharacteristic error? England player ratings v Spain",
-    "excerpt": "England were beaten 3-2 in an entertaining game by world champions Spain in the Nations…",
-    "link": "https://www.bbc.co.uk/sport/football/articles/cmy0zz2ylr5no?at_medium=RSS&amp;at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fc71/live/eeee61e0-b9e7-11f1-a7c8-cfea26a12219.jpg"
+    "headline": "England v Spain: Nations League football – live",
+    "excerpt": "<ul><li><p>Nations League updates from the 7.45pm BST kick-off</p></li><li><p><a href=\"https://www.theguardian.com/football/live\">Live scoreboard</a> | Follow us on <a…",
+    "link": "https://www.theguardian.com/football/live/2026/sep/26/england-v-spain-nations-league-football-live-score-updates",
+    "image": "https://i.guim.co.uk/img/media/73e1d6ff221e69f364946e5177fccbc5e43b66bc/907_0_1944_1555/master/1944.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=17a84e377e988fb1c76fbbff060e48dd"
   },
   "topStories": [
     {
       "id": "story-1",
       "league": "Football",
       "dot": "#AFC4AC",
-      "source": "The Guardian",
+      "source": "101 Great Goals",
       "time": "Sep 26",
-      "headline": "USMNT v Peru live – analysis and updates from international friendly in Orlando",
-      "excerpt": "<ul><li><p>USA v Peru kicks off at 4.30pm ET</p></li><li><p>Cavan Sullivan, other young players could make debuts</p></li><li><p><a…",
-      "link": "https://www.theguardian.com/football/live/2026/sep/26/usmnt-peru-live-analysis-updates",
-      "image": "https://i.guim.co.uk/img/media/d1e5dc0900c3e54045b59d04ecdb8b35efd629f5/314_0_2524_2020/master/2524.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=4a6b07eb04b674e77e2074683e7ca121"
+      "headline": "England 2-3 Spain: World champions win Wembley thriller as Oyarzabal haunts Three Lions again",
+      "excerpt": "England were ruthlessly punished for defensive errors as Spain made it 39 games unbeaten.",
+      "link": "https://www.101greatgoals.com/football/internationals/england-spain-report/",
+      "image": null
     },
     {
       "id": "story-2",
@@ -29,13 +29,24 @@
       "dot": "#AFC4AC",
       "source": "The Guardian",
       "time": "Sep 26",
-      "headline": "England v Spain: Nations League football – live",
-      "excerpt": "<ul><li><p>Nations League updates from the 7.45pm BST kick-off</p></li><li><p><a href=\"https://www.theguardian.com/football/live\">Live scoreboard</a> | Follow us on <a…",
-      "link": "https://www.theguardian.com/football/live/2026/sep/26/england-v-spain-nations-league-football-live-score-updates",
-      "image": "https://i.guim.co.uk/img/media/73e1d6ff221e69f364946e5177fccbc5e43b66bc/907_0_1944_1555/master/1944.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=17a84e377e988fb1c76fbbff060e48dd"
+      "headline": "USMNT v Peru live – analysis and updates from international friendly in Orlando",
+      "excerpt": "<ul><li><p>USA v Peru kicks off at 4.30pm ET</p></li><li><p>Cavan Sullivan, other young players could make debuts</p></li><li><p><a…",
+      "link": "https://www.theguardian.com/football/live/2026/sep/26/usmnt-peru-live-analysis-updates",
+      "image": null
     },
     {
       "id": "story-3",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "BBC Sport",
+      "time": "Sep 26",
+      "headline": "Who made an uncharacteristic error? England player ratings v Spain",
+      "excerpt": "England were beaten 3-2 in an entertaining game by world champions Spain in the Nations…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cmy0zz2ylr5no?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fc71/live/eeee61e0-b9e7-11f1-a7c8-cfea26a12219.jpg"
+    },
+    {
+      "id": "story-4",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "The Guardian",
@@ -43,10 +54,10 @@
       "headline": "Republic of Ireland’s Gavin Bazunu boycotts Israel match ‘as a person of principle’",
       "excerpt": "<ul><li><p>Bolton goalkeeper issues statement after withdrawal</p></li><li><p>Ireland players will wear black armbands in match</p></li></ul><p>The Republic of…",
       "link": "https://www.theguardian.com/football/2026/sep/26/ireland-players-vote-to-go-ahead-with-nations-league-match-against-israel",
-      "image": "https://i.guim.co.uk/img/media/ac1d26a2e06077da25a531d17e63fd78edacd66b/0_0_3442_2753/master/3442.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c49ead3cb9cf5b0e48b5be0706abf49b"
+      "image": "https://i.guim.co.uk/img/media/aaf8829d581708f3ec6ae8d41495f46432713c4c/229_0_3660_2928/master/3660.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=2302861e08200a7fce220836717d26d8"
     },
     {
-      "id": "story-4",
+      "id": "story-5",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -57,7 +68,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fd97/live/0377c060-b9a8-11f1-8a1a-0176f978c211.jpg"
     },
     {
-      "id": "story-5",
+      "id": "story-6",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -66,17 +77,6 @@
       "excerpt": "Republic of Ireland players intend to wear black armbands \"in recognition of all lives lost…",
       "link": "https://www.bbc.co.uk/sport/football/articles/ckddvv5dn4eyo?at_medium=RSS&amp;at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b748/live/e2ec7610-b9b6-11f1-929f-f1f9c2e672cb.jpg"
-    },
-    {
-      "id": "story-6",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "101 Great Goals",
-      "time": "Sep 26",
-      "headline": "WATCH: Yamal punishes Guehi howler to give Spain the lead at Wembley",
-      "excerpt": "Yamal needed only 104 seconds to put Spain ahead.",
-      "link": "https://www.101greatgoals.com/football/internationals/yamal-punishes-guehi-howler-spain-lead-wembley/",
-      "image": null
     },
     {
       "id": "story-7",
