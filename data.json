@@ -1,19 +1,30 @@
 {
-  "updatedAt": "2026-09-26T19:56:01.760Z",
+  "updatedAt": "2026-09-26T20:04:44.066Z",
   "hero": {
     "id": "story-0",
     "league": "Football",
     "dot": "#AFC4AC",
-    "source": "The Guardian",
+    "source": "BBC Sport",
     "time": "Sep 26",
-    "headline": "England v Spain: Nations League football – live",
-    "excerpt": "<ul><li><p>Nations League updates from the 7.45pm BST kick-off</p></li><li><p><a href=\"https://www.theguardian.com/football/live\">Live scoreboard</a> | Follow us on <a…",
-    "link": "https://www.theguardian.com/football/live/2026/sep/26/england-v-spain-nations-league-football-live-score-updates",
-    "image": "https://i.guim.co.uk/img/media/ecfa03e100ff891fa53af4f30ebf4e9a0397f3e6/8_653_3246_2597/master/3246.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=988e668d1d5c882102e14754881ff17d"
+    "headline": "Republic of Ireland to wear black armbands for Israel game",
+    "excerpt": "Republic of Ireland players intend to wear black armbands \"in recognition of all lives lost…",
+    "link": "https://www.bbc.co.uk/sport/football/articles/ckddvv5dn4eyo?at_medium=RSS&amp;at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b748/live/e2ec7610-b9b6-11f1-929f-f1f9c2e672cb.jpg"
   },
   "topStories": [
     {
       "id": "story-1",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "The Guardian",
+      "time": "Sep 26",
+      "headline": "England v Spain: Nations League football – live",
+      "excerpt": "<ul><li><p>Nations League updates from the 7.45pm BST kick-off</p></li><li><p><a href=\"https://www.theguardian.com/football/live\">Live scoreboard</a> | Follow us on <a…",
+      "link": "https://www.theguardian.com/football/live/2026/sep/26/england-v-spain-nations-league-football-live-score-updates",
+      "image": "https://i.guim.co.uk/img/media/ecfa03e100ff891fa53af4f30ebf4e9a0397f3e6/8_653_3246_2597/master/3246.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=988e668d1d5c882102e14754881ff17d"
+    },
+    {
+      "id": "story-2",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "The Guardian",
@@ -24,7 +35,7 @@
       "image": "https://i.guim.co.uk/img/media/0ba900f64b03207ed1a43b100ea67d1f161567d9/824_0_6486_5191/master/6486.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=614f0d59487ec5975e12c074074aa6c8"
     },
     {
-      "id": "story-2",
+      "id": "story-3",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "101 Great Goals",
@@ -35,7 +46,7 @@
       "image": null
     },
     {
-      "id": "story-3",
+      "id": "story-4",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "The Guardian",
@@ -46,7 +57,7 @@
       "image": "https://i.guim.co.uk/img/media/2d93de81e37d386ed14a8a486fdb950354f958a4/683_82_2316_1852/master/2316.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=1b8a04a4df5269d54f991779cdad9b8e"
     },
     {
-      "id": "story-4",
+      "id": "story-5",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -57,7 +68,7 @@
       "image": "https://i.guim.co.uk/img/media/78b812ce9b72c985e9558f6fb2ea6655e73aa0b5/338_0_3856_3084/master/3856.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=4c68c1feaaa95304401f7c024a9dbc33"
     },
     {
-      "id": "story-5",
+      "id": "story-6",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "The Guardian",
@@ -68,7 +79,7 @@
       "image": "https://i.guim.co.uk/img/media/80e060cee616b9a4aa1200f893c524b22c8706a5/921_0_6664_5334/master/6664.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a7b36f2e6411a36dcd68a19f275973cf"
     },
     {
-      "id": "story-6",
+      "id": "story-7",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -79,7 +90,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/802e/live/6e2e6fc0-b9cc-11f1-a430-4d16ee157c41.jpg"
     },
     {
-      "id": "story-7",
+      "id": "story-8",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -90,7 +101,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b9ac/live/16316750-b9bd-11f1-b1d1-571ed4d7ff2c.jpg"
     },
     {
-      "id": "story-8",
+      "id": "story-9",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "The Guardian",
@@ -101,7 +112,7 @@
       "image": "https://i.guim.co.uk/img/media/0425ae02bfc3b64b959e7f51e550069425888458/500_0_2527_2022/master/2527.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d1a9e6689ec40b72328b10dc32bd4044"
     },
     {
-      "id": "story-9",
+      "id": "story-10",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -110,17 +121,6 @@
       "excerpt": "Manchester City chairman Khaldoon Al Mubarak says he is still confident of proving the club's…",
       "link": "https://www.bbc.co.uk/sport/football/articles/c6d944ylqkkeo?at_medium=RSS&amp;at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f295/live/e733d1d0-b9b8-11f1-a430-4d16ee157c41.jpg"
-    },
-    {
-      "id": "story-10",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "BBC Sport",
-      "time": "Sep 26",
-      "headline": "Republic of Ireland to wear black armbands for Israel game",
-      "excerpt": "Republic of Ireland players intend to wear black armbands \"in recognition of all lives lost…",
-      "link": "https://www.bbc.co.uk/sport/football/articles/ckddvv5dn4eyo?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b748/live/e2ec7610-b9b6-11f1-929f-f1f9c2e672cb.jpg"
     },
     {
       "id": "story-11",
