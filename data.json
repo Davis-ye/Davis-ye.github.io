@@ -1,19 +1,41 @@
 {
-  "updatedAt": "2026-09-26T08:20:22.220Z",
+  "updatedAt": "2026-09-26T08:33:09.640Z",
   "hero": {
     "id": "story-0",
-    "league": "Premier League",
-    "dot": "#9CC0F0",
-    "source": "The Guardian",
+    "league": "Football",
+    "dot": "#AFC4AC",
+    "source": "BBC Sport",
     "time": "Sep 26",
-    "headline": "Manchester City verdict latest, England v Spain buildup, WSL and more – live",
-    "excerpt": "<ul><li><p><a href=\"https://www.theguardian.com/football/manchestercity\">Manchester City news</a> and Nations League buildup</p></li><li><p><a href=\"https://www.theguardian.com/football/live\">Today’s games</a> | <a href=\"https://www.theguardian.com/football/2026/sep/25/england-spain-football-daily-newsletter\">Read Football Daily</a>…",
-    "link": "https://www.theguardian.com/football/live/2026/sep/26/manchester-city-verdict-latest-england-v-spain-buildup-wsl-and-more-live",
-    "image": "https://i.guim.co.uk/img/media/996e906ae37a494ab9022a10785bf05d0fea3358/1380_0_5670_4536/master/5670.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f634f73d9ea8461891871188295aaa5e"
+    "headline": "Pocognoli may require patience to deliver on Scotland shake-up",
+    "excerpt": "A new era begins for Scotland, with Sebastien Pocognoli leading a refreshed squad into the…",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cvkgw6g1kdg8o?at_medium=RSS&amp;at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/13bd/live/7e563760-b914-11f1-bb9c-99c71a1a6145.jpg"
   },
   "topStories": [
     {
       "id": "story-1",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "BBC Sport",
+      "time": "Sep 26",
+      "headline": "Why are Northern Ireland playing Ukraine in Slovakia?",
+      "excerpt": "Northern Ireland will head to Slovakia to face Ukraine in the Nations League",
+      "link": "https://www.bbc.co.uk/sport/football/articles/ck624vw423z6o?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dd6d/live/f91d84e0-b828-11f1-9173-8b6ede38f022.jpg"
+    },
+    {
+      "id": "story-2",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "The Guardian",
+      "time": "Sep 26",
+      "headline": "Manchester City verdict latest, England v Spain buildup, WSL and more – live",
+      "excerpt": "<ul><li><p><a href=\"https://www.theguardian.com/football/manchestercity\">Manchester City news</a> and Nations League buildup</p></li><li><p><a href=\"https://www.theguardian.com/football/live\">Today’s games</a> | <a href=\"https://www.theguardian.com/football/2026/sep/25/england-spain-football-daily-newsletter\">Read Football Daily</a>…",
+      "link": "https://www.theguardian.com/football/live/2026/sep/26/manchester-city-verdict-latest-england-v-spain-buildup-wsl-and-more-live",
+      "image": "https://i.guim.co.uk/img/media/f1a57f26793c2a52d6684988d954d909030c8d70/1062_0_6880_5504/master/6880.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=25c9a380cea6344e92dbeda62e98fb14"
+    },
+    {
+      "id": "story-3",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -24,7 +46,7 @@
       "image": "https://i.guim.co.uk/img/media/0e998b26461d8e91fbd98aa5ad03c29efe3edabe/267_0_2982_2386/master/2982.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=09843795a390d7fcee690aa384053f95"
     },
     {
-      "id": "story-2",
+      "id": "story-4",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "The Guardian",
@@ -35,7 +57,7 @@
       "image": "https://i.guim.co.uk/img/media/35da7c2eea684b9a437932cc93c120ddae5f7d40/176_0_4321_3455/master/4321.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=da66faaf5c3bc080c20060cb0fd7437a"
     },
     {
-      "id": "story-3",
+      "id": "story-5",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -46,7 +68,7 @@
       "image": "https://i.guim.co.uk/img/media/d07041c4051a3cb0d88ab7d81894c022ef728ff4/221_0_10617_8493/master/10617.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=65c5b35c4d467c8baeb66494baf58c1d"
     },
     {
-      "id": "story-4",
+      "id": "story-6",
       "league": "La Liga",
       "dot": "#E3B4F5",
       "source": "The Guardian",
@@ -57,7 +79,7 @@
       "image": "https://i.guim.co.uk/img/media/050b28be1e0b44309dda896417c5d66a0b42efa3/255_1868_2177_1741/master/2177.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=bbcbdde100a7361f2fbd313287b79ca6"
     },
     {
-      "id": "story-5",
+      "id": "story-7",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "The Guardian",
@@ -68,7 +90,7 @@
       "image": "https://i.guim.co.uk/img/media/25f3e8f290efaaa1ce7f1718b84ac8de3e394c81/0_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=15faf1118525b55d450b00698c6865e9"
     },
     {
-      "id": "story-6",
+      "id": "story-8",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -79,7 +101,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8d30/live/31c1d9f0-b823-11f1-9173-8b6ede38f022.jpg"
     },
     {
-      "id": "story-7",
+      "id": "story-9",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -90,7 +112,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9f65/live/16539990-b8f2-11f1-a698-ff5dd8cb1a06.jpg"
     },
     {
-      "id": "story-8",
+      "id": "story-10",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -101,7 +123,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fbf/live/3f1dddd0-b920-11f1-b685-519146636d7f.jpg"
     },
     {
-      "id": "story-9",
+      "id": "story-11",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -112,7 +134,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/35d3/live/b39074f0-f4ed-11ef-896e-d7e7fb1719a4.jpg"
     },
     {
-      "id": "story-10",
+      "id": "story-12",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -123,7 +145,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ada7/live/27df4c70-9658-11f1-b2ab-0dd01740f9f6.jpg"
     },
     {
-      "id": "story-11",
+      "id": "story-13",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -134,7 +156,7 @@
       "image": "https://i.guim.co.uk/img/media/9a242da4d2fe6a6f6235ee49bf4b1a517d38d65e/361_0_3540_2832/master/3540.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e4072d01fe79ea3c9909475426ab4f6e"
     },
     {
-      "id": "story-12",
+      "id": "story-14",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -145,7 +167,7 @@
       "image": "https://i.guim.co.uk/img/media/b25bf3e1482d835759c360ef33b53f16e32a9027/463_0_4900_3920/master/4900.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3ce5e6804b0aa221c310ae8a518ad50d"
     },
     {
-      "id": "story-13",
+      "id": "story-15",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -156,7 +178,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6656/live/face4040-b927-11f1-b247-17210618604e.jpg"
     },
     {
-      "id": "story-14",
+      "id": "story-16",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "101 Great Goals",
@@ -167,7 +189,7 @@
       "image": null
     },
     {
-      "id": "story-15",
+      "id": "story-17",
       "league": "La Liga",
       "dot": "#E3B4F5",
       "source": "The Guardian",
@@ -178,7 +200,7 @@
       "image": "https://i.guim.co.uk/img/media/ae983f77569f1e50e47dead0c246c149483bdbb0/90_0_2938_2351/master/2938.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d4f4d495729eb9b9ce86ea4ef2cc74f5"
     },
     {
-      "id": "story-16",
+      "id": "story-18",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -189,7 +211,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4a98/live/8a5e0ae0-b92a-11f1-a430-4d16ee157c41.png"
     },
     {
-      "id": "story-17",
+      "id": "story-19",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -200,7 +222,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d05b/live/c288fcf0-b8f2-11f1-bd4a-e9ce4be469f6.jpg"
     },
     {
-      "id": "story-18",
+      "id": "story-20",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -211,7 +233,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/89fb/live/cd4d2380-b921-11f1-bc1f-3f186ca4140c.jpg"
     },
     {
-      "id": "story-19",
+      "id": "story-21",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -222,7 +244,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/382f/live/e7b09140-b91b-11f1-9be9-632355708508.jpg"
     },
     {
-      "id": "story-20",
+      "id": "story-22",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -233,7 +255,7 @@
       "image": "https://i.guim.co.uk/img/media/bfdacf8e5fc0f01d44b275640d81a5d6b78fb20a/338_0_2824_2259/master/2824.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3b285661bb905db525bc7cf0a5934489"
     },
     {
-      "id": "story-21",
+      "id": "story-23",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -242,28 +264,6 @@
       "excerpt": "Premier League clubs are seeking legal advice as to whether they would have a compensation…",
       "link": "https://www.bbc.co.uk/sport/football/articles/cr89jjwy4nqpo?at_medium=RSS&amp;at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/588a/live/72e11970-b96b-11f1-b55e-350150ef61ab.jpg"
-    },
-    {
-      "id": "story-22",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "BBC Sport",
-      "time": "Sep 25",
-      "headline": "O'Neill left baffled by refereeing in late NI win",
-      "excerpt": "Michael O'Neill has said he was \"baffled\" by some of the refereeing decisions in Friday's…",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c6qxvvw15p0lo?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5f08/live/0f6128f0-b91a-11f1-a430-4d16ee157c41.jpg"
-    },
-    {
-      "id": "story-23",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "BBC Sport",
-      "time": "Sep 25",
-      "headline": "Man City guilty of majority of 115 charges - 5 Live reaction",
-      "excerpt": "What next for Man City and the Premier League after being found guilty of 114…",
-      "link": "https://www.bbc.co.uk/sounds/play/p0pckjx7?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0m6ztjd.jpg"
     }
   ],
   "scoreboard": []
