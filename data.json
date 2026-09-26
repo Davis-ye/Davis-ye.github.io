@@ -1,27 +1,27 @@
 {
-  "updatedAt": "2026-09-26T18:29:30.032Z",
+  "updatedAt": "2026-09-26T18:43:18.508Z",
   "hero": {
     "id": "story-0",
     "league": "Football",
     "dot": "#AFC4AC",
-    "source": "101 Great Goals",
+    "source": "The Guardian",
     "time": "Sep 26",
-    "headline": "Los Angeles Rams @ Denver Broncos: Preview, prediction and odds",
-    "excerpt": "The Broncos host the Rams in a fascinating Sunday Night Football encounter. Read our in-depth…",
-    "link": "https://www.101greatgoals.com/nfl/rams-broncos-preview-prediction-and-odds/",
-    "image": null
+    "headline": "England v Spain: Nations League football – live",
+    "excerpt": "<ul><li><p>Nations League updates from the 7.45pm BST kick-off</p></li><li><p><a href=\"https://www.theguardian.com/football/live\">Live scoreboard</a> | Follow us on <a…",
+    "link": "https://www.theguardian.com/football/live/2026/sep/26/england-v-spain-nations-league-football-live-score-updates",
+    "image": "https://i.guim.co.uk/img/media/dd52e321d339bd1923f1ca70a3a57faea6c223e9/313_0_3132_2505/master/3132.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=44aed69f02cd6ce0511e2daeb35a826b"
   },
   "topStories": [
     {
       "id": "story-1",
       "league": "Football",
       "dot": "#AFC4AC",
-      "source": "The Guardian",
+      "source": "101 Great Goals",
       "time": "Sep 26",
-      "headline": "England v Spain: Nations League football – live",
-      "excerpt": "<ul><li><p>Nations League updates from the 7.45pm BST kick-off</p></li><li><p><a href=\"https://www.theguardian.com/football/live\">Live scoreboard</a> | Follow us on <a…",
-      "link": "https://www.theguardian.com/football/live/2026/sep/26/england-v-spain-nations-league-football-live-score-updates",
-      "image": "https://i.guim.co.uk/img/media/dd52e321d339bd1923f1ca70a3a57faea6c223e9/313_0_3132_2505/master/3132.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=44aed69f02cd6ce0511e2daeb35a826b"
+      "headline": "Los Angeles Rams @ Denver Broncos: Preview, prediction and odds",
+      "excerpt": "The Broncos host the Rams in a fascinating Sunday Night Football encounter. Read our in-depth…",
+      "link": "https://www.101greatgoals.com/nfl/rams-broncos-preview-prediction-and-odds/",
+      "image": null
     },
     {
       "id": "story-2",
