@@ -1,27 +1,27 @@
 {
-  "updatedAt": "2026-09-26T21:42:59.373Z",
+  "updatedAt": "2026-09-26T21:50:33.683Z",
   "hero": {
     "id": "story-0",
     "league": "Football",
     "dot": "#AFC4AC",
-    "source": "The Guardian",
+    "source": "101 Great Goals",
     "time": "Sep 26",
-    "headline": "USMNT v Peru live – analysis and updates from international friendly in Orlando",
-    "excerpt": "<ul><li><p>USA v Peru kicks off at 4.30pm ET</p></li><li><p>Cavan Sullivan, other young players could make debuts</p></li><li><p><a…",
-    "link": "https://www.theguardian.com/football/live/2026/sep/26/usmnt-peru-live-analysis-updates",
-    "image": "https://i.guim.co.uk/img/media/0ba82020a94247a6bcbcfb381dec8f1480209674/488_0_2826_2261/master/2826.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a852795e69df54bf1773b1fffc46cb8f"
+    "headline": "UEFA Nations League: Modric gets Croatia off to winning start under Bilic",
+    "excerpt": "Modric made it 30 goals for his country in style.",
+    "link": "https://www.101greatgoals.com/football/internationals/modric-croatia-start/",
+    "image": null
   },
   "topStories": [
     {
       "id": "story-1",
       "league": "Football",
       "dot": "#AFC4AC",
-      "source": "101 Great Goals",
+      "source": "The Guardian",
       "time": "Sep 26",
-      "headline": "&#8216;I feel like we&#8217;re right there&#8217; &#8211; Gordon rues missed chance but insists England are on par with Spain",
-      "excerpt": "England paid the price for Harry Kane's missed penalty.",
-      "link": "https://www.101greatgoals.com/football/internationals/gordon-rues-missed-chance-insists-england-on-par-spain/",
-      "image": null
+      "headline": "USMNT v Peru live – analysis and updates from international friendly in Orlando",
+      "excerpt": "<ul><li><p>USA v Peru kicks off at 4.30pm ET</p></li><li><p>Cavan Sullivan, other young players could make debuts</p></li><li><p><a…",
+      "link": "https://www.theguardian.com/football/live/2026/sep/26/usmnt-peru-live-analysis-updates",
+      "image": "https://i.guim.co.uk/img/media/0ba82020a94247a6bcbcfb381dec8f1480209674/488_0_2826_2261/master/2826.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a852795e69df54bf1773b1fffc46cb8f"
     },
     {
       "id": "story-2",
