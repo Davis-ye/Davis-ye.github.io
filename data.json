@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-09-26T20:30:39.666Z",
+  "updatedAt": "2026-09-26T20:41:41.493Z",
   "hero": {
     "id": "story-0",
     "league": "Football",
     "dot": "#AFC4AC",
     "source": "The Guardian",
     "time": "Sep 26",
-    "headline": "England v Spain: Nations League football – live",
-    "excerpt": "<ul><li><p>Nations League updates from the 7.45pm BST kick-off</p></li><li><p><a href=\"https://www.theguardian.com/football/live\">Live scoreboard</a> | Follow us on <a…",
-    "link": "https://www.theguardian.com/football/live/2026/sep/26/england-v-spain-nations-league-football-live-score-updates",
-    "image": "https://i.guim.co.uk/img/media/0b94da2b5d813e5f0ecc629a8684207bfa0d89f5/66_6_1778_1422/master/1778.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=7956be512ca7829d64f1468711ba63a7"
+    "headline": "USMNT v Peru live – analysis and updates from international friendly in Orlando",
+    "excerpt": "<ul><li><p>USA v Peru kicks off at 4.30pm ET</p></li><li><p>Cavan Sullivan, other young players could make debuts</p></li><li><p><a…",
+    "link": "https://www.theguardian.com/football/live/2026/sep/26/usmnt-peru-live-analysis-updates",
+    "image": "https://i.guim.co.uk/img/media/d1e5dc0900c3e54045b59d04ecdb8b35efd629f5/314_0_2524_2020/master/2524.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=4a6b07eb04b674e77e2074683e7ca121"
   },
   "topStories": [
     {
@@ -18,10 +18,10 @@
       "dot": "#AFC4AC",
       "source": "The Guardian",
       "time": "Sep 26",
-      "headline": "USMNT v Peru live – analysis and updates from international friendly in Orlando",
-      "excerpt": "<ul><li><p>USA v Peru kicks off at 4.30 ET</p></li><li><p>Cavan Sullivan, other young players could make debuts</p></li><li><p><a…",
-      "link": "https://www.theguardian.com/football/live/2026/sep/26/usmnt-peru-live-analysis-updates",
-      "image": "https://i.guim.co.uk/img/media/d1e5dc0900c3e54045b59d04ecdb8b35efd629f5/314_0_2524_2020/master/2524.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=4a6b07eb04b674e77e2074683e7ca121"
+      "headline": "England v Spain: Nations League football – live",
+      "excerpt": "<ul><li><p>Nations League updates from the 7.45pm BST kick-off</p></li><li><p><a href=\"https://www.theguardian.com/football/live\">Live scoreboard</a> | Follow us on <a…",
+      "link": "https://www.theguardian.com/football/live/2026/sep/26/england-v-spain-nations-league-football-live-score-updates",
+      "image": "https://i.guim.co.uk/img/media/73e1d6ff221e69f364946e5177fccbc5e43b66bc/907_0_1944_1555/master/1944.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=17a84e377e988fb1c76fbbff060e48dd"
     },
     {
       "id": "story-2",
@@ -32,7 +32,7 @@
       "headline": "Republic of Ireland’s Gavin Bazunu boycotts Israel match ‘as a person of principle’",
       "excerpt": "<ul><li><p>Bolton goalkeeper issues statement after withdrawal</p></li><li><p>Ireland players will wear black armbands in match</p></li></ul><p>The Republic of…",
       "link": "https://www.theguardian.com/football/2026/sep/26/ireland-players-vote-to-go-ahead-with-nations-league-match-against-israel",
-      "image": "https://i.guim.co.uk/img/media/80e060cee616b9a4aa1200f893c524b22c8706a5/921_0_6664_5334/master/6664.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a7b36f2e6411a36dcd68a19f275973cf"
+      "image": "https://i.guim.co.uk/img/media/ac1d26a2e06077da25a531d17e63fd78edacd66b/0_0_3442_2753/master/3442.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c49ead3cb9cf5b0e48b5be0706abf49b"
     },
     {
       "id": "story-3",
