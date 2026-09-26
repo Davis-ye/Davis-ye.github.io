@@ -1,27 +1,27 @@
 {
-  "updatedAt": "2026-09-26T10:13:31.342Z",
+  "updatedAt": "2026-09-26T10:25:52.563Z",
   "hero": {
     "id": "story-0",
-    "league": "Football",
-    "dot": "#AFC4AC",
-    "source": "101 Great Goals",
+    "league": "Premier League",
+    "dot": "#9CC0F0",
+    "source": "The Guardian",
     "time": "Sep 26",
-    "headline": "NBA: Steph Curry agrees $116m two-year extension with Golden State Warriors",
-    "excerpt": "Steph Curry is staying at the Golden State Warriors.",
-    "link": "https://www.101greatgoals.com/nba/nba-steph-curry-116m-two-year-extension-golden-state-warriors/",
-    "image": null
+    "headline": "Former Manchester City chair says ‘money not sufficient’ penalty, Liverpool rehire sporting director – live",
+    "excerpt": "<ul><li><p><a href=\"https://www.theguardian.com/football/manchestercity\">Manchester City news</a> and Nations League buildup</p></li><li><p><a href=\"https://www.theguardian.com/football/live\">Today’s games</a> | <a href=\"https://www.theguardian.com/football/2026/sep/25/england-spain-football-daily-newsletter\">Read Football Daily</a>…",
+    "link": "https://www.theguardian.com/football/live/2026/sep/26/manchester-city-verdict-latest-england-v-spain-buildup-wsl-and-more-live",
+    "image": "https://i.guim.co.uk/img/media/f1a57f26793c2a52d6684988d954d909030c8d70/1062_0_6880_5504/master/6880.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=25c9a380cea6344e92dbeda62e98fb14"
   },
   "topStories": [
     {
       "id": "story-1",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "The Guardian",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "101 Great Goals",
       "time": "Sep 26",
-      "headline": "Former Manchester City chair says ‘money not sufficient’ penalty, Liverpool rehire sporting director – live",
-      "excerpt": "<ul><li><p><a href=\"https://www.theguardian.com/football/manchestercity\">Manchester City news</a> and Nations League buildup</p></li><li><p><a href=\"https://www.theguardian.com/football/live\">Today’s games</a> | <a href=\"https://www.theguardian.com/football/2026/sep/25/england-spain-football-daily-newsletter\">Read Football Daily</a>…",
-      "link": "https://www.theguardian.com/football/live/2026/sep/26/manchester-city-verdict-latest-england-v-spain-buildup-wsl-and-more-live",
-      "image": "https://i.guim.co.uk/img/media/f1a57f26793c2a52d6684988d954d909030c8d70/1062_0_6880_5504/master/6880.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=25c9a380cea6344e92dbeda62e98fb14"
+      "headline": "NBA: Steph Curry agrees $116m two-year extension with Golden State Warriors",
+      "excerpt": "Steph Curry is staying at the Golden State Warriors.",
+      "link": "https://www.101greatgoals.com/nba/nba-steph-curry-116m-two-year-extension-golden-state-warriors/",
+      "image": null
     },
     {
       "id": "story-2",
