@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-26T17:11:27.348Z",
+  "updatedAt": "2026-09-26T17:23:03.486Z",
   "hero": {
     "id": "story-0",
     "league": "Football",
@@ -14,6 +14,17 @@
   "topStories": [
     {
       "id": "story-1",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "The Guardian",
+      "time": "Sep 26",
+      "headline": "WSL roundup: Greenwood maintains Manchester City’s 100% record",
+      "excerpt": "<ul><li><p>Defending champions win 1-0 at pointless Charlton</p></li><li><p>Alex Greenwood fires in only goal from a free-kick</p></li></ul><p>Manchester…",
+      "link": "https://www.theguardian.com/football/2026/sep/26/wsl-roundup-greenwood-maintains-manchester-citys-100-record",
+      "image": "https://i.guim.co.uk/img/media/bc003e10f56b7d680c17cb23341ab42749616491/376_148_2796_2238/master/2796.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=8f771b4b82e33f5e19ed71d443331fa8"
+    },
+    {
+      "id": "story-2",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "101 Great Goals",
@@ -24,7 +35,7 @@
       "image": null
     },
     {
-      "id": "story-2",
+      "id": "story-3",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -35,7 +46,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b9ac/live/16316750-b9bd-11f1-b1d1-571ed4d7ff2c.jpg"
     },
     {
-      "id": "story-3",
+      "id": "story-4",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "The Guardian",
@@ -46,7 +57,7 @@
       "image": "https://i.guim.co.uk/img/media/0425ae02bfc3b64b959e7f51e550069425888458/500_0_2527_2022/master/2527.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d1a9e6689ec40b72328b10dc32bd4044"
     },
     {
-      "id": "story-4",
+      "id": "story-5",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -57,7 +68,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f295/live/e733d1d0-b9b8-11f1-a430-4d16ee157c41.jpg"
     },
     {
-      "id": "story-5",
+      "id": "story-6",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -68,7 +79,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b748/live/e2ec7610-b9b6-11f1-929f-f1f9c2e672cb.jpg"
     },
     {
-      "id": "story-6",
+      "id": "story-7",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -79,7 +90,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2a45/live/6922a2a0-b9b6-11f1-a430-4d16ee157c41.jpg"
     },
     {
-      "id": "story-7",
+      "id": "story-8",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -90,7 +101,7 @@
       "image": "https://i.guim.co.uk/img/media/eb93ccb732378baed3b7fb0e1123500da843ff17/300_68_1328_1063/master/1328.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c8459670fae419b7ba911c3ea099b2f9"
     },
     {
-      "id": "story-8",
+      "id": "story-9",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "The Guardian",
@@ -101,7 +112,7 @@
       "image": "https://i.guim.co.uk/img/media/80e060cee616b9a4aa1200f893c524b22c8706a5/921_0_6664_5334/master/6664.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a7b36f2e6411a36dcd68a19f275973cf"
     },
     {
-      "id": "story-9",
+      "id": "story-10",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -112,7 +123,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/50af/live/b4586d40-b9b1-11f1-929f-f1f9c2e672cb.jpg"
     },
     {
-      "id": "story-10",
+      "id": "story-11",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -123,7 +134,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6652/live/4dfdf9a0-b96d-11f1-88b4-a9b939c8ba34.jpg"
     },
     {
-      "id": "story-11",
+      "id": "story-12",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -134,7 +145,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0eb6/live/1daaf990-b9a6-11f1-8a1a-0176f978c211.jpg"
     },
     {
-      "id": "story-12",
+      "id": "story-13",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "The Guardian",
@@ -145,7 +156,7 @@
       "image": "https://i.guim.co.uk/img/media/fb7e619c1abfb4847e99dd76a6d3bc1afd311737/239_0_2594_2076/master/2594.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c03f808816b1966fe08e5e618c701549"
     },
     {
-      "id": "story-13",
+      "id": "story-14",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -156,7 +167,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4859/live/7aeadf20-b993-11f1-bc1f-3f186ca4140c.jpg"
     },
     {
-      "id": "story-14",
+      "id": "story-15",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -167,7 +178,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c821/live/da35edd0-b79a-11f1-b109-93ea59d5de8e.jpg"
     },
     {
-      "id": "story-15",
+      "id": "story-16",
       "league": "La Liga",
       "dot": "#E3B4F5",
       "source": "BBC Sport",
@@ -178,7 +189,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fb63/live/fd948370-b8eb-11f1-8e38-ff13e96f88b3.jpg"
     },
     {
-      "id": "story-16",
+      "id": "story-17",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -189,7 +200,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0f04/live/5f59eac0-b8d1-11f1-ad1f-538855f30ba1.jpg"
     },
     {
-      "id": "story-17",
+      "id": "story-18",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -200,7 +211,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e68b/live/24328780-b71a-11f1-bc1f-3f186ca4140c.jpg"
     },
     {
-      "id": "story-18",
+      "id": "story-19",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -211,7 +222,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7208/live/a0644c80-b986-11f1-bc1f-3f186ca4140c.png"
     },
     {
-      "id": "story-19",
+      "id": "story-20",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -222,7 +233,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dd6d/live/f91d84e0-b828-11f1-9173-8b6ede38f022.jpg"
     },
     {
-      "id": "story-20",
+      "id": "story-21",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -231,17 +242,6 @@
       "excerpt": "<ul><li><p>Club’s owners FSG move swiftly to fill key post</p></li><li><p>Move comes amid upheaval in Anfield hierarchy</p></li></ul><p>Liverpool…",
       "link": "https://www.theguardian.com/football/2026/sep/26/liverpool-rehire-julian-ward-sporting-director-replace-richard-hughes",
       "image": "https://i.guim.co.uk/img/media/16b26a4749cb16fa025e9d028e3990ac6b6eb82a/482_0_4073_3258/master/4073.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=7b7ef828b18f9ea019536970fcf6424e"
-    },
-    {
-      "id": "story-21",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "The Guardian",
-      "time": "Sep 26",
-      "headline": "‘Island girl’ Malard aims to become a legend with Bompastor at Chelsea",
-      "excerpt": "<p>She left her Indian Ocean island home at the urging of her current manager and…",
-      "link": "https://www.theguardian.com/football/2026/sep/26/womens-super-league-chelsea-girl-from-island-melvine-malard-sees-reunion-sonia-bompastor-way-become-legend",
-      "image": "https://i.guim.co.uk/img/media/d07041c4051a3cb0d88ab7d81894c022ef728ff4/221_0_10617_8493/master/10617.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=65c5b35c4d467c8baeb66494baf58c1d"
     },
     {
       "id": "story-22",
