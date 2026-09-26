@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-26T13:58:45.024Z",
+  "updatedAt": "2026-09-26T14:10:22.437Z",
   "hero": {
     "id": "story-0",
     "league": "Football",
@@ -9,7 +9,7 @@
     "headline": "Slovenia v Scotland: Nations League – live",
     "excerpt": "<p>⚽ Updates from the Group B1 game; kick-off 2pm BST<br>⚽ <a href=\"https://www.theguardian.com/football/live\">Live scoreboard</a> | <a…",
     "link": "https://www.theguardian.com/football/live/2026/sep/26/slovenia-v-scotland-nations-league-live",
-    "image": "https://i.guim.co.uk/img/media/c01f973f3cf4473f83d080fb5e74c3ef2049a04d/284_0_2916_2333/master/2916.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b3d41f931b25525df6f451e63aec1503"
+    "image": "https://i.guim.co.uk/img/media/b6dd30749e949c2b1db73635413aa3e74135e629/289_0_3163_2531/master/3163.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=60362fc7e58de50f0b72fa2ab86c6a82"
   },
   "topStories": [
     {
@@ -161,24 +161,13 @@
       "dot": "#AFC4AC",
       "source": "BBC Sport",
       "time": "Sep 26",
-      "headline": "Pocognoli may require patience to deliver on Scotland shake-up",
-      "excerpt": "A new era begins for Scotland, with Sebastien Pocognoli leading a refreshed squad into the…",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cvkgw6g1kdg8o?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/13bd/live/7e563760-b914-11f1-bb9c-99c71a1a6145.jpg"
-    },
-    {
-      "id": "story-15",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "BBC Sport",
-      "time": "Sep 26",
       "headline": "Why are Northern Ireland playing Ukraine in Slovakia?",
       "excerpt": "Northern Ireland will head to Slovakia to face Ukraine in the Nations League",
       "link": "https://www.bbc.co.uk/sport/football/articles/ck624vw423z6o?at_medium=RSS&amp;at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dd6d/live/f91d84e0-b828-11f1-9173-8b6ede38f022.jpg"
     },
     {
-      "id": "story-16",
+      "id": "story-15",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -189,7 +178,7 @@
       "image": "https://i.guim.co.uk/img/media/16b26a4749cb16fa025e9d028e3990ac6b6eb82a/482_0_4073_3258/master/4073.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=7b7ef828b18f9ea019536970fcf6424e"
     },
     {
-      "id": "story-17",
+      "id": "story-16",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -200,7 +189,7 @@
       "image": "https://i.guim.co.uk/img/media/d07041c4051a3cb0d88ab7d81894c022ef728ff4/221_0_10617_8493/master/10617.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=65c5b35c4d467c8baeb66494baf58c1d"
     },
     {
-      "id": "story-18",
+      "id": "story-17",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -211,7 +200,7 @@
       "image": "https://i.guim.co.uk/img/media/0e998b26461d8e91fbd98aa5ad03c29efe3edabe/267_0_2982_2386/master/2982.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=09843795a390d7fcee690aa384053f95"
     },
     {
-      "id": "story-19",
+      "id": "story-18",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "The Guardian",
@@ -222,7 +211,7 @@
       "image": "https://i.guim.co.uk/img/media/35da7c2eea684b9a437932cc93c120ddae5f7d40/176_0_4321_3455/master/4321.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=da66faaf5c3bc080c20060cb0fd7437a"
     },
     {
-      "id": "story-20",
+      "id": "story-19",
       "league": "La Liga",
       "dot": "#E3B4F5",
       "source": "The Guardian",
@@ -233,7 +222,7 @@
       "image": "https://i.guim.co.uk/img/media/050b28be1e0b44309dda896417c5d66a0b42efa3/255_1868_2177_1741/master/2177.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=bbcbdde100a7361f2fbd313287b79ca6"
     },
     {
-      "id": "story-21",
+      "id": "story-20",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "The Guardian",
@@ -244,7 +233,7 @@
       "image": "https://i.guim.co.uk/img/media/25f3e8f290efaaa1ce7f1718b84ac8de3e394c81/0_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=15faf1118525b55d450b00698c6865e9"
     },
     {
-      "id": "story-22",
+      "id": "story-21",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -255,7 +244,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8d30/live/31c1d9f0-b823-11f1-9173-8b6ede38f022.jpg"
     },
     {
-      "id": "story-23",
+      "id": "story-22",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -264,6 +253,17 @@
       "excerpt": "As England prepare to take on Spain in their opening Nations League match, BBC Sport…",
       "link": "https://www.bbc.co.uk/sport/football/articles/cmr4v77zyr64o?at_medium=RSS&amp;at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9f65/live/16539990-b8f2-11f1-a698-ff5dd8cb1a06.jpg"
+    },
+    {
+      "id": "story-23",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "BBC Sport",
+      "time": "Sep 26",
+      "headline": "Charles brothers 'brilliant' in NI's landmark win",
+      "excerpt": "The Charles brothers led the way for Northern Ireland at both ends of the field…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cqy4zz7rze21o?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fbf/live/3f1dddd0-b920-11f1-b685-519146636d7f.jpg"
     }
   ],
   "scoreboard": []
