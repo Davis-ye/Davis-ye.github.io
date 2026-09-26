@@ -1,27 +1,27 @@
 {
-  "updatedAt": "2026-09-26T09:36:24.302Z",
+  "updatedAt": "2026-09-26T09:45:50.111Z",
   "hero": {
     "id": "story-0",
-    "league": "La Liga",
-    "dot": "#E3B4F5",
+    "league": "Premier League",
+    "dot": "#9CC0F0",
     "source": "BBC Sport",
     "time": "Sep 26",
-    "headline": "The issues Mourinho is struggling to fix at Real",
-    "excerpt": "Jose Mourinho only returned to Real Madrid in July but a lot needs to improve…",
-    "link": "https://www.bbc.co.uk/sport/football/articles/c620ld00n5n9o?at_medium=RSS&amp;at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fb63/live/fd948370-b8eb-11f1-8e38-ff13e96f88b3.jpg"
+    "headline": "The teething troubles with Man Utd's tactics under Olid",
+    "excerpt": "Eva Olid promised high-possession attacking football at Manchester United, so why has it not worked…",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cmx2zdxe4gjpo?at_medium=RSS&amp;at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c821/live/da35edd0-b79a-11f1-b109-93ea59d5de8e.jpg"
   },
   "topStories": [
     {
       "id": "story-1",
-      "league": "Football",
-      "dot": "#AFC4AC",
+      "league": "La Liga",
+      "dot": "#E3B4F5",
       "source": "BBC Sport",
       "time": "Sep 26",
-      "headline": "Bellamy support crucial after serious injury - Wales' Burns",
-      "excerpt": "Winger Wes Burns hopes to repay Craig Bellamy's support during a long-term injury by making…",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cklyjv02ygeeo?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0f04/live/5f59eac0-b8d1-11f1-ad1f-538855f30ba1.jpg"
+      "headline": "The issues Mourinho is struggling to fix at Real",
+      "excerpt": "Jose Mourinho only returned to Real Madrid in July but a lot needs to improve…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c620ld00n5n9o?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fb63/live/fd948370-b8eb-11f1-8e38-ff13e96f88b3.jpg"
     },
     {
       "id": "story-2",
@@ -36,6 +36,17 @@
     },
     {
       "id": "story-3",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "BBC Sport",
+      "time": "Sep 26",
+      "headline": "Bellamy support crucial after serious injury - Wales' Burns",
+      "excerpt": "Winger Wes Burns hopes to repay Craig Bellamy's support during a long-term injury by making…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cklyjv02ygeeo?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0f04/live/5f59eac0-b8d1-11f1-ad1f-538855f30ba1.jpg"
+    },
+    {
+      "id": "story-4",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -46,7 +57,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e68b/live/24328780-b71a-11f1-bc1f-3f186ca4140c.jpg"
     },
     {
-      "id": "story-4",
+      "id": "story-5",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -57,7 +68,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7208/live/a0644c80-b986-11f1-bc1f-3f186ca4140c.png"
     },
     {
-      "id": "story-5",
+      "id": "story-6",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -68,7 +79,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/13bd/live/7e563760-b914-11f1-bb9c-99c71a1a6145.jpg"
     },
     {
-      "id": "story-6",
+      "id": "story-7",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -79,7 +90,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dd6d/live/f91d84e0-b828-11f1-9173-8b6ede38f022.jpg"
     },
     {
-      "id": "story-7",
+      "id": "story-8",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -90,7 +101,7 @@
       "image": "https://i.guim.co.uk/img/media/16b26a4749cb16fa025e9d028e3990ac6b6eb82a/482_0_4073_3258/master/4073.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=7b7ef828b18f9ea019536970fcf6424e"
     },
     {
-      "id": "story-8",
+      "id": "story-9",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -101,7 +112,7 @@
       "image": "https://i.guim.co.uk/img/media/0e998b26461d8e91fbd98aa5ad03c29efe3edabe/267_0_2982_2386/master/2982.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=09843795a390d7fcee690aa384053f95"
     },
     {
-      "id": "story-9",
+      "id": "story-10",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -112,7 +123,7 @@
       "image": "https://i.guim.co.uk/img/media/d07041c4051a3cb0d88ab7d81894c022ef728ff4/221_0_10617_8493/master/10617.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=65c5b35c4d467c8baeb66494baf58c1d"
     },
     {
-      "id": "story-10",
+      "id": "story-11",
       "league": "La Liga",
       "dot": "#E3B4F5",
       "source": "The Guardian",
@@ -123,7 +134,7 @@
       "image": "https://i.guim.co.uk/img/media/050b28be1e0b44309dda896417c5d66a0b42efa3/255_1868_2177_1741/master/2177.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=bbcbdde100a7361f2fbd313287b79ca6"
     },
     {
-      "id": "story-11",
+      "id": "story-12",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "The Guardian",
@@ -134,7 +145,7 @@
       "image": "https://i.guim.co.uk/img/media/35da7c2eea684b9a437932cc93c120ddae5f7d40/176_0_4321_3455/master/4321.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=da66faaf5c3bc080c20060cb0fd7437a"
     },
     {
-      "id": "story-12",
+      "id": "story-13",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "The Guardian",
@@ -145,7 +156,7 @@
       "image": "https://i.guim.co.uk/img/media/25f3e8f290efaaa1ce7f1718b84ac8de3e394c81/0_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=15faf1118525b55d450b00698c6865e9"
     },
     {
-      "id": "story-13",
+      "id": "story-14",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -156,7 +167,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8d30/live/31c1d9f0-b823-11f1-9173-8b6ede38f022.jpg"
     },
     {
-      "id": "story-14",
+      "id": "story-15",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -167,7 +178,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9f65/live/16539990-b8f2-11f1-a698-ff5dd8cb1a06.jpg"
     },
     {
-      "id": "story-15",
+      "id": "story-16",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -178,7 +189,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fbf/live/3f1dddd0-b920-11f1-b685-519146636d7f.jpg"
     },
     {
-      "id": "story-16",
+      "id": "story-17",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -189,7 +200,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/35d3/live/b39074f0-f4ed-11ef-896e-d7e7fb1719a4.jpg"
     },
     {
-      "id": "story-17",
+      "id": "story-18",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -200,7 +211,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ada7/live/27df4c70-9658-11f1-b2ab-0dd01740f9f6.jpg"
     },
     {
-      "id": "story-18",
+      "id": "story-19",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -211,7 +222,7 @@
       "image": "https://i.guim.co.uk/img/media/9a242da4d2fe6a6f6235ee49bf4b1a517d38d65e/361_0_3540_2832/master/3540.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e4072d01fe79ea3c9909475426ab4f6e"
     },
     {
-      "id": "story-19",
+      "id": "story-20",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -222,7 +233,7 @@
       "image": "https://i.guim.co.uk/img/media/b25bf3e1482d835759c360ef33b53f16e32a9027/463_0_4900_3920/master/4900.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3ce5e6804b0aa221c310ae8a518ad50d"
     },
     {
-      "id": "story-20",
+      "id": "story-21",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -233,7 +244,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6656/live/face4040-b927-11f1-b247-17210618604e.jpg"
     },
     {
-      "id": "story-21",
+      "id": "story-22",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "101 Great Goals",
@@ -244,7 +255,7 @@
       "image": null
     },
     {
-      "id": "story-22",
+      "id": "story-23",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -253,17 +264,6 @@
       "excerpt": "Erling Haaland is without a relegation clause, Premier League clubs are eyeing Marcos Llorente, Juventus…",
       "link": "https://www.bbc.co.uk/sport/football/articles/c84gkkepxxl4o?at_medium=RSS&amp;at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4a98/live/8a5e0ae0-b92a-11f1-a430-4d16ee157c41.png"
-    },
-    {
-      "id": "story-23",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "BBC Sport",
-      "time": "Sep 25",
-      "headline": "Relegation? Titles stripped? Appeals? What next for Man City",
-      "excerpt": "It has taken more than two years, but a judgement finally appears to have been…",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cx30540044q0o?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d05b/live/c288fcf0-b8f2-11f1-bd4a-e9ce4be469f6.jpg"
     }
   ],
   "scoreboard": []
