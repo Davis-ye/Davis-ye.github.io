@@ -1,19 +1,30 @@
 {
-  "updatedAt": "2026-09-26T19:12:51.952Z",
+  "updatedAt": "2026-09-26T19:23:24.951Z",
   "hero": {
     "id": "story-0",
     "league": "Football",
     "dot": "#AFC4AC",
-    "source": "The Guardian",
+    "source": "101 Great Goals",
     "time": "Sep 26",
-    "headline": "England v Spain: Nations League football – live",
-    "excerpt": "<ul><li><p>Nations League updates from the 7.45pm BST kick-off</p></li><li><p><a href=\"https://www.theguardian.com/football/live\">Live scoreboard</a> | Follow us on <a…",
-    "link": "https://www.theguardian.com/football/live/2026/sep/26/england-v-spain-nations-league-football-live-score-updates",
-    "image": "https://i.guim.co.uk/img/media/d7caebc1f5d7bc3c06466e22d5390568d1cb917a/1312_50_1031_825/master/1031.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=052bc45e4ce54327bff25a6b74bba9f7"
+    "headline": "WATCH: Yamal punishes Guehi howler to give Spain the lead at Wembley",
+    "excerpt": "Yamal needed only 104 seconds to put Spain ahead.",
+    "link": "https://www.101greatgoals.com/football/internationals/yamal-punishes-guehi-howler-spain-lead-wembley/",
+    "image": null
   },
   "topStories": [
     {
       "id": "story-1",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "The Guardian",
+      "time": "Sep 26",
+      "headline": "England v Spain: Nations League football – live",
+      "excerpt": "<ul><li><p>Nations League updates from the 7.45pm BST kick-off</p></li><li><p><a href=\"https://www.theguardian.com/football/live\">Live scoreboard</a> | Follow us on <a…",
+      "link": "https://www.theguardian.com/football/live/2026/sep/26/england-v-spain-nations-league-football-live-score-updates",
+      "image": "https://i.guim.co.uk/img/media/d7caebc1f5d7bc3c06466e22d5390568d1cb917a/1312_50_1031_825/master/1031.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=052bc45e4ce54327bff25a6b74bba9f7"
+    },
+    {
+      "id": "story-2",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -22,17 +33,6 @@
       "excerpt": "<ul><li><p>Two-time Ballon d’Or winner nets against Brighton</p></li><li><p>Alex Greenwood’s free-kick sinks Charlton</p><p></p></li></ul><p>Alexia Putellas scored her first…",
       "link": "https://www.theguardian.com/football/2026/sep/26/wsl-roundup-greenwood-maintains-manchester-citys-100-record",
       "image": "https://i.guim.co.uk/img/media/78b812ce9b72c985e9558f6fb2ea6655e73aa0b5/338_0_3856_3084/master/3856.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=4c68c1feaaa95304401f7c024a9dbc33"
-    },
-    {
-      "id": "story-2",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "101 Great Goals",
-      "time": "Sep 26",
-      "headline": "Los Angeles Rams @ Denver Broncos: Preview, prediction and odds",
-      "excerpt": "The Broncos host the Rams in a fascinating Sunday Night Football encounter. Read our in-depth…",
-      "link": "https://www.101greatgoals.com/nfl/rams-broncos-preview-prediction-and-odds/",
-      "image": null
     },
     {
       "id": "story-3",
