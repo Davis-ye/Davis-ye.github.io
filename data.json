@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-26T07:47:53.733Z",
+  "updatedAt": "2026-09-26T07:55:14.127Z",
   "hero": {
     "id": "story-0",
     "league": "Premier League",
@@ -225,6 +225,17 @@
       "id": "story-20",
       "league": "Premier League",
       "dot": "#9CC0F0",
+      "source": "The Guardian",
+      "time": "Sep 25",
+      "headline": "Andy Robertson says players are ‘not to blame’ for Manchester City’s actions",
+      "excerpt": "<ul><li><p>City found guilty of breaching Premier League rules </p></li><li><p>Liverpool finished second to City in 2019…",
+      "link": "https://www.theguardian.com/football/2026/sep/25/andy-robertson-says-players-are-not-to-blame-for-manchester-citys-actions",
+      "image": "https://i.guim.co.uk/img/media/bfdacf8e5fc0f01d44b275640d81a5d6b78fb20a/338_0_2824_2259/master/2824.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3b285661bb905db525bc7cf0a5934489"
+    },
+    {
+      "id": "story-21",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
       "source": "BBC Sport",
       "time": "Sep 25",
       "headline": "Clubs seek legal advice over Man City charges compensation",
@@ -233,7 +244,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/588a/live/72e11970-b96b-11f1-b55e-350150ef61ab.jpg"
     },
     {
-      "id": "story-21",
+      "id": "story-22",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -244,7 +255,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5f08/live/0f6128f0-b91a-11f1-a430-4d16ee157c41.jpg"
     },
     {
-      "id": "story-22",
+      "id": "story-23",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -253,17 +264,6 @@
       "excerpt": "What next for Man City and the Premier League after being found guilty of 114…",
       "link": "https://www.bbc.co.uk/sounds/play/p0pckjx7?at_medium=RSS&amp;at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0m6ztjd.jpg"
-    },
-    {
-      "id": "story-23",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "The Guardian",
-      "time": "Sep 25",
-      "headline": "The age of asterisk: Manchester City’s glittering era of success is tainted now | Barney Ronay",
-      "excerpt": "<p>Friday’s verdict against Manchester City will change everything we understood about their Premier League title…",
-      "link": "https://www.theguardian.com/football/2026/sep/25/manchester-city-era-success-all-tainted-now-premier-league-charges",
-      "image": "https://i.guim.co.uk/img/media/9387eff2c2d71fcddeade60f68ec6e6f94f2d52d/380_0_4091_3272/master/4091.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=93fecd0b428e75476985cc5120bfa940"
     }
   ],
   "scoreboard": []
