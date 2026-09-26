@@ -1,19 +1,30 @@
 {
-  "updatedAt": "2026-09-26T17:52:32.570Z",
+  "updatedAt": "2026-09-26T17:59:28.017Z",
   "hero": {
     "id": "story-0",
-    "league": "Football",
-    "dot": "#AFC4AC",
-    "source": "101 Great Goals",
+    "league": "Premier League",
+    "dot": "#9CC0F0",
+    "source": "The Guardian",
     "time": "Sep 26",
-    "headline": "England v Spain: Confirmed line-ups for blockbuster Nations League clash",
-    "excerpt": "It's their first meeting since the Euro 2024 final.",
-    "link": "https://www.101greatgoals.com/football/internationals/england-spain-teams/",
-    "image": null
+    "headline": "England v Spain: Nations League football – live",
+    "excerpt": "<ul><li><p>Nations League updates from the 7.45pm BST kick-off</p></li><li><p><a href=\"https://www.theguardian.com/football/live\">Live scoreboard</a> | Follow us on <a…",
+    "link": "https://www.theguardian.com/football/live/2026/sep/26/england-v-spain-nations-league-football-live-score-updates",
+    "image": "https://i.guim.co.uk/img/media/dd52e321d339bd1923f1ca70a3a57faea6c223e9/313_0_3132_2505/master/3132.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=44aed69f02cd6ce0511e2daeb35a826b"
   },
   "topStories": [
     {
       "id": "story-1",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "101 Great Goals",
+      "time": "Sep 26",
+      "headline": "England v Spain: Confirmed line-ups for blockbuster Nations League clash",
+      "excerpt": "It's their first meeting since the Euro 2024 final.",
+      "link": "https://www.101greatgoals.com/football/internationals/england-spain-teams/",
+      "image": null
+    },
+    {
+      "id": "story-2",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "The Guardian",
@@ -22,17 +33,6 @@
       "excerpt": "<ul><li><p>‘Majority’ of players vote for matches to go ahead</p></li><li><p>One player withdraws from squad citing ‘discomfort’</p></li></ul><p>The…",
       "link": "https://www.theguardian.com/football/2026/sep/26/ireland-players-vote-to-go-ahead-with-nations-league-match-against-israel",
       "image": "https://i.guim.co.uk/img/media/80e060cee616b9a4aa1200f893c524b22c8706a5/921_0_6664_5334/master/6664.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a7b36f2e6411a36dcd68a19f275973cf"
-    },
-    {
-      "id": "story-2",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "The Guardian",
-      "time": "Sep 26",
-      "headline": "England v Spain: Nations League football – live",
-      "excerpt": "<ul><li><p>Nations League updates from the 7.45pm BST kick-off</p></li><li><p><a href=\"https://www.theguardian.com/football/live\">Live scoreboard</a> | Follow us on <a…",
-      "link": "https://www.theguardian.com/football/live/2026/sep/26/england-v-spain-nations-league-football-live-score-updates",
-      "image": "https://i.guim.co.uk/img/media/a4e73d476b855a00a1352dc40c589de1992b790f/1002_0_6369_5098/master/6369.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=1611f5cd6ea0a03df461c6f360165048"
     },
     {
       "id": "story-3",
