@@ -1,19 +1,41 @@
 {
-  "updatedAt": "2026-09-26T15:13:29.854Z",
+  "updatedAt": "2026-09-26T15:26:20.926Z",
   "hero": {
     "id": "story-0",
-    "league": "Premier League",
-    "dot": "#9CC0F0",
-    "source": "101 Great Goals",
+    "league": "Football",
+    "dot": "#AFC4AC",
+    "source": "BBC Sport",
     "time": "Sep 26",
-    "headline": "Man City chairman Al Mubarak responds after club found guilty of 114 financial breaches",
-    "excerpt": "The chairman released an open letter to fans following Friday's seismic news.",
-    "link": "https://www.101greatgoals.com/football/premier-league/man-city-chairman-responds-guilty-114-financial-breaches/",
-    "image": null
+    "headline": "Scotland rue missed chances in Slovenia draw",
+    "excerpt": "Sebastien Pocognoli's first match in charge of Scotland ends in a goalless draw against Slovenia…",
+    "link": "https://www.bbc.co.uk/sport/football/videos/c6y9zzy79ewyo?at_medium=RSS&amp;at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b9ac/live/16316750-b9bd-11f1-b1d1-571ed4d7ff2c.jpg"
   },
   "topStories": [
     {
       "id": "story-1",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "The Guardian",
+      "time": "Sep 26",
+      "headline": "Slovenia 0-0 Scotland: Nations League – live",
+      "excerpt": "<p>An extremely dominant second-half display wasn’t enough to win Scotland all three points in their…",
+      "link": "https://www.theguardian.com/football/live/2026/sep/26/slovenia-v-scotland-nations-league-live",
+      "image": "https://i.guim.co.uk/img/media/b0524f1c73c6ae4da329518ea659382a5ac08d6d/600_237_2875_2302/master/2875.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=276e17fe84bf42d14455804f8e861b71"
+    },
+    {
+      "id": "story-2",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "101 Great Goals",
+      "time": "Sep 26",
+      "headline": "Man City chairman Al Mubarak responds after club found guilty of 114 financial breaches",
+      "excerpt": "The chairman released an open letter to fans following Friday's seismic news.",
+      "link": "https://www.101greatgoals.com/football/premier-league/man-city-chairman-responds-guilty-114-financial-breaches/",
+      "image": null
+    },
+    {
+      "id": "story-3",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -24,18 +46,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f295/live/e733d1d0-b9b8-11f1-a430-4d16ee157c41.jpg"
     },
     {
-      "id": "story-2",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "The Guardian",
-      "time": "Sep 26",
-      "headline": "Slovenia 0-0 Scotland: Nations League – live",
-      "excerpt": "<p>⚽ Updates from the Group B1 game; kick-off 2pm BST<br>⚽ <a href=\"https://www.theguardian.com/football/live\">Live scoreboard</a> | <a…",
-      "link": "https://www.theguardian.com/football/live/2026/sep/26/slovenia-v-scotland-nations-league-live",
-      "image": "https://i.guim.co.uk/img/media/b0524f1c73c6ae4da329518ea659382a5ac08d6d/600_237_2875_2302/master/2875.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=276e17fe84bf42d14455804f8e861b71"
-    },
-    {
-      "id": "story-3",
+      "id": "story-4",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -46,7 +57,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b748/live/e2ec7610-b9b6-11f1-929f-f1f9c2e672cb.jpg"
     },
     {
-      "id": "story-4",
+      "id": "story-5",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -57,18 +68,29 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2a45/live/6922a2a0-b9b6-11f1-a430-4d16ee157c41.jpg"
     },
     {
-      "id": "story-5",
+      "id": "story-6",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
       "time": "Sep 26",
-      "headline": "Manchester City chairman Al Mubarak insists ‘nothing has changed’ after guilty verdict",
+      "headline": "Manchester City chair Al Mubarak insists ‘nothing has changed’ after guilty verdict",
       "excerpt": "<ul><li><p>Manager Maresca posts ‘I know nothing’ message </p></li><li><p>David Bernstein: a fine is not sufficient if…",
       "link": "https://www.theguardian.com/football/2026/sep/26/enzo-maresca-noel-gallagher-manchester-city-guilty-verdict",
       "image": "https://i.guim.co.uk/img/media/eb93ccb732378baed3b7fb0e1123500da843ff17/300_68_1328_1063/master/1328.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c8459670fae419b7ba911c3ea099b2f9"
     },
     {
-      "id": "story-6",
+      "id": "story-7",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "The Guardian",
+      "time": "Sep 26",
+      "headline": "Ireland players vote to go ahead with Israel matches despite ‘different views’",
+      "excerpt": "<ul><li><p>Scheduled press conference and training session delayed</p></li><li><p>Irish FA admits ‘players shared different views’ </p></li></ul><p>The Republic…",
+      "link": "https://www.theguardian.com/football/2026/sep/26/ireland-players-vote-to-go-ahead-with-nations-league-match-against-israel",
+      "image": "https://i.guim.co.uk/img/media/80e060cee616b9a4aa1200f893c524b22c8706a5/921_0_6664_5334/master/6664.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a7b36f2e6411a36dcd68a19f275973cf"
+    },
+    {
+      "id": "story-8",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -79,7 +101,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/50af/live/b4586d40-b9b1-11f1-929f-f1f9c2e672cb.jpg"
     },
     {
-      "id": "story-7",
+      "id": "story-9",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -90,7 +112,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6652/live/4dfdf9a0-b96d-11f1-88b4-a9b939c8ba34.jpg"
     },
     {
-      "id": "story-8",
+      "id": "story-10",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -101,7 +123,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0eb6/live/1daaf990-b9a6-11f1-8a1a-0176f978c211.jpg"
     },
     {
-      "id": "story-9",
+      "id": "story-11",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "The Guardian",
@@ -112,7 +134,7 @@
       "image": "https://i.guim.co.uk/img/media/fb7e619c1abfb4847e99dd76a6d3bc1afd311737/239_0_2594_2076/master/2594.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c03f808816b1966fe08e5e618c701549"
     },
     {
-      "id": "story-10",
+      "id": "story-12",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -123,7 +145,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4859/live/7aeadf20-b993-11f1-bc1f-3f186ca4140c.jpg"
     },
     {
-      "id": "story-11",
+      "id": "story-13",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -134,7 +156,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c821/live/da35edd0-b79a-11f1-b109-93ea59d5de8e.jpg"
     },
     {
-      "id": "story-12",
+      "id": "story-14",
       "league": "La Liga",
       "dot": "#E3B4F5",
       "source": "BBC Sport",
@@ -145,7 +167,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fb63/live/fd948370-b8eb-11f1-8e38-ff13e96f88b3.jpg"
     },
     {
-      "id": "story-13",
+      "id": "story-15",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -156,7 +178,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0f04/live/5f59eac0-b8d1-11f1-ad1f-538855f30ba1.jpg"
     },
     {
-      "id": "story-14",
+      "id": "story-16",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -167,7 +189,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e68b/live/24328780-b71a-11f1-bc1f-3f186ca4140c.jpg"
     },
     {
-      "id": "story-15",
+      "id": "story-17",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -178,7 +200,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7208/live/a0644c80-b986-11f1-bc1f-3f186ca4140c.png"
     },
     {
-      "id": "story-16",
+      "id": "story-18",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -189,7 +211,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dd6d/live/f91d84e0-b828-11f1-9173-8b6ede38f022.jpg"
     },
     {
-      "id": "story-17",
+      "id": "story-19",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -200,7 +222,7 @@
       "image": "https://i.guim.co.uk/img/media/16b26a4749cb16fa025e9d028e3990ac6b6eb82a/482_0_4073_3258/master/4073.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=7b7ef828b18f9ea019536970fcf6424e"
     },
     {
-      "id": "story-18",
+      "id": "story-20",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -211,7 +233,7 @@
       "image": "https://i.guim.co.uk/img/media/d07041c4051a3cb0d88ab7d81894c022ef728ff4/221_0_10617_8493/master/10617.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=65c5b35c4d467c8baeb66494baf58c1d"
     },
     {
-      "id": "story-19",
+      "id": "story-21",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -222,7 +244,7 @@
       "image": "https://i.guim.co.uk/img/media/0e998b26461d8e91fbd98aa5ad03c29efe3edabe/267_0_2982_2386/master/2982.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=09843795a390d7fcee690aa384053f95"
     },
     {
-      "id": "story-20",
+      "id": "story-22",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "The Guardian",
@@ -233,7 +255,7 @@
       "image": "https://i.guim.co.uk/img/media/35da7c2eea684b9a437932cc93c120ddae5f7d40/176_0_4321_3455/master/4321.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=da66faaf5c3bc080c20060cb0fd7437a"
     },
     {
-      "id": "story-21",
+      "id": "story-23",
       "league": "La Liga",
       "dot": "#E3B4F5",
       "source": "The Guardian",
@@ -242,28 +264,6 @@
       "excerpt": "<p>Spain and Barcelona wonderkid has won World Cup and European Championship but says there are…",
       "link": "https://www.theguardian.com/football/2026/sep/26/lamine-yamal-football-special-spark-spain-world-cup-barcelona",
       "image": "https://i.guim.co.uk/img/media/050b28be1e0b44309dda896417c5d66a0b42efa3/255_1868_2177_1741/master/2177.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=bbcbdde100a7361f2fbd313287b79ca6"
-    },
-    {
-      "id": "story-22",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "The Guardian",
-      "time": "Sep 26",
-      "headline": "Burnham’s booze ruse is a non-starter: just keep doing your drinking in the pub | Barney Ronay",
-      "excerpt": "<p>The prime minister, a life-long football fan, was just restating a personal opinion about having…",
-      "link": "https://www.theguardian.com/football/2026/sep/26/burnhams-booze-ruse-is-a-non-starter-just-keep-doing-your-drinking-in-the-pub",
-      "image": "https://i.guim.co.uk/img/media/25f3e8f290efaaa1ce7f1718b84ac8de3e394c81/0_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=15faf1118525b55d450b00698c6865e9"
-    },
-    {
-      "id": "story-23",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "BBC Sport",
-      "time": "Sep 26",
-      "headline": "The MMA fighter helping Brighton - and filling stadiums",
-      "excerpt": "From helping Brighton with set pieces to fighting in front of nearly 60,000 people -…",
-      "link": "https://www.bbc.co.uk/sport/mixed-martial-arts/articles/crq8j9572vejo?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8d30/live/31c1d9f0-b823-11f1-9173-8b6ede38f022.jpg"
     }
   ],
   "scoreboard": []
