@@ -1,19 +1,30 @@
 {
-  "updatedAt": "2026-09-26T09:45:50.111Z",
+  "updatedAt": "2026-09-26T09:53:13.854Z",
   "hero": {
     "id": "story-0",
     "league": "Premier League",
     "dot": "#9CC0F0",
-    "source": "BBC Sport",
+    "source": "The Guardian",
     "time": "Sep 26",
-    "headline": "The teething troubles with Man Utd's tactics under Olid",
-    "excerpt": "Eva Olid promised high-possession attacking football at Manchester United, so why has it not worked…",
-    "link": "https://www.bbc.co.uk/sport/football/articles/cmx2zdxe4gjpo?at_medium=RSS&amp;at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c821/live/da35edd0-b79a-11f1-b109-93ea59d5de8e.jpg"
+    "headline": "Former Manchester City chair says ‘money not sufficient’ penalty, Liverpool rehire sporting director – live",
+    "excerpt": "<ul><li><p><a href=\"https://www.theguardian.com/football/manchestercity\">Manchester City news</a> and Nations League buildup</p></li><li><p><a href=\"https://www.theguardian.com/football/live\">Today’s games</a> | <a href=\"https://www.theguardian.com/football/2026/sep/25/england-spain-football-daily-newsletter\">Read Football Daily</a>…",
+    "link": "https://www.theguardian.com/football/live/2026/sep/26/manchester-city-verdict-latest-england-v-spain-buildup-wsl-and-more-live",
+    "image": "https://i.guim.co.uk/img/media/f1a57f26793c2a52d6684988d954d909030c8d70/1062_0_6880_5504/master/6880.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=25c9a380cea6344e92dbeda62e98fb14"
   },
   "topStories": [
     {
       "id": "story-1",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "BBC Sport",
+      "time": "Sep 26",
+      "headline": "The teething troubles with Man Utd's tactics under Olid",
+      "excerpt": "Eva Olid promised high-possession attacking football at Manchester United, so why has it not worked…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cmx2zdxe4gjpo?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c821/live/da35edd0-b79a-11f1-b109-93ea59d5de8e.jpg"
+    },
+    {
+      "id": "story-2",
       "league": "La Liga",
       "dot": "#E3B4F5",
       "source": "BBC Sport",
@@ -22,17 +33,6 @@
       "excerpt": "Jose Mourinho only returned to Real Madrid in July but a lot needs to improve…",
       "link": "https://www.bbc.co.uk/sport/football/articles/c620ld00n5n9o?at_medium=RSS&amp;at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fb63/live/fd948370-b8eb-11f1-8e38-ff13e96f88b3.jpg"
-    },
-    {
-      "id": "story-2",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "The Guardian",
-      "time": "Sep 26",
-      "headline": "Former Manchester City chair says ‘money not sufficient’ penalty, Liverpool rehire sporting director – live",
-      "excerpt": "<ul><li><p><a href=\"https://www.theguardian.com/football/manchestercity\">Manchester City news</a> and Nations League buildup</p></li><li><p><a href=\"https://www.theguardian.com/football/live\">Today’s games</a> | <a href=\"https://www.theguardian.com/football/2026/sep/25/england-spain-football-daily-newsletter\">Read Football Daily</a>…",
-      "link": "https://www.theguardian.com/football/live/2026/sep/26/manchester-city-verdict-latest-england-v-spain-buildup-wsl-and-more-live",
-      "image": "https://i.guim.co.uk/img/media/f1a57f26793c2a52d6684988d954d909030c8d70/1062_0_6880_5504/master/6880.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=25c9a380cea6344e92dbeda62e98fb14"
     },
     {
       "id": "story-3",
@@ -256,14 +256,14 @@
     },
     {
       "id": "story-23",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "BBC Sport",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "101 Great Goals",
       "time": "Sep 25",
-      "headline": "No relegation clause in Haaland's City deal - Saturday's gossip",
-      "excerpt": "Erling Haaland is without a relegation clause, Premier League clubs are eyeing Marcos Llorente, Juventus…",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c84gkkepxxl4o?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4a98/live/8a5e0ae0-b92a-11f1-a430-4d16ee157c41.png"
+      "headline": "Nations League results today: Belgium win in Italy as Van Bommel beats Mancini",
+      "excerpt": "Italy's misery continued after missing the World Cup 2026",
+      "link": "https://www.101greatgoals.com/football/internationals/nations-league-results-today-results-scores-italy-belgium/",
+      "image": null
     }
   ],
   "scoreboard": []
