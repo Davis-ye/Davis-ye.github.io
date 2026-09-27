@@ -1,38 +1,38 @@
 {
-  "updatedAt": "2026-09-27T20:54:27.899Z",
+  "updatedAt": "2026-09-27T21:01:49.397Z",
   "hero": {
     "id": "story-0",
     "league": "Football",
     "dot": "#AFC4AC",
-    "source": "101 Great Goals",
+    "source": "The Guardian",
     "time": "Sep 27",
-    "headline": "Norway 1-2 Portugal: Report, result, goals as Ramos scores winner after replacing Ronaldo in starting lineup",
-    "excerpt": "Catch up on the action and watch all the goals from Norway vs Portugal",
-    "link": "https://www.101greatgoals.com/football/internationals/norway-portugal-report-result-goals-nations-league/",
-    "image": null
+    "headline": "Israel 0-3 Republic of Ireland, Germany 0-1 Greece, Norway 1-2 Portugal: Nations League – live",
+    "excerpt": "<ul><li><p>Updates from 7.45pm BST kick-offs in Nations League</p></li><li><p><a href=\"https://www.theguardian.com/football/live\">Live scores</a> | <a href=\"mailto:john.brewin.casual@guardian.co.uk\">Email John</a> |…",
+    "link": "https://www.theguardian.com/football/live/2026/sep/27/israel-republic-of-ireland-norway-portugal-germany-greece-nations-league-live",
+    "image": "https://i.guim.co.uk/img/media/bb1bba5e8d9b55a1c50a2f9e52aeafd6c155d459/599_0_5968_4777/master/5968.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e782ff4565d185c276a131cd25496de9"
   },
   "topStories": [
     {
       "id": "story-1",
       "league": "Football",
       "dot": "#AFC4AC",
-      "source": "BBC Sport",
+      "source": "101 Great Goals",
       "time": "Sep 27",
-      "headline": "Republic of Ireland defeat Israel in Debrecen",
-      "excerpt": "Republic of Ireland claim their first win of their Nations League B3 campaign with an…",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cqlyk0141lelo?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f8e3/live/b633cd00-baae-11f1-9187-91209312861a.jpg"
+      "headline": "Norway 1-2 Portugal: Report, result, goals as Ramos scores winner after replacing Ronaldo in starting lineup",
+      "excerpt": "Catch up on the action and watch all the goals from Norway vs Portugal",
+      "link": "https://www.101greatgoals.com/football/internationals/norway-portugal-report-result-goals-nations-league/",
+      "image": null
     },
     {
       "id": "story-2",
       "league": "Football",
       "dot": "#AFC4AC",
-      "source": "The Guardian",
+      "source": "BBC Sport",
       "time": "Sep 27",
-      "headline": "Israel v Republic of Ireland, Norway v Portugal, Germany v Greece: Nations League – live",
-      "excerpt": "<ul><li><p>Updates from 7.45pm BST kick-offs in Nations League</p></li><li><p><a href=\"https://www.theguardian.com/football/live\">Live scores</a> | <a href=\"mailto:john.brewin.casual@guardian.co.uk\">Email John</a> |…",
-      "link": "https://www.theguardian.com/football/live/2026/sep/27/israel-republic-of-ireland-norway-portugal-germany-greece-nations-league-live",
-      "image": "https://i.guim.co.uk/img/media/bb1bba5e8d9b55a1c50a2f9e52aeafd6c155d459/599_0_5968_4777/master/5968.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e782ff4565d185c276a131cd25496de9"
+      "headline": "Republic of Ireland defeat Israel in Debrecen",
+      "excerpt": "Republic of Ireland claim the first win of their Nations League B3 campaign with an…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cqlyk0141lelo?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f8e3/live/b633cd00-baae-11f1-9187-91209312861a.jpg"
     },
     {
       "id": "story-3",
@@ -41,7 +41,7 @@
       "source": "The Guardian",
       "time": "Sep 27",
       "headline": "Chelsea turn up heat on Arsenal as Alyssa Thompson strike settles WSL derby",
-      "excerpt": "<p>Arsenal’s title chances were dealt a significant blow after a <a href=\"https://www.theguardian.com/football/live/2026/sep/27/chelsea-v-arsenal-womens-super-league-live-score-updates\">narrow defeat at the…",
+      "excerpt": "<p>Arsenal’s title chances were dealt a significant blow after a narrow defeat at the hands…",
       "link": "https://www.theguardian.com/football/2026/sep/27/chelsea-arsenal-womens-super-league-wsl-match-report",
       "image": "https://i.guim.co.uk/img/media/ac3ff8ea399c9bb76b5ad8cb4999daf3e1c736d2/85_0_2492_1994/master/2492.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=8aa91518ef459bcfa4ddef1d6e423c9c"
     },
