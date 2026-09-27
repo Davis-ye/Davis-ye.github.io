@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-27T14:36:54.102Z",
+  "updatedAt": "2026-09-27T14:46:33.162Z",
   "hero": {
     "id": "story-0",
     "league": "Football",
@@ -16,17 +16,6 @@
       "id": "story-1",
       "league": "Premier League",
       "dot": "#9CC0F0",
-      "source": "BBC Sport",
-      "time": "Sep 27",
-      "headline": "Why Premier League faces uncertainty and chaos after Man City ruling",
-      "excerpt": "It has taken more than two years, but a judgement finally appears to have been…",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cw3d77ne44k5o?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee2f/live/cb7000d0-b9aa-11f1-8a1a-0176f978c211.jpg"
-    },
-    {
-      "id": "story-2",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
       "source": "The Guardian",
       "time": "Sep 27",
       "headline": "Chelsea v Arsenal: Women’s Super League – live",
@@ -35,7 +24,7 @@
       "image": "https://i.guim.co.uk/img/media/5d6720e1015eb9fb36dda3cdcb032cbdbae9021c/389_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=57329e78bd0d5c0e00c951e239cb008e"
     },
     {
-      "id": "story-3",
+      "id": "story-2",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -44,6 +33,17 @@
       "excerpt": "<ul><li><p>The latest football news, reaction and discussion</p></li><li><p><a href=\"https://www.theguardian.com/football/live\">Today’s fixtures</a> | And you can <a href=\"mailto:matchday.live@theguardian.com\">mail…",
       "link": "https://www.theguardian.com/football/live/2026/sep/27/israel-republic-of-ireland-england-spain-matchday-live",
       "image": "https://i.guim.co.uk/img/media/80a443decb7ec1b83a9f2b2af8769066d44f5744/0_0_4833_3866/master/4833.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=26a127286362016e5e0561af1bea9902"
+    },
+    {
+      "id": "story-3",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "BBC Sport",
+      "time": "Sep 27",
+      "headline": "Why Premier League faces uncertainty and chaos after Man City ruling",
+      "excerpt": "It has taken more than two years, but a judgement finally appears to have been…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cw3d77ne44k5o?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee2f/live/cb7000d0-b9aa-11f1-8a1a-0176f978c211.jpg"
     },
     {
       "id": "story-4",
