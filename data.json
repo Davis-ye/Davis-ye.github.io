@@ -1,19 +1,30 @@
 {
-  "updatedAt": "2026-09-27T08:10:53.128Z",
+  "updatedAt": "2026-09-27T08:24:26.037Z",
   "hero": {
     "id": "story-0",
     "league": "Football",
     "dot": "#AFC4AC",
-    "source": "BBC Sport",
+    "source": "101 Great Goals",
     "time": "Sep 27",
-    "headline": "Hibs take winger Matondo on trial - gossip",
-    "excerpt": "Former Rangers winger Rabbi Matondo is on trial with Hibernian while Torino midfielder Gvidas Gineitis…",
-    "link": "https://www.bbc.co.uk/sport/football/articles/c3n0770xvjk1o?at_medium=RSS&amp;at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4b93/live/1ddd61b0-ba4a-11f1-a430-4d16ee157c41.png"
+    "headline": "Tuchel laments Kane penalty miss: ‘Spain would have believed unbeaten run ends here’",
+    "excerpt": "England were entertaining but beaten by Spain at Wembley",
+    "link": "https://www.101greatgoals.com/football/tuchel-laments-kane-penalty-miss-spain-would-have-believed-unbeaten-run-ends-here/",
+    "image": null
   },
   "topStories": [
     {
       "id": "story-1",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "BBC Sport",
+      "time": "Sep 27",
+      "headline": "Hibs take winger Matondo on trial - gossip",
+      "excerpt": "Former Rangers winger Rabbi Matondo is on trial with Hibernian while Torino midfielder Gvidas Gineitis…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c3n0770xvjk1o?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4b93/live/1ddd61b0-ba4a-11f1-a430-4d16ee157c41.png"
+    },
+    {
+      "id": "story-2",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "The Guardian",
@@ -24,7 +35,7 @@
       "image": "https://i.guim.co.uk/img/media/75f9949138fa2389dd1e03d9f335cb2d3cd92730/1376_0_6880_5504/master/6880.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=6bfc30e3b481a469c95fe28c59bcd2c5"
     },
     {
-      "id": "story-2",
+      "id": "story-3",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -35,7 +46,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2359/live/8ee52b40-b81a-11f1-b19f-05e2dfdadad2.jpg"
     },
     {
-      "id": "story-3",
+      "id": "story-4",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -46,7 +57,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1968/live/b8afe1e0-b9f0-11f1-b673-b9fffdf2c4ef.jpg"
     },
     {
-      "id": "story-4",
+      "id": "story-5",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -57,7 +68,7 @@
       "image": "https://i.guim.co.uk/img/media/81bc7c6eb546646bfef177c17df70afe61d1b03a/200_0_3440_2752/master/3440.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=0fec97a7e1ee4d001fd0c0e250bdcdd1"
     },
     {
-      "id": "story-5",
+      "id": "story-6",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "The Guardian",
@@ -68,7 +79,7 @@
       "image": "https://i.guim.co.uk/img/media/7061b5bfabe2dce60eb7be21a13053a30983d9c1/1553_643_3803_3043/master/3803.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=29a88753741d61512913bafc1d62016b"
     },
     {
-      "id": "story-6",
+      "id": "story-7",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -79,7 +90,7 @@
       "image": "https://i.guim.co.uk/img/media/3a2bed798e294c865f900e1674016701ea48a6a6/351_0_2799_2240/master/2799.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b00caa57c677db8d2a15b4892f859828"
     },
     {
-      "id": "story-7",
+      "id": "story-8",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -90,7 +101,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c068/live/df157960-541c-11f1-8b8c-6d33e1d5abb6.jpg"
     },
     {
-      "id": "story-8",
+      "id": "story-9",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -101,7 +112,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/87e1/live/1b00e450-9afe-11f1-a291-b542ee92de7c.jpg"
     },
     {
-      "id": "story-9",
+      "id": "story-10",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -112,7 +123,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ada7/live/27df4c70-9658-11f1-b2ab-0dd01740f9f6.jpg"
     },
     {
-      "id": "story-10",
+      "id": "story-11",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "The Guardian",
@@ -123,7 +134,7 @@
       "image": "https://i.guim.co.uk/img/media/9b9fb4f5986202741296a199753ef42c6107bc1b/236_0_3250_2600/master/3250.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=40bd3413c880183e1e5f76cd8ada2176"
     },
     {
-      "id": "story-11",
+      "id": "story-12",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -134,7 +145,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3fc8/live/8de90420-b9df-11f1-af8c-072d557493f8.jpg"
     },
     {
-      "id": "story-12",
+      "id": "story-13",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -145,7 +156,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fa6f/live/5443ae40-b9ef-11f1-a0fd-ebb3d362e109.jpg"
     },
     {
-      "id": "story-13",
+      "id": "story-14",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "The Guardian",
@@ -156,7 +167,7 @@
       "image": "https://i.guim.co.uk/img/media/0ba82020a94247a6bcbcfb381dec8f1480209674/488_0_2826_2261/master/2826.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a852795e69df54bf1773b1fffc46cb8f"
     },
     {
-      "id": "story-14",
+      "id": "story-15",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -167,7 +178,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1c5a/live/3a5d71b0-b9f3-11f1-afb9-0ba46641015c.jpg"
     },
     {
-      "id": "story-15",
+      "id": "story-16",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -178,7 +189,7 @@
       "image": "https://i.guim.co.uk/img/media/7ea511118e46e56ec966aca533e3eaf2528c5b60/244_0_1013_810/master/1013.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=04a438ae58d0586c088b7b2c4385345d"
     },
     {
-      "id": "story-16",
+      "id": "story-17",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -187,17 +198,6 @@
       "excerpt": "Alexia Putellas scores her first goal in the Women's Super League as London City Lionesses…",
       "link": "https://www.bbc.co.uk/sport/football/videos/cwr7dd0x245yo?at_medium=RSS&amp;at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6488/live/df257240-b9d2-11f1-b1d1-571ed4d7ff2c.jpg"
-    },
-    {
-      "id": "story-17",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "101 Great Goals",
-      "time": "Sep 26",
-      "headline": "UEFA Nations League: Modric gets Croatia off to winning start under Bilic",
-      "excerpt": "Modric made it 30 goals for his country in style.",
-      "link": "https://www.101greatgoals.com/football/internationals/modric-croatia-start/",
-      "image": null
     },
     {
       "id": "story-18",
