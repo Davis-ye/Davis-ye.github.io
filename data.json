@@ -1,27 +1,27 @@
 {
-  "updatedAt": "2026-09-27T17:35:56.339Z",
+  "updatedAt": "2026-09-27T17:45:11.321Z",
   "hero": {
     "id": "story-0",
-    "league": "Premier League",
-    "dot": "#9CC0F0",
+    "league": "Football",
+    "dot": "#AFC4AC",
     "source": "The Guardian",
     "time": "Sep 27",
-    "headline": "Chelsea 1-0 Arsenal: Women’s Super League – live",
-    "excerpt": "<ul><li><p>WSL rivals meet at Stamford Bridge; 4.30pm BST kick-off</p></li><li><p><a href=\"https://www.theguardian.com/football/live\">Live scores</a> | <a href=\"https://www.theguardian.com/football/2026/sep/26/wsl-roundup-greenwood-maintains-manchester-citys-100-record\">Putellas on…",
-    "link": "https://www.theguardian.com/football/live/2026/sep/27/chelsea-v-arsenal-womens-super-league-live-score-updates",
-    "image": "https://i.guim.co.uk/img/media/09efa74b306ec7df4cecdbfa287379898f2be17f/609_382_3050_2442/master/3050.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=030d9af2ceead3121f1aa8ac81413584"
+    "headline": "Israel v Republic of Ireland, Norway v Portugal, Germany v Greece: Nations League – live",
+    "excerpt": "<ul><li><p>Updates from 7.45pm BST kick-offs in Nations League</p></li><li><p><a href=\"https://www.theguardian.com/football/live\">Live scores</a> | <a href=\"mailto:john.brewin.casual@guardian.co.uk\">Email John</a> |…",
+    "link": "https://www.theguardian.com/football/live/2026/sep/27/israel-republic-of-ireland-norway-portugal-germany-greece-nations-league-live",
+    "image": "https://i.guim.co.uk/img/media/652a31277c8c5965b4c8b7a5ad0618410d97a950/1365_1099_5067_4053/master/5067.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=39d3c168eda36bd72e9323c347392548"
   },
   "topStories": [
     {
       "id": "story-1",
       "league": "Premier League",
       "dot": "#9CC0F0",
-      "source": "101 Great Goals",
+      "source": "The Guardian",
       "time": "Sep 27",
-      "headline": "New Manchester United injury concern as Patrick Dorgu forced off in first half of Denmark vs Wales",
-      "excerpt": "The Manchester United left-back went down unchallenged",
-      "link": "https://www.101greatgoals.com/football/premier-league/new-manchester-united-injury-concern-as-patrick-dorgu-forced-off-in-first-half-of-denmark-vs-wales/",
-      "image": null
+      "headline": "Chelsea 1-0 Arsenal: Women’s Super League – live",
+      "excerpt": "<ul><li><p>WSL rivals meet at Stamford Bridge; 4.30pm BST kick-off</p></li><li><p><a href=\"https://www.theguardian.com/football/live\">Live scores</a> | <a href=\"https://www.theguardian.com/football/2026/sep/26/wsl-roundup-greenwood-maintains-manchester-citys-100-record\">Putellas on…",
+      "link": "https://www.theguardian.com/football/live/2026/sep/27/chelsea-v-arsenal-womens-super-league-live-score-updates",
+      "image": "https://i.guim.co.uk/img/media/09efa74b306ec7df4cecdbfa287379898f2be17f/609_382_3050_2442/master/3050.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=030d9af2ceead3121f1aa8ac81413584"
     },
     {
       "id": "story-2",
@@ -41,7 +41,7 @@
       "source": "The Guardian",
       "time": "Sep 27",
       "headline": "Liverpool sink Everton and end derby drought after Olsson and Kapocs strike",
-      "excerpt": "<p>Liverpool beat their local rivals Everton at Anfield in a Women’s Super League fixture for…",
+      "excerpt": "<p>At last, their wait is over. ­Liverpool’s players could gather in front of the Kop…",
       "link": "https://www.theguardian.com/football/2026/sep/27/liverpool-everton-womens-super-league-wsl-match-report",
       "image": "https://i.guim.co.uk/img/media/efe06a6d786c75ea35b385eefa3fbc112096e0b2/226_0_2897_2318/master/2897.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ba8be992c413800fe05ea070e7ff15e2"
     },
