@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-27T17:01:34.623Z",
+  "updatedAt": "2026-09-27T17:14:44.001Z",
   "hero": {
     "id": "story-0",
     "league": "Premier League",
@@ -16,23 +16,23 @@
       "id": "story-1",
       "league": "Premier League",
       "dot": "#9CC0F0",
+      "source": "101 Great Goals",
+      "time": "Sep 27",
+      "headline": "New Manchester United injury concern as Patrick Dorgu forced off in first half of Denmark vs Wales",
+      "excerpt": "The Manchester United left-back went down unchallenged",
+      "link": "https://www.101greatgoals.com/football/premier-league/new-manchester-united-injury-concern-as-patrick-dorgu-forced-off-in-first-half-of-denmark-vs-wales/",
+      "image": null
+    },
+    {
+      "id": "story-2",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
       "source": "The Guardian",
       "time": "Sep 27",
       "headline": "Liverpool sink Everton and end derby drought after Olsson and Kapocs strike",
       "excerpt": "<p>Liverpool beat their local rivals Everton at Anfield in a Women’s Super League fixture for…",
       "link": "https://www.theguardian.com/football/2026/sep/27/liverpool-everton-womens-super-league-wsl-match-report",
       "image": "https://i.guim.co.uk/img/media/efe06a6d786c75ea35b385eefa3fbc112096e0b2/226_0_2897_2318/master/2897.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ba8be992c413800fe05ea070e7ff15e2"
-    },
-    {
-      "id": "story-2",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "101 Great Goals",
-      "time": "Sep 27",
-      "headline": "What Bruno Fernandes injury means for Manchester United as &#8216;complicated&#8217; issue revealed by Portugal",
-      "excerpt": "Fernandes was withdrawn during Portugal's win over Wales",
-      "link": "https://www.101greatgoals.com/football/premier-league/what-bruno-fernandes-injury-means-for-manchester-united-as-complicated-issue-revealed-by-portugal/",
-      "image": null
     },
     {
       "id": "story-3",
