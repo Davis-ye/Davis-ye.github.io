@@ -1,19 +1,30 @@
 {
-  "updatedAt": "2026-09-27T08:24:26.037Z",
+  "updatedAt": "2026-09-27T08:35:51.650Z",
   "hero": {
     "id": "story-0",
-    "league": "Football",
-    "dot": "#AFC4AC",
-    "source": "101 Great Goals",
+    "league": "Premier League",
+    "dot": "#9CC0F0",
+    "source": "The Guardian",
     "time": "Sep 27",
-    "headline": "Tuchel laments Kane penalty miss: ‘Spain would have believed unbeaten run ends here’",
-    "excerpt": "England were entertaining but beaten by Spain at Wembley",
-    "link": "https://www.101greatgoals.com/football/tuchel-laments-kane-penalty-miss-spain-would-have-believed-unbeaten-run-ends-here/",
-    "image": null
+    "headline": "Israel game goes ahead after Irish players’ vote; reaction to Spain’s win over England – matchday live",
+    "excerpt": "<ul><li><p>The latest football news, reaction and discussion</p></li><li><p><a href=\"https://www.theguardian.com/football/live\">Today’s fixtures</a> | And you can <a href=\"mailto:matchday.live@theguardian.com\">mail…",
+    "link": "https://www.theguardian.com/football/live/2026/sep/27/israel-republic-of-ireland-england-spain-matchday-live",
+    "image": "https://i.guim.co.uk/img/media/75f9949138fa2389dd1e03d9f335cb2d3cd92730/1376_0_6880_5504/master/6880.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=6bfc30e3b481a469c95fe28c59bcd2c5"
   },
   "topStories": [
     {
       "id": "story-1",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "101 Great Goals",
+      "time": "Sep 27",
+      "headline": "Tuchel laments Kane penalty miss: ‘Spain would have believed unbeaten run ends here’",
+      "excerpt": "England were entertaining but beaten by Spain at Wembley",
+      "link": "https://www.101greatgoals.com/football/tuchel-laments-kane-penalty-miss-spain-would-have-believed-unbeaten-run-ends-here/",
+      "image": null
+    },
+    {
+      "id": "story-2",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -22,17 +33,6 @@
       "excerpt": "Former Rangers winger Rabbi Matondo is on trial with Hibernian while Torino midfielder Gvidas Gineitis…",
       "link": "https://www.bbc.co.uk/sport/football/articles/c3n0770xvjk1o?at_medium=RSS&amp;at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4b93/live/1ddd61b0-ba4a-11f1-a430-4d16ee157c41.png"
-    },
-    {
-      "id": "story-2",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "The Guardian",
-      "time": "Sep 27",
-      "headline": "Israel game goes ahead after Irish players’ vote; reaction to Spain’s win over England – matchday live",
-      "excerpt": "<ul><li><p>The latest football news, reaction and discussion</p></li><li><p><a href=\"https://www.theguardian.com/football/live\">Today’s fixtures</a> | And you can <a href=\"mailto:matchday.live@theguardian.com\">mail…",
-      "link": "https://www.theguardian.com/football/live/2026/sep/27/israel-republic-of-ireland-england-spain-matchday-live",
-      "image": "https://i.guim.co.uk/img/media/75f9949138fa2389dd1e03d9f335cb2d3cd92730/1376_0_6880_5504/master/6880.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=6bfc30e3b481a469c95fe28c59bcd2c5"
     },
     {
       "id": "story-3",
@@ -73,8 +73,8 @@
       "dot": "#AFC4AC",
       "source": "The Guardian",
       "time": "Sep 27",
-      "headline": "Footgolfers in arms race to replicate ‘the worst ball I’ve seen in my life’",
-      "excerpt": "<p>The much-derided Adidas Jabulani, created for the 2010 World Cup, is now the ball of…",
+      "headline": "Footgolf and the Jabulani: a second life for ‘the worst ball I’ve seen in my life’",
+      "excerpt": "<p>The infamous Jabulani, created for the 2010 World Cup, is now footgolf’s ball of choice…",
       "link": "https://www.theguardian.com/football/2026/sep/27/footgolfers-in-arms-race-to-replicate-the-worst-ball-ive-seen-in-my-life",
       "image": "https://i.guim.co.uk/img/media/7061b5bfabe2dce60eb7be21a13053a30983d9c1/1553_643_3803_3043/master/3803.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=29a88753741d61512913bafc1d62016b"
     },
