@@ -1,19 +1,85 @@
 {
-  "updatedAt": "2026-09-27T07:03:33.836Z",
+  "updatedAt": "2026-09-27T07:18:38.937Z",
   "hero": {
     "id": "story-0",
     "league": "Premier League",
     "dot": "#9CC0F0",
     "source": "BBC Sport",
     "time": "Sep 27",
-    "headline": "'I feel cheated - when do Stoke City get our FA Cup?'",
-    "excerpt": "BBC Sport columnist Tony Pulis explains what he and all Stoke fans are thinking after…",
-    "link": "https://www.bbc.co.uk/sport/football/articles/c60m33473zxpo?at_medium=RSS&amp;at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c068/live/df157960-541c-11f1-8b8c-6d33e1d5abb6.jpg"
+    "headline": "Why are Arsenal struggling to score in WSL?",
+    "excerpt": "Arsenal are already playing catch-up in the WSL title race because they are struggling to…",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cv5yjx90r4yeo?at_medium=RSS&amp;at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2359/live/8ee52b40-b81a-11f1-b19f-05e2dfdadad2.jpg"
   },
   "topStories": [
     {
       "id": "story-1",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "BBC Sport",
+      "time": "Sep 27",
+      "headline": "From turgid to thrusting - mixed start for new Scotland",
+      "excerpt": "BBC Sport Scotland's Tom English reviews a mixed start to life as Scotland head coach…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c67833k8dn0eo?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1968/live/b8afe1e0-b9f0-11f1-b673-b9fffdf2c4ef.jpg"
+    },
+    {
+      "id": "story-2",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "The Guardian",
+      "time": "Sep 27",
+      "headline": "Gateshead’s fruitless trip south offers hint of Manchester City’s doomsday future",
+      "excerpt": "<p>His team bottom of the National League, Lee Cattermole’s ‘bomb squad’ approach could well end…",
+      "link": "https://www.theguardian.com/football/2026/sep/27/national-league-gateshead-wealdstone",
+      "image": "https://i.guim.co.uk/img/media/81bc7c6eb546646bfef177c17df70afe61d1b03a/200_0_3440_2752/master/3440.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=0fec97a7e1ee4d001fd0c0e250bdcdd1"
+    },
+    {
+      "id": "story-3",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "The Guardian",
+      "time": "Sep 27",
+      "headline": "Israel game goes ahead after Irish players’ vote; reaction to Spain’s win over England – matchday live",
+      "excerpt": "<ul><li><p>The latest football news, reaction and discussion</p></li><li><p><a href=\"https://www.theguardian.com/football/live\">Today’s fixtures</a> | And you can <a href=\"mailto:matchday.live@theguardian.com\">mail…",
+      "link": "https://www.theguardian.com/football/live/2026/sep/27/israel-republic-of-ireland-england-spain-matchday-live",
+      "image": "https://i.guim.co.uk/img/media/75f9949138fa2389dd1e03d9f335cb2d3cd92730/1376_0_6880_5504/master/6880.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=6bfc30e3b481a469c95fe28c59bcd2c5"
+    },
+    {
+      "id": "story-4",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "The Guardian",
+      "time": "Sep 27",
+      "headline": "Footgolfers in arms race to replicate ‘the worst ball I’ve seen in my life’",
+      "excerpt": "<p>The much-derided Adidas Jabulani, created for the 2010 World Cup, is now the ball of…",
+      "link": "https://www.theguardian.com/football/2026/sep/27/footgolfers-in-arms-race-to-replicate-the-worst-ball-ive-seen-in-my-life",
+      "image": "https://i.guim.co.uk/img/media/7061b5bfabe2dce60eb7be21a13053a30983d9c1/1553_643_3803_3043/master/3803.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=29a88753741d61512913bafc1d62016b"
+    },
+    {
+      "id": "story-5",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "The Guardian",
+      "time": "Sep 27",
+      "headline": "Ever feel you’ve been cheated? Consequences could be profound after Manchester City guilty verdict | Jonathan Wilson",
+      "excerpt": "<p>Premier League could be hit hard by aftermath, while Manchester City fans may know they…",
+      "link": "https://www.theguardian.com/football/2026/sep/27/ever-feel-youve-been-cheated-consequences-could-be-profound-after-manchester-city-guilty-verdict",
+      "image": "https://i.guim.co.uk/img/media/3a2bed798e294c865f900e1674016701ea48a6a6/351_0_2799_2240/master/2799.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b00caa57c677db8d2a15b4892f859828"
+    },
+    {
+      "id": "story-6",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "BBC Sport",
+      "time": "Sep 27",
+      "headline": "'I feel cheated - when do Stoke City get our FA Cup?'",
+      "excerpt": "BBC Sport columnist Tony Pulis explains what he and all Stoke fans are thinking after…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c60m33473zxpo?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c068/live/df157960-541c-11f1-8b8c-6d33e1d5abb6.jpg"
+    },
+    {
+      "id": "story-7",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -24,7 +90,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/87e1/live/1b00e450-9afe-11f1-a291-b542ee92de7c.jpg"
     },
     {
-      "id": "story-2",
+      "id": "story-8",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -35,7 +101,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ada7/live/27df4c70-9658-11f1-b2ab-0dd01740f9f6.jpg"
     },
     {
-      "id": "story-3",
+      "id": "story-9",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "The Guardian",
@@ -46,7 +112,7 @@
       "image": "https://i.guim.co.uk/img/media/9b9fb4f5986202741296a199753ef42c6107bc1b/236_0_3250_2600/master/3250.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=40bd3413c880183e1e5f76cd8ada2176"
     },
     {
-      "id": "story-4",
+      "id": "story-10",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -57,7 +123,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3fc8/live/8de90420-b9df-11f1-af8c-072d557493f8.jpg"
     },
     {
-      "id": "story-5",
+      "id": "story-11",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -68,7 +134,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fa6f/live/5443ae40-b9ef-11f1-a0fd-ebb3d362e109.jpg"
     },
     {
-      "id": "story-6",
+      "id": "story-12",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "The Guardian",
@@ -79,7 +145,7 @@
       "image": "https://i.guim.co.uk/img/media/0ba82020a94247a6bcbcfb381dec8f1480209674/488_0_2826_2261/master/2826.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a852795e69df54bf1773b1fffc46cb8f"
     },
     {
-      "id": "story-7",
+      "id": "story-13",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -90,7 +156,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1c5a/live/3a5d71b0-b9f3-11f1-afb9-0ba46641015c.jpg"
     },
     {
-      "id": "story-8",
+      "id": "story-14",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -101,7 +167,7 @@
       "image": "https://i.guim.co.uk/img/media/7ea511118e46e56ec966aca533e3eaf2528c5b60/244_0_1013_810/master/1013.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=04a438ae58d0586c088b7b2c4385345d"
     },
     {
-      "id": "story-9",
+      "id": "story-15",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -112,7 +178,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6488/live/df257240-b9d2-11f1-b1d1-571ed4d7ff2c.jpg"
     },
     {
-      "id": "story-10",
+      "id": "story-16",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "101 Great Goals",
@@ -123,7 +189,7 @@
       "image": null
     },
     {
-      "id": "story-11",
+      "id": "story-17",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "The Guardian",
@@ -134,7 +200,7 @@
       "image": "https://i.guim.co.uk/img/media/30d41e512b61cdf33037a0a87a653e9d55b1d551/268_0_2758_2207/master/2758.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=135899260a96ab08e8e19fb383055d10"
     },
     {
-      "id": "story-12",
+      "id": "story-18",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -145,7 +211,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c6dd/live/3de806c0-b9ed-11f1-bc1f-3f186ca4140c.png"
     },
     {
-      "id": "story-13",
+      "id": "story-19",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -156,7 +222,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fc71/live/eeee61e0-b9e7-11f1-a7c8-cfea26a12219.jpg"
     },
     {
-      "id": "story-14",
+      "id": "story-20",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "The Guardian",
@@ -167,7 +233,7 @@
       "image": "https://i.guim.co.uk/img/media/aaf8829d581708f3ec6ae8d41495f46432713c4c/229_0_3660_2928/master/3660.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=2302861e08200a7fce220836717d26d8"
     },
     {
-      "id": "story-15",
+      "id": "story-21",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -178,7 +244,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fd97/live/0377c060-b9a8-11f1-8a1a-0176f978c211.jpg"
     },
     {
-      "id": "story-16",
+      "id": "story-22",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -189,7 +255,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b748/live/e2ec7610-b9b6-11f1-929f-f1f9c2e672cb.jpg"
     },
     {
-      "id": "story-17",
+      "id": "story-23",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "The Guardian",
@@ -198,72 +264,6 @@
       "excerpt": "<p>When things are going awry, the <em>Albiceleste</em> will no longer be able to rely on…",
       "link": "https://www.theguardian.com/football/2026/sep/26/lionel-messi-exit-argentina-impossible-task-superhero",
       "image": "https://i.guim.co.uk/img/media/2d93de81e37d386ed14a8a486fdb950354f958a4/683_82_2316_1852/master/2316.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=1b8a04a4df5269d54f991779cdad9b8e"
-    },
-    {
-      "id": "story-18",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "The Guardian",
-      "time": "Sep 26",
-      "headline": "WSL roundup: Putellas scores first London City goal, Manchester City maintain perfect start",
-      "excerpt": "<ul><li><p>Two-time Ballon d’Or winner nets against Brighton</p></li><li><p>Alex Greenwood’s free-kick sinks Charlton</p><p></p></li></ul><p>Alexia Putellas scored her first…",
-      "link": "https://www.theguardian.com/football/2026/sep/26/wsl-roundup-greenwood-maintains-manchester-citys-100-record",
-      "image": "https://i.guim.co.uk/img/media/78b812ce9b72c985e9558f6fb2ea6655e73aa0b5/338_0_3856_3084/master/3856.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=4c68c1feaaa95304401f7c024a9dbc33"
-    },
-    {
-      "id": "story-19",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "BBC Sport",
-      "time": "Sep 26",
-      "headline": "Gilmour catalyst, impressive Welsh, but same issue for Scotland?",
-      "excerpt": "BBC Sport Scotland picks out what we learned from Sebastien Pocognoli's first game in charge…",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cqevwwnw10w9o?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/802e/live/6e2e6fc0-b9cc-11f1-a430-4d16ee157c41.jpg"
-    },
-    {
-      "id": "story-20",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "BBC Sport",
-      "time": "Sep 26",
-      "headline": "Scotland rue missed chances in Slovenia draw",
-      "excerpt": "Sebastien Pocognoli's first match in charge of Scotland ends in a goalless draw against Slovenia…",
-      "link": "https://www.bbc.co.uk/sport/football/videos/c6y9zzy79ewyo?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b9ac/live/16316750-b9bd-11f1-b1d1-571ed4d7ff2c.jpg"
-    },
-    {
-      "id": "story-21",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "The Guardian",
-      "time": "Sep 26",
-      "headline": "Pocognoli’s reign as Scotland coach begins with stalemate in Slovenia",
-      "excerpt": "<p>Sébastien Pocognoli grimaced on Friday when recalling his debut as an international player for Belgium.…",
-      "link": "https://www.theguardian.com/football/2026/sep/26/slovenia-scotland-nations-league-match-report",
-      "image": "https://i.guim.co.uk/img/media/0425ae02bfc3b64b959e7f51e550069425888458/500_0_2527_2022/master/2527.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d1a9e6689ec40b72328b10dc32bd4044"
-    },
-    {
-      "id": "story-22",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "BBC Sport",
-      "time": "Sep 26",
-      "headline": "Man City chairman confident club will prove innocence",
-      "excerpt": "Manchester City chairman Khaldoon Al Mubarak says he is still confident of proving the club's…",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c6d944ylqkkeo?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f295/live/e733d1d0-b9b8-11f1-a430-4d16ee157c41.jpg"
-    },
-    {
-      "id": "story-23",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "BBC Sport",
-      "time": "Sep 26",
-      "headline": "Man City maintain winning start with narrow win over Charlton",
-      "excerpt": "Manchester City maintain their winning start to the Women's Super League as Alex Greenwood's 36th-minute…",
-      "link": "https://www.bbc.co.uk/sport/football/videos/c6ly77de8p9po?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2a45/live/6922a2a0-b9b6-11f1-a430-4d16ee157c41.jpg"
     }
   ],
   "scoreboard": []
