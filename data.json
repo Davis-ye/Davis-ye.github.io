@@ -1,19 +1,30 @@
 {
-  "updatedAt": "2026-09-27T12:52:34.994Z",
+  "updatedAt": "2026-09-27T13:00:32.529Z",
   "hero": {
     "id": "story-0",
-    "league": "Football",
-    "dot": "#AFC4AC",
-    "source": "BBC Sport",
+    "league": "Premier League",
+    "dot": "#9CC0F0",
+    "source": "The Guardian",
     "time": "Sep 27",
-    "headline": "Swiss hail 'great job' without Xhaka & Embolo before Scotland trip",
-    "excerpt": "Switzerland feel they did \"a great job\" of compensating for the loss of Granit Xhaka…",
-    "link": "https://www.bbc.co.uk/sport/football/articles/c6vgy07zr7plo?at_medium=RSS&amp;at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6061/live/f61b28e0-ba6e-11f1-a109-c7409015a263.jpg"
+    "headline": "Israel game goes ahead after Irish players’ vote, WSL action and Isak returns to Liverpool – matchday live",
+    "excerpt": "<ul><li><p>The latest football news, reaction and discussion</p></li><li><p><a href=\"https://www.theguardian.com/football/live\">Today’s fixtures</a> | And you can <a href=\"mailto:matchday.live@theguardian.com\">mail…",
+    "link": "https://www.theguardian.com/football/live/2026/sep/27/israel-republic-of-ireland-england-spain-matchday-live",
+    "image": "https://i.guim.co.uk/img/media/80a443decb7ec1b83a9f2b2af8769066d44f5744/0_0_4833_3866/master/4833.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=26a127286362016e5e0561af1bea9902"
   },
   "topStories": [
     {
       "id": "story-1",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "BBC Sport",
+      "time": "Sep 27",
+      "headline": "Swiss hail 'great job' without Xhaka & Embolo before Scotland trip",
+      "excerpt": "Switzerland feel they did \"a great job\" of compensating for the loss of Granit Xhaka…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c6vgy07zr7plo?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6061/live/f61b28e0-ba6e-11f1-a109-c7409015a263.jpg"
+    },
+    {
+      "id": "story-2",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -22,17 +33,6 @@
       "excerpt": "Former Premier League forward Duncan Watmore swaps the matchday dressing room for international diplomacy after…",
       "link": "https://www.bbc.co.uk/sport/football/articles/cxj06ljvgeq4o?at_medium=RSS&amp;at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fa5e/live/59dd6840-ba6d-11f1-a109-c7409015a263.png"
-    },
-    {
-      "id": "story-2",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "The Guardian",
-      "time": "Sep 27",
-      "headline": "Israel game goes ahead after Irish players’ vote, WSL action and Isak returns to Liverpool – matchday live",
-      "excerpt": "<ul><li><p>The latest football news, reaction and discussion</p></li><li><p><a href=\"https://www.theguardian.com/football/live\">Today’s fixtures</a> | And you can <a href=\"mailto:matchday.live@theguardian.com\">mail…",
-      "link": "https://www.theguardian.com/football/live/2026/sep/27/israel-republic-of-ireland-england-spain-matchday-live",
-      "image": "https://i.guim.co.uk/img/media/80a443decb7ec1b83a9f2b2af8769066d44f5744/0_0_4833_3866/master/4833.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=26a127286362016e5e0561af1bea9902"
     },
     {
       "id": "story-3",
