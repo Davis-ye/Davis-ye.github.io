@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-09-27T21:01:49.397Z",
+  "updatedAt": "2026-09-27T21:15:56.534Z",
   "hero": {
     "id": "story-0",
     "league": "Football",
     "dot": "#AFC4AC",
     "source": "The Guardian",
     "time": "Sep 27",
-    "headline": "Israel 0-3 Republic of Ireland, Germany 0-1 Greece, Norway 1-2 Portugal: Nations League – live",
-    "excerpt": "<ul><li><p>Updates from 7.45pm BST kick-offs in Nations League</p></li><li><p><a href=\"https://www.theguardian.com/football/live\">Live scores</a> | <a href=\"mailto:john.brewin.casual@guardian.co.uk\">Email John</a> |…",
-    "link": "https://www.theguardian.com/football/live/2026/sep/27/israel-republic-of-ireland-norway-portugal-germany-greece-nations-league-live",
-    "image": "https://i.guim.co.uk/img/media/bb1bba5e8d9b55a1c50a2f9e52aeafd6c155d459/599_0_5968_4777/master/5968.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e782ff4565d185c276a131cd25496de9"
+    "headline": "Republic of Ireland put controversy aside with fine first half to seal win against Israel",
+    "excerpt": "<p>Football and politics are inseparable in the modern world, no matter how many people wish…",
+    "link": "https://www.theguardian.com/football/2026/sep/27/israel-republic-ireland-nations-league-group-3-match-report",
+    "image": "https://i.guim.co.uk/img/media/bb1bba5e8d9b55a1c50a2f9e52aeafd6c155d459/598_0_5970_4777/master/5970.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=0acdbf198f0a3ddd476675545838ffcd"
   },
   "topStories": [
     {
@@ -25,17 +25,6 @@
     },
     {
       "id": "story-2",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "BBC Sport",
-      "time": "Sep 27",
-      "headline": "Republic of Ireland defeat Israel in Debrecen",
-      "excerpt": "Republic of Ireland claim the first win of their Nations League B3 campaign with an…",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cqlyk0141lelo?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f8e3/live/b633cd00-baae-11f1-9187-91209312861a.jpg"
-    },
-    {
-      "id": "story-3",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -46,7 +35,7 @@
       "image": "https://i.guim.co.uk/img/media/ac3ff8ea399c9bb76b5ad8cb4999daf3e1c736d2/85_0_2492_1994/master/2492.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=8aa91518ef459bcfa4ddef1d6e423c9c"
     },
     {
-      "id": "story-4",
+      "id": "story-3",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -57,7 +46,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/314f/live/453d79b0-ba9b-11f1-aa28-a504dd3edde0.jpg"
     },
     {
-      "id": "story-5",
+      "id": "story-4",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -68,7 +57,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bb9e/live/6d02cdb0-baa0-11f1-a430-4d16ee157c41.jpg"
     },
     {
-      "id": "story-6",
+      "id": "story-5",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -79,7 +68,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/374f/live/7967c1e0-baa1-11f1-afa8-43b99a243ced.png"
     },
     {
-      "id": "story-7",
+      "id": "story-6",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -90,7 +79,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d6a0/live/2ebf9bd0-baa7-11f1-bc1f-3f186ca4140c.jpg"
     },
     {
-      "id": "story-8",
+      "id": "story-7",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -101,7 +90,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bc35/live/2ae9c890-ba8f-11f1-bc1f-3f186ca4140c.jpg"
     },
     {
-      "id": "story-9",
+      "id": "story-8",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -112,7 +101,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2d92/live/65f13390-ba8c-11f1-bc1f-3f186ca4140c.jpg"
     },
     {
-      "id": "story-10",
+      "id": "story-9",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -123,7 +112,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8100/live/7820de40-ba86-11f1-bd21-bdf910f2cec6.jpg"
     },
     {
-      "id": "story-11",
+      "id": "story-10",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "The Guardian",
@@ -134,7 +123,7 @@
       "image": "https://i.guim.co.uk/img/media/01b7e84cba78e5efc0db110c31d443008bcb501e/222_0_1915_1533/master/1915.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e2bccf998b0401e6b3bd43d9ca86d4c5"
     },
     {
-      "id": "story-12",
+      "id": "story-11",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -145,7 +134,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1d58/live/769dc4e0-ba7f-11f1-bd21-bdf910f2cec6.jpg"
     },
     {
-      "id": "story-13",
+      "id": "story-12",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -156,7 +145,7 @@
       "image": "https://i.guim.co.uk/img/media/63416a77cace87c7a64e4c9e2766a6ac0bc16fb9/408_0_4080_3264/master/4080.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=97e930654a8b84000c9bc59636ceb56d"
     },
     {
-      "id": "story-14",
+      "id": "story-13",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -167,7 +156,7 @@
       "image": "https://i.guim.co.uk/img/media/27faf287c214aefab730ee329caf2e51850a7168/631_0_5417_4334/master/5417.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=1dafd141666ed18fb81411922f48c416"
     },
     {
-      "id": "story-15",
+      "id": "story-14",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -178,7 +167,7 @@
       "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0gf9mfx.jpg"
     },
     {
-      "id": "story-16",
+      "id": "story-15",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -189,7 +178,7 @@
       "image": "https://i.guim.co.uk/img/media/efe06a6d786c75ea35b385eefa3fbc112096e0b2/226_0_2897_2318/master/2897.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ba8be992c413800fe05ea070e7ff15e2"
     },
     {
-      "id": "story-17",
+      "id": "story-16",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -200,7 +189,7 @@
       "image": "https://i.guim.co.uk/img/media/9e2f824400bab3ad39ab412fda40e2f45f91394e/1049_684_2684_2148/master/2684.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b21c776ae52cb19978e427cfe22627c9"
     },
     {
-      "id": "story-18",
+      "id": "story-17",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -211,7 +200,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee2f/live/cb7000d0-b9aa-11f1-8a1a-0176f978c211.jpg"
     },
     {
-      "id": "story-19",
+      "id": "story-18",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -222,7 +211,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6061/live/f61b28e0-ba6e-11f1-a109-c7409015a263.jpg"
     },
     {
-      "id": "story-20",
+      "id": "story-19",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -233,7 +222,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fa5e/live/59dd6840-ba6d-11f1-a109-c7409015a263.png"
     },
     {
-      "id": "story-21",
+      "id": "story-20",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -244,7 +233,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8e0a/live/23ffe310-ba6d-11f1-a109-c7409015a263.jpg"
     },
     {
-      "id": "story-22",
+      "id": "story-21",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -255,7 +244,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/11d5/live/68b4c030-ba67-11f1-9bc7-ebc5715692ba.jpg"
     },
     {
-      "id": "story-23",
+      "id": "story-22",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -264,6 +253,17 @@
       "excerpt": "Robbie Ure explains why the back of his shirt read 'Robbie Ure' rather than simply…",
       "link": "https://www.bbc.co.uk/sport/football/articles/c5gmrrl0dvrdo?at_medium=RSS&amp;at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/11d5/live/68b4c030-ba67-11f1-9bc7-ebc5715692ba.jpg"
+    },
+    {
+      "id": "story-23",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "BBC Sport",
+      "time": "Sep 27",
+      "headline": "Injured Isak returns to Liverpool from Sweden duty",
+      "excerpt": "Liverpool striker Alexander Isak returns to his club after picking up a minor injury while…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cxyvzryd6ne5o?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e3f4/live/8a32ff90-ba64-11f1-ab5a-210fdaa1dd09.jpg"
     }
   ],
   "scoreboard": []
