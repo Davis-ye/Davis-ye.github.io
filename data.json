@@ -1,27 +1,27 @@
 {
-  "updatedAt": "2026-09-27T09:19:55.338Z",
+  "updatedAt": "2026-09-27T09:32:12.640Z",
   "hero": {
     "id": "story-0",
     "league": "Football",
     "dot": "#AFC4AC",
-    "source": "101 Great Goals",
+    "source": "The Guardian",
     "time": "Sep 27",
-    "headline": "Tip of the Day: Haaland to outshine Ronaldo and Klopp to get first win",
-    "excerpt": "Who are you backing to shine on Sunday?",
-    "link": "https://www.101greatgoals.com/free-bets/tip-of-the-day-haaland-to-outshine-ronaldo-and-klopp-to-get-first-win/",
-    "image": null
+    "headline": "Israel game goes ahead after Irish players’ vote; reaction to Spain’s win over England – matchday live",
+    "excerpt": "<ul><li><p>The latest football news, reaction and discussion</p></li><li><p><a href=\"https://www.theguardian.com/football/live\">Today’s fixtures</a> | And you can <a href=\"mailto:matchday.live@theguardian.com\">mail…",
+    "link": "https://www.theguardian.com/football/live/2026/sep/27/israel-republic-of-ireland-england-spain-matchday-live",
+    "image": "https://i.guim.co.uk/img/media/75f9949138fa2389dd1e03d9f335cb2d3cd92730/1376_0_6880_5504/master/6880.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=6bfc30e3b481a469c95fe28c59bcd2c5"
   },
   "topStories": [
     {
       "id": "story-1",
       "league": "Football",
       "dot": "#AFC4AC",
-      "source": "The Guardian",
+      "source": "101 Great Goals",
       "time": "Sep 27",
-      "headline": "Israel game goes ahead after Irish players’ vote; reaction to Spain’s win over England – matchday live",
-      "excerpt": "<ul><li><p>The latest football news, reaction and discussion</p></li><li><p><a href=\"https://www.theguardian.com/football/live\">Today’s fixtures</a> | And you can <a href=\"mailto:matchday.live@theguardian.com\">mail…",
-      "link": "https://www.theguardian.com/football/live/2026/sep/27/israel-republic-of-ireland-england-spain-matchday-live",
-      "image": "https://i.guim.co.uk/img/media/75f9949138fa2389dd1e03d9f335cb2d3cd92730/1376_0_6880_5504/master/6880.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=6bfc30e3b481a469c95fe28c59bcd2c5"
+      "headline": "Tip of the Day: Haaland to outshine Ronaldo and Klopp to get first win",
+      "excerpt": "Who are you backing to shine on Sunday?",
+      "link": "https://www.101greatgoals.com/football/tip-of-the-day-haaland-to-outshine-ronaldo-and-klopp-to-get-first-win/",
+      "image": null
     },
     {
       "id": "story-2",
