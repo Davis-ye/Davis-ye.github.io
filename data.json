@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-27T14:54:34.232Z",
+  "updatedAt": "2026-09-27T15:01:49.675Z",
   "hero": {
     "id": "story-0",
     "league": "Football",
@@ -14,14 +14,14 @@
   "topStories": [
     {
       "id": "story-1",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "The Guardian",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "101 Great Goals",
       "time": "Sep 27",
-      "headline": "Chelsea v Arsenal: Women’s Super League – live",
-      "excerpt": "<ul><li><p>WSL rivals meet at Stamford Bridge; 4.30pm BST kick-off</p></li><li><p><a href=\"https://www.theguardian.com/football/live\">Live scores</a> | <a href=\"https://www.theguardian.com/football/2026/sep/26/wsl-roundup-greenwood-maintains-manchester-citys-100-record\">Putellas on…",
-      "link": "https://www.theguardian.com/football/live/2026/sep/27/chelsea-v-arsenal-womens-super-league-live-score-updates",
-      "image": "https://i.guim.co.uk/img/media/5d6720e1015eb9fb36dda3cdcb032cbdbae9021c/389_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=57329e78bd0d5c0e00c951e239cb008e"
+      "headline": "Philadelphia Eagles @ Chicago Bears: Preview, prediction and odds",
+      "excerpt": "The Chicago Bears host the Philadelphia Eagles on Monday Night Football. Read our in-depth preview.",
+      "link": "https://www.101greatgoals.com/news/philadelphia-eagles-chicago-bears-preview-prediction-and-odds/",
+      "image": null
     },
     {
       "id": "story-2",
@@ -38,6 +38,17 @@
       "id": "story-3",
       "league": "Premier League",
       "dot": "#9CC0F0",
+      "source": "The Guardian",
+      "time": "Sep 27",
+      "headline": "Chelsea v Arsenal: Women’s Super League – live",
+      "excerpt": "<ul><li><p>WSL rivals meet at Stamford Bridge; 4.30pm BST kick-off</p></li><li><p><a href=\"https://www.theguardian.com/football/live\">Live scores</a> | <a href=\"https://www.theguardian.com/football/2026/sep/26/wsl-roundup-greenwood-maintains-manchester-citys-100-record\">Putellas on…",
+      "link": "https://www.theguardian.com/football/live/2026/sep/27/chelsea-v-arsenal-womens-super-league-live-score-updates",
+      "image": "https://i.guim.co.uk/img/media/5d6720e1015eb9fb36dda3cdcb032cbdbae9021c/389_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=57329e78bd0d5c0e00c951e239cb008e"
+    },
+    {
+      "id": "story-4",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
       "source": "BBC Sport",
       "time": "Sep 27",
       "headline": "Why Premier League faces uncertainty and chaos after Man City ruling",
@@ -46,7 +57,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee2f/live/cb7000d0-b9aa-11f1-8a1a-0176f978c211.jpg"
     },
     {
-      "id": "story-4",
+      "id": "story-5",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -57,7 +68,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6061/live/f61b28e0-ba6e-11f1-a109-c7409015a263.jpg"
     },
     {
-      "id": "story-5",
+      "id": "story-6",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -66,17 +77,6 @@
       "excerpt": "Former Premier League forward Duncan Watmore swaps the matchday dressing room for international diplomacy after…",
       "link": "https://www.bbc.co.uk/sport/football/articles/cxj06ljvgeq4o?at_medium=RSS&amp;at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fa5e/live/59dd6840-ba6d-11f1-a109-c7409015a263.png"
-    },
-    {
-      "id": "story-6",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "101 Great Goals",
-      "time": "Sep 27",
-      "headline": "Isak injury blow: Striker returns to Liverpool from Sweden duty",
-      "excerpt": "Liverpool's in-form forward will miss the rest of the Nations League camp",
-      "link": "https://www.101greatgoals.com/football/isak-injury-blow-striker-returns-to-liverpool-from-sweden-duty/",
-      "image": null
     },
     {
       "id": "story-7",
