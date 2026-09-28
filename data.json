@@ -1,27 +1,27 @@
 {
-  "updatedAt": "2026-09-28T09:02:42.832Z",
+  "updatedAt": "2026-09-28T09:22:30.701Z",
   "hero": {
     "id": "story-0",
-    "league": "Premier League",
-    "dot": "#9CC0F0",
-    "source": "BBC Sport",
+    "league": "Football",
+    "dot": "#AFC4AC",
+    "source": "101 Great Goals",
     "time": "Sep 28",
-    "headline": "The four 'what next?' scenarios for Premier League after Man City ruling",
-    "excerpt": "It has taken more than two years, but a judgement finally appears to have been…",
-    "link": "https://www.bbc.co.uk/sport/football/articles/cw3d77ne44k5o?at_medium=RSS&amp;at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee2f/live/cb7000d0-b9aa-11f1-8a1a-0176f978c211.jpg"
+    "headline": "&#8216;It&#8217;s bad for the game&#8217; &#8211; Lionel Messi&#8217;s Inter Miami slammed for pressuring referee just weeks after Argentina&#8217;s World Cup shame",
+    "excerpt": "A team led by Lionel Messi was called out for its poor behaviour for the…",
+    "link": "https://www.101greatgoals.com/news/its-bad-for-the-game-lionel-messi-inter-miami-pressuring-referee-argentinas-world-cup-shame/",
+    "image": null
   },
   "topStories": [
     {
       "id": "story-1",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "101 Great Goals",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "BBC Sport",
       "time": "Sep 28",
-      "headline": "Portugal boss Jesus to speak to stroppy Ronaldo after striker disappears in a huff after Norway win",
-      "excerpt": "Cristiano Ronaldo appeared angry after being left on the bench throughout Portugal's 2-1 win in…",
-      "link": "https://www.101greatgoals.com/football/internationals/portugal-boss-jorge-jesus-speak-stroppy-cristiano-ronaldo-striker-angry-norway-win/",
-      "image": null
+      "headline": "The four 'what next?' scenarios for Premier League after Man City ruling",
+      "excerpt": "It has taken more than two years, but a judgement finally appears to have been…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cw3d77ne44k5o?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee2f/live/cb7000d0-b9aa-11f1-8a1a-0176f978c211.jpg"
     },
     {
       "id": "story-2",
