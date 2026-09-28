@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-28T15:52:19.088Z",
+  "updatedAt": "2026-09-28T16:02:15.651Z",
   "hero": {
     "id": "story-0",
     "league": "Serie A",
@@ -18,13 +18,24 @@
       "dot": "#AFC4AC",
       "source": "The Guardian",
       "time": "Sep 28",
+      "headline": "Europe’s top-flight clubs to get share of £185m from Club World Cup",
+      "excerpt": "<ul><li><p>Europe dividing money 50-50 with rest of the world</p></li><li><p>Confirmation expected after Fifa meeting in October</p></li></ul><p>Europe’s…",
+      "link": "https://www.theguardian.com/football/2026/sep/28/europe-top-flight-clubs-get-share-pot-from-fifa-club-world-cup",
+      "image": "https://i.guim.co.uk/img/media/6d959dbd66a4ecb2d5b435ea8e89d5713f1caed3/343_0_3430_2744/master/3430.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ad196d9bbb3fc92f7d2edf0b2fcdd4dc"
+    },
+    {
+      "id": "story-2",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "The Guardian",
+      "time": "Sep 28",
       "headline": "The Nations League is a welcome example of soccer done well",
       "excerpt": "<p>The tournament was treated with skepticism when it was introduced in 2018, but it shows…",
       "link": "https://www.theguardian.com/football/2026/sep/28/nations-league-uefa-england-spain",
       "image": "https://i.guim.co.uk/img/media/6f271df80e2584d8e941d8cbad973e372c418578/0_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f779bdbfeb773b7b8b127f26781394fd"
     },
     {
-      "id": "story-2",
+      "id": "story-3",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "101 Great Goals",
@@ -35,7 +46,7 @@
       "image": null
     },
     {
-      "id": "story-3",
+      "id": "story-4",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -46,7 +57,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0d19/live/fd0894c0-bb28-11f1-bc1f-3f186ca4140c.png"
     },
     {
-      "id": "story-4",
+      "id": "story-5",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -57,7 +68,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7b5c/live/79cf7990-bb3f-11f1-8cd3-d12549a04493.jpg"
     },
     {
-      "id": "story-5",
+      "id": "story-6",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -68,7 +79,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ee3/live/536b95e0-bb30-11f1-a9b8-670e5d9d8eee.jpg"
     },
     {
-      "id": "story-6",
+      "id": "story-7",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -79,7 +90,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bc3f/live/8762ea60-bb3a-11f1-bc1f-3f186ca4140c.png"
     },
     {
-      "id": "story-7",
+      "id": "story-8",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -90,7 +101,7 @@
       "image": "https://i.guim.co.uk/img/media/a22057b78869c35df712441cf4ba02a9a827adaa/437_0_4370_3496/master/4370.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d23b0b8f3c32b743e45a77432e93a671"
     },
     {
-      "id": "story-8",
+      "id": "story-9",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -101,7 +112,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0b0a/live/22548780-bb32-11f1-a9b8-670e5d9d8eee.jpg"
     },
     {
-      "id": "story-9",
+      "id": "story-10",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -112,7 +123,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8a3b/live/1d4838a0-bb31-11f1-a9b8-670e5d9d8eee.jpg"
     },
     {
-      "id": "story-10",
+      "id": "story-11",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -123,7 +134,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/92be/live/0dfde780-bb1f-11f1-bd21-bdf910f2cec6.png"
     },
     {
-      "id": "story-11",
+      "id": "story-12",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -134,23 +145,12 @@
       "image": "https://i.guim.co.uk/img/media/a6d4cb1005c49afdb695c99af54f6ff220802237/0_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=1186baadd2673e5daf1f5d09e73254b1"
     },
     {
-      "id": "story-12",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "BBC Sport",
-      "time": "Sep 28",
-      "headline": "Preston appoint Bradford boss Alexander",
-      "excerpt": "Preston North End appoint Bradford City boss Graham Alexander as their new manager.",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c60m33n3nxgko?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b433/live/e7dbd380-bb2a-11f1-971b-5fdf53b135ba.jpg"
-    },
-    {
       "id": "story-13",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
       "time": "Sep 28",
-      "headline": "'Special feeling' as ex-Scotland defender Alexander returns to Preston",
+      "headline": "Preston appoint Bradford boss Alexander",
       "excerpt": "Preston North End appoint Bradford City boss Graham Alexander as their new manager.",
       "link": "https://www.bbc.co.uk/sport/football/articles/c60m33n3nxgko?at_medium=RSS&amp;at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b433/live/e7dbd380-bb2a-11f1-971b-5fdf53b135ba.jpg"
