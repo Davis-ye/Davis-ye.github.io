@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-28T18:21:49.843Z",
+  "updatedAt": "2026-09-28T18:39:39.123Z",
   "hero": {
     "id": "story-0",
     "league": "Premier League",
@@ -14,6 +14,17 @@
   "topStories": [
     {
       "id": "story-1",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "The Guardian",
+      "time": "Sep 28",
+      "headline": "Belgium v France, Northern Ireland v Hungary and more: Nations League – live",
+      "excerpt": "<p>⚽ Updates from 7.45pm (BST) kick-offs across Europe<br>⚽ Get in touch: <a href=\"mailto:Michael.Butler@theguardian.com\">email Michael</a> about…",
+      "link": "https://www.theguardian.com/football/live/2026/sep/28/belgium-v-france-northern-ireland-v-hungary-and-more-nations-league-live",
+      "image": "https://i.guim.co.uk/img/media/e1bf894498185d879e73caa170f7f1c3f32b0547/948_0_6051_4840/master/6051.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=bc33c3957a4b462ca469f8ae448de4d9"
+    },
+    {
+      "id": "story-2",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "101 Great Goals",
@@ -22,17 +33,6 @@
       "excerpt": "Confirmed teams as Belgium and France meet in the Nations League",
       "link": "https://www.101greatgoals.com/football/internationals/belgium-vs-france-live-teams-line-ups-nations-league-where-to-watch-tv-channel-online-stream/",
       "image": null
-    },
-    {
-      "id": "story-2",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "The Guardian",
-      "time": "Sep 28",
-      "headline": "Belgium v France, Northern Ireland v Hungary and more: Nations League – live",
-      "excerpt": "<p>⚽ Updates from 7.45pm (BST) kick-offs across Europe<br>⚽ Get in touch: <a href=\"mailto:Michael.Butler@theguardian.com\">email Michael</a> about…",
-      "link": "https://www.theguardian.com/football/live/2026/sep/28/belgium-v-france-northern-ireland-v-hungary-and-more-nations-league-live",
-      "image": "https://i.guim.co.uk/img/media/c97c4509e5f048888d2a1433e950b2d3551c85cf/763_0_3814_3051/master/3814.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=81ccab162108233dad987e2340013928"
     },
     {
       "id": "story-3",
