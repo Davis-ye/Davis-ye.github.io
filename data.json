@@ -1,19 +1,30 @@
 {
-  "updatedAt": "2026-09-28T22:22:22.369Z",
+  "updatedAt": "2026-09-28T22:33:23.802Z",
   "hero": {
     "id": "story-0",
     "league": "Football",
     "dot": "#AFC4AC",
     "source": "The Guardian",
     "time": "Sep 28",
-    "headline": "Nations League: Olise’s late stunner leads France past Belgium, Italy rout Turkey",
-    "excerpt": "<ul><li><p>Belgium 0-1 France, Turkey 1-4 Italy, Sweden 3-1 Poland</p></li><li><p>Northern Ireland left frustrated by Hungary stalemate</p></li></ul><p>Michael…",
-    "link": "https://www.theguardian.com/football/2026/sep/28/nations-league-belgium-france-turkey-italy-northern-ireland-hungary",
-    "image": "https://i.guim.co.uk/img/media/c20a9e8ac619afb3d694cf2ec382fd661e488d14/0_0_6556_5245/master/6556.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=192498d45a13673c0ce542ad21843fcd"
+    "headline": "Gianni Infantino ready to accept demands for larger payouts from $6bn reserves",
+    "excerpt": "<ul><li><p>Fifa president says: ‘The ambition is welcome’</p></li><li><p>Infantino mounts fresh defence of failed FFE scheme</p></li></ul><p>The Fifa…",
+    "link": "https://www.theguardian.com/football/2026/sep/28/gianni-infantino-fifa-president-ffe-national-association-payouts",
+    "image": "https://i.guim.co.uk/img/media/94f2dc3a318c0134a2a2699ddb0c6fba13da9f69/147_0_2083_1667/master/2083.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=9e86d0aa3b0e02923ca093495297420a"
   },
   "topStories": [
     {
       "id": "story-1",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "The Guardian",
+      "time": "Sep 28",
+      "headline": "Nations League: Olise’s late stunner leads France past Belgium, Italy rout Turkey",
+      "excerpt": "<ul><li><p>Belgium 0-1 France, Turkey 1-4 Italy, Sweden 3-1 Poland</p></li><li><p>Northern Ireland left frustrated by Hungary stalemate</p></li></ul><p>Michael…",
+      "link": "https://www.theguardian.com/football/2026/sep/28/nations-league-belgium-france-turkey-italy-northern-ireland-hungary",
+      "image": "https://i.guim.co.uk/img/media/c20a9e8ac619afb3d694cf2ec382fd661e488d14/0_0_6556_5245/master/6556.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=192498d45a13673c0ce542ad21843fcd"
+    },
+    {
+      "id": "story-2",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "101 Great Goals",
@@ -22,17 +33,6 @@
       "excerpt": "Four of the eight Nations League games featured at least four goals",
       "link": "https://www.101greatgoals.com/match-reports/nations-league-results-today-reports-results-scores-goals/",
       "image": null
-    },
-    {
-      "id": "story-2",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "The Guardian",
-      "time": "Sep 28",
-      "headline": "Gianni Infantino set to accept demands to give national associations payouts",
-      "excerpt": "<ul><li><p>Fifa president says: ‘The ambition is welcome’</p></li><li><p>Infantino mounts fresh defence of failed FFE scheme</p></li></ul><p>The Fifa…",
-      "link": "https://www.theguardian.com/football/2026/sep/28/gianni-infantino-fifa-president-ffe-national-association-payouts",
-      "image": "https://i.guim.co.uk/img/media/94f2dc3a318c0134a2a2699ddb0c6fba13da9f69/147_0_2083_1667/master/2083.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=9e86d0aa3b0e02923ca093495297420a"
     },
     {
       "id": "story-3",
