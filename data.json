@@ -1,19 +1,30 @@
 {
-  "updatedAt": "2026-09-28T16:21:49.867Z",
+  "updatedAt": "2026-09-28T16:36:47.090Z",
   "hero": {
     "id": "story-0",
     "league": "Football",
     "dot": "#AFC4AC",
-    "source": "The Guardian",
+    "source": "101 Great Goals",
     "time": "Sep 28",
-    "headline": "Israel captain stokes feud by saying ‘our country is 10 times better than Ireland’",
-    "excerpt": "<ul><li><p>Manor Solomon angry at Ireland’s stance over Gaza</p></li><li><p>‘They hate us and we don’t like them’</p></li></ul><p>Manor…",
-    "link": "https://www.theguardian.com/football/2026/sep/28/israel-captain-manor-solomon-feud-republic-ireland-gaza-nations-league",
-    "image": "https://i.guim.co.uk/img/media/e4b7d9c4cf62149c0530cf8b8143eb0b02e37035/122_757_2175_1740/master/2175.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=4d55666e7e2dc96abdc6668d6fe9d369"
+    "headline": "NFL: De&#8217;Von Achane suffers season-ending knee injury in major blow to Miami Dolphins",
+    "excerpt": "Miami Dolphins running back De'Von Achane has torn his ACL.",
+    "link": "https://www.101greatgoals.com/nfl/nfl-devon-achane-suffers-season-ending-acl-miami-dolphins/",
+    "image": null
   },
   "topStories": [
     {
       "id": "story-1",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "The Guardian",
+      "time": "Sep 28",
+      "headline": "Israel captain stokes feud by saying ‘our country is 10 times better than Ireland’",
+      "excerpt": "<ul><li><p>Manor Solomon angry at Ireland’s stance over Gaza</p></li><li><p>‘They hate us and we don’t like them’</p></li></ul><p>Manor…",
+      "link": "https://www.theguardian.com/football/2026/sep/28/israel-captain-manor-solomon-feud-republic-ireland-gaza-nations-league",
+      "image": "https://i.guim.co.uk/img/media/e4b7d9c4cf62149c0530cf8b8143eb0b02e37035/122_757_2175_1740/master/2175.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=4d55666e7e2dc96abdc6668d6fe9d369"
+    },
+    {
+      "id": "story-2",
       "league": "Serie A",
       "dot": "#A9E6A0",
       "source": "BBC Sport",
@@ -24,7 +35,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fe90/live/6b6d4940-bb53-11f1-bd21-bdf910f2cec6.jpg"
     },
     {
-      "id": "story-2",
+      "id": "story-3",
       "league": "Serie A",
       "dot": "#A9E6A0",
       "source": "BBC Sport",
@@ -35,7 +46,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fe90/live/6b6d4940-bb53-11f1-bd21-bdf910f2cec6.jpg"
     },
     {
-      "id": "story-3",
+      "id": "story-4",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "The Guardian",
@@ -46,7 +57,7 @@
       "image": "https://i.guim.co.uk/img/media/6d959dbd66a4ecb2d5b435ea8e89d5713f1caed3/343_0_3430_2744/master/3430.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ad196d9bbb3fc92f7d2edf0b2fcdd4dc"
     },
     {
-      "id": "story-4",
+      "id": "story-5",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "The Guardian",
@@ -55,17 +66,6 @@
       "excerpt": "<p>The tournament was treated with skepticism when it was introduced in 2018, but it shows…",
       "link": "https://www.theguardian.com/football/2026/sep/28/nations-league-uefa-england-spain",
       "image": "https://i.guim.co.uk/img/media/6f271df80e2584d8e941d8cbad973e372c418578/0_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f779bdbfeb773b7b8b127f26781394fd"
-    },
-    {
-      "id": "story-5",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "101 Great Goals",
-      "time": "Sep 28",
-      "headline": "Australia v Brazil: Preview, where to watch and prediction as Selecao take on Socceroos",
-      "excerpt": "Australia and Brazil clash again in Brisbane on Tuesday. Read our in-depth preview here...",
-      "link": "https://www.101greatgoals.com/football/internationals/australia-v-brazil-preview-where-to-watch-stream-prediction-selecao-socceroos/",
-      "image": null
     },
     {
       "id": "story-6",
@@ -128,7 +128,7 @@
       "dot": "#AFC4AC",
       "source": "BBC Sport",
       "time": "Sep 28",
-      "headline": "Cape Verde hero Vozinha on newfound fame",
+      "headline": "'I've lost my peace' - Cape Verde hero Vozinha on newfound fame",
       "excerpt": "Cape Verde's World Cup hero Vozinha says he craves the \"peace and tranquillity\" of the…",
       "link": "https://www.bbc.co.uk/sport/football/articles/cw4gr1vj845vo?at_medium=RSS&amp;at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0b0a/live/22548780-bb32-11f1-a9b8-670e5d9d8eee.jpg"
@@ -183,13 +183,24 @@
       "dot": "#AFC4AC",
       "source": "BBC Sport",
       "time": "Sep 28",
+      "headline": "Preston appoint former Scotland player Alexander",
+      "excerpt": "Preston North End appoint Bradford City boss Graham Alexander as their new manager.",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c60m33n3nxgko?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b433/live/e7dbd380-bb2a-11f1-971b-5fdf53b135ba.jpg"
+    },
+    {
+      "id": "story-17",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "BBC Sport",
+      "time": "Sep 28",
       "headline": "Two players sent off for pulling rival's dreadlocks",
       "excerpt": "Antigua and Barbuda players are red-carded for pulling Anguilla player Aedan Scipio's dreadlocks in a…",
       "link": "https://www.bbc.co.uk/sport/football/articles/cm70lpkjplyyo?at_medium=RSS&amp;at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e284/live/18c658d0-bb17-11f1-97b0-3f86b3abbccc.png"
     },
     {
-      "id": "story-17",
+      "id": "story-18",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -200,7 +211,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4c23/live/f79911e0-bb14-11f1-97b0-3f86b3abbccc.jpg"
     },
     {
-      "id": "story-18",
+      "id": "story-19",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -211,7 +222,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0dbb/live/16e153e0-bb11-11f1-be79-115d1c36254f.jpg"
     },
     {
-      "id": "story-19",
+      "id": "story-20",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -222,7 +233,7 @@
       "image": "https://i.guim.co.uk/img/media/4ed7fb879d66292723116f1d8da7fe69cac9f802/0_117_4096_3278/master/4096.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=6f3c32566861b3330a4d081e50e1f132"
     },
     {
-      "id": "story-20",
+      "id": "story-21",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -233,7 +244,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee2f/live/cb7000d0-b9aa-11f1-8a1a-0176f978c211.jpg"
     },
     {
-      "id": "story-21",
+      "id": "story-22",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -244,7 +255,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b734/live/7611bac0-a866-11f1-ae45-e9984fc27c77.jpg"
     },
     {
-      "id": "story-22",
+      "id": "story-23",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -253,17 +264,6 @@
       "excerpt": "Watch every goal from matchweek four of the Women's Super League 2026-27 season.",
       "link": "https://www.bbc.co.uk/sport/football/videos/cwe8elr46xppo?at_medium=RSS&amp;at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8856/live/7be1ea30-bb10-11f1-bd21-bdf910f2cec6.jpg"
-    },
-    {
-      "id": "story-23",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "BBC Sport",
-      "time": "Sep 28",
-      "headline": "A 31-year wait for success - but can Everton fans still celebrate?",
-      "excerpt": "Is supporting Everton a life of misery, or are there still reasons to celebrate? Chief…",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c0m3lpj4gm4o?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/333c/live/00520c50-ac34-11f1-b483-f5be285e6b7e.jpg"
     }
   ],
   "scoreboard": []
