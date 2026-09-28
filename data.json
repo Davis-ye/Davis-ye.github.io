@@ -1,19 +1,30 @@
 {
-  "updatedAt": "2026-09-28T11:11:49.830Z",
+  "updatedAt": "2026-09-28T11:26:56.104Z",
   "hero": {
     "id": "story-0",
     "league": "Premier League",
     "dot": "#9CC0F0",
-    "source": "The Guardian",
+    "source": "101 Great Goals",
     "time": "Sep 28",
-    "headline": "WSL talking points: Chelsea punish Arsenal and Putellas finds her rhythm",
-    "excerpt": "<p>The Gunners lacked cutting edge at Stamford Bridge while the former Barcelona star dominated against…",
-    "link": "https://www.theguardian.com/football/2026/sep/28/wsl-talking-points-chelsea-arsenal-alexia-putellas",
-    "image": "https://i.guim.co.uk/img/media/a6d4cb1005c49afdb695c99af54f6ff220802237/0_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=1186baadd2673e5daf1f5d09e73254b1"
+    "headline": "Mancini claims double contract with Manchester City &#8216;their issue, not mine&#8217;",
+    "excerpt": "Former Manchester City boss Roberto Mancini has been grilled over his time at the club.",
+    "link": "https://www.101greatgoals.com/football/premier-league/mancini-claims-double-contract-manchester-city-their-issue/",
+    "image": null
   },
   "topStories": [
     {
       "id": "story-1",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "The Guardian",
+      "time": "Sep 28",
+      "headline": "WSL talking points: Chelsea punish Arsenal and Putellas finds her rhythm",
+      "excerpt": "<p>The Gunners lacked cutting edge at Stamford Bridge while the former Barcelona star dominated against…",
+      "link": "https://www.theguardian.com/football/2026/sep/28/wsl-talking-points-chelsea-arsenal-alexia-putellas",
+      "image": "https://i.guim.co.uk/img/media/a6d4cb1005c49afdb695c99af54f6ff220802237/0_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=1186baadd2673e5daf1f5d09e73254b1"
+    },
+    {
+      "id": "story-2",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -24,7 +35,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b433/live/e7dbd380-bb2a-11f1-971b-5fdf53b135ba.jpg"
     },
     {
-      "id": "story-2",
+      "id": "story-3",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -35,7 +46,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b433/live/e7dbd380-bb2a-11f1-971b-5fdf53b135ba.jpg"
     },
     {
-      "id": "story-3",
+      "id": "story-4",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -46,7 +57,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e284/live/18c658d0-bb17-11f1-97b0-3f86b3abbccc.png"
     },
     {
-      "id": "story-4",
+      "id": "story-5",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -57,7 +68,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4c23/live/f79911e0-bb14-11f1-97b0-3f86b3abbccc.jpg"
     },
     {
-      "id": "story-5",
+      "id": "story-6",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -68,7 +79,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0dbb/live/16e153e0-bb11-11f1-be79-115d1c36254f.jpg"
     },
     {
-      "id": "story-6",
+      "id": "story-7",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -77,17 +88,6 @@
       "excerpt": "<ul><li><p>Coach alleged to have been paid for advisory work</p></li><li><p>Mancini says City ‘not guilty’ after Premier…",
       "link": "https://www.theguardian.com/football/2026/sep/28/roberto-mancini-double-contract-manchester-city",
       "image": "https://i.guim.co.uk/img/media/4ed7fb879d66292723116f1d8da7fe69cac9f802/0_117_4096_3278/master/4096.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=6f3c32566861b3330a4d081e50e1f132"
-    },
-    {
-      "id": "story-7",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "101 Great Goals",
-      "time": "Sep 28",
-      "headline": "&#8216;It&#8217;s bad for the game&#8217; &#8211; Lionel Messi&#8217;s Inter Miami slammed for pressuring referee just weeks after Argentina&#8217;s World Cup shame",
-      "excerpt": "A team led by Lionel Messi was called out for its poor behaviour for the…",
-      "link": "https://www.101greatgoals.com/news/its-bad-for-the-game-lionel-messi-inter-miami-pressuring-referee-argentinas-world-cup-shame/",
-      "image": null
     },
     {
       "id": "story-8",
