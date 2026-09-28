@@ -1,30 +1,41 @@
 {
-  "updatedAt": "2026-09-28T21:57:32.949Z",
+  "updatedAt": "2026-09-28T22:08:12.597Z",
   "hero": {
     "id": "story-0",
     "league": "Football",
     "dot": "#AFC4AC",
-    "source": "101 Great Goals",
+    "source": "The Guardian",
     "time": "Sep 28",
-    "headline": "Nations League results: Italy thrash Turkey as France win late in Belgium",
-    "excerpt": "Four of the eight Nations League games featured at least four goals",
-    "link": "https://www.101greatgoals.com/match-reports/nations-league-results-today-reports-results-scores-goals/",
-    "image": null
+    "headline": "Nations League: Olise’s late stunner leads France past Belgium, Italy rout Turkey",
+    "excerpt": "<ul><li><p>Belgium 0-1 France, Turkey 1-4 Italy, Sweden 3-1 Poland</p></li><li><p>Northern Ireland left frustrated by Hungary stalemate</p></li></ul><p>Michael…",
+    "link": "https://www.theguardian.com/football/2026/sep/28/nations-league-belgium-france-turkey-italy-northern-ireland-hungary",
+    "image": "https://i.guim.co.uk/img/media/c20a9e8ac619afb3d694cf2ec382fd661e488d14/0_0_6556_5245/master/6556.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=192498d45a13673c0ce542ad21843fcd"
   },
   "topStories": [
     {
       "id": "story-1",
       "league": "Football",
       "dot": "#AFC4AC",
-      "source": "The Guardian",
+      "source": "101 Great Goals",
       "time": "Sep 28",
-      "headline": "Belgium 0-1 France, Turkey 1-4 Italy and more: Nations League – as it happened",
-      "excerpt": "<p>Michael Olise earned France victory in Brussels and Italy bounced back with a big win…",
-      "link": "https://www.theguardian.com/football/live/2026/sep/28/belgium-v-france-northern-ireland-v-hungary-and-more-nations-league-live",
-      "image": "https://i.guim.co.uk/img/media/c697adfd95148b8ec28309b14c19f0c177af321e/789_129_6172_4938/master/6172.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=eb17a65393e86e2a9b139f312f14b14d"
+      "headline": "Nations League results: Italy thrash Turkey as France win late in Belgium",
+      "excerpt": "Four of the eight Nations League games featured at least four goals",
+      "link": "https://www.101greatgoals.com/match-reports/nations-league-results-today-reports-results-scores-goals/",
+      "image": null
     },
     {
       "id": "story-2",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "The Guardian",
+      "time": "Sep 28",
+      "headline": "Gianni Infantino set to accept demands to give national associations payouts",
+      "excerpt": "<ul><li><p>Fifa president says: ‘The ambition is welcome’</p></li><li><p>Infantino mounts fresh defence of failed FFE scheme</p></li></ul><p>The Fifa…",
+      "link": "https://www.theguardian.com/football/2026/sep/28/gianni-infantino-fifa-president-ffe-national-association-payouts",
+      "image": "https://i.guim.co.uk/img/media/94f2dc3a318c0134a2a2699ddb0c6fba13da9f69/147_0_2083_1667/master/2083.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=9e86d0aa3b0e02923ca093495297420a"
+    },
+    {
+      "id": "story-3",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -35,7 +46,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5ead/live/7c391d60-bb7d-11f1-aa8c-25a48ac48e8f.png"
     },
     {
-      "id": "story-3",
+      "id": "story-4",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -46,7 +57,7 @@
       "image": "https://i.guim.co.uk/img/media/b34182d54ca4cb8daf68b1ae046e89d0393a19ec/139_0_2669_2136/master/2669.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=92d875bbe75dab4eca1b56b1f62f9632"
     },
     {
-      "id": "story-4",
+      "id": "story-5",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "The Guardian",
@@ -57,7 +68,7 @@
       "image": "https://i.guim.co.uk/img/media/493cda98fd6e391ef44cc0dcf7a5180f00352108/781_0_3641_2914/master/3641.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=de428f12ce4285c03220b91a742b21cc"
     },
     {
-      "id": "story-5",
+      "id": "story-6",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -68,7 +79,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bc3f/live/8762ea60-bb3a-11f1-bc1f-3f186ca4140c.png"
     },
     {
-      "id": "story-6",
+      "id": "story-7",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -79,7 +90,7 @@
       "image": "https://i.guim.co.uk/img/media/d5a30fc3088b7829358fee9fdb824c4aff2a1954/802_0_4350_3479/master/4350.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=72acf017583b9dced3303c9af9b2b43b"
     },
     {
-      "id": "story-7",
+      "id": "story-8",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -88,17 +99,6 @@
       "excerpt": "Former Manchester City goalkeeper Joe Hart believes club chairman Khaldoon Al Mubarak's claims they are…",
       "link": "https://www.bbc.co.uk/sport/football/articles/c617jky597k7o?at_medium=RSS&amp;at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4db6/live/e6b87110-bb49-11f1-a071-65d2e11c8f4a.jpg"
-    },
-    {
-      "id": "story-8",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "The Guardian",
-      "time": "Sep 28",
-      "headline": "Michael Wynn-Jones, husband of Delia Smith, dies aged 85",
-      "excerpt": "<p>Former journalist and honorary life president of Norwich City FC died peacefully at home on…",
-      "link": "https://www.theguardian.com/uk-news/2026/sep/28/michael-wynn-jones-dies-aged-85-delia-smith-husband",
-      "image": "https://i.guim.co.uk/img/media/476753424298e1f6206ced50fbc8719ed40b91ea/501_0_4320_3456/master/4320.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=8c7a5866cf7b7e02a82dd60bb236a923"
     },
     {
       "id": "story-9",
