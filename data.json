@@ -1,27 +1,27 @@
 {
-  "updatedAt": "2026-09-28T17:29:41.519Z",
+  "updatedAt": "2026-09-28T17:42:38.882Z",
   "hero": {
     "id": "story-0",
-    "league": "La Liga",
-    "dot": "#E3B4F5",
-    "source": "The Guardian",
+    "league": "Football",
+    "dot": "#AFC4AC",
+    "source": "101 Great Goals",
     "time": "Sep 28",
-    "headline": "Defensive flux gives Tuchel headache but Alexander-Arnold could be remedy | Jacob Steinberg",
-    "excerpt": "<p>Chopping and changing the back four has been a big feature for England this year…",
-    "link": "https://www.theguardian.com/football/2026/sep/28/thomas-tuchel-england-trent-alexander-arnold-nations-league",
-    "image": "https://i.guim.co.uk/img/media/f9a5116fc5849b00df46001edad151aa79196a5a/496_0_4510_3608/master/4510.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e633122a741d5709af4c0e1ae4cfa89c"
+    "headline": "Turkey vs Italy live: Confirmed teams and line ups",
+    "excerpt": "Confirmed teams as Turkey and Italy meet in the Nations League",
+    "link": "https://www.101greatgoals.com/football/internationals/turkey-vs-italy-live-teams-line-ups-nations-league-where-to-watch-tv-channel-online-stream/",
+    "image": null
   },
   "topStories": [
     {
       "id": "story-1",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "101 Great Goals",
+      "league": "La Liga",
+      "dot": "#E3B4F5",
+      "source": "The Guardian",
       "time": "Sep 28",
-      "headline": "NFL: De&#8217;Von Achane suffers season-ending knee injury in major blow to Miami Dolphins",
-      "excerpt": "Miami Dolphins running back De'Von Achane has torn his ACL.",
-      "link": "https://www.101greatgoals.com/nfl/nfl-devon-achane-suffers-season-ending-acl-miami-dolphins/",
-      "image": null
+      "headline": "Defensive flux gives Tuchel headache but Alexander-Arnold could be remedy | Jacob Steinberg",
+      "excerpt": "<p>Chopping and changing the back four has been a big feature for England this year…",
+      "link": "https://www.theguardian.com/football/2026/sep/28/thomas-tuchel-england-trent-alexander-arnold-nations-league",
+      "image": "https://i.guim.co.uk/img/media/f9a5116fc5849b00df46001edad151aa79196a5a/496_0_4510_3608/master/4510.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e633122a741d5709af4c0e1ae4cfa89c"
     },
     {
       "id": "story-2",
