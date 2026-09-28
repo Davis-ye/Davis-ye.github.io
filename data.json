@@ -1,27 +1,27 @@
 {
-  "updatedAt": "2026-09-28T15:03:14.053Z",
+  "updatedAt": "2026-09-28T15:22:14.391Z",
   "hero": {
     "id": "story-0",
-    "league": "Premier League",
-    "dot": "#9CC0F0",
-    "source": "BBC Sport",
+    "league": "Football",
+    "dot": "#AFC4AC",
+    "source": "101 Great Goals",
     "time": "Sep 28",
-    "headline": "How does Cas work and why can't Man City appeal to it?",
-    "excerpt": "The Court of Arbitration for Sport (CAS) regulates legal disputes across the world of sport",
-    "link": "https://www.bbc.co.uk/sport/football/articles/c920v34y4l2zo?at_medium=RSS&amp;at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0d19/live/fd0894c0-bb28-11f1-bc1f-3f186ca4140c.png"
+    "headline": "Australia v Brazil: Preview, where to watch and prediction as Selecao take on Socceroos",
+    "excerpt": "Australia and Brazil clash again in Brisbane on Tuesday. Read our in-depth preview here...",
+    "link": "https://www.101greatgoals.com/football/internationals/australia-v-brazil-preview-where-to-watch-stream-prediction-selecao-socceroos/",
+    "image": null
   },
   "topStories": [
     {
       "id": "story-1",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "101 Great Goals",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "BBC Sport",
       "time": "Sep 28",
-      "headline": "England squad announcement: Full list for Nations League 2026",
-      "excerpt": "The squad for England's Nations League 2026 fixtures",
-      "link": "https://www.101greatgoals.com/football/internationals/england-squad-nations-league-spain-czech-republic-croatia-cole-palmer-trent-alexander-arnold/",
-      "image": null
+      "headline": "How does Cas work and why can't Man City appeal to it?",
+      "excerpt": "The Court of Arbitration for Sport (CAS) regulates legal disputes across the world of sport",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c920v34y4l2zo?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0d19/live/fd0894c0-bb28-11f1-bc1f-3f186ca4140c.png"
     },
     {
       "id": "story-2",
