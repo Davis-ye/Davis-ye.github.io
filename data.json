@@ -1,19 +1,52 @@
 {
-  "updatedAt": "2026-09-28T17:54:29.565Z",
+  "updatedAt": "2026-09-28T18:02:26.884Z",
   "hero": {
     "id": "story-0",
-    "league": "Football",
-    "dot": "#AFC4AC",
-    "source": "101 Great Goals",
+    "league": "Premier League",
+    "dot": "#9CC0F0",
+    "source": "BBC Sport",
     "time": "Sep 28",
-    "headline": "Turkey vs Italy live: Confirmed teams and line ups",
-    "excerpt": "Confirmed teams as Turkey and Italy meet in the Nations League",
-    "link": "https://www.101greatgoals.com/football/internationals/turkey-vs-italy-live-teams-line-ups-nations-league-where-to-watch-tv-channel-online-stream/",
-    "image": null
+    "headline": "Monday Night Club - Man City reaction",
+    "excerpt": "Mark Chapman and guests debate the weekend's football.",
+    "link": "https://www.bbc.co.uk/sounds/play/live:bbc_radio_five_live?at_medium=RSS&amp;at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0n3mq8q.jpg"
   },
   "topStories": [
     {
       "id": "story-1",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "101 Great Goals",
+      "time": "Sep 28",
+      "headline": "Turkey vs Italy live: Confirmed teams and line ups",
+      "excerpt": "Confirmed teams as Turkey and Italy meet in the Nations League",
+      "link": "https://www.101greatgoals.com/football/internationals/turkey-vs-italy-live-teams-line-ups-nations-league-where-to-watch-tv-channel-online-stream/",
+      "image": null
+    },
+    {
+      "id": "story-2",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "The Guardian",
+      "time": "Sep 28",
+      "headline": "Mancini refers to ‘double’ Manchester City contract and says it ‘isn’t my problem’",
+      "excerpt": "<ul><li><p>Coach alleged to have been paid for advisory work</p></li><li><p>City’s Soriano says club will fight to…",
+      "link": "https://www.theguardian.com/football/2026/sep/28/roberto-mancini-double-contract-manchester-city",
+      "image": "https://i.guim.co.uk/img/media/4ed7fb879d66292723116f1d8da7fe69cac9f802/0_117_4096_3278/master/4096.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=6f3c32566861b3330a4d081e50e1f132"
+    },
+    {
+      "id": "story-3",
+      "league": "Serie A",
+      "dot": "#A9E6A0",
+      "source": "The Guardian",
+      "time": "Sep 28",
+      "headline": "Belgium v France, Northern Ireland v Hungary and more: Nations League – live",
+      "excerpt": "<p>⚽ Updates from 7.45pm (BST) kick-offs across Europe<br>⚽ Get in touch: <a href=\"mailto:Michael.Butler@theguardian.com\">email Michael</a> about…",
+      "link": "https://www.theguardian.com/football/live/2026/sep/28/belgium-v-france-northern-ireland-v-hungary-and-more-nations-league-live",
+      "image": "https://i.guim.co.uk/img/media/c97c4509e5f048888d2a1433e950b2d3551c85cf/763_0_3814_3051/master/3814.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=81ccab162108233dad987e2340013928"
+    },
+    {
+      "id": "story-4",
       "league": "La Liga",
       "dot": "#E3B4F5",
       "source": "The Guardian",
@@ -24,7 +57,7 @@
       "image": "https://i.guim.co.uk/img/media/f9a5116fc5849b00df46001edad151aa79196a5a/496_0_4510_3608/master/4510.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e633122a741d5709af4c0e1ae4cfa89c"
     },
     {
-      "id": "story-2",
+      "id": "story-5",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -35,7 +68,7 @@
       "image": "https://i.guim.co.uk/img/media/9d67e67ea9541ba2a901cc3970a4bbf7c321abd7/1055_880_3311_2650/master/3311.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b88b5a04d9a97f0c7970240fd0f33c55"
     },
     {
-      "id": "story-3",
+      "id": "story-6",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "The Guardian",
@@ -46,7 +79,7 @@
       "image": "https://i.guim.co.uk/img/media/e4b7d9c4cf62149c0530cf8b8143eb0b02e37035/122_757_2175_1740/master/2175.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=4d55666e7e2dc96abdc6668d6fe9d369"
     },
     {
-      "id": "story-4",
+      "id": "story-7",
       "league": "Serie A",
       "dot": "#A9E6A0",
       "source": "BBC Sport",
@@ -57,7 +90,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fe90/live/6b6d4940-bb53-11f1-bd21-bdf910f2cec6.jpg"
     },
     {
-      "id": "story-5",
+      "id": "story-8",
       "league": "Serie A",
       "dot": "#A9E6A0",
       "source": "BBC Sport",
@@ -68,7 +101,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fe90/live/6b6d4940-bb53-11f1-bd21-bdf910f2cec6.jpg"
     },
     {
-      "id": "story-6",
+      "id": "story-9",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "The Guardian",
@@ -79,7 +112,7 @@
       "image": "https://i.guim.co.uk/img/media/6d959dbd66a4ecb2d5b435ea8e89d5713f1caed3/343_0_3430_2744/master/3430.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ad196d9bbb3fc92f7d2edf0b2fcdd4dc"
     },
     {
-      "id": "story-7",
+      "id": "story-10",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "The Guardian",
@@ -90,7 +123,7 @@
       "image": "https://i.guim.co.uk/img/media/6f271df80e2584d8e941d8cbad973e372c418578/0_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f779bdbfeb773b7b8b127f26781394fd"
     },
     {
-      "id": "story-8",
+      "id": "story-11",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -101,7 +134,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0d19/live/fd0894c0-bb28-11f1-bc1f-3f186ca4140c.png"
     },
     {
-      "id": "story-9",
+      "id": "story-12",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -112,7 +145,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7b5c/live/79cf7990-bb3f-11f1-8cd3-d12549a04493.jpg"
     },
     {
-      "id": "story-10",
+      "id": "story-13",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -123,7 +156,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ee3/live/536b95e0-bb30-11f1-a9b8-670e5d9d8eee.jpg"
     },
     {
-      "id": "story-11",
+      "id": "story-14",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -134,7 +167,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bc3f/live/8762ea60-bb3a-11f1-bc1f-3f186ca4140c.png"
     },
     {
-      "id": "story-12",
+      "id": "story-15",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -145,7 +178,7 @@
       "image": "https://i.guim.co.uk/img/media/a22057b78869c35df712441cf4ba02a9a827adaa/437_0_4370_3496/master/4370.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d23b0b8f3c32b743e45a77432e93a671"
     },
     {
-      "id": "story-13",
+      "id": "story-16",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -156,7 +189,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0b0a/live/22548780-bb32-11f1-a9b8-670e5d9d8eee.jpg"
     },
     {
-      "id": "story-14",
+      "id": "story-17",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -167,7 +200,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8a3b/live/1d4838a0-bb31-11f1-a9b8-670e5d9d8eee.jpg"
     },
     {
-      "id": "story-15",
+      "id": "story-18",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -178,7 +211,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/92be/live/0dfde780-bb1f-11f1-bd21-bdf910f2cec6.png"
     },
     {
-      "id": "story-16",
+      "id": "story-19",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -189,7 +222,7 @@
       "image": "https://i.guim.co.uk/img/media/a6d4cb1005c49afdb695c99af54f6ff220802237/0_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=1186baadd2673e5daf1f5d09e73254b1"
     },
     {
-      "id": "story-17",
+      "id": "story-20",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -200,7 +233,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b433/live/e7dbd380-bb2a-11f1-971b-5fdf53b135ba.jpg"
     },
     {
-      "id": "story-18",
+      "id": "story-21",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -211,7 +244,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b433/live/e7dbd380-bb2a-11f1-971b-5fdf53b135ba.jpg"
     },
     {
-      "id": "story-19",
+      "id": "story-22",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -222,7 +255,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e284/live/18c658d0-bb17-11f1-97b0-3f86b3abbccc.png"
     },
     {
-      "id": "story-20",
+      "id": "story-23",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -231,39 +264,6 @@
       "excerpt": "Roberto Mancini says an alleged \"double contract\" during his time as Manchester City manager is…",
       "link": "https://www.bbc.co.uk/sport/football/articles/cmn45e2e1qplo?at_medium=RSS&amp;at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4c23/live/f79911e0-bb14-11f1-97b0-3f86b3abbccc.jpg"
-    },
-    {
-      "id": "story-21",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "BBC Sport",
-      "time": "Sep 28",
-      "headline": "FAI unclear over possible sanctions if game not played",
-      "excerpt": "Republic of Ireland could have faced \"undetermined\" sanctions had they not played their Nations League…",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cqx2z9p30rlxo?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0dbb/live/16e153e0-bb11-11f1-be79-115d1c36254f.jpg"
-    },
-    {
-      "id": "story-22",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "The Guardian",
-      "time": "Sep 28",
-      "headline": "Mancini refers to ‘double’ Manchester City contract and says it ‘isn’t my problem’",
-      "excerpt": "<ul><li><p>Coach alleged to have been paid for advisory work</p></li><li><p>Mancini says City ‘not guilty’ after Premier…",
-      "link": "https://www.theguardian.com/football/2026/sep/28/roberto-mancini-double-contract-manchester-city",
-      "image": "https://i.guim.co.uk/img/media/4ed7fb879d66292723116f1d8da7fe69cac9f802/0_117_4096_3278/master/4096.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=6f3c32566861b3330a4d081e50e1f132"
-    },
-    {
-      "id": "story-23",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "BBC Sport",
-      "time": "Sep 28",
-      "headline": "The four 'what next?' scenarios for Premier League after Man City ruling",
-      "excerpt": "It has taken more than two years, but a judgement finally appears to have been…",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cw3d77ne44k5o?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee2f/live/cb7000d0-b9aa-11f1-8a1a-0176f978c211.jpg"
     }
   ],
   "scoreboard": []
