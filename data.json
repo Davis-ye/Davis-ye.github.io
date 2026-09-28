@@ -1,19 +1,30 @@
 {
-  "updatedAt": "2026-09-28T22:44:47.103Z",
+  "updatedAt": "2026-09-28T22:54:27.004Z",
   "hero": {
     "id": "story-0",
     "league": "Football",
     "dot": "#AFC4AC",
-    "source": "BBC Sport",
+    "source": "101 Great Goals",
     "time": "Sep 28",
-    "headline": "Infantino makes bigger cash pledge to Fifa members",
-    "excerpt": "Fifa president Gianni Infantino indicates more money could be distributed to the governing body's members…",
-    "link": "https://www.bbc.co.uk/sport/football/articles/c6n4k9exz4v3o?at_medium=RSS&amp;at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ef71/live/e2976ac0-bb83-11f1-a7f1-45ae25eeed0b.jpg"
+    "headline": "Spain v Croatia: Preview, expected line-ups, stats and where to watch",
+    "excerpt": "The lowdown as Spain host Croatia in the Nations League",
+    "link": "https://www.101greatgoals.com/match-previews/spain-v-croatia-preview-team-news-line-ups-where-to-watch-tv-channel-live-online-stream-prediction-nations-league/",
+    "image": null
   },
   "topStories": [
     {
       "id": "story-1",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "BBC Sport",
+      "time": "Sep 28",
+      "headline": "Infantino makes bigger cash pledge to Fifa members",
+      "excerpt": "Fifa president Gianni Infantino indicates more money could be distributed to the governing body's members…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c6n4k9exz4v3o?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ef71/live/e2976ac0-bb83-11f1-a7f1-45ae25eeed0b.jpg"
+    },
+    {
+      "id": "story-2",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "The Guardian",
@@ -24,7 +35,7 @@
       "image": "https://i.guim.co.uk/img/media/94f2dc3a318c0134a2a2699ddb0c6fba13da9f69/147_0_2083_1667/master/2083.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=9e86d0aa3b0e02923ca093495297420a"
     },
     {
-      "id": "story-2",
+      "id": "story-3",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "The Guardian",
@@ -33,17 +44,6 @@
       "excerpt": "<ul><li><p>Belgium 0-1 France, Turkey 1-4 Italy, Sweden 3-1 Poland</p></li><li><p>Northern Ireland left frustrated by Hungary stalemate</p></li></ul><p>Michael…",
       "link": "https://www.theguardian.com/football/2026/sep/28/nations-league-belgium-france-turkey-italy-northern-ireland-hungary",
       "image": "https://i.guim.co.uk/img/media/c20a9e8ac619afb3d694cf2ec382fd661e488d14/0_0_6556_5245/master/6556.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=192498d45a13673c0ce542ad21843fcd"
-    },
-    {
-      "id": "story-3",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "101 Great Goals",
-      "time": "Sep 28",
-      "headline": "Nations League results: Italy thrash Turkey as France win late in Belgium",
-      "excerpt": "Four of the eight Nations League games featured at least four goals",
-      "link": "https://www.101greatgoals.com/match-reports/nations-league-results-today-reports-results-scores-goals/",
-      "image": null
     },
     {
       "id": "story-4",
