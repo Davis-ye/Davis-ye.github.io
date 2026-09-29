@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-29T14:51:34.114Z",
+  "updatedAt": "2026-09-29T15:03:40.825Z",
   "hero": {
     "id": "story-0",
     "league": "Football",
@@ -63,7 +63,7 @@
       "source": "BBC Sport",
       "time": "Sep 29",
       "headline": "Man Utd do not deserve Man City titles - Rooney",
-      "excerpt": "Wayne Rooney says former club Manchester United do not \"deserve\" to be awarded Premier League…",
+      "excerpt": "Wayne Rooney says Man Utd do not \"deserve\" to be awarded Premier League titles if…",
       "link": "https://www.bbc.co.uk/sport/football/articles/cmed7q89vp5no?at_medium=RSS&amp;at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/008c/live/621fb7e0-bbfa-11f1-90b9-913e4354ed35.jpg"
     },
@@ -245,17 +245,6 @@
     },
     {
       "id": "story-22",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "The Guardian",
-      "time": "Sep 29",
-      "headline": "Fifa accuses Uefa of ‘harassment’ and ‘misinformation’ in push against Infantino",
-      "excerpt": "<ul><li><p>Uefa accused of trying to influence presidential election</p></li><li><p>Fifa court filing denies claim of FFE undervaluation</p></li></ul><p>Fifa…",
-      "link": "https://www.theguardian.com/football/2026/sep/29/fifa-accuses-uefa-misinformation-campaign-gianni-infantino-influence-election",
-      "image": "https://i.guim.co.uk/img/media/9a78301caadfbbac87fab22f976897fbf9b38450/431_251_4681_3745/master/4681.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=73e58e78ccfd0f50067f79a53b91b4c6"
-    },
-    {
-      "id": "story-23",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -264,6 +253,17 @@
       "excerpt": "Aston Villa's summer signing Johan Manzambi has been nominated for the best young player at…",
       "link": "https://www.bbc.co.uk/sport/football/articles/ck62m1dv8gjqo?at_medium=RSS&amp;at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4bbf/live/73ef5360-bb53-11f1-aeb7-e1deb589b72b.jpg"
+    },
+    {
+      "id": "story-23",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "The Guardian",
+      "time": "Sep 29",
+      "headline": "Every saint has a past: how man at heart of City’s first scandal became a United hero | Sean Ingle",
+      "excerpt": "<p>Billy Meredith helped win City their first major honours more than a hundred years ago,…",
+      "link": "https://www.theguardian.com/football/2026/sep/29/every-saint-has-a-past-lessons-from-citys-first-scandal-in-1906",
+      "image": "https://i.guim.co.uk/img/media/62fb80aa2e58677b0702753c6cf6678b0d44784a/880_890_2254_1803/master/2254.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=8ecee3348dd3b7d2df2cc3c0a66e73a0"
     }
   ],
   "scoreboard": []
