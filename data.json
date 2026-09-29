@@ -1,27 +1,27 @@
 {
-  "updatedAt": "2026-09-29T14:19:10.784Z",
+  "updatedAt": "2026-09-29T14:36:04.064Z",
   "hero": {
     "id": "story-0",
-    "league": "Premier League",
-    "dot": "#9CC0F0",
-    "source": "BBC Sport",
+    "league": "Football",
+    "dot": "#AFC4AC",
+    "source": "101 Great Goals",
     "time": "Sep 29",
-    "headline": "Why Salisbury are 'bigger than many Premier League teams' in Kuwait",
-    "excerpt": "Sixth-tier Salisbury FC have a unique relationship with Kuwait, where they are regarded as \"bigger…",
-    "link": "https://www.bbc.co.uk/sport/articles/cmx2z78p654yo?at_medium=RSS&amp;at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6720/live/b5d003d0-bbfb-11f1-8422-17098b28f290.jpg"
+    "headline": "Vinicius Junior explains pointing at Bruno Guimaraes during Brazil win: &#8216;He knows&#8217;",
+    "excerpt": "Vinicius Junior scored in front of the Brazil fans against Australia",
+    "link": "https://www.101greatgoals.com/football/internationals/vinicius-junior-bruno-guimaraes-goal-vs-australia/",
+    "image": null
   },
   "topStories": [
     {
       "id": "story-1",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "101 Great Goals",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "BBC Sport",
       "time": "Sep 29",
-      "headline": "Argentina v Bolivia: Preview, expected line-ups, stats and where to watch as post-Messi era gets underway",
-      "excerpt": "Argentina host Bolivia on Wednesday night in the first game of the post-Lionel Messi era.…",
-      "link": "https://www.101greatgoals.com/match-previews/argentina-v-bolivia-stream-preview-expected-line-ups-stats-where-to-watch-lionel-messi/",
-      "image": null
+      "headline": "Why Salisbury are 'bigger than many Premier League teams' in Kuwait",
+      "excerpt": "Sixth-tier Salisbury FC have a unique relationship with Kuwait, where they are regarded as \"bigger…",
+      "link": "https://www.bbc.co.uk/sport/articles/cmx2z78p654yo?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6720/live/b5d003d0-bbfb-11f1-8422-17098b28f290.jpg"
     },
     {
       "id": "story-2",
