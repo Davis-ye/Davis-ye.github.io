@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-09-29T19:32:58.675Z",
+  "updatedAt": "2026-09-29T19:46:28.370Z",
   "hero": {
     "id": "story-0",
-    "league": "Football",
-    "dot": "#AFC4AC",
-    "source": "101 Great Goals",
+    "league": "Premier League",
+    "dot": "#9CC0F0",
+    "source": "The Guardian",
     "time": "Sep 29",
-    "headline": "Yamal scores and assists as Spain take lead over Croatia",
-    "excerpt": "Lamine Yamal has scored and assisted for Spain in the Nations League against Croatia.",
-    "link": "https://www.101greatgoals.com/football/internationals/watch-yamal-scores-again-before-croatia-peg-spain-back-nations-league/",
-    "image": null
+    "headline": "Czechia v England: Nations League football – live",
+    "excerpt": "<p>⚽️ Nations League updates, 7.45pm BST kick-off in Prague<br>⚽️ <a href=\"https://www.theguardian.com/football/live\">Live scores</a> | Follow us…",
+    "link": "https://www.theguardian.com/football/live/2026/sep/29/czechia-v-england-nations-league-football-live-score-updates",
+    "image": "https://i.guim.co.uk/img/media/a151edf642becff43935e18bc76c9cab4781b962/139_134_1832_1466/master/1832.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a8207384fdb20d1b3e4801ce83c5f774"
   },
   "topStories": [
     {
@@ -25,14 +25,14 @@
     },
     {
       "id": "story-2",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "The Guardian",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "101 Great Goals",
       "time": "Sep 29",
-      "headline": "Czechia v England: Nations League football – live",
-      "excerpt": "<p>⚽️ Nations League updates, 7.45pm BST kick-off in Prague<br>⚽️ <a href=\"https://www.theguardian.com/football/live\">Live scores</a> | Follow us…",
-      "link": "https://www.theguardian.com/football/live/2026/sep/29/czechia-v-england-nations-league-football-live-score-updates",
-      "image": "https://i.guim.co.uk/img/media/2b276a3c65145545da22d349fa5ce7831df9e91a/436_0_3218_2575/master/3218.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=8e806f8a65a9e409c168599dec2ddb44"
+      "headline": "Yamal scores and assists as Spain take lead over Croatia",
+      "excerpt": "Lamine Yamal has scored and assisted for Spain in the Nations League against Croatia.",
+      "link": "https://www.101greatgoals.com/football/internationals/watch-yamal-scores-again-before-croatia-peg-spain-back-nations-league/",
+      "image": null
     },
     {
       "id": "story-3",
@@ -51,7 +51,7 @@
       "dot": "#9CC0F0",
       "source": "BBC Sport",
       "time": "Sep 29",
-      "headline": "Man City guilty of 'sham' contracts and misleading accounts",
+      "headline": "Man City guilty of 'sham' contracts and £830m 'disguised funding scheme'",
       "excerpt": "The Premier League confirms that Manchester City have been found guilty of all charges related…",
       "link": "https://www.bbc.co.uk/sport/football/articles/c63reg93xwzro?at_medium=RSS&amp;at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d913/live/0bfbf2c0-bc2c-11f1-a430-4d16ee157c41.jpg"
