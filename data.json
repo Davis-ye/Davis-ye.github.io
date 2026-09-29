@@ -1,32 +1,32 @@
 {
-  "updatedAt": "2026-09-29T18:33:17.781Z",
+  "updatedAt": "2026-09-29T18:51:05.731Z",
   "hero": {
     "id": "story-0",
-    "league": "Football",
-    "dot": "#AFC4AC",
-    "source": "101 Great Goals",
+    "league": "Premier League",
+    "dot": "#9CC0F0",
+    "source": "The Guardian",
     "time": "Sep 29",
-    "headline": "Spain vs Croatia live: Confirmed teams and line ups",
-    "excerpt": "Confirmed teams as Spain and Croatia meet in the Nations League",
-    "link": "https://www.101greatgoals.com/football/internationals/spain-vs-croatia-live-teams-line-ups-nations-league-where-to-watch-tv-channel-online-stream/",
-    "image": null
+    "headline": "Czechia v England: Nations League football – live",
+    "excerpt": "<p>⚽️ Nations League updates, 7.45pm BST kick-off in Prague<br>⚽️ <a href=\"https://www.theguardian.com/football/live\">Live scores</a> | Follow us…",
+    "link": "https://www.theguardian.com/football/live/2026/sep/29/czechia-v-england-nations-league-football-live-score-updates",
+    "image": "https://i.guim.co.uk/img/media/aafd1fa84d6d11fa2da593726fb5141c8bc430c7/720_0_7200_5760/master/7200.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=58a47e00d9624714b783aa6f3fd2eaf9"
   },
   "topStories": [
     {
       "id": "story-1",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "The Guardian",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "101 Great Goals",
       "time": "Sep 29",
-      "headline": "Czechia v England: Nations League football – live",
-      "excerpt": "<p>⚽️ Nations League updates, 7.45pm BST kick-off in Prague<br>⚽️ <a href=\"https://www.theguardian.com/football/live\">Live scores</a> | Follow us…",
-      "link": "https://www.theguardian.com/football/live/2026/sep/29/czechia-v-england-nations-league-football-live-score-updates",
-      "image": "https://i.guim.co.uk/img/media/aafd1fa84d6d11fa2da593726fb5141c8bc430c7/720_0_7200_5760/master/7200.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=58a47e00d9624714b783aa6f3fd2eaf9"
+      "headline": "Spain vs Croatia live: Confirmed teams and line ups",
+      "excerpt": "Confirmed teams as Spain and Croatia meet in the Nations League",
+      "link": "https://www.101greatgoals.com/football/internationals/spain-vs-croatia-live-teams-line-ups-nations-league-where-to-watch-tv-channel-online-stream/",
+      "image": null
     },
     {
       "id": "story-2",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
+      "league": "Football",
+      "dot": "#AFC4AC",
       "source": "The Guardian",
       "time": "Sep 29",
       "headline": "Scotland v Switzerland, Spain v Croatia, and more: Nations League – live",
