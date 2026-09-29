@@ -1,19 +1,30 @@
 {
-  "updatedAt": "2026-09-29T05:46:55.200Z",
+  "updatedAt": "2026-09-29T05:57:23.276Z",
   "hero": {
     "id": "story-0",
     "league": "Football",
     "dot": "#AFC4AC",
-    "source": "BBC Sport",
+    "source": "101 Great Goals",
     "time": "Sep 29",
-    "headline": "Czech Republic ready for Wembley 30 years after Euro '96",
-    "excerpt": "The Czech Republic are returning to Wembley for a Nations League game with England, just…",
-    "link": "https://www.bbc.co.uk/sport/football/articles/c5yeqj0g4ygo?at_medium=RSS&amp;at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d74/live/e5bdb600-bb4c-11f1-a071-65d2e11c8f4a.jpg"
+    "headline": "Spain v Croatia: Preview, expected line-ups, stats and where to watch",
+    "excerpt": "The lowdown as Spain host Croatia in the Nations League",
+    "link": "https://www.101greatgoals.com/match-previews/spain-v-croatia-preview-team-news-line-ups-where-to-watch-tv-channel-live-online-stream-prediction-nations-league/",
+    "image": null
   },
   "topStories": [
     {
       "id": "story-1",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "BBC Sport",
+      "time": "Sep 29",
+      "headline": "Czech Republic ready for Wembley 30 years after Euro '96",
+      "excerpt": "The Czech Republic are returning to Wembley for a Nations League game with England, just…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c5yeqj0g4ygo?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d74/live/e5bdb600-bb4c-11f1-a071-65d2e11c8f4a.jpg"
+    },
+    {
+      "id": "story-2",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -24,7 +35,18 @@
       "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0pbt6l2.jpg"
     },
     {
-      "id": "story-2",
+      "id": "story-3",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "BBC Sport",
+      "time": "Sep 28",
+      "headline": "O'Neill 'positive' as NI maintain unbeaten start",
+      "excerpt": "Michael O'Neill says he is \"positive\" as Northern Ireland maintain their unbeaten start in the…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c64gr1nng300o?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9a6d/live/4d3ebd60-bb93-11f1-bb98-415006d29790.jpg"
+    },
+    {
+      "id": "story-4",
       "league": "Serie A",
       "dot": "#A9E6A0",
       "source": "The Guardian",
@@ -35,18 +57,7 @@
       "image": "https://i.guim.co.uk/img/media/f14f8df3336cd32195d66cd685ab335ba19ae0e9/410_0_3725_2980/master/3725.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=deb91b0ab3ed392ad8efaf8f73ac78ff"
     },
     {
-      "id": "story-3",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "101 Great Goals",
-      "time": "Sep 28",
-      "headline": "Spain v Croatia: Preview, expected line-ups, stats and where to watch",
-      "excerpt": "The lowdown as Spain host Croatia in the Nations League",
-      "link": "https://www.101greatgoals.com/match-previews/spain-v-croatia-preview-team-news-line-ups-where-to-watch-tv-channel-live-online-stream-prediction-nations-league/",
-      "image": null
-    },
-    {
-      "id": "story-4",
+      "id": "story-5",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -55,17 +66,6 @@
       "excerpt": "Fifa president Gianni Infantino indicates more money could be distributed to the governing body's members…",
       "link": "https://www.bbc.co.uk/sport/football/articles/c6n4k9exz4v3o?at_medium=RSS&amp;at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ef71/live/e2976ac0-bb83-11f1-a7f1-45ae25eeed0b.jpg"
-    },
-    {
-      "id": "story-5",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "The Guardian",
-      "time": "Sep 28",
-      "headline": "Pochettino: Manchester City verdicts show fans ‘lived through an era of deception’",
-      "excerpt": "<ul><li><p>US manager says finding right punishment is ‘really hard’</p></li><li><p>Man City <a href=\"https://www.theguardian.com/football/2026/sep/25/manchester-city-found-guilty-of-breaking-premier-leagues-financial-fair-play-rules\">found guilty</a> of majority…",
-      "link": "https://www.theguardian.com/football/2026/sep/28/pochettino-manchester-city-verdict-tottenham-chelsea-southampton-usmnt",
-      "image": "https://i.guim.co.uk/img/media/0a1064ffcf4535c02a2674149129ac76eddaa30f/517_357_1988_1591/master/1988.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=0d32870c49df459a070d6106ee890e94"
     },
     {
       "id": "story-6",
@@ -190,17 +190,6 @@
     },
     {
       "id": "story-17",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "The Guardian",
-      "time": "Sep 28",
-      "headline": "Mancini refers to ‘double’ Manchester City contract and says it ‘isn’t my problem’",
-      "excerpt": "<ul><li><p>Coach alleged to have been paid for advisory work</p></li><li><p>He also claims the club is ‘not…",
-      "link": "https://www.theguardian.com/football/2026/sep/28/roberto-mancini-double-contract-manchester-city",
-      "image": "https://i.guim.co.uk/img/media/4ed7fb879d66292723116f1d8da7fe69cac9f802/0_117_4096_3278/master/4096.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=6f3c32566861b3330a4d081e50e1f132"
-    },
-    {
-      "id": "story-18",
       "league": "La Liga",
       "dot": "#E3B4F5",
       "source": "The Guardian",
@@ -211,7 +200,7 @@
       "image": "https://i.guim.co.uk/img/media/f9a5116fc5849b00df46001edad151aa79196a5a/496_0_4510_3608/master/4510.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e633122a741d5709af4c0e1ae4cfa89c"
     },
     {
-      "id": "story-19",
+      "id": "story-18",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -222,7 +211,7 @@
       "image": "https://i.guim.co.uk/img/media/9d67e67ea9541ba2a901cc3970a4bbf7c321abd7/1055_880_3311_2650/master/3311.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b88b5a04d9a97f0c7970240fd0f33c55"
     },
     {
-      "id": "story-20",
+      "id": "story-19",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "The Guardian",
@@ -233,7 +222,7 @@
       "image": "https://i.guim.co.uk/img/media/e4b7d9c4cf62149c0530cf8b8143eb0b02e37035/122_757_2175_1740/master/2175.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=4d55666e7e2dc96abdc6668d6fe9d369"
     },
     {
-      "id": "story-21",
+      "id": "story-20",
       "league": "Serie A",
       "dot": "#A9E6A0",
       "source": "BBC Sport",
@@ -244,7 +233,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fe90/live/6b6d4940-bb53-11f1-bd21-bdf910f2cec6.jpg"
     },
     {
-      "id": "story-22",
+      "id": "story-21",
       "league": "Serie A",
       "dot": "#A9E6A0",
       "source": "BBC Sport",
@@ -255,7 +244,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fe90/live/6b6d4940-bb53-11f1-bd21-bdf910f2cec6.jpg"
     },
     {
-      "id": "story-23",
+      "id": "story-22",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "The Guardian",
@@ -264,6 +253,17 @@
       "excerpt": "<ul><li><p>Europe dividing money 50-50 with rest of the world</p></li><li><p>Confirmation expected after Fifa meeting in October</p></li></ul><p>Europe’s…",
       "link": "https://www.theguardian.com/football/2026/sep/28/europe-top-flight-clubs-get-share-pot-from-fifa-club-world-cup",
       "image": "https://i.guim.co.uk/img/media/6d959dbd66a4ecb2d5b435ea8e89d5713f1caed3/343_0_3430_2744/master/3430.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ad196d9bbb3fc92f7d2edf0b2fcdd4dc"
+    },
+    {
+      "id": "story-23",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "The Guardian",
+      "time": "Sep 28",
+      "headline": "The Nations League is a welcome example of soccer done well",
+      "excerpt": "<p>The tournament was treated with skepticism when it was introduced in 2018, but it shows…",
+      "link": "https://www.theguardian.com/football/2026/sep/28/nations-league-uefa-england-spain",
+      "image": "https://i.guim.co.uk/img/media/6f271df80e2584d8e941d8cbad973e372c418578/0_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f779bdbfeb773b7b8b127f26781394fd"
     }
   ],
   "scoreboard": []
