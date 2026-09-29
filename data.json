@@ -1,19 +1,30 @@
 {
-  "updatedAt": "2026-09-29T11:25:40.074Z",
+  "updatedAt": "2026-09-29T11:38:01.288Z",
   "hero": {
     "id": "story-0",
     "league": "Football",
     "dot": "#AFC4AC",
-    "source": "The Guardian",
+    "source": "101 Great Goals",
     "time": "Sep 29",
-    "headline": "Australia v Brazil: men’s international football friendly – live",
-    "excerpt": "<ul><li><p>Follow updates as Socceroos face Seleção in Brisbane</p></li><li><p>Any thoughts? Get in touch with an <a…",
-    "link": "https://www.theguardian.com/football/live/2026/sep/29/socceroos-australia-vs-brazil-football-live-scores",
-    "image": "https://i.guim.co.uk/img/media/d368f8342d47cf72f47834d34a7bd56cb15a585c/76_0_3231_2586/master/3231.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=dea84b55cc95376e2a43d65ef4ee1db1"
+    "headline": "Australia vs Brazil live: Raphinha penalty sends Selecao in level",
+    "excerpt": "Australia and Brazil shared an absorbing first half in a friendly",
+    "link": "https://www.101greatgoals.com/football/internationals/australia-vs-brazil-live-watch-raphinha-penalty-video-goals-friendly/",
+    "image": null
   },
   "topStories": [
     {
       "id": "story-1",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "The Guardian",
+      "time": "Sep 29",
+      "headline": "Australia v Brazil: men’s international football friendly – live",
+      "excerpt": "<ul><li><p>Follow updates as Socceroos face Seleção in Brisbane</p></li><li><p>Any thoughts? Get in touch with an <a…",
+      "link": "https://www.theguardian.com/football/live/2026/sep/29/socceroos-australia-vs-brazil-football-live-scores",
+      "image": "https://i.guim.co.uk/img/media/d368f8342d47cf72f47834d34a7bd56cb15a585c/76_0_3231_2586/master/3231.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=dea84b55cc95376e2a43d65ef4ee1db1"
+    },
+    {
+      "id": "story-2",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -24,7 +35,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ee3/live/536b95e0-bb30-11f1-a9b8-670e5d9d8eee.jpg"
     },
     {
-      "id": "story-2",
+      "id": "story-3",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -33,17 +44,6 @@
       "excerpt": "Republic of Ireland boss Carla Ward includes Crystal Palace midfielder Shanade Hopcroft in her squad…",
       "link": "https://www.bbc.co.uk/sport/football/articles/c60qxj1n7gn8o?at_medium=RSS&amp;at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0222/live/9c3d2720-bbee-11f1-9074-3d74885a19d6.jpg"
-    },
-    {
-      "id": "story-3",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "101 Great Goals",
-      "time": "Sep 29",
-      "headline": "Scotland v Switzerland: Preview, expected line-ups, stats and where to watch",
-      "excerpt": "Scotland face Switzerland in the Nations League. Read our in-depth preview here.",
-      "link": "https://www.101greatgoals.com/football/internationals/scotland-v-switzerland-preview-expected-line-ups-stats-and-where-to-watch/",
-      "image": null
     },
     {
       "id": "story-4",
