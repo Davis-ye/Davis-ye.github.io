@@ -1,19 +1,41 @@
 {
-  "updatedAt": "2026-09-29T12:20:17.584Z",
+  "updatedAt": "2026-09-29T12:42:29.748Z",
   "hero": {
     "id": "story-0",
-    "league": "Football",
-    "dot": "#AFC4AC",
-    "source": "101 Great Goals",
+    "league": "Premier League",
+    "dot": "#9CC0F0",
+    "source": "BBC Sport",
     "time": "Sep 29",
-    "headline": "Australia 2-4 Brazil: Report, result, goals as Selecao come from behind to win thriller",
-    "excerpt": "Australia and Brazil swapped the lead in a thrilling friendly",
-    "link": "https://www.101greatgoals.com/football/internationals/australia-brazil-report-result-goals-video-highlights-raphinha-penalty-bruno-guimaraes/",
-    "image": null
+    "headline": "Man Utd do not deserve Man City titles - Rooney",
+    "excerpt": "Wayne Rooney says former club Manchester United do not \"deserve\" to be awarded Premier League…",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cmed7q89vp5no?at_medium=RSS&amp;at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/008c/live/621fb7e0-bbfa-11f1-90b9-913e4354ed35.jpg"
   },
   "topStories": [
     {
       "id": "story-1",
+      "league": "Ligue 1",
+      "dot": "#B8D4E8",
+      "source": "The Guardian",
+      "time": "Sep 29",
+      "headline": "Australia go down fighting to Brazil in fiery 4-2 friendly defeat",
+      "excerpt": "<ul><li><p>Socceroos led 2-1 with goals from Metcalfe and Circati</p></li><li><p>Two late goals sealed win for five-times…",
+      "link": "https://www.theguardian.com/football/2026/sep/29/australia-go-down-fighting-to-brazil-in-fiery-4-2-friendly-defeat",
+      "image": "https://i.guim.co.uk/img/media/435e06c4958121ce07b21bcaf2bb7a535b7fe2c1/564_0_5072_4057/master/5072.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=dc242373ea3b88eba860a9ebc43f0d24"
+    },
+    {
+      "id": "story-2",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "101 Great Goals",
+      "time": "Sep 29",
+      "headline": "Australia 2-4 Brazil: Report, result, goals as Selecao come from behind to win thriller",
+      "excerpt": "Australia and Brazil swapped the lead in a thrilling friendly",
+      "link": "https://www.101greatgoals.com/football/internationals/australia-brazil-report-result-goals-video-highlights-raphinha-penalty-bruno-guimaraes/",
+      "image": null
+    },
+    {
+      "id": "story-3",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -24,18 +46,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/90e0/live/c877a1d0-bbee-11f1-a430-4d16ee157c41.png"
     },
     {
-      "id": "story-2",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "The Guardian",
-      "time": "Sep 29",
-      "headline": "Australia v Brazil: men’s international football friendly – live",
-      "excerpt": "<ul><li><p>Follow updates as Socceroos face Seleção in Brisbane</p></li><li><p>Any thoughts? Get in touch with an <a…",
-      "link": "https://www.theguardian.com/football/live/2026/sep/29/socceroos-australia-vs-brazil-football-live-scores",
-      "image": "https://i.guim.co.uk/img/media/bc46f6817a8a8517b314e6d01c669c18d0d7ea9a/509_0_5065_4055/master/5065.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ee04b64b7f02d6f020080d1b8eea9dcf"
-    },
-    {
-      "id": "story-3",
+      "id": "story-4",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -46,7 +57,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4cd6/live/669db1d0-bbed-11f1-9074-3d74885a19d6.jpg"
     },
     {
-      "id": "story-4",
+      "id": "story-5",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "The Guardian",
@@ -57,7 +68,7 @@
       "image": "https://i.guim.co.uk/img/media/18b0d71971fa27d9cd5f6241f1952d484eb847a2/940_0_6827_5464/master/6827.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=60ebc3185bea096a5316450f82237951"
     },
     {
-      "id": "story-5",
+      "id": "story-6",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -68,7 +79,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ee3/live/536b95e0-bb30-11f1-a9b8-670e5d9d8eee.jpg"
     },
     {
-      "id": "story-6",
+      "id": "story-7",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -79,7 +90,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0222/live/9c3d2720-bbee-11f1-9074-3d74885a19d6.jpg"
     },
     {
-      "id": "story-7",
+      "id": "story-8",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -90,7 +101,7 @@
       "image": "https://i.guim.co.uk/img/media/95de2eacee7818a4cf0f5949775f7a27eb3803dd/353_161_2593_2075/master/2593.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a60dd6ea2681fe46aab606e91cfd2f8d"
     },
     {
-      "id": "story-8",
+      "id": "story-9",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -101,7 +112,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/55ee/live/9358af80-bbdf-11f1-bfea-9d5bb7e7d40b.jpg"
     },
     {
-      "id": "story-9",
+      "id": "story-10",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -110,17 +121,6 @@
       "excerpt": "Northern Ireland's return to the second-tier of the Nations League has brought back-to-back clean sheets.",
       "link": "https://www.bbc.co.uk/sport/football/articles/cq4gm1g5ykjpo?at_medium=RSS&amp;at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2ccc/live/5b96e420-bb96-11f1-9bb6-314591f55b4c.jpg"
-    },
-    {
-      "id": "story-10",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "BBC Sport",
-      "time": "Sep 29",
-      "headline": "'Period of deception' - Pochettino on Man City verdict",
-      "excerpt": "Former Tottenham and Chelsea manager Mauricio Pochettino says it is \"impossible to turn back time\"…",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cmed7q89vp5no?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3962/live/cf271400-bbdc-11f1-bfea-9d5bb7e7d40b.jpg"
     },
     {
       "id": "story-11",
