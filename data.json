@@ -1,27 +1,27 @@
 {
-  "updatedAt": "2026-09-29T10:47:50.728Z",
+  "updatedAt": "2026-09-29T10:58:39.756Z",
   "hero": {
     "id": "story-0",
     "league": "Football",
     "dot": "#AFC4AC",
-    "source": "BBC Sport",
+    "source": "The Guardian",
     "time": "Sep 29",
-    "headline": "Could Potter be England's next breakthrough star?",
-    "excerpt": "Everyone is talking about Lexi Potter, the uncapped midfielder named in Sarina Wiegman's England squad…",
-    "link": "https://www.bbc.co.uk/sport/football/articles/cry8z31pl534o?at_medium=RSS&amp;at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ee3/live/536b95e0-bb30-11f1-a9b8-670e5d9d8eee.jpg"
+    "headline": "Australia v Brazil: men’s international football friendly – live",
+    "excerpt": "<ul><li><p>Follow updates as Socceroos face Seleção in Brisbane</p></li><li><p>Any thoughts? Get in touch with an <a…",
+    "link": "https://www.theguardian.com/football/live/2026/sep/29/socceroos-australia-vs-brazil-football-live-scores",
+    "image": "https://i.guim.co.uk/img/media/0b526d242a9ee359c752a817a2da7d5fcf82347c/671_0_4553_3642/master/4553.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c66fa8c470797be705e1073e2bd8a2c8"
   },
   "topStories": [
     {
       "id": "story-1",
       "league": "Football",
       "dot": "#AFC4AC",
-      "source": "The Guardian",
+      "source": "BBC Sport",
       "time": "Sep 29",
-      "headline": "Australia v Brazil: men’s international football friendly – live",
-      "excerpt": "<ul><li><p>Follow updates as Socceroos face Seleção in Brisbane</p></li><li><p>Any thoughts? Get in touch with an <a…",
-      "link": "https://www.theguardian.com/football/live/2026/sep/29/socceroos-australia-vs-brazil-football-live-scores",
-      "image": "https://i.guim.co.uk/img/media/0b526d242a9ee359c752a817a2da7d5fcf82347c/671_0_4553_3642/master/4553.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c66fa8c470797be705e1073e2bd8a2c8"
+      "headline": "Could Potter be England's next breakthrough star?",
+      "excerpt": "Everyone is talking about Lexi Potter, the uncapped midfielder named in Sarina Wiegman's England squad…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cry8z31pl534o?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ee3/live/536b95e0-bb30-11f1-a9b8-670e5d9d8eee.jpg"
     },
     {
       "id": "story-2",
