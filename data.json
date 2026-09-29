@@ -1,19 +1,30 @@
 {
-  "updatedAt": "2026-09-29T11:38:01.288Z",
+  "updatedAt": "2026-09-29T11:51:24.691Z",
   "hero": {
     "id": "story-0",
-    "league": "Football",
-    "dot": "#AFC4AC",
-    "source": "101 Great Goals",
+    "league": "Premier League",
+    "dot": "#9CC0F0",
+    "source": "BBC Sport",
     "time": "Sep 29",
-    "headline": "Australia vs Brazil live: Raphinha penalty sends Selecao in level",
-    "excerpt": "Australia and Brazil shared an absorbing first half in a friendly",
-    "link": "https://www.101greatgoals.com/football/internationals/australia-vs-brazil-live-watch-raphinha-penalty-video-goals-friendly/",
-    "image": null
+    "headline": "Toone and Kelly miss out on Lionesses squad",
+    "excerpt": "Manchester United midfielder Ella Toone misses out on selection for England's Women's World Cup qualifying…",
+    "link": "https://www.bbc.co.uk/sport/football/articles/c6y9z7dlq199o?at_medium=RSS&amp;at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4cd6/live/669db1d0-bbed-11f1-9074-3d74885a19d6.jpg"
   },
   "topStories": [
     {
       "id": "story-1",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "101 Great Goals",
+      "time": "Sep 29",
+      "headline": "Australia vs Brazil live: Raphinha penalty sends Selecao in level",
+      "excerpt": "Australia and Brazil shared an absorbing first half in a friendly",
+      "link": "https://www.101greatgoals.com/football/internationals/australia-vs-brazil-live-watch-raphinha-penalty-video-goals-friendly/",
+      "image": null
+    },
+    {
+      "id": "story-2",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "The Guardian",
@@ -24,7 +35,7 @@
       "image": "https://i.guim.co.uk/img/media/d368f8342d47cf72f47834d34a7bd56cb15a585c/76_0_3231_2586/master/3231.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=dea84b55cc95376e2a43d65ef4ee1db1"
     },
     {
-      "id": "story-2",
+      "id": "story-3",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -35,7 +46,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ee3/live/536b95e0-bb30-11f1-a9b8-670e5d9d8eee.jpg"
     },
     {
-      "id": "story-3",
+      "id": "story-4",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -46,7 +57,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0222/live/9c3d2720-bbee-11f1-9074-3d74885a19d6.jpg"
     },
     {
-      "id": "story-4",
+      "id": "story-5",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -55,17 +66,6 @@
       "excerpt": "<ul><li><p>Captain Leah Williamson back after injury to face Greece</p></li><li><p>Sarina Wiegman names squad for World Cup…",
       "link": "https://www.theguardian.com/football/2026/sep/29/england-women-squad-lexi-potter-chloe-kelly-ella-toone-sarina-wiegman-world-cup-playoff-greece",
       "image": "https://i.guim.co.uk/img/media/4d5f6c089cc443602ccff6eb883f0d5efcaa4044/930_465_5759_4607/master/5759.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=14903daf3d5660fe71247d0bd80e3480"
-    },
-    {
-      "id": "story-5",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "BBC Sport",
-      "time": "Sep 29",
-      "headline": "Toone and Kelly miss out on Lionesses squad",
-      "excerpt": "Manchester United midfielder Ella Toone misses out on selection for England's Women's World Cup qualifying…",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c6y9z7dlq199o?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4cd6/live/669db1d0-bbed-11f1-9074-3d74885a19d6.jpg"
     },
     {
       "id": "story-6",
