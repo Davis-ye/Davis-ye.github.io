@@ -1,27 +1,27 @@
 {
-  "updatedAt": "2026-09-29T08:49:37.891Z",
+  "updatedAt": "2026-09-29T09:00:30.456Z",
   "hero": {
     "id": "story-0",
-    "league": "Premier League",
-    "dot": "#9CC0F0",
-    "source": "BBC Sport",
+    "league": "Football",
+    "dot": "#AFC4AC",
+    "source": "101 Great Goals",
     "time": "Sep 29",
-    "headline": "Aston Villa sack boss Arroyo after winless WSL start",
-    "excerpt": "Aston Villa manager Natalia Arroyo is sacked following two defeats and two draws in their…",
-    "link": "https://www.bbc.co.uk/sport/football/articles/c6zxzv84dn5xo?at_medium=RSS&amp;at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4a03/live/f19730a0-bbdd-11f1-bfea-9d5bb7e7d40b.jpg"
+    "headline": "Australia v Brazil: Confirmed team news and line-ups as Rayan comes into starting XI",
+    "excerpt": "Brazil take on Australia in the second of two international friendlies. Get all the team…",
+    "link": "https://www.101greatgoals.com/football/internationals/australia-v-brazil-confirmed-team-news-line-ups/",
+    "image": null
   },
   "topStories": [
     {
       "id": "story-1",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "101 Great Goals",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "BBC Sport",
       "time": "Sep 29",
-      "headline": "Australia v Brazil: Preview, where to watch and prediction as Selecao take on Socceroos",
-      "excerpt": "Australia and Brazil clash again in Brisbane on Tuesday. Read our in-depth preview here...",
-      "link": "https://www.101greatgoals.com/football/internationals/australia-v-brazil-preview-where-to-watch-stream-prediction-selecao-socceroos/",
-      "image": null
+      "headline": "Aston Villa sack boss Arroyo after winless WSL start",
+      "excerpt": "Aston Villa manager Natalia Arroyo is sacked following two defeats and two draws in their…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c6zxzv84dn5xo?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4a03/live/f19730a0-bbdd-11f1-bfea-9d5bb7e7d40b.jpg"
     },
     {
       "id": "story-2",
