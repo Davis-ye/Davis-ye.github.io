@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-29T07:35:48.285Z",
+  "updatedAt": "2026-09-29T07:49:52.464Z",
   "hero": {
     "id": "story-0",
     "league": "Football",
@@ -21,7 +21,7 @@
       "headline": "Fifa accuses Uefa of 'misinformation campaign'",
       "excerpt": "Uefa's suggestions that Fifa president Gianni Infantino \"violated any law or ethical principle are categorically…",
       "link": "https://www.bbc.co.uk/sport/football/articles/cqn0jdx9j01no?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c201/live/3093c440-bbd3-11f1-9dd5-e33ded893e86.jpg"
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5548/live/fe59a060-bbd9-11f1-a430-4d16ee157c41.jpg"
     },
     {
       "id": "story-2",
@@ -161,13 +161,24 @@
       "dot": "#AFC4AC",
       "source": "The Guardian",
       "time": "Sep 28",
+      "headline": "Gianni Infantino ready to accept demands for larger payouts from $6bn reserves",
+      "excerpt": "<ul><li><p>Fifa president says: ‘The ambition is welcome’</p></li><li><p>Infantino mounts fresh defence of failed FFE scheme</p></li></ul><p>The Fifa…",
+      "link": "https://www.theguardian.com/football/2026/sep/28/gianni-infantino-fifa-president-ffe-national-association-payouts",
+      "image": "https://i.guim.co.uk/img/media/94f2dc3a318c0134a2a2699ddb0c6fba13da9f69/147_0_2083_1667/master/2083.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=9e86d0aa3b0e02923ca093495297420a"
+    },
+    {
+      "id": "story-15",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "The Guardian",
+      "time": "Sep 28",
       "headline": "Nations League: Olise’s late stunner leads France past Belgium, Italy rout Turkey",
       "excerpt": "<ul><li><p>Belgium 0-1 France, Turkey 1-4 Italy, Sweden 3-1 Poland</p></li><li><p>Northern Ireland left frustrated by Hungary stalemate</p></li></ul><p>Michael…",
       "link": "https://www.theguardian.com/football/2026/sep/28/nations-league-belgium-france-turkey-italy-northern-ireland-hungary",
       "image": "https://i.guim.co.uk/img/media/c20a9e8ac619afb3d694cf2ec382fd661e488d14/0_0_6556_5245/master/6556.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=192498d45a13673c0ce542ad21843fcd"
     },
     {
-      "id": "story-15",
+      "id": "story-16",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -178,7 +189,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5ead/live/7c391d60-bb7d-11f1-aa8c-25a48ac48e8f.png"
     },
     {
-      "id": "story-16",
+      "id": "story-17",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -189,7 +200,7 @@
       "image": "https://i.guim.co.uk/img/media/b34182d54ca4cb8daf68b1ae046e89d0393a19ec/139_0_2669_2136/master/2669.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=92d875bbe75dab4eca1b56b1f62f9632"
     },
     {
-      "id": "story-17",
+      "id": "story-18",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "The Guardian",
@@ -200,7 +211,7 @@
       "image": "https://i.guim.co.uk/img/media/493cda98fd6e391ef44cc0dcf7a5180f00352108/781_0_3641_2914/master/3641.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=de428f12ce4285c03220b91a742b21cc"
     },
     {
-      "id": "story-18",
+      "id": "story-19",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -211,7 +222,7 @@
       "image": "https://i.guim.co.uk/img/media/d5a30fc3088b7829358fee9fdb824c4aff2a1954/802_0_4350_3479/master/4350.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=72acf017583b9dced3303c9af9b2b43b"
     },
     {
-      "id": "story-19",
+      "id": "story-20",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -222,7 +233,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4db6/live/e6b87110-bb49-11f1-a071-65d2e11c8f4a.jpg"
     },
     {
-      "id": "story-20",
+      "id": "story-21",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "The Guardian",
@@ -233,7 +244,7 @@
       "image": "https://i.guim.co.uk/img/media/476753424298e1f6206ced50fbc8719ed40b91ea/501_0_4320_3456/master/4320.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=8c7a5866cf7b7e02a82dd60bb236a923"
     },
     {
-      "id": "story-21",
+      "id": "story-22",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -244,7 +255,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d258/live/a310cd20-bb6e-11f1-8200-bffada0fd8de.jpg"
     },
     {
-      "id": "story-22",
+      "id": "story-23",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "The Guardian",
@@ -253,17 +264,6 @@
       "excerpt": "<ul><li><p>42-year-old suffers ‘serious head injury’ at training base</p></li><li><p>Cuéllar recovering in hospital after alarming accident</p></li></ul><p>The Real…",
       "link": "https://www.theguardian.com/football/2026/sep/28/mallorca-goalkeeper-ivan-cuellar-injured-structure-canteen",
       "image": "https://i.guim.co.uk/img/media/77cbf861544e16fb5afea393213808ef77595b64/0_107_953_762/master/953.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ace3d4d158136b6888f6cdbf40087bfb"
-    },
-    {
-      "id": "story-23",
-      "league": "La Liga",
-      "dot": "#E3B4F5",
-      "source": "The Guardian",
-      "time": "Sep 28",
-      "headline": "Defensive flux gives Tuchel headache but Alexander-Arnold could be remedy | Jacob Steinberg",
-      "excerpt": "<p>Chopping and changing the back four has been a big feature for England this year…",
-      "link": "https://www.theguardian.com/football/2026/sep/28/thomas-tuchel-england-trent-alexander-arnold-nations-league",
-      "image": "https://i.guim.co.uk/img/media/f9a5116fc5849b00df46001edad151aa79196a5a/496_0_4510_3608/master/4510.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e633122a741d5709af4c0e1ae4cfa89c"
     }
   ],
   "scoreboard": []
