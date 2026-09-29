@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-09-29T17:17:13.853Z",
+  "updatedAt": "2026-09-29T17:32:02.571Z",
   "hero": {
     "id": "story-0",
-    "league": "Premier League",
-    "dot": "#9CC0F0",
-    "source": "101 Great Goals",
+    "league": "Football",
+    "dot": "#AFC4AC",
+    "source": "The Guardian",
     "time": "Sep 29",
-    "headline": "BREAKING: Manchester City found guilty of all 115 Premier League charges as club vows to appeal",
-    "excerpt": "Manchester City have officially been found guilty of all 115 financial charges.",
-    "link": "https://www.101greatgoals.com/football/premier-league/breaking-manchester-city-found-guilty-115-premier-league/",
-    "image": null
+    "headline": "Czechia v England: Nations League football – live",
+    "excerpt": "<p>⚽️ Nations League updates, 7.45pm BST kick-off in Prague<br>⚽️ <a href=\"https://www.theguardian.com/football/live\">Live scores</a> | Follow us…",
+    "link": "https://www.theguardian.com/football/live/2026/sep/29/czechia-v-england-nations-league-football-live-score-updates",
+    "image": "https://i.guim.co.uk/img/media/aafd1fa84d6d11fa2da593726fb5141c8bc430c7/720_0_7200_5760/master/7200.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=58a47e00d9624714b783aa6f3fd2eaf9"
   },
   "topStories": [
     {
@@ -18,13 +18,46 @@
       "dot": "#9CC0F0",
       "source": "The Guardian",
       "time": "Sep 29",
-      "headline": "Manchester City found guilty on all Premier League charges over rule breaches",
-      "excerpt": "<ul><li><p>Commission: club broke rules over nine-season period</p></li><li><p>City will appeal against verdict before Friday deadline</p></li></ul><p>Manchester City…",
-      "link": "https://www.theguardian.com/football/2026/sep/29/manchester-city-found-guilty-all-premier-league-charges-rule-breaches",
-      "image": "https://i.guim.co.uk/img/media/86a857e9e3223f30dedd3d738b85bc9b4c5d32a0/1092_0_5137_4110/master/5137.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ca7a09d90fcfa81a3ac21dd2c05d5288"
+      "headline": "Scotland v Switzerland, Spain v Croatia, and more: Nations League – live",
+      "excerpt": "<p>⚽️ Nations League updates from the 7.45pm BST kick-offs<br>⚽️ <a href=\"https://www.theguardian.com/football/live\">Live scores</a> | <a href=\"https://www.theguardian.com/football/live/2026/sep/29/czechia-v-england-nations-league-football-live-score-updates\">Follow…",
+      "link": "https://www.theguardian.com/football/live/2026/sep/29/scotland-v-switzerland-spain-v-croatia-and-more-nations-league-live",
+      "image": "https://i.guim.co.uk/img/media/0689c929034caecc7c69f9419dbf22d62ef1ec55/186_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3f46f9a0b5f779e47ec726309072bb28"
     },
     {
       "id": "story-2",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "The Guardian",
+      "time": "Sep 29",
+      "headline": "USWNT roster: Ashley Sanchez earns the call for friendlies v Spain",
+      "excerpt": "<ul><li><p>Sanchez, NWSL’s top scorer, returns after years away</p></li><li><p>Naomi Girma called up despite injury absence for…",
+      "link": "https://www.theguardian.com/football/2026/sep/29/uswnt-roster-spain-ashley-sanchez-mallory-swanson-naomi-girma",
+      "image": "https://i.guim.co.uk/img/media/03956ee6967201f0ae1b74d45be91a5f2f66d58f/77_0_4551_3641/master/4551.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=67db92c999c2f4203d1e4d2f3f9b4358"
+    },
+    {
+      "id": "story-3",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "101 Great Goals",
+      "time": "Sep 29",
+      "headline": "BREAKING: Manchester City found guilty of all 115 Premier League charges as club vows to appeal",
+      "excerpt": "Manchester City have officially been found guilty of all 115 financial charges.",
+      "link": "https://www.101greatgoals.com/football/premier-league/breaking-manchester-city-found-guilty-115-premier-league/",
+      "image": null
+    },
+    {
+      "id": "story-4",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "The Guardian",
+      "time": "Sep 29",
+      "headline": "Manchester City guilty over Premier League charges after £900m of ‘sham’ contracts",
+      "excerpt": "<ul><li><p>Commission: club broke rules over nine-season period</p></li><li><p>City will appeal against verdict before Friday deadline</p></li></ul><p>Manchester City…",
+      "link": "https://www.theguardian.com/football/2026/sep/29/manchester-city-found-guilty-all-premier-league-charges-rule-breaches",
+      "image": "https://i.guim.co.uk/img/media/8d3c9ebdd24f27bc803f2d1d82d256b52d187dd4/935_0_7217_5774/master/7217.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=864a6b0f4d4944d7835d8baa30338695"
+    },
+    {
+      "id": "story-5",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -35,7 +68,7 @@
       "image": "https://i.guim.co.uk/img/media/6a1a6f592023067f2a2fa28919225d01a17d6a3e/470_129_4842_3871/master/4842.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=5da2b1ccaca7290d1b9c5e0b8c1319b9"
     },
     {
-      "id": "story-3",
+      "id": "story-6",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -46,7 +79,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7b5c/live/79cf7990-bb3f-11f1-8cd3-d12549a04493.jpg"
     },
     {
-      "id": "story-4",
+      "id": "story-7",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -57,7 +90,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8a85/live/6c44dd20-bc1a-11f1-9a78-d72908473b45.jpg"
     },
     {
-      "id": "story-5",
+      "id": "story-8",
       "league": "Serie A",
       "dot": "#A9E6A0",
       "source": "The Guardian",
@@ -68,7 +101,7 @@
       "image": "https://i.guim.co.uk/img/media/f828c8398816c710d8a1f1657b252ca122af469c/227_0_1921_1538/master/1921.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=6988f8fe3415e0a7afb8a47aef876233"
     },
     {
-      "id": "story-6",
+      "id": "story-9",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -79,7 +112,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7455/live/e34c2770-bc15-11f1-a430-4d16ee157c41.jpg"
     },
     {
-      "id": "story-7",
+      "id": "story-10",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -90,7 +123,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6720/live/b5d003d0-bbfb-11f1-8422-17098b28f290.jpg"
     },
     {
-      "id": "story-8",
+      "id": "story-11",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -101,7 +134,7 @@
       "image": "https://i.guim.co.uk/img/media/b6beab420ded89c7d69054e28e6ff24bcae393b3/66_2794_689_551/master/689.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d2d287d71e5d788770c72ae5cabab6c4"
     },
     {
-      "id": "story-9",
+      "id": "story-12",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -112,7 +145,7 @@
       "image": "https://i.guim.co.uk/img/media/9caacf27e6aaf9507d99838aa1791c00af896386/0_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=fb5ada68e446505a4a421b9831bcfe1f"
     },
     {
-      "id": "story-10",
+      "id": "story-13",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -123,7 +156,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/008c/live/621fb7e0-bbfa-11f1-90b9-913e4354ed35.jpg"
     },
     {
-      "id": "story-11",
+      "id": "story-14",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -134,7 +167,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2472/live/e71aacb0-bbf6-11f1-90b9-913e4354ed35.jpg"
     },
     {
-      "id": "story-12",
+      "id": "story-15",
       "league": "Ligue 1",
       "dot": "#B8D4E8",
       "source": "The Guardian",
@@ -145,7 +178,7 @@
       "image": "https://i.guim.co.uk/img/media/435e06c4958121ce07b21bcaf2bb7a535b7fe2c1/564_0_5072_4057/master/5072.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=dc242373ea3b88eba860a9ebc43f0d24"
     },
     {
-      "id": "story-13",
+      "id": "story-16",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -156,7 +189,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/90e0/live/c877a1d0-bbee-11f1-a430-4d16ee157c41.png"
     },
     {
-      "id": "story-14",
+      "id": "story-17",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -167,7 +200,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4cd6/live/669db1d0-bbed-11f1-9074-3d74885a19d6.jpg"
     },
     {
-      "id": "story-15",
+      "id": "story-18",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "The Guardian",
@@ -178,7 +211,7 @@
       "image": "https://i.guim.co.uk/img/media/18b0d71971fa27d9cd5f6241f1952d484eb847a2/940_0_6827_5464/master/6827.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=60ebc3185bea096a5316450f82237951"
     },
     {
-      "id": "story-16",
+      "id": "story-19",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -189,7 +222,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ee3/live/536b95e0-bb30-11f1-a9b8-670e5d9d8eee.jpg"
     },
     {
-      "id": "story-17",
+      "id": "story-20",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -200,7 +233,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0222/live/9c3d2720-bbee-11f1-9074-3d74885a19d6.jpg"
     },
     {
-      "id": "story-18",
+      "id": "story-21",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -211,7 +244,7 @@
       "image": "https://i.guim.co.uk/img/media/95de2eacee7818a4cf0f5949775f7a27eb3803dd/353_161_2593_2075/master/2593.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a60dd6ea2681fe46aab606e91cfd2f8d"
     },
     {
-      "id": "story-19",
+      "id": "story-22",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -222,7 +255,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4e40/live/07bb3870-bc03-11f1-a430-4d16ee157c41.jpg"
     },
     {
-      "id": "story-20",
+      "id": "story-23",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -231,39 +264,6 @@
       "excerpt": "Northern Ireland's return to the second-tier of the Nations League has brought back-to-back clean sheets.",
       "link": "https://www.bbc.co.uk/sport/football/articles/cq4gm1g5ykjpo?at_medium=RSS&amp;at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2ccc/live/5b96e420-bb96-11f1-9bb6-314591f55b4c.jpg"
-    },
-    {
-      "id": "story-21",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "BBC Sport",
-      "time": "Sep 29",
-      "headline": "All you need to know about 2027 Women's World Cup",
-      "excerpt": "Our Ask Me Anything team take a look at everything you need to know for…",
-      "link": "https://www.bbc.co.uk/sport/football/articles/clyk6wpppxeo?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8e31/live/c93680b0-a99c-11f0-928c-71dbb8619e94.jpg"
-    },
-    {
-      "id": "story-22",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "BBC Sport",
-      "time": "Sep 29",
-      "headline": "Wales without seven players for World Cup play-off",
-      "excerpt": "Ceri Holland is one of seven players who will miss out through injury when a…",
-      "link": "https://www.bbc.co.uk/sport/football/articles/ck1l63y88e3vo?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/61a5/live/64b762b0-bb4a-11f1-a071-65d2e11c8f4a.jpg"
-    },
-    {
-      "id": "story-23",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "The Guardian",
-      "time": "Sep 29",
-      "headline": "Aston Villa sack manager Natalia Arroyo with club second-bottom of WSL",
-      "excerpt": "<ul><li><p>Villa have two points from first four league matches</p></li><li><p>Arroyo took charge of women’s side in…",
-      "link": "https://www.theguardian.com/football/2026/sep/29/aston-villa-women-sack-manager-natalia-arroyo-wsl",
-      "image": "https://i.guim.co.uk/img/media/d276df26f49ef52db7405ffcd81a272776e03412/201_327_3126_2501/master/3126.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=2b2dbc1ac8f10043a3861ed900e1291c"
     }
   ],
   "scoreboard": []
