@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-29T18:51:05.731Z",
+  "updatedAt": "2026-09-29T19:01:46.214Z",
   "hero": {
     "id": "story-0",
     "league": "Premier League",
@@ -9,11 +9,22 @@
     "headline": "Czechia v England: Nations League football – live",
     "excerpt": "<p>⚽️ Nations League updates, 7.45pm BST kick-off in Prague<br>⚽️ <a href=\"https://www.theguardian.com/football/live\">Live scores</a> | Follow us…",
     "link": "https://www.theguardian.com/football/live/2026/sep/29/czechia-v-england-nations-league-football-live-score-updates",
-    "image": "https://i.guim.co.uk/img/media/aafd1fa84d6d11fa2da593726fb5141c8bc430c7/720_0_7200_5760/master/7200.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=58a47e00d9624714b783aa6f3fd2eaf9"
+    "image": "https://i.guim.co.uk/img/media/2b276a3c65145545da22d349fa5ce7831df9e91a/436_0_3218_2575/master/3218.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=8e806f8a65a9e409c168599dec2ddb44"
   },
   "topStories": [
     {
       "id": "story-1",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "The Guardian",
+      "time": "Sep 29",
+      "headline": "Scotland v Switzerland, Spain v Croatia, and more: Nations League – live",
+      "excerpt": "<p>⚽️ Nations League updates from the 7.45pm BST kick-offs<br>⚽️ <a href=\"https://www.theguardian.com/football/live\">Live scores</a> | <a href=\"https://www.theguardian.com/football/live/2026/sep/29/czechia-v-england-nations-league-football-live-score-updates\">Follow…",
+      "link": "https://www.theguardian.com/football/live/2026/sep/29/scotland-v-switzerland-spain-v-croatia-and-more-nations-league-live",
+      "image": "https://i.guim.co.uk/img/media/75de0532a339fe48fb8018c8872870d44fa77dc4/152_0_3747_3000/master/3747.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=32ef6c56b0430a05e92fd812b3a82ff0"
+    },
+    {
+      "id": "story-2",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "101 Great Goals",
@@ -22,17 +33,6 @@
       "excerpt": "Confirmed teams as Spain and Croatia meet in the Nations League",
       "link": "https://www.101greatgoals.com/football/internationals/spain-vs-croatia-live-teams-line-ups-nations-league-where-to-watch-tv-channel-online-stream/",
       "image": null
-    },
-    {
-      "id": "story-2",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "The Guardian",
-      "time": "Sep 29",
-      "headline": "Scotland v Switzerland, Spain v Croatia, and more: Nations League – live",
-      "excerpt": "<p>⚽️ Nations League updates from the 7.45pm BST kick-offs<br>⚽️ <a href=\"https://www.theguardian.com/football/live\">Live scores</a> | <a href=\"https://www.theguardian.com/football/live/2026/sep/29/czechia-v-england-nations-league-football-live-score-updates\">Follow…",
-      "link": "https://www.theguardian.com/football/live/2026/sep/29/scotland-v-switzerland-spain-v-croatia-and-more-nations-league-live",
-      "image": "https://i.guim.co.uk/img/media/0689c929034caecc7c69f9419dbf22d62ef1ec55/186_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3f46f9a0b5f779e47ec726309072bb28"
     },
     {
       "id": "story-3",
@@ -63,7 +63,7 @@
       "source": "BBC Sport",
       "time": "Sep 29",
       "headline": "The four 'what next?' scenarios for Premier League after Man City ruling",
-      "excerpt": "It has taken more than two years, but a judgement finally appears to have been…",
+      "excerpt": "It has taken more than two years, but a judgement has finally been made on…",
       "link": "https://www.bbc.co.uk/sport/football/articles/cw3d77ne44k5o?at_medium=RSS&amp;at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee2f/live/cb7000d0-b9aa-11f1-8a1a-0176f978c211.jpg"
     },
