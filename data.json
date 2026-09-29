@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-29T15:22:30.551Z",
+  "updatedAt": "2026-09-29T15:38:02.960Z",
   "hero": {
     "id": "story-0",
     "league": "Football",
@@ -256,14 +256,14 @@
     },
     {
       "id": "story-23",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "BBC Sport",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "The Guardian",
       "time": "Sep 29",
-      "headline": "How Manzambi became one of Europe's best young talents",
-      "excerpt": "Aston Villa's summer signing Johan Manzambi has been nominated for the best young player at…",
-      "link": "https://www.bbc.co.uk/sport/football/articles/ck62m1dv8gjqo?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4bbf/live/73ef5360-bb53-11f1-aeb7-e1deb589b72b.jpg"
+      "headline": "Fifa accuses Uefa of ‘harassment’ and ‘misinformation’ in push against Infantino",
+      "excerpt": "<ul><li><p>Uefa accused of trying to influence presidential election</p></li><li><p>Fifa court filing denies claim of FFE undervaluation</p></li></ul><p>Fifa…",
+      "link": "https://www.theguardian.com/football/2026/sep/29/fifa-accuses-uefa-misinformation-campaign-gianni-infantino-influence-election",
+      "image": "https://i.guim.co.uk/img/media/9a78301caadfbbac87fab22f976897fbf9b38450/431_251_4681_3745/master/4681.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=73e58e78ccfd0f50067f79a53b91b4c6"
     }
   ],
   "scoreboard": []
