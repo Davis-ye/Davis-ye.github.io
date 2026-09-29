@@ -1,19 +1,30 @@
 {
-  "updatedAt": "2026-09-29T13:14:17.862Z",
+  "updatedAt": "2026-09-29T13:33:20.654Z",
   "hero": {
     "id": "story-0",
-    "league": "Premier League",
-    "dot": "#9CC0F0",
-    "source": "The Guardian",
+    "league": "Football",
+    "dot": "#AFC4AC",
+    "source": "101 Great Goals",
     "time": "Sep 29",
-    "headline": "David Squires on … the Manchester City verdict and Nations League tensions",
-    "excerpt": "<p>Our cartoonist on the Premier League’s ruling finally being revealed and Israel v Republic of…",
-    "link": "https://www.theguardian.com/football/picture/2026/sep/29/david-squires-on-manchester-city-verdict-nations-league-israel-republic-of-ireland",
-    "image": "https://i.guim.co.uk/img/media/b6beab420ded89c7d69054e28e6ff24bcae393b3/1375_925_566_452/master/566.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=2c4f146bfacc0c17a92483712445f526"
+    "headline": "Australia 2-4 Brazil: Report, result, goals as Selecao come from behind to win thriller",
+    "excerpt": "Australia and Brazil swapped the lead in a thrilling friendly",
+    "link": "https://www.101greatgoals.com/football/internationals/australia-brazil-report-result-goals-video-highlights-raphinha-penalty-bruno-guimaraes/",
+    "image": null
   },
   "topStories": [
     {
       "id": "story-1",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "The Guardian",
+      "time": "Sep 29",
+      "headline": "David Squires on … the Manchester City verdict and Nations League tensions",
+      "excerpt": "<p>Our cartoonist on the Premier League’s ruling finally being revealed and Israel v Republic of…",
+      "link": "https://www.theguardian.com/football/picture/2026/sep/29/david-squires-on-manchester-city-verdict-nations-league-israel-republic-of-ireland",
+      "image": "https://i.guim.co.uk/img/media/b6beab420ded89c7d69054e28e6ff24bcae393b3/1375_925_566_452/master/566.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=2c4f146bfacc0c17a92483712445f526"
+    },
+    {
+      "id": "story-2",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -24,7 +35,7 @@
       "image": "https://i.guim.co.uk/img/media/9caacf27e6aaf9507d99838aa1791c00af896386/0_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=fb5ada68e446505a4a421b9831bcfe1f"
     },
     {
-      "id": "story-2",
+      "id": "story-3",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -35,7 +46,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/008c/live/621fb7e0-bbfa-11f1-90b9-913e4354ed35.jpg"
     },
     {
-      "id": "story-3",
+      "id": "story-4",
       "league": "Ligue 1",
       "dot": "#B8D4E8",
       "source": "The Guardian",
@@ -44,17 +55,6 @@
       "excerpt": "<ul><li><p>Socceroos led 2-1 with goals from Metcalfe and Circati</p></li><li><p>Two late goals sealed win for five-times…",
       "link": "https://www.theguardian.com/football/2026/sep/29/australia-go-down-fighting-to-brazil-in-fiery-4-2-friendly-defeat",
       "image": "https://i.guim.co.uk/img/media/435e06c4958121ce07b21bcaf2bb7a535b7fe2c1/564_0_5072_4057/master/5072.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=dc242373ea3b88eba860a9ebc43f0d24"
-    },
-    {
-      "id": "story-4",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "101 Great Goals",
-      "time": "Sep 29",
-      "headline": "Australia 2-4 Brazil: Report, result, goals as Selecao come from behind to win thriller",
-      "excerpt": "Australia and Brazil swapped the lead in a thrilling friendly",
-      "link": "https://www.101greatgoals.com/football/internationals/australia-brazil-report-result-goals-video-highlights-raphinha-penalty-bruno-guimaraes/",
-      "image": null
     },
     {
       "id": "story-5",
