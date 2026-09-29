@@ -1,30 +1,19 @@
 {
-  "updatedAt": "2026-09-29T20:09:16.427Z",
+  "updatedAt": "2026-09-29T20:25:52.699Z",
   "hero": {
     "id": "story-0",
-    "league": "La Liga",
-    "dot": "#E3B4F5",
-    "source": "BBC Sport",
+    "league": "Premier League",
+    "dot": "#9CC0F0",
+    "source": "The Guardian",
     "time": "Sep 29",
-    "headline": "Real Madrid considering Van Dijk - Tuesday's gossip",
-    "excerpt": "Real Madrid are waiting for Virgil van Dijk to become a free agent, Bayern Munich…",
-    "link": "https://www.bbc.co.uk/sport/football/articles/c6g7kl592vlmo?at_medium=RSS&amp;at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cb3a/live/a8d7f160-bc3c-11f1-b2a0-bf89b710707d.png"
+    "headline": "Czechia v England: Nations League football – live",
+    "excerpt": "<p>⚽️ Nations League updates, 7.45pm BST kick-off in Prague<br>⚽️ <a href=\"https://www.theguardian.com/football/live\">Live scores</a> | Follow us…",
+    "link": "https://www.theguardian.com/football/live/2026/sep/29/czechia-v-england-nations-league-football-live-score-updates",
+    "image": "https://i.guim.co.uk/img/media/39c485e66909165d977fba458149970f14ec162d/523_473_2813_2249/master/2813.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=04e2bd246cd779a513db6d13ef92e60f"
   },
   "topStories": [
     {
       "id": "story-1",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "The Guardian",
-      "time": "Sep 29",
-      "headline": "Czechia v England: Nations League football – live",
-      "excerpt": "<p>⚽️ Nations League updates, 7.45pm BST kick-off in Prague<br>⚽️ <a href=\"https://www.theguardian.com/football/live\">Live scores</a> | Follow us…",
-      "link": "https://www.theguardian.com/football/live/2026/sep/29/czechia-v-england-nations-league-football-live-score-updates",
-      "image": "https://i.guim.co.uk/img/media/a151edf642becff43935e18bc76c9cab4781b962/139_134_1832_1466/master/1832.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a8207384fdb20d1b3e4801ce83c5f774"
-    },
-    {
-      "id": "story-2",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "The Guardian",
@@ -33,6 +22,17 @@
       "excerpt": "<p>⚽️ Nations League updates from the 7.45pm BST kick-offs<br>⚽️ <a href=\"https://www.theguardian.com/football/live\">Live scores</a> | <a href=\"https://www.theguardian.com/football/live/2026/sep/29/czechia-v-england-nations-league-football-live-score-updates\">Follow…",
       "link": "https://www.theguardian.com/football/live/2026/sep/29/scotland-v-switzerland-spain-v-croatia-and-more-nations-league-live",
       "image": "https://i.guim.co.uk/img/media/70e149638a54705176ec4e23a611face58821dd8/2044_777_2745_2196/master/2745.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=01acd13e80f03d24f2273eda96b1d4ca"
+    },
+    {
+      "id": "story-2",
+      "league": "La Liga",
+      "dot": "#E3B4F5",
+      "source": "BBC Sport",
+      "time": "Sep 29",
+      "headline": "Real Madrid considering Van Dijk - Tuesday's gossip",
+      "excerpt": "Real Madrid are waiting for Virgil van Dijk to become a free agent, Bayern Munich…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c6g7kl592vlmo?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cb3a/live/a8d7f160-bc3c-11f1-b2a0-bf89b710707d.png"
     },
     {
       "id": "story-3",
