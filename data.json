@@ -1,43 +1,21 @@
 {
-  "updatedAt": "2026-09-29T18:13:44.005Z",
+  "updatedAt": "2026-09-29T18:33:17.781Z",
   "hero": {
     "id": "story-0",
-    "league": "Premier League",
-    "dot": "#9CC0F0",
-    "source": "BBC Sport",
+    "league": "Football",
+    "dot": "#AFC4AC",
+    "source": "101 Great Goals",
     "time": "Sep 29",
-    "headline": "Man City guilty of 'sham' contracts and misleading accounts",
-    "excerpt": "The Premier League confirms that Manchester City have been found guilty of all charges related…",
-    "link": "https://www.bbc.co.uk/sport/football/articles/c63reg93xwzro?at_medium=RSS&amp;at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d913/live/0bfbf2c0-bc2c-11f1-a430-4d16ee157c41.jpg"
+    "headline": "Spain vs Croatia live: Confirmed teams and line ups",
+    "excerpt": "Confirmed teams as Spain and Croatia meet in the Nations League",
+    "link": "https://www.101greatgoals.com/football/internationals/spain-vs-croatia-live-teams-line-ups-nations-league-where-to-watch-tv-channel-online-stream/",
+    "image": null
   },
   "topStories": [
     {
       "id": "story-1",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "101 Great Goals",
-      "time": "Sep 29",
-      "headline": "Czechia vs England live: Confirmed teams and line ups",
-      "excerpt": "Confirmed teams as Czechia and England meet in the Nations League",
-      "link": "https://www.101greatgoals.com/football/internationals/czechia-vs-england-live-teams-line-ups-nations-league-where-to-watch-tv-channel-online-stream/",
-      "image": null
-    },
-    {
-      "id": "story-2",
       "league": "Premier League",
       "dot": "#9CC0F0",
-      "source": "BBC Sport",
-      "time": "Sep 29",
-      "headline": "What have Man City been found guilty of doing?",
-      "excerpt": "Manchester City are found guilty of all charges related to breaches of Premier League financial…",
-      "link": "https://www.bbc.co.uk/sport/football/videos/cm1j46n74ke6o?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7698/live/b00e4a00-bc2e-11f1-bd21-bdf910f2cec6.jpg"
-    },
-    {
-      "id": "story-3",
-      "league": "Football",
-      "dot": "#AFC4AC",
       "source": "The Guardian",
       "time": "Sep 29",
       "headline": "Czechia v England: Nations League football – live",
@@ -46,7 +24,7 @@
       "image": "https://i.guim.co.uk/img/media/aafd1fa84d6d11fa2da593726fb5141c8bc430c7/720_0_7200_5760/master/7200.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=58a47e00d9624714b783aa6f3fd2eaf9"
     },
     {
-      "id": "story-4",
+      "id": "story-2",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -55,6 +33,28 @@
       "excerpt": "<p>⚽️ Nations League updates from the 7.45pm BST kick-offs<br>⚽️ <a href=\"https://www.theguardian.com/football/live\">Live scores</a> | <a href=\"https://www.theguardian.com/football/live/2026/sep/29/czechia-v-england-nations-league-football-live-score-updates\">Follow…",
       "link": "https://www.theguardian.com/football/live/2026/sep/29/scotland-v-switzerland-spain-v-croatia-and-more-nations-league-live",
       "image": "https://i.guim.co.uk/img/media/0689c929034caecc7c69f9419dbf22d62ef1ec55/186_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3f46f9a0b5f779e47ec726309072bb28"
+    },
+    {
+      "id": "story-3",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "BBC Sport",
+      "time": "Sep 29",
+      "headline": "Man City guilty of 'sham' contracts and misleading accounts",
+      "excerpt": "The Premier League confirms that Manchester City have been found guilty of all charges related…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c63reg93xwzro?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d913/live/0bfbf2c0-bc2c-11f1-a430-4d16ee157c41.jpg"
+    },
+    {
+      "id": "story-4",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "BBC Sport",
+      "time": "Sep 29",
+      "headline": "What have Man City been found guilty of doing?",
+      "excerpt": "Manchester City are found guilty of all charges related to breaches of Premier League financial…",
+      "link": "https://www.bbc.co.uk/sport/football/videos/cm1j46n74ke6o?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7698/live/b00e4a00-bc2e-11f1-bd21-bdf910f2cec6.jpg"
     },
     {
       "id": "story-5",
