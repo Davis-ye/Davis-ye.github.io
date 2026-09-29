@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-29T23:10:32.382Z",
+  "updatedAt": "2026-09-29T23:23:14.390Z",
   "hero": {
     "id": "story-0",
     "league": "Premier League",
@@ -60,6 +60,17 @@
       "id": "story-5",
       "league": "Football",
       "dot": "#AFC4AC",
+      "source": "101 Great Goals",
+      "time": "Sep 29",
+      "headline": "Gordon &#8216;showing he belongs&#8217; as Tuchel hails Alexander-Arnold and &#8216;excellent&#8217; Hall",
+      "excerpt": "It's three goals in Gordon's last three games for England.",
+      "link": "https://www.101greatgoals.com/football/internationals/gordon-belongs-kane/",
+      "image": "https://www.101greatgoals.com/wp-content/uploads/2026/09/3FMPCRK-2.jpg"
+    },
+    {
+      "id": "story-6",
+      "league": "Football",
+      "dot": "#AFC4AC",
       "source": "BBC Sport",
       "time": "Sep 29",
       "headline": "It is time for Tuchel to offer Alexander-Arnold some trust",
@@ -68,7 +79,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/daad/live/5e8c73d0-bc4e-11f1-bd21-bdf910f2cec6.jpg"
     },
     {
-      "id": "story-6",
+      "id": "story-7",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "The Guardian",
@@ -79,7 +90,7 @@
       "image": "https://i.guim.co.uk/img/media/29705b8b0897d299a3e38f966ec8451596da100a/149_0_4759_3807/master/4759.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=38bc1236b96460fccda42298ea7179b8"
     },
     {
-      "id": "story-7",
+      "id": "story-8",
       "league": "La Liga",
       "dot": "#E3B4F5",
       "source": "BBC Sport",
@@ -90,7 +101,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b12d/live/28463730-bc4d-11f1-a430-4d16ee157c41.png"
     },
     {
-      "id": "story-8",
+      "id": "story-9",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "The Guardian",
@@ -101,7 +112,7 @@
       "image": "https://i.guim.co.uk/img/media/5d99a2334f99496b4866334caa52d0a40364a3ae/507_0_2588_2071/master/2588.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f6a4b8a73fc7a0e73328397d08b4a7fe"
     },
     {
-      "id": "story-9",
+      "id": "story-10",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -112,7 +123,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2d3d/live/eb88ad30-bc4e-11f1-b0ee-af1df8a6445f.jpg"
     },
     {
-      "id": "story-10",
+      "id": "story-11",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -123,7 +134,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d366/live/54a53bc0-bc4b-11f1-a430-4d16ee157c41.jpg"
     },
     {
-      "id": "story-11",
+      "id": "story-12",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "The Guardian",
@@ -134,7 +145,7 @@
       "image": "https://i.guim.co.uk/img/media/70e149638a54705176ec4e23a611face58821dd8/1464_310_3343_2674/master/3343.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=81c2aedde0e9f3a1df51c865fc62a125"
     },
     {
-      "id": "story-12",
+      "id": "story-13",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -145,7 +156,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c57d/live/84c46550-bc38-11f1-a430-4d16ee157c41.jpg"
     },
     {
-      "id": "story-13",
+      "id": "story-14",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -156,7 +167,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8e69/live/c94a88f0-bc40-11f1-8666-b5dc4bdc94cb.jpg"
     },
     {
-      "id": "story-14",
+      "id": "story-15",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -167,7 +178,7 @@
       "image": "https://i.guim.co.uk/img/media/7dae953ec1472f0847eb7fa49af4db2161d57aed/289_0_2662_2129/master/2662.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f6b3605b44464f2fa5fff36797309d58"
     },
     {
-      "id": "story-15",
+      "id": "story-16",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -178,7 +189,7 @@
       "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0m6ztjd.jpg"
     },
     {
-      "id": "story-16",
+      "id": "story-17",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "The Guardian",
@@ -189,7 +200,7 @@
       "image": "https://i.guim.co.uk/img/media/9a66003c183d58a1395d8ad35f45cbd06d2b1781/361_0_4537_3630/master/4537.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=5754b0defc921a471cb1349654ba8ae4"
     },
     {
-      "id": "story-17",
+      "id": "story-18",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -200,7 +211,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d913/live/0bfbf2c0-bc2c-11f1-a430-4d16ee157c41.jpg"
     },
     {
-      "id": "story-18",
+      "id": "story-19",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -211,7 +222,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7698/live/b00e4a00-bc2e-11f1-bd21-bdf910f2cec6.jpg"
     },
     {
-      "id": "story-19",
+      "id": "story-20",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -222,7 +233,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee2f/live/cb7000d0-b9aa-11f1-8a1a-0176f978c211.jpg"
     },
     {
-      "id": "story-20",
+      "id": "story-21",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -233,7 +244,7 @@
       "image": "https://i.guim.co.uk/img/media/03956ee6967201f0ae1b74d45be91a5f2f66d58f/77_0_4551_3641/master/4551.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=67db92c999c2f4203d1e4d2f3f9b4358"
     },
     {
-      "id": "story-21",
+      "id": "story-22",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -244,7 +255,7 @@
       "image": "https://i.guim.co.uk/img/media/8d3c9ebdd24f27bc803f2d1d82d256b52d187dd4/935_0_7217_5774/master/7217.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=864a6b0f4d4944d7835d8baa30338695"
     },
     {
-      "id": "story-22",
+      "id": "story-23",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -253,17 +264,6 @@
       "excerpt": "<ul><li><p>‘I wouldn’t feel comfortable … I don’t think we deserved it’</p></li><li><p>Manchester United finished second to…",
       "link": "https://www.theguardian.com/football/2026/sep/29/wayne-rooney-manchester-city-united-premier-league-titles-breaching-financial-rules",
       "image": "https://i.guim.co.uk/img/media/6a1a6f592023067f2a2fa28919225d01a17d6a3e/470_129_4842_3871/master/4842.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=5da2b1ccaca7290d1b9c5e0b8c1319b9"
-    },
-    {
-      "id": "story-23",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "BBC Sport",
-      "time": "Sep 29",
-      "headline": "Forest Green confirm Savage offered Peterborough job",
-      "excerpt": "Robbie Savage has been offered the manager's job at Peterborough United, say Forest Green, who…",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c68xkzw9r7rko?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7b5c/live/79cf7990-bb3f-11f1-8cd3-d12549a04493.jpg"
     }
   ],
   "scoreboard": []
