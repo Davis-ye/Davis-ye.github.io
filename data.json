@@ -1,19 +1,41 @@
 {
-  "updatedAt": "2026-09-29T10:31:40.439Z",
+  "updatedAt": "2026-09-29T10:47:50.728Z",
   "hero": {
     "id": "story-0",
     "league": "Football",
     "dot": "#AFC4AC",
-    "source": "The Guardian",
+    "source": "BBC Sport",
     "time": "Sep 29",
-    "headline": "Australia v Brazil: men’s international football friendly – live",
-    "excerpt": "<ul><li><p>Follow updates as Socceroos face Seleção in Brisbane</p></li><li><p>Kick-off time at Suncorp Stadium is 8.10pm AEST/7.10am…",
-    "link": "https://www.theguardian.com/football/live/2026/sep/29/socceroos-australia-vs-brazil-football-live-scores",
-    "image": "https://i.guim.co.uk/img/media/cc875adbcbac913788e627f82d29eab7eba016ad/561_0_5405_4324/master/5405.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=df88e2d68384b6edc8bff177f94727bd"
+    "headline": "Could Potter be England's next breakthrough star?",
+    "excerpt": "Everyone is talking about Lexi Potter, the uncapped midfielder named in Sarina Wiegman's England squad…",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cry8z31pl534o?at_medium=RSS&amp;at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ee3/live/536b95e0-bb30-11f1-a9b8-670e5d9d8eee.jpg"
   },
   "topStories": [
     {
       "id": "story-1",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "The Guardian",
+      "time": "Sep 29",
+      "headline": "Australia v Brazil: men’s international football friendly – live",
+      "excerpt": "<ul><li><p>Follow updates as Socceroos face Seleção in Brisbane</p></li><li><p>Any thoughts? Get in touch with an <a…",
+      "link": "https://www.theguardian.com/football/live/2026/sep/29/socceroos-australia-vs-brazil-football-live-scores",
+      "image": "https://i.guim.co.uk/img/media/0b526d242a9ee359c752a817a2da7d5fcf82347c/671_0_4553_3642/master/4553.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c66fa8c470797be705e1073e2bd8a2c8"
+    },
+    {
+      "id": "story-2",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "BBC Sport",
+      "time": "Sep 29",
+      "headline": "Republic of Ireland call up Hopcroft for play-off",
+      "excerpt": "Republic of Ireland boss Carla Ward includes Crystal Palace midfielder Shanade Hopcroft in her squad…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c60qxj1n7gn8o?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0222/live/9c3d2720-bbee-11f1-9074-3d74885a19d6.jpg"
+    },
+    {
+      "id": "story-3",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "101 Great Goals",
@@ -24,7 +46,7 @@
       "image": null
     },
     {
-      "id": "story-2",
+      "id": "story-4",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -35,7 +57,7 @@
       "image": "https://i.guim.co.uk/img/media/4d5f6c089cc443602ccff6eb883f0d5efcaa4044/930_465_5759_4607/master/5759.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=14903daf3d5660fe71247d0bd80e3480"
     },
     {
-      "id": "story-3",
+      "id": "story-5",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -46,7 +68,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4cd6/live/669db1d0-bbed-11f1-9074-3d74885a19d6.jpg"
     },
     {
-      "id": "story-4",
+      "id": "story-6",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -57,7 +79,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/55ee/live/9358af80-bbdf-11f1-bfea-9d5bb7e7d40b.jpg"
     },
     {
-      "id": "story-5",
+      "id": "story-7",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -68,7 +90,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2ccc/live/5b96e420-bb96-11f1-9bb6-314591f55b4c.jpg"
     },
     {
-      "id": "story-6",
+      "id": "story-8",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -79,7 +101,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3962/live/cf271400-bbdc-11f1-bfea-9d5bb7e7d40b.jpg"
     },
     {
-      "id": "story-7",
+      "id": "story-9",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -90,7 +112,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8e31/live/c93680b0-a99c-11f0-928c-71dbb8619e94.jpg"
     },
     {
-      "id": "story-8",
+      "id": "story-10",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -101,7 +123,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/61a5/live/64b762b0-bb4a-11f1-a071-65d2e11c8f4a.jpg"
     },
     {
-      "id": "story-9",
+      "id": "story-11",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -112,7 +134,7 @@
       "image": "https://i.guim.co.uk/img/media/d276df26f49ef52db7405ffcd81a272776e03412/201_327_3126_2501/master/3126.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=2b2dbc1ac8f10043a3861ed900e1291c"
     },
     {
-      "id": "story-10",
+      "id": "story-12",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -123,18 +145,18 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4a03/live/f19730a0-bbdd-11f1-bfea-9d5bb7e7d40b.jpg"
     },
     {
-      "id": "story-11",
+      "id": "story-13",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
       "time": "Sep 29",
-      "headline": "Ivezic ready for Hibs debut after virus - gossip",
-      "excerpt": "Summer signing Marko Ivezic says he is ready for his Hibernian debut following a virus,…",
+      "headline": "'Foreign clubs eye Nedeljkovic while on Rangers loan' - gossip",
+      "excerpt": "Kosta Nedeljkovic is being eyed by foreign clubs while on loan to Rangers, while Aidan…",
       "link": "https://www.bbc.co.uk/sport/football/articles/c64gvnzey95go?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9486/live/92165a90-bbd6-11f1-bd21-bdf910f2cec6.png"
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4680/live/58b47550-bbf1-11f1-bd21-bdf910f2cec6.png"
     },
     {
-      "id": "story-12",
+      "id": "story-14",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -145,7 +167,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5548/live/fe59a060-bbd9-11f1-a430-4d16ee157c41.jpg"
     },
     {
-      "id": "story-13",
+      "id": "story-15",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -156,7 +178,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/247a/live/4a4df920-bb5e-11f1-b3b3-91d0b491a464.jpg"
     },
     {
-      "id": "story-14",
+      "id": "story-16",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "The Guardian",
@@ -167,7 +189,7 @@
       "image": "https://i.guim.co.uk/img/media/9a78301caadfbbac87fab22f976897fbf9b38450/431_251_4681_3745/master/4681.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=73e58e78ccfd0f50067f79a53b91b4c6"
     },
     {
-      "id": "story-15",
+      "id": "story-17",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -178,7 +200,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4bbf/live/73ef5360-bb53-11f1-aeb7-e1deb589b72b.jpg"
     },
     {
-      "id": "story-16",
+      "id": "story-18",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -189,7 +211,7 @@
       "image": "https://i.guim.co.uk/img/media/b8d7e6c79750e72fa38a9b4293984df028cfe6f1/330_0_7200_5760/master/7200.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=354a8f7396a91b4216ca74a37b1f6667"
     },
     {
-      "id": "story-17",
+      "id": "story-19",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -200,7 +222,7 @@
       "image": "https://i.guim.co.uk/img/media/62fb80aa2e58677b0702753c6cf6678b0d44784a/880_890_2254_1803/master/2254.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=8ecee3348dd3b7d2df2cc3c0a66e73a0"
     },
     {
-      "id": "story-18",
+      "id": "story-20",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -211,7 +233,7 @@
       "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0pczdcy.jpg"
     },
     {
-      "id": "story-19",
+      "id": "story-21",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -222,7 +244,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bc3f/live/8762ea60-bb3a-11f1-bc1f-3f186ca4140c.png"
     },
     {
-      "id": "story-20",
+      "id": "story-22",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -233,7 +255,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ada7/live/27df4c70-9658-11f1-b2ab-0dd01740f9f6.jpg"
     },
     {
-      "id": "story-21",
+      "id": "story-23",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -242,28 +264,6 @@
       "excerpt": "The Czech Republic are returning to Wembley for a Nations League game with England, just…",
       "link": "https://www.bbc.co.uk/sport/football/articles/c5yeqj0g4ygo?at_medium=RSS&amp;at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4d74/live/e5bdb600-bb4c-11f1-a071-65d2e11c8f4a.jpg"
-    },
-    {
-      "id": "story-22",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "BBC Sport",
-      "time": "Sep 28",
-      "headline": "Football Daily",
-      "excerpt": "The Monday Night Club look at the ongoing fallout from the Man City PL charges…",
-      "link": "https://www.bbc.co.uk/sounds/play/p0pcyk1h?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0pbt6l2.jpg"
-    },
-    {
-      "id": "story-23",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "BBC Sport",
-      "time": "Sep 28",
-      "headline": "O'Neill 'positive' as NI maintain unbeaten start",
-      "excerpt": "Michael O'Neill says he is \"positive\" as Northern Ireland maintain their unbeaten start in the…",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c64gr1nng300o?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9a6d/live/4d3ebd60-bb93-11f1-bb98-415006d29790.jpg"
     }
   ],
   "scoreboard": []
