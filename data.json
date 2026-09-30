@@ -1,19 +1,41 @@
 {
-  "updatedAt": "2026-09-30T19:31:46.394Z",
+  "updatedAt": "2026-09-30T19:45:08.862Z",
   "hero": {
     "id": "story-0",
-    "league": "Premier League",
-    "dot": "#9CC0F0",
+    "league": "Football",
+    "dot": "#AFC4AC",
     "source": "BBC Sport",
     "time": "Sep 30",
-    "headline": "Punish Man City this season, say other club chiefs",
-    "excerpt": "Manchester City's punishment for breaching Premier League rules should be handed down before the end…",
-    "link": "https://www.bbc.co.uk/sport/football/articles/c6vgyg3zv3kwo?at_medium=RSS&amp;at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ad93/live/d0252160-bd00-11f1-babe-4199b0e7ccea.jpg"
+    "headline": "Ronaldo leaves Portugal camp after coach denies rift",
+    "excerpt": "Cristiano Ronaldo says he has left Portugal's international camp and will explain why \"in time\",…",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cm9dw7ddwgzwo?at_medium=RSS&amp;at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e680/live/3c053660-bcf5-11f1-8ce2-417f8f7cb095.jpg"
   },
   "topStories": [
     {
       "id": "story-1",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "BBC Sport",
+      "time": "Sep 30",
+      "headline": "Impossible for England to find another Kane - Tuchel",
+      "excerpt": "England boss Thomas Tuchel says it will be impossible to find \"another Harry Kane\" as…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cr1e5ep101wdo?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f350/live/164eca90-bd03-11f1-ae73-153b8464afc4.jpg"
+    },
+    {
+      "id": "story-2",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "BBC Sport",
+      "time": "Sep 30",
+      "headline": "Punish Man City this season, say other club chiefs",
+      "excerpt": "Manchester City's punishment for breaching Premier League rules should be handed down before the end…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c6vgyg3zv3kwo?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ad93/live/d0252160-bd00-11f1-babe-4199b0e7ccea.jpg"
+    },
+    {
+      "id": "story-3",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -24,7 +46,7 @@
       "image": "https://i.guim.co.uk/img/media/ce46cb33caad8aec4178b9a74ca0826840e8d0d6/980_181_1373_1098/master/1373.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=6292629a1c6dc399b1b1e399e4074fd1"
     },
     {
-      "id": "story-2",
+      "id": "story-4",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -35,7 +57,7 @@
       "image": "https://i.guim.co.uk/img/media/86f48ffa9fc8353c9198478f8167f7990e88002d/1000_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b082cf95e40546c9d676403dd489b72d"
     },
     {
-      "id": "story-3",
+      "id": "story-5",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -46,29 +68,18 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6c14/live/6e99d120-bd00-11f1-bc2e-018d645d8d21.jpg"
     },
     {
-      "id": "story-4",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "BBC Sport",
-      "time": "Sep 30",
-      "headline": "No rift with Ronaldo, says Portugal coach Jesus",
-      "excerpt": "Portugal head coach Jorge Jesus says there is no rift with captain Cristiano Ronaldo following…",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cm9dw7ddwgzwo?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e680/live/3c053660-bcf5-11f1-8ce2-417f8f7cb095.jpg"
-    },
-    {
-      "id": "story-5",
+      "id": "story-6",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "101 Great Goals",
       "time": "Sep 30",
       "headline": "BREAKING: Cristiano Ronaldo leaves Portugal camp as international future thrown into doubt",
-      "excerpt": "Cristiano Ronaldo has left Portugal&#8217;s camp following manager Jorge Jesus&#8217; comments about leaving him on…",
+      "excerpt": "Cristiano Ronaldo has reportedly left Portugal&#8217;s camp following manager Jorge Jesus&#8217; comments about leaving him…",
       "link": "https://www.101greatgoals.com/football/internationals/breaking-cristiano-ronaldo-leaves-portugal-camp-as-international-future-thrown-into-doubt/",
       "image": null
     },
     {
-      "id": "story-6",
+      "id": "story-7",
       "league": "La Liga",
       "dot": "#E3B4F5",
       "source": "The Guardian",
@@ -79,7 +90,7 @@
       "image": "https://i.guim.co.uk/img/media/9677aa548ac937081474639a53aa2bd47df4a0d0/617_0_3097_2477/master/3097.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=03b3691739da76bdd91b256cf2ecc9f2"
     },
     {
-      "id": "story-7",
+      "id": "story-8",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -90,7 +101,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/43e2/live/02f13b20-bcf1-11f1-8ce2-417f8f7cb095.jpg"
     },
     {
-      "id": "story-8",
+      "id": "story-9",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "The Guardian",
@@ -101,7 +112,7 @@
       "image": "https://i.guim.co.uk/img/media/4da03d0e063b3319d64b960db288794a4e97ee5e/754_0_4523_3619/master/4523.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=78bb9ae15feb50c58355dde0ec57001e"
     },
     {
-      "id": "story-9",
+      "id": "story-10",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -112,7 +123,7 @@
       "image": "https://i.guim.co.uk/img/media/91f0e16375659d20df525b7087856a962d841651/407_0_4050_3240/master/4050.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=94d559a0f57ffdaaf404bc7ec4d950ad"
     },
     {
-      "id": "story-10",
+      "id": "story-11",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -123,7 +134,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8c4f/live/91f41f20-bcdf-11f1-afec-ebbb2634c4cd.jpg"
     },
     {
-      "id": "story-11",
+      "id": "story-12",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -134,7 +145,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b9b1/live/6b9dd230-bcdf-11f1-afec-ebbb2634c4cd.jpg"
     },
     {
-      "id": "story-12",
+      "id": "story-13",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -145,7 +156,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8353/live/12a4d200-bcda-11f1-a64c-550be9e3c66b.png"
     },
     {
-      "id": "story-13",
+      "id": "story-14",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -156,7 +167,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0050/live/a567ac90-bcba-11f1-b3b2-8f83c947a78c.jpg"
     },
     {
-      "id": "story-14",
+      "id": "story-15",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "The Guardian",
@@ -167,7 +178,7 @@
       "image": "https://i.guim.co.uk/img/media/7a399b6f518d1b39c65e82816bc49351a138c5e6/0_0_5581_4466/master/5581.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=68001d4a172eb86d3e2fee2b33fc0766"
     },
     {
-      "id": "story-15",
+      "id": "story-16",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "The Guardian",
@@ -178,7 +189,7 @@
       "image": "https://i.guim.co.uk/img/media/80085f31b6dadb61508bd23c2c77c58f982cc5b9/413_0_5145_4116/master/5145.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=9a7eb56905c9cddff53fa48be558510b"
     },
     {
-      "id": "story-16",
+      "id": "story-17",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -189,7 +200,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1e6b/live/93b07620-bcd4-11f1-9f83-d9975ff80416.jpg"
     },
     {
-      "id": "story-17",
+      "id": "story-18",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "The Guardian",
@@ -200,7 +211,7 @@
       "image": "https://i.guim.co.uk/img/media/c0a5d4d913d66f04d737bc7cc19938cada7c0017/1045_251_4834_3868/master/4834.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b2ecfd2eaf85d923dcd00e47be0d9b58"
     },
     {
-      "id": "story-18",
+      "id": "story-19",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -211,7 +222,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c134/live/91bb34a0-bcba-11f1-bc2e-018d645d8d21.png"
     },
     {
-      "id": "story-19",
+      "id": "story-20",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -222,7 +233,7 @@
       "image": "https://i.guim.co.uk/img/media/a9e71f1ccab11923a0197fa28d9990188c06bc3b/610_115_3591_2873/master/3591.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f445731b5b28148afcf121701a5aad3f"
     },
     {
-      "id": "story-20",
+      "id": "story-21",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -233,7 +244,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ff90/live/6abf4e50-bcb9-11f1-a52f-e7c9a7884cfa.jpg"
     },
     {
-      "id": "story-21",
+      "id": "story-22",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -244,7 +255,7 @@
       "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0m6ztjd.jpg"
     },
     {
-      "id": "story-22",
+      "id": "story-23",
       "league": "Serie A",
       "dot": "#A9E6A0",
       "source": "BBC Sport",
@@ -253,17 +264,6 @@
       "excerpt": "The takeover of Northampton Town by a consortium including former AC Milan and Brazil forward…",
       "link": "https://www.bbc.co.uk/sport/football/articles/cmqxvqyy125lo?at_medium=RSS&amp;at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/988e/live/c134f9d0-bcd0-11f1-9f83-d9975ff80416.jpg"
-    },
-    {
-      "id": "story-23",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "BBC Sport",
-      "time": "Sep 30",
-      "headline": "Turkish referees' chief arrested in corruption investigation",
-      "excerpt": "The head of Turkey's referees' committee is detained along with six others as part of…",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cmzxzvny8xwdo?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/90e0/live/c877a1d0-bbee-11f1-a430-4d16ee157c41.png"
     }
   ],
   "scoreboard": []
