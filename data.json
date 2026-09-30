@@ -1,19 +1,30 @@
 {
-  "updatedAt": "2026-09-30T16:38:28.176Z",
+  "updatedAt": "2026-09-30T16:52:01.868Z",
   "hero": {
     "id": "story-0",
-    "league": "Premier League",
-    "dot": "#9CC0F0",
-    "source": "The Guardian",
+    "league": "Football",
+    "dot": "#AFC4AC",
+    "source": "101 Great Goals",
     "time": "Sep 30",
-    "headline": "Paris FC v Arsenal: Women’s Champions League – live",
-    "excerpt": "<p>⚽ Updates from the 5.45pm BST kick-off in France<br>⚽ <a href=\"https://www.theguardian.com/football/live\">Live scores</a> | <a href=\"https://www.theguardian.com/football/2022/mar/22/sign-up-for-our-new-womens-football-newsletter-moving-the-goalposts\">Read…",
-    "link": "https://www.theguardian.com/football/live/2026/sep/30/paris-fc-v-arsenal-womens-champions-league-live",
-    "image": "https://i.guim.co.uk/img/media/e6653a68a1c4532c665318b1fd0689756bef67ba/306_0_3295_2636/master/3295.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=0e5e68b94f579861055e05f71a080dc5"
+    "headline": "&#8216;There was never a problem&#8217; &#8211; Jesus rejects talk of Ronaldo fallout after omission from Norway game",
+    "excerpt": "Jesus blamed the media for forcing the clear-the-air talks between the two.",
+    "link": "https://www.101greatgoals.com/football/internationals/ronaldo-jesus-rift/",
+    "image": null
   },
   "topStories": [
     {
       "id": "story-1",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "The Guardian",
+      "time": "Sep 30",
+      "headline": "Paris FC v Arsenal: Women’s Champions League – live",
+      "excerpt": "<p>⚽ Updates from the 5.45pm BST kick-off in France<br>⚽ <a href=\"https://www.theguardian.com/football/live\">Live scores</a> | <a href=\"https://www.theguardian.com/football/2022/mar/22/sign-up-for-our-new-womens-football-newsletter-moving-the-goalposts\">Read…",
+      "link": "https://www.theguardian.com/football/live/2026/sep/30/paris-fc-v-arsenal-womens-champions-league-live",
+      "image": "https://i.guim.co.uk/img/media/141bb181d963ad392ad34c7b53994f6b22b14571/312_0_3791_3033/master/3791.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f0fd4bd98bcff532f24c8778d4d10a1f"
+    },
+    {
+      "id": "story-2",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -24,7 +35,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8c4f/live/91f41f20-bcdf-11f1-afec-ebbb2634c4cd.jpg"
     },
     {
-      "id": "story-2",
+      "id": "story-3",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -33,17 +44,6 @@
       "excerpt": "The prime minister compares the allegations against Man City to the plight of his own…",
       "link": "https://www.bbc.co.uk/news/articles/crkgwvv8xvw0o?at_medium=RSS&amp;at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b9b1/live/6b9dd230-bcdf-11f1-afec-ebbb2634c4cd.jpg"
-    },
-    {
-      "id": "story-3",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "101 Great Goals",
-      "time": "Sep 30",
-      "headline": "Ruben Dias asked about Manchester City uncertainty and defends Cristiano Ronaldo from accusations of selfishness",
-      "excerpt": "Ruben Dias was surprisingly put up by Portugal to answer questions ahead of Thursday's game…",
-      "link": "https://www.101greatgoals.com/football/premier-league/ruben-dias-manchester-city-uncertainty-defends-cristiano-ronaldo-from-accusations-of-selfishness/",
-      "image": null
     },
     {
       "id": "story-4",
