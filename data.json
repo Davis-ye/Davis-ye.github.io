@@ -1,19 +1,41 @@
 {
-  "updatedAt": "2026-09-30T21:07:57.278Z",
+  "updatedAt": "2026-09-30T21:24:37.676Z",
   "hero": {
     "id": "story-0",
-    "league": "Football",
-    "dot": "#AFC4AC",
+    "league": "Premier League",
+    "dot": "#9CC0F0",
     "source": "BBC Sport",
     "time": "Sep 30",
-    "headline": "Meet the only Scot managing a national team in world football",
-    "excerpt": "More than 4,000 miles from his native Dundee, Kurt Herd is flying the flag for…",
-    "link": "https://www.bbc.co.uk/sport/football/articles/ck3reye2vnypo?at_medium=RSS&amp;at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c30c/live/9f3fe530-b990-11f1-afe7-6566e301a06f.jpg"
+    "headline": "Late drama as Chelsea draw away at Lyon",
+    "excerpt": "Chelsea have a penalty overturned by VAR, while Lauren James and Maika Hamano come close…",
+    "link": "https://www.bbc.co.uk/sport/football/videos/cr86x8n80572o?at_medium=RSS&amp;at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3ed8/live/d625e7c0-bd14-11f1-a64c-550be9e3c66b.jpg"
   },
   "topStories": [
     {
       "id": "story-1",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "101 Great Goals",
+      "time": "Sep 30",
+      "headline": "Tuchel opens door for Bellingham to play &#8216;as a nine&#8217; for England but says it will be &#8216;impossible&#8217; to replace Kane",
+      "excerpt": "Bellingham scored seven goals for England at the 2026 World Cup",
+      "link": "https://www.101greatgoals.com/football/internationals/tuchel-opens-door-for-bellingham-to-play-as-a-nine-for-england-but-says-it-will-be-impossible-to-replace-kane/",
+      "image": null
+    },
+    {
+      "id": "story-2",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "BBC Sport",
+      "time": "Sep 30",
+      "headline": "Meet the only Scot managing a national team in world football",
+      "excerpt": "More than 4,000 miles from his native Dundee, Kurt Herd is flying the flag for…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/ck3reye2vnypo?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c30c/live/9f3fe530-b990-11f1-afe7-6566e301a06f.jpg"
+    },
+    {
+      "id": "story-3",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -24,18 +46,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ad93/live/d0252160-bd00-11f1-babe-4199b0e7ccea.jpg"
     },
     {
-      "id": "story-2",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "101 Great Goals",
-      "time": "Sep 30",
-      "headline": "Ronaldo leaves Portugal camp: How CR7&#8217;s international crisis unfolded",
-      "excerpt": "Ronaldo has reportedly fallen out with Portugal manager Jorge Jesus",
-      "link": "https://www.101greatgoals.com/football/internationals/ronaldo-leaves-portugal-camp-how-cr7s-international-crisis-unfolded/",
-      "image": null
-    },
-    {
-      "id": "story-3",
+      "id": "story-4",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -46,7 +57,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d297/live/e5e71cc0-bd09-11f1-a64c-550be9e3c66b.png"
     },
     {
-      "id": "story-4",
+      "id": "story-5",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -57,7 +68,7 @@
       "image": "https://i.guim.co.uk/img/media/06bb090972d56a61a6d27f9228743c86c505b67e/432_0_4320_3456/master/4320.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a5e53dd0a063cf6d578c15ae66ad5afa"
     },
     {
-      "id": "story-5",
+      "id": "story-6",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "The Guardian",
@@ -68,7 +79,7 @@
       "image": "https://i.guim.co.uk/img/media/c0a5d4d913d66f04d737bc7cc19938cada7c0017/1045_251_4834_3868/master/4834.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b2ecfd2eaf85d923dcd00e47be0d9b58"
     },
     {
-      "id": "story-6",
+      "id": "story-7",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -79,7 +90,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5e80/live/152e8620-bd06-11f1-bc2e-018d645d8d21.jpg"
     },
     {
-      "id": "story-7",
+      "id": "story-8",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -90,7 +101,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c22b/live/4dcb5ef0-bcf1-11f1-8ce2-417f8f7cb095.jpg"
     },
     {
-      "id": "story-8",
+      "id": "story-9",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -101,7 +112,7 @@
       "image": "https://i.guim.co.uk/img/media/dc4bc91af9dd1786ac944bc995beb58b0331fe99/414_0_4140_3312/master/4140.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ee5276ec13688152253369bbbba2c7dd"
     },
     {
-      "id": "story-9",
+      "id": "story-10",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -112,7 +123,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e680/live/3c053660-bcf5-11f1-8ce2-417f8f7cb095.jpg"
     },
     {
-      "id": "story-10",
+      "id": "story-11",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -123,7 +134,7 @@
       "image": "https://i.guim.co.uk/img/media/ce46cb33caad8aec4178b9a74ca0826840e8d0d6/238_0_2658_2126/master/2658.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=818a48c50ee432a3227abfec0e824bb5"
     },
     {
-      "id": "story-11",
+      "id": "story-12",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -134,7 +145,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f350/live/164eca90-bd03-11f1-ae73-153b8464afc4.jpg"
     },
     {
-      "id": "story-12",
+      "id": "story-13",
       "league": "La Liga",
       "dot": "#E3B4F5",
       "source": "BBC Sport",
@@ -145,7 +156,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a09d/live/bdbd1050-bd00-11f1-ae73-153b8464afc4.jpg"
     },
     {
-      "id": "story-13",
+      "id": "story-14",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -156,7 +167,7 @@
       "image": "https://i.guim.co.uk/img/media/86f48ffa9fc8353c9198478f8167f7990e88002d/1000_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b082cf95e40546c9d676403dd489b72d"
     },
     {
-      "id": "story-14",
+      "id": "story-15",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -167,7 +178,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6c14/live/6e99d120-bd00-11f1-bc2e-018d645d8d21.jpg"
     },
     {
-      "id": "story-15",
+      "id": "story-16",
       "league": "La Liga",
       "dot": "#E3B4F5",
       "source": "The Guardian",
@@ -178,7 +189,7 @@
       "image": "https://i.guim.co.uk/img/media/9677aa548ac937081474639a53aa2bd47df4a0d0/617_0_3097_2477/master/3097.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=03b3691739da76bdd91b256cf2ecc9f2"
     },
     {
-      "id": "story-16",
+      "id": "story-17",
       "league": "La Liga",
       "dot": "#E3B4F5",
       "source": "The Guardian",
@@ -189,7 +200,7 @@
       "image": "https://i.guim.co.uk/img/media/8e8b985cfc1f8a09e93bbb2b6e095c5d90da2919/155_0_2986_2388/master/2986.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=5f5308264e252fb14bffc4e0774ed0ab"
     },
     {
-      "id": "story-17",
+      "id": "story-18",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -200,7 +211,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/43e2/live/02f13b20-bcf1-11f1-8ce2-417f8f7cb095.jpg"
     },
     {
-      "id": "story-18",
+      "id": "story-19",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "The Guardian",
@@ -211,7 +222,7 @@
       "image": "https://i.guim.co.uk/img/media/4da03d0e063b3319d64b960db288794a4e97ee5e/754_0_4523_3619/master/4523.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=78bb9ae15feb50c58355dde0ec57001e"
     },
     {
-      "id": "story-19",
+      "id": "story-20",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -222,7 +233,7 @@
       "image": "https://i.guim.co.uk/img/media/91f0e16375659d20df525b7087856a962d841651/407_0_4050_3240/master/4050.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=94d559a0f57ffdaaf404bc7ec4d950ad"
     },
     {
-      "id": "story-20",
+      "id": "story-21",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -233,7 +244,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8c4f/live/91f41f20-bcdf-11f1-afec-ebbb2634c4cd.jpg"
     },
     {
-      "id": "story-21",
+      "id": "story-22",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -244,7 +255,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b9b1/live/6b9dd230-bcdf-11f1-afec-ebbb2634c4cd.jpg"
     },
     {
-      "id": "story-22",
+      "id": "story-23",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -253,17 +264,6 @@
       "excerpt": "Before the upcoming 2027 Women's World Cup play-off with Portugal, what will the five new…",
       "link": "https://www.bbc.co.uk/sport/football/articles/cqp93d33y144o?at_medium=RSS&amp;at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8353/live/12a4d200-bcda-11f1-a64c-550be9e3c66b.png"
-    },
-    {
-      "id": "story-23",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "BBC Sport",
-      "time": "Sep 30",
-      "headline": "Questions about Wales form not unfair - Bellamy",
-      "excerpt": "Head coach Craig Bellamy accepts that questions will be asked over Wales' form as they…",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c50m3d789j74o?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0050/live/a567ac90-bcba-11f1-b3b2-8f83c947a78c.jpg"
     }
   ],
   "scoreboard": []
