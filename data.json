@@ -1,27 +1,27 @@
 {
-  "updatedAt": "2026-09-30T11:41:27.927Z",
+  "updatedAt": "2026-09-30T11:54:47.505Z",
   "hero": {
     "id": "story-0",
     "league": "Football",
     "dot": "#AFC4AC",
-    "source": "BBC Sport",
+    "source": "101 Great Goals",
     "time": "Sep 30",
-    "headline": "Drawing of lots sends Oman through to Gulf Cup semis",
-    "excerpt": "Oman edge into the semi-finals of the Gulf Cup but they do so in extraordinary…",
-    "link": "https://www.bbc.co.uk/sport/football/articles/ck3reg044xzwo?at_medium=RSS&amp;at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6ffd/live/65753db0-bcb9-11f1-b3b2-8f83c947a78c.jpg"
+    "headline": "Germany v Serbia: Preview, expected line-ups, stats and where to watch",
+    "excerpt": "A vastly different squad of players will hope to get Klopp off the mark.",
+    "link": "https://www.101greatgoals.com/match-previews/germany-v-serbia-preview/",
+    "image": "https://www.101greatgoals.com/wp-content/uploads/acroud-sports-data/featured/fixture-1528917.webp"
   },
   "topStories": [
     {
       "id": "story-1",
       "league": "Football",
       "dot": "#AFC4AC",
-      "source": "101 Great Goals",
+      "source": "BBC Sport",
       "time": "Sep 30",
-      "headline": "Selfish Ronaldo needs to follow Messi&#8217;s lead and walk away rather than tarnish Portugal legacy",
-      "excerpt": "Cristiano Ronaldo's self-importance has sparked another debate this week, jeopardising Portugal's chances of victory against…",
-      "link": "https://www.101greatgoals.com/football/internationals/immature-cristiano-ronaldo-follow-lionel-messi-lead-walk-away-rather-than-tarnish-portugal-legacy/",
-      "image": null
+      "headline": "Drawing of lots sends Oman through to Gulf Cup semis",
+      "excerpt": "Oman edge into the semi-finals of the Gulf Cup but they do so in extraordinary…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/ck3reg044xzwo?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6ffd/live/65753db0-bcb9-11f1-b3b2-8f83c947a78c.jpg"
     },
     {
       "id": "story-2",
@@ -54,7 +54,7 @@
       "headline": "‘Throw your medals in the bin,’ Roy Keane tells Manchester City players",
       "excerpt": "<ul><li><p>‘They won the titles because cheating was going on’</p></li><li><p>Micah Richards says he is ‘devastated and…",
       "link": "https://www.theguardian.com/football/2026/sep/30/throw-your-medals-in-the-bin-roy-keane-tells-manchester-city-players",
-      "image": "https://i.guim.co.uk/img/media/8530df70ae05276925cd86f4886187e3caa00928/1162_84_4066_3255/master/4066.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3b1853bc04a3fd85857f021917bcf087"
+      "image": "https://i.guim.co.uk/img/media/bbbea72166af3bcd2f1e849afc85f51b3156866c/0_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=60bbd0ec664efa8671603a3fcfa0316e"
     },
     {
       "id": "story-5",
