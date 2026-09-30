@@ -1,27 +1,27 @@
 {
-  "updatedAt": "2026-09-30T16:22:47.166Z",
+  "updatedAt": "2026-09-30T16:38:28.176Z",
   "hero": {
     "id": "story-0",
     "league": "Premier League",
     "dot": "#9CC0F0",
-    "source": "BBC Sport",
+    "source": "The Guardian",
     "time": "Sep 30",
-    "headline": "'Business as usual' for Man City Women despite Premier League guilty verdicts",
-    "excerpt": "Manchester City manager Andree Jeglertz said it was \"business as usual\" for the women's team…",
-    "link": "https://www.bbc.co.uk/sport/football/articles/c6kgxrr94dyno?at_medium=RSS&amp;at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8c4f/live/91f41f20-bcdf-11f1-afec-ebbb2634c4cd.jpg"
+    "headline": "Paris FC v Arsenal: Women’s Champions League – live",
+    "excerpt": "<p>⚽ Updates from the 5.45pm BST kick-off in France<br>⚽ <a href=\"https://www.theguardian.com/football/live\">Live scores</a> | <a href=\"https://www.theguardian.com/football/2022/mar/22/sign-up-for-our-new-womens-football-newsletter-moving-the-goalposts\">Read…",
+    "link": "https://www.theguardian.com/football/live/2026/sep/30/paris-fc-v-arsenal-womens-champions-league-live",
+    "image": "https://i.guim.co.uk/img/media/e6653a68a1c4532c665318b1fd0689756bef67ba/306_0_3295_2636/master/3295.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=0e5e68b94f579861055e05f71a080dc5"
   },
   "topStories": [
     {
       "id": "story-1",
       "league": "Premier League",
       "dot": "#9CC0F0",
-      "source": "The Guardian",
+      "source": "BBC Sport",
       "time": "Sep 30",
-      "headline": "Paris FC v Arsenal: Women’s Champions League – live",
-      "excerpt": "<p>⚽ Updates from the 5.45pm BST kick-off in France<br>⚽ <a href=\"https://www.theguardian.com/football/live\">Live scores</a> | <a href=\"https://www.theguardian.com/football/2022/mar/22/sign-up-for-our-new-womens-football-newsletter-moving-the-goalposts\">Read…",
-      "link": "https://www.theguardian.com/football/live/2026/sep/30/paris-fc-v-arsenal-womens-champions-league-live",
-      "image": "https://i.guim.co.uk/img/media/e6653a68a1c4532c665318b1fd0689756bef67ba/306_0_3295_2636/master/3295.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=0e5e68b94f579861055e05f71a080dc5"
+      "headline": "'Business as usual' for Man City Women despite Premier League guilty verdicts",
+      "excerpt": "Manchester City manager Andree Jeglertz said it was \"business as usual\" for the women's team…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c6kgxrr94dyno?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8c4f/live/91f41f20-bcdf-11f1-afec-ebbb2634c4cd.jpg"
     },
     {
       "id": "story-2",
