@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-30T18:10:41.657Z",
+  "updatedAt": "2026-09-30T18:28:30.307Z",
   "hero": {
     "id": "story-0",
     "league": "Premier League",
@@ -14,6 +14,17 @@
   "topStories": [
     {
       "id": "story-1",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "101 Great Goals",
+      "time": "Sep 30",
+      "headline": "BREAKING: Cristiano Ronaldo &#8216;leaves Portugal camp&#8217; as international future thrown into doubt",
+      "excerpt": "Cristiano Ronaldo has reportedly left Portugal&#8217;s camp following manager Jorge Jesus&#8217; comments about leaving him…",
+      "link": "https://www.101greatgoals.com/football/internationals/breaking-cristiano-ronaldo-leaves-portugal-camp-as-international-future-thrown-into-doubt/",
+      "image": null
+    },
+    {
+      "id": "story-2",
       "league": "La Liga",
       "dot": "#E3B4F5",
       "source": "The Guardian",
@@ -22,17 +33,6 @@
       "excerpt": "<ul><li><p>Head coach sees Real Madrid man as an option up front</p></li><li><p>Kane praises Alexander-Arnold’s impact and…",
       "link": "https://www.theguardian.com/football/2026/sep/30/thomas-tuchel-harry-kane-jude-bellingham-trent-alexander-arnold-england-nations-league",
       "image": "https://i.guim.co.uk/img/media/9677aa548ac937081474639a53aa2bd47df4a0d0/617_0_3097_2477/master/3097.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=03b3691739da76bdd91b256cf2ecc9f2"
-    },
-    {
-      "id": "story-2",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "101 Great Goals",
-      "time": "Sep 30",
-      "headline": "Klopp &#8216;far from preparing for a title&#8217; after Man City guilty verdicts",
-      "excerpt": "Klopp is happy with his achievements at Anfield.",
-      "link": "https://www.101greatgoals.com/football/premier-league/klopp-reacts-man-city-guilty-verdicts/",
-      "image": null
     },
     {
       "id": "story-3",
