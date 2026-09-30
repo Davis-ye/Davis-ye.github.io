@@ -1,19 +1,30 @@
 {
-  "updatedAt": "2026-09-30T14:25:17.305Z",
+  "updatedAt": "2026-09-30T14:41:48.830Z",
   "hero": {
     "id": "story-0",
     "league": "Premier League",
     "dot": "#9CC0F0",
-    "source": "BBC Sport",
+    "source": "101 Great Goals",
     "time": "Sep 30",
-    "headline": "Ex-England defender Smalling in talks with Porto",
-    "excerpt": "Former Manchester United and England defender Chris Smalling is in talks with Portuguese league leaders…",
-    "link": "https://www.bbc.co.uk/sport/football/articles/c6vgy205kmmro?at_medium=RSS&amp;at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1e6b/live/93b07620-bcd4-11f1-9f83-d9975ff80416.jpg"
+    "headline": "Pep Guardiola says he is &#8216;behind my owner and my chairman&#8217; after Manchester City found guilty of financial doping",
+    "excerpt": "Pep Guardiola has spoken out in defence of Manchester City despite the club being found…",
+    "link": "https://www.101greatgoals.com/football/premier-league/breaking-pep-guardiola-fully-behind-my-owner-my-chairman-after-manchester-city-found-guilty-of-financial-doping/",
+    "image": null
   },
   "topStories": [
     {
       "id": "story-1",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "BBC Sport",
+      "time": "Sep 30",
+      "headline": "Ex-England defender Smalling in talks with Porto",
+      "excerpt": "Former Manchester United and England defender Chris Smalling is in talks with Portuguese league leaders…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c6vgy205kmmro?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1e6b/live/93b07620-bcd4-11f1-9f83-d9975ff80416.jpg"
+    },
+    {
+      "id": "story-2",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "The Guardian",
@@ -22,17 +33,6 @@
       "excerpt": "<ul><li><p>Veteran left on bench by Jorge Jesus for win in Norway</p></li><li><p>The 41-year-old has trained alone…",
       "link": "https://www.theguardian.com/football/2026/sep/30/cristiano-ronaldo-misses-portugal-training-jorge-jesus-denmark",
       "image": "https://i.guim.co.uk/img/media/c0a5d4d913d66f04d737bc7cc19938cada7c0017/1045_251_4834_3868/master/4834.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b2ecfd2eaf85d923dcd00e47be0d9b58"
-    },
-    {
-      "id": "story-2",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "101 Great Goals",
-      "time": "Sep 30",
-      "headline": "Denmark v Portugal: Preview, expected line-ups, stats and where to watch",
-      "excerpt": "Ronaldo's involvement is up in the air as Portugal aim to continue their perfect Nations…",
-      "link": "https://www.101greatgoals.com/match-previews/denmark-v-portugal-preview/",
-      "image": null
     },
     {
       "id": "story-3",
