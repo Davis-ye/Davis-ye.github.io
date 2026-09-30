@@ -1,19 +1,30 @@
 {
-  "updatedAt": "2026-09-30T12:30:14.300Z",
+  "updatedAt": "2026-09-30T12:52:07.055Z",
   "hero": {
     "id": "story-0",
-    "league": "Football",
-    "dot": "#AFC4AC",
-    "source": "BBC Sport",
+    "league": "Premier League",
+    "dot": "#9CC0F0",
+    "source": "101 Great Goals",
     "time": "Sep 30",
-    "headline": "Turkish referees' chief arrested in corruption investigation",
-    "excerpt": "The head of Turkey's referees' committee is detained along with six others as part of…",
-    "link": "https://www.bbc.co.uk/sport/football/articles/cmzxzvny8xwdo?at_medium=RSS&amp;at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/90e0/live/c877a1d0-bbee-11f1-a430-4d16ee157c41.png"
+    "headline": "BREAKING: Pep Guardiola says he is &#8216;behind my owner and my chairman&#8217; after Manchester City found guilty of financial doping",
+    "excerpt": "Pep Guardiola has spoken out in defence of Manchester City despite the club being found…",
+    "link": "https://www.101greatgoals.com/football/premier-league/breaking-pep-guardiola-fully-behind-my-owner-my-chairman-after-manchester-city-found-guilty-of-financial-doping/",
+    "image": null
   },
   "topStories": [
     {
       "id": "story-1",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "BBC Sport",
+      "time": "Sep 30",
+      "headline": "Football Daily",
+      "excerpt": "Kieran Maguire & Dale Johnson answer listener questions on the Man City verdict.",
+      "link": "https://www.bbc.co.uk/sounds/play/p0pd5x19?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0m6ztjd.jpg"
+    },
+    {
+      "id": "story-2",
       "league": "Serie A",
       "dot": "#A9E6A0",
       "source": "BBC Sport",
@@ -24,7 +35,29 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6da5/live/e9a70350-b658-11f1-b207-0d770a833fbf.jpg"
     },
     {
-      "id": "story-2",
+      "id": "story-3",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "The Guardian",
+      "time": "Sep 30",
+      "headline": "Manchester City could be forced to pay Premier League up to £50m in legal costs",
+      "excerpt": "<ul><li><p>Club have been found guilty of breaking financial rules</p></li><li><p>City deny wrongdoing, saying it is a…",
+      "link": "https://www.theguardian.com/football/2026/sep/30/manchester-city-premier-league-legal-costs",
+      "image": "https://i.guim.co.uk/img/media/604a4bf147e77231447b7476655d3c71ff09b094/0_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=cd4f0fb028b221038c3e4d335a6d5bc2"
+    },
+    {
+      "id": "story-4",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "BBC Sport",
+      "time": "Sep 30",
+      "headline": "Turkish referees' chief arrested in corruption investigation",
+      "excerpt": "The head of Turkey's referees' committee is detained along with six others as part of…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cmzxzvny8xwdo?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/90e0/live/c877a1d0-bbee-11f1-a430-4d16ee157c41.png"
+    },
+    {
+      "id": "story-5",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -35,7 +68,7 @@
       "image": "https://i.guim.co.uk/img/media/2503d2d52035a01f92e54921f81cb0630790b4e3/285_0_1646_1317/master/1646.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=27ceeda6ee3b9c5479ed72bb7ed1f8e5"
     },
     {
-      "id": "story-3",
+      "id": "story-6",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -46,18 +79,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0163/live/d6a1b2a0-bcc0-11f1-810a-9579202680fa.jpg"
     },
     {
-      "id": "story-4",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "101 Great Goals",
-      "time": "Sep 30",
-      "headline": "Germany v Serbia: Preview, expected line-ups, stats and where to watch",
-      "excerpt": "A vastly different squad of players will hope to get Klopp off the mark.",
-      "link": "https://www.101greatgoals.com/match-previews/germany-v-serbia-preview/",
-      "image": "https://www.101greatgoals.com/wp-content/uploads/acroud-sports-data/featured/fixture-1528917.webp"
-    },
-    {
-      "id": "story-5",
+      "id": "story-7",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -68,7 +90,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6ffd/live/65753db0-bcb9-11f1-b3b2-8f83c947a78c.jpg"
     },
     {
-      "id": "story-6",
+      "id": "story-8",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -79,18 +101,18 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e16e/live/78af58e0-bcc6-11f1-ae14-0b840f99ba59.jpg"
     },
     {
-      "id": "story-7",
+      "id": "story-9",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
       "time": "Sep 30",
       "headline": "Next Generation 2021: why slow and steady sometimes wins the race",
-      "excerpt": "<p>A look at how our picks from five years ago have got on shows that…",
+      "excerpt": "<p>Our NextGen picks from five years ago show that breaking through early does not guarantee…",
       "link": "https://www.theguardian.com/football/2026/sep/30/next-generation-2021-why-slow-and-steady-sometimes-wins-the-race",
       "image": "https://i.guim.co.uk/img/media/768f5c79e2101ecb3935e60ee3c98c6125cd538a/0_0_3400_2720/master/3400.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d07e5feec4f54f8b74a8e78e4f58dcf7"
     },
     {
-      "id": "story-8",
+      "id": "story-10",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -101,7 +123,7 @@
       "image": "https://i.guim.co.uk/img/media/bbbea72166af3bcd2f1e849afc85f51b3156866c/0_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=60bbd0ec664efa8671603a3fcfa0316e"
     },
     {
-      "id": "story-9",
+      "id": "story-11",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -112,7 +134,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3085/live/85a15760-bcb2-11f1-a3e9-bbda6f9b9e25.jpg"
     },
     {
-      "id": "story-10",
+      "id": "story-12",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -123,7 +145,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3085/live/85a15760-bcb2-11f1-a3e9-bbda6f9b9e25.jpg"
     },
     {
-      "id": "story-11",
+      "id": "story-13",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -134,7 +156,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8eec/live/28680050-bcab-11f1-a3e9-bbda6f9b9e25.jpg"
     },
     {
-      "id": "story-12",
+      "id": "story-14",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -145,7 +167,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c57d/live/84c46550-bc38-11f1-a430-4d16ee157c41.jpg"
     },
     {
-      "id": "story-13",
+      "id": "story-15",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -156,7 +178,7 @@
       "image": "https://i.guim.co.uk/img/media/ef9d5d9d4458d9b2886a17f14226e78d2ea8eaf5/54_74_1545_1235/master/1545.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=0f925eeb38a68e47b0fa53785668c5f9"
     },
     {
-      "id": "story-14",
+      "id": "story-16",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "The Guardian",
@@ -167,7 +189,7 @@
       "image": "https://i.guim.co.uk/img/media/ef4de43411e6b25db79ded4db733554a27279c84/0_161_5308_4246/master/5308.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a69300a1733849e897ec2b3b530e2318"
     },
     {
-      "id": "story-15",
+      "id": "story-17",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -178,7 +200,7 @@
       "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0pd4czs.jpg"
     },
     {
-      "id": "story-16",
+      "id": "story-18",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -189,7 +211,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/21c1/live/cd04c100-b5cd-11f1-abb5-85e9be42cb76.jpg"
     },
     {
-      "id": "story-17",
+      "id": "story-19",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -200,7 +222,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e715/live/f219bd20-bc98-11f1-bc1f-3f186ca4140c.png"
     },
     {
-      "id": "story-18",
+      "id": "story-20",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -211,7 +233,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/311a/live/b24e22b0-bc40-11f1-8666-b5dc4bdc94cb.jpg"
     },
     {
-      "id": "story-19",
+      "id": "story-21",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -222,7 +244,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d58b/live/3b41aaf0-bb16-11f1-bc1f-3f186ca4140c.jpg"
     },
     {
-      "id": "story-20",
+      "id": "story-22",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -233,7 +255,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ada7/live/27df4c70-9658-11f1-b2ab-0dd01740f9f6.jpg"
     },
     {
-      "id": "story-21",
+      "id": "story-23",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -242,28 +264,6 @@
       "excerpt": "With the international window extended to four games, how do nations like Northern Ireland deal…",
       "link": "https://www.bbc.co.uk/sport/football/articles/ckwyz97v042vo?at_medium=RSS&amp;at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5404/live/206e7440-bbf4-11f1-9074-3d74885a19d6.jpg"
-    },
-    {
-      "id": "story-22",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "BBC Sport",
-      "time": "Sep 30",
-      "headline": "More than the Score",
-      "excerpt": "Erling Haaland’s Manchester derby winner reignites the VAR debate",
-      "link": "https://www.bbc.co.uk/sounds/play/p0pd082r?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0pd083s.jpg"
-    },
-    {
-      "id": "story-23",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "BBC Sport",
-      "time": "Sep 29",
-      "headline": "I'd stick my Man City medals in bin - Keane",
-      "excerpt": "Roy Keane says he would throw his \"medals in the bin\" if he were a…",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cmed7q89vp5no?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f828/live/4dd96190-bc55-11f1-8053-53e939fa7624.jpg"
     }
   ],
   "scoreboard": []
