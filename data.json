@@ -1,19 +1,30 @@
 {
-  "updatedAt": "2026-09-30T10:01:39.834Z",
+  "updatedAt": "2026-09-30T10:17:20.921Z",
   "hero": {
     "id": "story-0",
     "league": "Premier League",
     "dot": "#9CC0F0",
-    "source": "The Guardian",
+    "source": "BBC Sport",
     "time": "Sep 30",
-    "headline": "‘Throw your medals in the bin,’ Roy Keane tells Manchester City players",
-    "excerpt": "<ul><li><p>‘They won the titles because cheating was going on’</p></li><li><p>Micah Richards says he is ‘devastated and…",
-    "link": "https://www.theguardian.com/football/2026/sep/30/throw-your-medals-in-the-bin-roy-keane-tells-manchester-city-players",
-    "image": "https://i.guim.co.uk/img/media/8530df70ae05276925cd86f4886187e3caa00928/1162_84_4066_3255/master/4066.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3b1853bc04a3fd85857f021917bcf087"
+    "headline": "Richards 'devastated' by Man City guilty verdicts",
+    "excerpt": "Former Manchester City defender Micah Richards felt \"absolutely devastated\" after reading the Premier League's \"damning\"…",
+    "link": "https://www.bbc.co.uk/sport/football/articles/ckrerg4n2v82o?at_medium=RSS&amp;at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f029/live/85ca6660-bcb6-11f1-a3e9-bbda6f9b9e25.jpg"
   },
   "topStories": [
     {
       "id": "story-1",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "The Guardian",
+      "time": "Sep 30",
+      "headline": "‘Throw your medals in the bin,’ Roy Keane tells Manchester City players",
+      "excerpt": "<ul><li><p>‘They won the titles because cheating was going on’</p></li><li><p>Micah Richards says he is ‘devastated and…",
+      "link": "https://www.theguardian.com/football/2026/sep/30/throw-your-medals-in-the-bin-roy-keane-tells-manchester-city-players",
+      "image": "https://i.guim.co.uk/img/media/8530df70ae05276925cd86f4886187e3caa00928/1162_84_4066_3255/master/4066.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3b1853bc04a3fd85857f021917bcf087"
+    },
+    {
+      "id": "story-2",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -24,7 +35,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3085/live/85a15760-bcb2-11f1-a3e9-bbda6f9b9e25.jpg"
     },
     {
-      "id": "story-2",
+      "id": "story-3",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -35,7 +46,18 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3085/live/85a15760-bcb2-11f1-a3e9-bbda6f9b9e25.jpg"
     },
     {
-      "id": "story-3",
+      "id": "story-4",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "101 Great Goals",
+      "time": "Sep 30",
+      "headline": "Tip of the Day: A National League and darting double",
+      "excerpt": "Both Southend and Gerwyn Price have points to prove this evening. And they form the…",
+      "link": "https://www.101greatgoals.com/darts/tip-of-the-day-a-national-league-and-darting-double/",
+      "image": null
+    },
+    {
+      "id": "story-5",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -46,7 +68,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c57d/live/84c46550-bc38-11f1-a430-4d16ee157c41.jpg"
     },
     {
-      "id": "story-4",
+      "id": "story-6",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -57,7 +79,7 @@
       "image": "https://i.guim.co.uk/img/media/ef9d5d9d4458d9b2886a17f14226e78d2ea8eaf5/54_74_1545_1235/master/1545.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=0f925eeb38a68e47b0fa53785668c5f9"
     },
     {
-      "id": "story-5",
+      "id": "story-7",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "The Guardian",
@@ -68,7 +90,7 @@
       "image": "https://i.guim.co.uk/img/media/ef4de43411e6b25db79ded4db733554a27279c84/0_161_5308_4246/master/5308.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a69300a1733849e897ec2b3b530e2318"
     },
     {
-      "id": "story-6",
+      "id": "story-8",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -79,7 +101,7 @@
       "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0pd4czs.jpg"
     },
     {
-      "id": "story-7",
+      "id": "story-9",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -90,7 +112,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/21c1/live/cd04c100-b5cd-11f1-abb5-85e9be42cb76.jpg"
     },
     {
-      "id": "story-8",
+      "id": "story-10",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -101,18 +123,18 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e715/live/f219bd20-bc98-11f1-bc1f-3f186ca4140c.png"
     },
     {
-      "id": "story-9",
+      "id": "story-11",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
       "time": "Sep 30",
-      "headline": "£1.2bn on transfers with £830m inflated in accounts - Man City's 'asterisk era'",
+      "headline": "£1.2bn on transfers with £830m inflated in sponsorships - Man City's 'asterisk era'",
       "excerpt": "BBC Sport analyses Manchester City's dominance of English football during the period in which they…",
       "link": "https://www.bbc.co.uk/sport/football/articles/c9lyk46gekkeo?at_medium=RSS&amp;at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/311a/live/b24e22b0-bc40-11f1-8666-b5dc4bdc94cb.jpg"
     },
     {
-      "id": "story-10",
+      "id": "story-12",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -123,7 +145,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d58b/live/3b41aaf0-bb16-11f1-bc1f-3f186ca4140c.jpg"
     },
     {
-      "id": "story-11",
+      "id": "story-13",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -134,7 +156,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ada7/live/27df4c70-9658-11f1-b2ab-0dd01740f9f6.jpg"
     },
     {
-      "id": "story-12",
+      "id": "story-14",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -145,7 +167,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5404/live/206e7440-bbf4-11f1-9074-3d74885a19d6.jpg"
     },
     {
-      "id": "story-13",
+      "id": "story-15",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -156,7 +178,7 @@
       "image": "https://i.guim.co.uk/img/media/7373bff0056399afc1e44e630fd0b48d090bf45f/418_0_4164_3333/master/4164.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=4f258443dddd2fcee2cca8a40615e247"
     },
     {
-      "id": "story-14",
+      "id": "story-16",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -167,7 +189,7 @@
       "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0pd083s.jpg"
     },
     {
-      "id": "story-15",
+      "id": "story-17",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -178,7 +200,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f828/live/4dd96190-bc55-11f1-8053-53e939fa7624.jpg"
     },
     {
-      "id": "story-16",
+      "id": "story-18",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -189,7 +211,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ea0/live/5005de80-bc55-11f1-8053-53e939fa7624.jpg"
     },
     {
-      "id": "story-17",
+      "id": "story-19",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "The Guardian",
@@ -200,7 +222,7 @@
       "image": "https://i.guim.co.uk/img/media/76f288021c75b198fcb1c3707dc395087ba923fa/424_0_3849_3079/master/3849.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=58fbb36abd9f9a6859009b3a409fc6b7"
     },
     {
-      "id": "story-18",
+      "id": "story-20",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "The Guardian",
@@ -211,7 +233,7 @@
       "image": "https://i.guim.co.uk/img/media/b1619a03687d5a0db8d26bd0069f23c075263641/303_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a891b6ddb3bda90e67c85156bc9c687f"
     },
     {
-      "id": "story-19",
+      "id": "story-21",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -222,7 +244,7 @@
       "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0m6ztjd.jpg"
     },
     {
-      "id": "story-20",
+      "id": "story-22",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -233,7 +255,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b5e0/live/c4068da0-bc52-11f1-ae1c-cd1289a52101.jpg"
     },
     {
-      "id": "story-21",
+      "id": "story-23",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -242,28 +264,6 @@
       "excerpt": "Having been overlooked for so long, Trent Alexander-Arnold produced a world-class moment on his return,…",
       "link": "https://www.bbc.co.uk/sport/football/articles/c8dx51r59xndo?at_medium=RSS&amp;at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/daad/live/5e8c73d0-bc4e-11f1-bd21-bdf910f2cec6.jpg"
-    },
-    {
-      "id": "story-22",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "The Guardian",
-      "time": "Sep 29",
-      "headline": "Nations League roundup: Lamine Yamal sinks Croatia in Spain’s World Cup homecoming",
-      "excerpt": "<ul><li><p>Teenager scores twice in 4-1 win to boost Ballon d’Or case</p></li><li><p>Slovenia beat North Macedonia; Faroe…",
-      "link": "https://www.theguardian.com/football/2026/sep/29/nations-league-roundup-lamine-yamal-sinks-croatia-in-spains-world-cup-homecoming",
-      "image": "https://i.guim.co.uk/img/media/29705b8b0897d299a3e38f966ec8451596da100a/149_0_4759_3807/master/4759.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=38bc1236b96460fccda42298ea7179b8"
-    },
-    {
-      "id": "story-23",
-      "league": "La Liga",
-      "dot": "#E3B4F5",
-      "source": "BBC Sport",
-      "time": "Sep 29",
-      "headline": "Real Madrid considering Van Dijk - Wednesday's gossip",
-      "excerpt": "Real Madrid are waiting for Virgil van Dijk to become a free agent, Bayern Munich…",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c6g7kl592vlmo?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b12d/live/28463730-bc4d-11f1-a430-4d16ee157c41.png"
     }
   ],
   "scoreboard": []
