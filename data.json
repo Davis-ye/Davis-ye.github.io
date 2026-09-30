@@ -1,19 +1,30 @@
 {
-  "updatedAt": "2026-09-30T10:33:57.232Z",
+  "updatedAt": "2026-09-30T10:49:49.881Z",
   "hero": {
     "id": "story-0",
-    "league": "Premier League",
-    "dot": "#9CC0F0",
-    "source": "BBC Sport",
+    "league": "Football",
+    "dot": "#AFC4AC",
+    "source": "101 Great Goals",
     "time": "Sep 30",
-    "headline": "Richards 'devastated' by Man City guilty verdicts",
-    "excerpt": "Former Manchester City defender Micah Richards felt \"absolutely devastated\" after reading the Premier League's \"damning\"…",
-    "link": "https://www.bbc.co.uk/sport/football/articles/ckrerg4n2v82o?at_medium=RSS&amp;at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f029/live/85ca6660-bcb6-11f1-a3e9-bbda6f9b9e25.jpg"
+    "headline": "Selfish Ronaldo needs to follow Messi&#8217;s lead and walk away rather than tarnish Portugal legacy",
+    "excerpt": "Cristiano Ronaldo's self-importance has sparked another debate this week, jeopardising Portugal's chances of victory against…",
+    "link": "https://www.101greatgoals.com/football/internationals/immature-cristiano-ronaldo-follow-lionel-messi-lead-walk-away-rather-than-tarnish-portugal-legacy/",
+    "image": null
   },
   "topStories": [
     {
       "id": "story-1",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "BBC Sport",
+      "time": "Sep 30",
+      "headline": "Richards 'devastated' by Man City guilty verdicts",
+      "excerpt": "Former Manchester City defender Micah Richards felt \"absolutely devastated\" after reading the Premier League's \"damning\"…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/ckrerg4n2v82o?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f029/live/85ca6660-bcb6-11f1-a3e9-bbda6f9b9e25.jpg"
+    },
+    {
+      "id": "story-2",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -24,7 +35,7 @@
       "image": "https://i.guim.co.uk/img/media/768f5c79e2101ecb3935e60ee3c98c6125cd538a/0_0_3400_2720/master/3400.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d07e5feec4f54f8b74a8e78e4f58dcf7"
     },
     {
-      "id": "story-2",
+      "id": "story-3",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -35,7 +46,7 @@
       "image": "https://i.guim.co.uk/img/media/8530df70ae05276925cd86f4886187e3caa00928/1162_84_4066_3255/master/4066.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3b1853bc04a3fd85857f021917bcf087"
     },
     {
-      "id": "story-3",
+      "id": "story-4",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -46,7 +57,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3085/live/85a15760-bcb2-11f1-a3e9-bbda6f9b9e25.jpg"
     },
     {
-      "id": "story-4",
+      "id": "story-5",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -55,17 +66,6 @@
       "excerpt": "Andy Burke ponders whether Scotland head coach Sebastien Pocognoli will change goalkeeper after Angus Gunn's…",
       "link": "https://www.bbc.co.uk/sport/football/articles/c58jd4wvrz4jo?at_medium=RSS&amp;at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3085/live/85a15760-bcb2-11f1-a3e9-bbda6f9b9e25.jpg"
-    },
-    {
-      "id": "story-5",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "101 Great Goals",
-      "time": "Sep 30",
-      "headline": "Tip of the Day: A National League and darting double",
-      "excerpt": "Both Southend and Gerwyn Price have points to prove this evening. And they form the…",
-      "link": "https://www.101greatgoals.com/darts/tip-of-the-day-a-national-league-and-darting-double/",
-      "image": null
     },
     {
       "id": "story-6",
