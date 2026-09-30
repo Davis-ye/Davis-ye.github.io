@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-30T07:52:01.130Z",
+  "updatedAt": "2026-09-30T08:02:07.072Z",
   "hero": {
     "id": "story-0",
     "league": "Premier League",
@@ -236,6 +236,17 @@
       "id": "story-21",
       "league": "Premier League",
       "dot": "#9CC0F0",
+      "source": "The Guardian",
+      "time": "Sep 29",
+      "headline": "Disguised funding and dishonest witnesses: key findings in Manchester City case",
+      "excerpt": "<p>After the Premier League published the ‘core decision’ of its independent commission, we pick out…",
+      "link": "https://www.theguardian.com/football/2026/sep/29/disguised-funding-and-dishonest-witnesses-key-findings-in-manchester-city-case-premier-league",
+      "image": "https://i.guim.co.uk/img/media/625effb9397e8ba3f1a22ed8ce8df3a56ab28796/463_0_4641_3712/master/4641.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=1ca8a82e4054f91f8c37175e7db3625c"
+    },
+    {
+      "id": "story-22",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
       "source": "BBC Sport",
       "time": "Sep 29",
       "headline": "The intricate web Man City spun to con the Premier League",
@@ -244,7 +255,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2d3d/live/eb88ad30-bc4e-11f1-b0ee-af1df8a6445f.jpg"
     },
     {
-      "id": "story-22",
+      "id": "story-23",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -253,17 +264,6 @@
       "excerpt": "How Scotland's players rated in their Nations League defeat by Switzerland.",
       "link": "https://www.bbc.co.uk/sport/football/articles/cj046wdz0gd4o?at_medium=RSS&amp;at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d366/live/54a53bc0-bc4b-11f1-a430-4d16ee157c41.jpg"
-    },
-    {
-      "id": "story-23",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "The Guardian",
-      "time": "Sep 29",
-      "headline": "Switzerland’s Rodríguez and Elvedi punish Scotland after Hendry’s early red card",
-      "excerpt": "<p>Switzerland have responded exceptionally well after allegations of <a href=\"https://www.theguardian.com/football/2026/sep/21/granit-xhaka-admits-receiving-fake-covid-vaccination-certificate\">capers involving vaccination certificates</a> that threatened…",
-      "link": "https://www.theguardian.com/football/2026/sep/29/scotland-switzerland-nations-league-match-report",
-      "image": "https://i.guim.co.uk/img/media/70e149638a54705176ec4e23a611face58821dd8/1464_310_3343_2674/master/3343.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=81c2aedde0e9f3a1df51c865fc62a125"
     }
   ],
   "scoreboard": []
