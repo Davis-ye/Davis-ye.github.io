@@ -1,27 +1,27 @@
 {
-  "updatedAt": "2026-09-30T09:17:34.436Z",
+  "updatedAt": "2026-09-30T09:34:24.593Z",
   "hero": {
     "id": "story-0",
     "league": "Football",
     "dot": "#AFC4AC",
-    "source": "BBC Sport",
+    "source": "101 Great Goals",
     "time": "Sep 30",
-    "headline": "'Whole village' turns out for FA Cup row replay",
-    "excerpt": "The controversial replay follows the FA ruling a referee had made a mistake in the…",
-    "link": "https://www.bbc.co.uk/news/articles/cm17j4r2wez2o?at_medium=RSS&amp;at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c57d/live/84c46550-bc38-11f1-a430-4d16ee157c41.jpg"
+    "headline": "Tip of the Day: A National League and darting double",
+    "excerpt": "Both Southend and Gerwyn Price have points to prove this evening. And they form the…",
+    "link": "https://www.101greatgoals.com/darts/tip-of-the-day-a-national-league-and-darting-double/",
+    "image": null
   },
   "topStories": [
     {
       "id": "story-1",
       "league": "Football",
       "dot": "#AFC4AC",
-      "source": "101 Great Goals",
+      "source": "BBC Sport",
       "time": "Sep 30",
-      "headline": "What is going on with Cristiano Ronaldo? Portugal star misses training and has talks with Jorge Jesus after being dropped",
-      "excerpt": "Cristiano Ronaldo has not trained since being left on the bench for Sunday evening's win…",
-      "link": "https://www.101greatgoals.com/football/internationals/what-is-going-on-with-cristiano-ronaldo-portugal-star-misses-training-talks-with-jorge-jesus-after-being-dropped/",
-      "image": null
+      "headline": "'Whole village' turns out for FA Cup row replay",
+      "excerpt": "The controversial replay follows the FA ruling a referee had made a mistake in the…",
+      "link": "https://www.bbc.co.uk/news/articles/cm17j4r2wez2o?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c57d/live/84c46550-bc38-11f1-a430-4d16ee157c41.jpg"
     },
     {
       "id": "story-2",
