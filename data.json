@@ -1,19 +1,30 @@
 {
-  "updatedAt": "2026-10-01T20:51:44.825Z",
+  "updatedAt": "2026-10-01T21:00:19.117Z",
   "hero": {
     "id": "story-0",
-    "league": "Premier League",
-    "dot": "#9CC0F0",
-    "source": "The Guardian",
+    "league": "Football",
+    "dot": "#AFC4AC",
+    "source": "101 Great Goals",
     "time": "Oct 1",
-    "headline": "Manchester City v Real Madrid: Women’s Champions League – live",
-    "excerpt": "<p>⚽ Champions League updates from the 8pm BST kick-off<br>⚽ <a href=\"https://www.theguardian.com/football/live\">Live scores</a> | <a href=\"https://www.theguardian.com/football/2026/oct/01/womens-ballon-dor-2026-power-rankings-will-a-new-winner-be-crowned\">Ballon…",
-    "link": "https://www.theguardian.com/football/live/2026/oct/01/manchester-city-v-real-madrid-womens-champions-league-live",
-    "image": "https://i.guim.co.uk/img/media/45a3a6c90519cc375dcd3767cdb052bf789ea156/917_200_2355_1884/master/2355.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=57fd643969a85e018388de55377c75bf"
+    "headline": "Nations League: Netherlands fight back to draw while Parrott stars for Ireland",
+    "excerpt": "Parrott stars on the international stage again",
+    "link": "https://www.101greatgoals.com/news/nations-league-netherlands-fight-back-to-draw-while-parrott-stars-for-ireland/",
+    "image": null
   },
   "topStories": [
     {
       "id": "story-1",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "The Guardian",
+      "time": "Oct 1",
+      "headline": "Manchester City v Real Madrid: Women’s Champions League – live",
+      "excerpt": "<p>⚽ Champions League updates from the 8pm BST kick-off<br>⚽ <a href=\"https://www.theguardian.com/football/live\">Live scores</a> | <a href=\"https://www.theguardian.com/football/2026/oct/01/womens-ballon-dor-2026-power-rankings-will-a-new-winner-be-crowned\">Ballon…",
+      "link": "https://www.theguardian.com/football/live/2026/oct/01/manchester-city-v-real-madrid-womens-champions-league-live",
+      "image": "https://i.guim.co.uk/img/media/45a3a6c90519cc375dcd3767cdb052bf789ea156/917_200_2355_1884/master/2355.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=57fd643969a85e018388de55377c75bf"
+    },
+    {
+      "id": "story-2",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "The Guardian",
@@ -22,17 +33,6 @@
       "excerpt": "<ul><li><p>All the latest news from the 7.45pm BST kick-offs</p></li><li><p><a href=\"https://www.theguardian.com/football/live\">Live scores</a> | <a href=\"https://www.theguardian.com/football/nations-league/table\">Nations League…",
       "link": "https://www.theguardian.com/football/live/2026/oct/01/wales-norway-denmark-portugal-germany-serbia-nations-league-live",
       "image": "https://i.guim.co.uk/img/media/37d91a77b9dec6dee85b5cb4664de9bb08ee936d/220_50_4371_3497/master/4371.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=63949cd633066f8468f543a5d8258211"
-    },
-    {
-      "id": "story-2",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "101 Great Goals",
-      "time": "Oct 1",
-      "headline": "Denmark 2-4 Portugal: Jesus&#8217; men put Ronaldo drama to one side with superb win",
-      "excerpt": "Portugal produced another excellent away performance without their record goalscorer.",
-      "link": "https://www.101greatgoals.com/match-reports/denmark-portugal-report/",
-      "image": null
     },
     {
       "id": "story-3",
