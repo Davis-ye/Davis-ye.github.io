@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-10-01T19:46:35.585Z",
+  "updatedAt": "2026-10-01T19:56:18.402Z",
   "hero": {
     "id": "story-0",
-    "league": "Football",
-    "dot": "#AFC4AC",
-    "source": "101 Great Goals",
+    "league": "Premier League",
+    "dot": "#9CC0F0",
+    "source": "BBC Sport",
     "time": "Oct 1",
-    "headline": "Ramos stars as Portugal put Ronaldo drama behind them against Denmark",
-    "excerpt": "Ramos put Portugal on course to maintain their perfect Nations League record.",
-    "link": "https://www.101greatgoals.com/football/internationals/ramos-portugal-ronaldo-drama-behind-them/",
-    "image": null
+    "headline": "Real Madrid keen on Quansah - Friday's gossip",
+    "excerpt": "Real Madrid are keen on Bayer Leverkusen's Jarell Quansah, Liverpool are monitoring Club Tijuana's teenage…",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cw8r6r0pdkyzo?at_medium=RSS&amp;at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/75ef/live/6b7db870-bdce-11f1-bc2e-018d645d8d21.png"
   },
   "topStories": [
     {
@@ -38,6 +38,17 @@
       "id": "story-3",
       "league": "Football",
       "dot": "#AFC4AC",
+      "source": "101 Great Goals",
+      "time": "Oct 1",
+      "headline": "Ramos stars as Portugal put Ronaldo drama behind them against Denmark",
+      "excerpt": "Ramos put Portugal on course to maintain their perfect Nations League record.",
+      "link": "https://www.101greatgoals.com/football/internationals/ramos-portugal-ronaldo-drama-behind-them/",
+      "image": null
+    },
+    {
+      "id": "story-4",
+      "league": "Football",
+      "dot": "#AFC4AC",
       "source": "BBC Sport",
       "time": "Oct 1",
       "headline": "Messi completes purchase of second Spanish club",
@@ -46,7 +57,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2d58/live/4284d100-bdca-11f1-b74d-89126d2b845a.jpg"
     },
     {
-      "id": "story-4",
+      "id": "story-5",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -57,7 +68,7 @@
       "image": "https://i.guim.co.uk/img/media/51cebfa32dd4d9c6494c19a29656442e5ae5ff18/378_0_2267_1814/master/2267.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c5380ea98f80eb63d0ce4ce17aedefc8"
     },
     {
-      "id": "story-5",
+      "id": "story-6",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -68,7 +79,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eda1/live/922cde20-bdaa-11f1-8373-27235719cf2a.jpg"
     },
     {
-      "id": "story-6",
+      "id": "story-7",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -79,7 +90,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9ef9/live/9976e2d0-bdbd-11f1-bc2e-018d645d8d21.png"
     },
     {
-      "id": "story-7",
+      "id": "story-8",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -90,7 +101,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/61e8/live/059e20b0-bdb7-11f1-bc2e-018d645d8d21.jpg"
     },
     {
-      "id": "story-8",
+      "id": "story-9",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -101,7 +112,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8871/live/1c7974f0-bdb8-11f1-b7d8-31573a2bd831.jpg"
     },
     {
-      "id": "story-9",
+      "id": "story-10",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -112,7 +123,7 @@
       "image": "https://i.guim.co.uk/img/media/9b51f6b0220f9e9e4592c0753c9ff50d0213a02d/220_0_3553_2843/master/3553.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=fda1baf9d36e442dcd0b6b241c904890"
     },
     {
-      "id": "story-10",
+      "id": "story-11",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "The Guardian",
@@ -123,7 +134,7 @@
       "image": "https://i.guim.co.uk/img/media/41fcb5e4ba4fdb8a7c3c5970a6b6499af7b46e04/379_31_2464_1971/master/2464.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=0109fca1d7f2d2b46170397fe8a3823f"
     },
     {
-      "id": "story-11",
+      "id": "story-12",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "The Guardian",
@@ -134,7 +145,7 @@
       "image": "https://i.guim.co.uk/img/media/7b90925bd99d79d69000afa4fafd2df4c19d3046/463_256_1925_1540/master/1925.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=2ac9b8e342f3dceb04d3d519e6a674ff"
     },
     {
-      "id": "story-12",
+      "id": "story-13",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -145,7 +156,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f07b/live/12df77b0-bda3-11f1-8373-27235719cf2a.jpg"
     },
     {
-      "id": "story-13",
+      "id": "story-14",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -156,7 +167,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fe96/live/ae273930-bd9c-11f1-9a76-4118bb2c2e43.jpg"
     },
     {
-      "id": "story-14",
+      "id": "story-15",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -167,7 +178,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2da9/live/a7737480-bd9e-11f1-8373-27235719cf2a.jpg"
     },
     {
-      "id": "story-15",
+      "id": "story-16",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -178,7 +189,7 @@
       "image": "https://i.guim.co.uk/img/media/ff57625f54c149248f38a61994c78470502058c9/276_0_3038_2430/master/3038.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=2498cbeab40bca5cb174d99dd8ee851f"
     },
     {
-      "id": "story-16",
+      "id": "story-17",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -189,7 +200,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7606/live/a3446640-bd9d-11f1-9a76-4118bb2c2e43.jpg"
     },
     {
-      "id": "story-17",
+      "id": "story-18",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -200,7 +211,7 @@
       "image": "https://i.guim.co.uk/img/media/2342d3e038952f1a339d6c4d7fafaee2ff0f29b8/1062_51_2894_2315/master/2894.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=7b3ed5a6d14338fd5b3af411c48181a5"
     },
     {
-      "id": "story-18",
+      "id": "story-19",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -211,7 +222,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/81c5/live/0dc2d520-bda2-11f1-8373-27235719cf2a.jpg"
     },
     {
-      "id": "story-19",
+      "id": "story-20",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -222,7 +233,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/81c5/live/0dc2d520-bda2-11f1-8373-27235719cf2a.jpg"
     },
     {
-      "id": "story-20",
+      "id": "story-21",
       "league": "La Liga",
       "dot": "#E3B4F5",
       "source": "The Guardian",
@@ -233,7 +244,7 @@
       "image": "https://i.guim.co.uk/img/media/74404c0749a41958b3ce6bb11995f50f2105424f/556_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=2c91dd255e778cc1eaaa27bf61f289b0"
     },
     {
-      "id": "story-21",
+      "id": "story-22",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -244,7 +255,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1e6b/live/93b07620-bcd4-11f1-9f83-d9975ff80416.jpg"
     },
     {
-      "id": "story-22",
+      "id": "story-23",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -253,17 +264,6 @@
       "excerpt": "<p><a href=\"https://bsky.app/profile/maxrushden.bsky.social\">Max Rushden</a> is joined by <a href=\"https://bsky.app/profile/barryglendenning.bsky.social\">Barry Glendenning</a>, <a href=\"https://bsky.app/profile/philippeauclair.bsky.social\">Philippe Auclair</a> and <a href=\"https://bsky.app/profile/alimaxwell.bsky.social\">Ali…",
       "link": "https://www.theguardian.com/football/video/2026/oct/01/manchester-city-scandal-latest-as-pep-guardiola-speaks-football-weekly-video",
       "image": "https://i.guim.co.uk/img/media/f8fa995ecebcbe4e037f107533da18371e1d2409/1171_0_3822_3058/master/3822.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=51e6e811690a99b8ae4463c28bde7499"
-    },
-    {
-      "id": "story-23",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "The Guardian",
-      "time": "Oct 1",
-      "headline": "US lined up instead of Qatar to host inaugural Women’s Club World Cup",
-      "excerpt": "<ul><li><p>LA and San Diego are among favoured host cities</p></li><li><p>January 2028 tournament would include 19 teams</p></li></ul><p>The…",
-      "link": "https://www.theguardian.com/football/2026/oct/01/united-states-host-first-womens-club-world-cup-football",
-      "image": "https://i.guim.co.uk/img/media/5f60f18a0aee425444ef3a951054fd8858e60787/785_0_6448_5160/master/6448.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=48268d0bc616cc5a59a26bee14b22a27"
     }
   ],
   "scoreboard": []
