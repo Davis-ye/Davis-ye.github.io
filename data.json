@@ -1,19 +1,30 @@
 {
-  "updatedAt": "2026-10-01T17:46:11.547Z",
+  "updatedAt": "2026-10-01T17:58:31.891Z",
   "hero": {
     "id": "story-0",
-    "league": "Football",
-    "dot": "#AFC4AC",
+    "league": "Premier League",
+    "dot": "#9CC0F0",
     "source": "101 Great Goals",
     "time": "Oct 1",
-    "headline": "Denmark v Portugal: Teams confirmed as Portugal begin life without Ronaldo",
-    "excerpt": "Bruno Fernandes returns for the visitors in the Nations League",
-    "link": "https://www.101greatgoals.com/news/denmark-v-portugal-teams-confirmed-as-portugal-begin-life-without-ronaldo/",
+    "headline": "Downing Street responds to Andy Burnham backlash over Manchester City comments",
+    "excerpt": "Downing Street has hit back at criticism of Andy Burnham after his comments on Manchester…",
+    "link": "https://www.101greatgoals.com/football/premier-league/downing-street-responds-andy-burnham-backlash-over-manchester-city-comments/",
     "image": null
   },
   "topStories": [
     {
       "id": "story-1",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "The Guardian",
+      "time": "Oct 1",
+      "headline": "Wales v Norway, Denmark v Portugal, Germany v Serbia: Nations League – live",
+      "excerpt": "<ul><li><p>All the latest news from the 7.45pm BST kick-offs</p></li><li><p><a href=\"https://www.theguardian.com/football/live\">Live scores</a> | <a href=\"https://www.theguardian.com/football/nations-league/table\">Nations League…",
+      "link": "https://www.theguardian.com/football/live/2026/oct/01/wales-norway-denmark-portugal-germany-serbia-nations-league-live",
+      "image": "https://i.guim.co.uk/img/media/a10750e4fbebccc871fd0001b7750ed9fb86785d/124_0_3315_2652/master/3315.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=01135814fb7348bbd55605850544917e"
+    },
+    {
+      "id": "story-2",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -24,7 +35,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9ef9/live/9976e2d0-bdbd-11f1-bc2e-018d645d8d21.png"
     },
     {
-      "id": "story-2",
+      "id": "story-3",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -33,17 +44,6 @@
       "excerpt": "The prime minister said he would be \"really concerned\" if the club's owners sell up…",
       "link": "https://www.bbc.co.uk/news/articles/cj3v4vn3ydw1o?at_medium=RSS&amp;at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/61e8/live/059e20b0-bdb7-11f1-bc2e-018d645d8d21.jpg"
-    },
-    {
-      "id": "story-3",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "The Guardian",
-      "time": "Oct 1",
-      "headline": "Wales v Norway, Denmark v Portugal, Germany v Serbia: Nations League – live",
-      "excerpt": "<ul><li><p>All the latest news from the 7.45pm BST kick-offs</p></li><li><p><a href=\"https://www.theguardian.com/football/live\">Live scores</a> | <a href=\"https://www.theguardian.com/football/nations-league/table\">Nations League…",
-      "link": "https://www.theguardian.com/football/live/2026/oct/01/wales-norway-denmark-portugal-germany-serbia-nations-league-live",
-      "image": "https://i.guim.co.uk/img/media/a10750e4fbebccc871fd0001b7750ed9fb86785d/124_0_3315_2652/master/3315.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=01135814fb7348bbd55605850544917e"
     },
     {
       "id": "story-4",
