@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-10-01T20:38:46.315Z",
+  "updatedAt": "2026-10-01T20:51:44.825Z",
   "hero": {
     "id": "story-0",
     "league": "Premier League",
     "dot": "#9CC0F0",
-    "source": "101 Great Goals",
+    "source": "The Guardian",
     "time": "Oct 1",
-    "headline": "Germany 2-0 Serbia: Wirtz shines as Klopp delivers his first win",
-    "excerpt": "Liverpool playmaker scores superb goal in maiden Klopp win",
-    "link": "https://www.101greatgoals.com/match-reports/germany-2-0-serbia-wirtz-shines-as-klopp-delivers-his-first-win/",
-    "image": null
+    "headline": "Manchester City v Real Madrid: Women’s Champions League – live",
+    "excerpt": "<p>⚽ Champions League updates from the 8pm BST kick-off<br>⚽ <a href=\"https://www.theguardian.com/football/live\">Live scores</a> | <a href=\"https://www.theguardian.com/football/2026/oct/01/womens-ballon-dor-2026-power-rankings-will-a-new-winner-be-crowned\">Ballon…",
+    "link": "https://www.theguardian.com/football/live/2026/oct/01/manchester-city-v-real-madrid-womens-champions-league-live",
+    "image": "https://i.guim.co.uk/img/media/45a3a6c90519cc375dcd3767cdb052bf789ea156/917_200_2355_1884/master/2355.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=57fd643969a85e018388de55377c75bf"
   },
   "topStories": [
     {
@@ -18,21 +18,21 @@
       "dot": "#AFC4AC",
       "source": "The Guardian",
       "time": "Oct 1",
-      "headline": "Ireland game interrupted by Palestine protests, Wales v Norway, Denmark v Portugal: Nations League – live",
+      "headline": "Wales 2-1 Norway, Denmark 2-4 Portugal, Ireland game interrupted by Palestine protests: Nations League – live",
       "excerpt": "<ul><li><p>All the latest news from the 7.45pm BST kick-offs</p></li><li><p><a href=\"https://www.theguardian.com/football/live\">Live scores</a> | <a href=\"https://www.theguardian.com/football/nations-league/table\">Nations League…",
       "link": "https://www.theguardian.com/football/live/2026/oct/01/wales-norway-denmark-portugal-germany-serbia-nations-league-live",
       "image": "https://i.guim.co.uk/img/media/37d91a77b9dec6dee85b5cb4664de9bb08ee936d/220_50_4371_3497/master/4371.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=63949cd633066f8468f543a5d8258211"
     },
     {
       "id": "story-2",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "The Guardian",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "101 Great Goals",
       "time": "Oct 1",
-      "headline": "Manchester City v Real Madrid: Women’s Champions League – live",
-      "excerpt": "<p>⚽ Champions League updates from the 8pm BST kick-off<br>⚽ <a href=\"https://www.theguardian.com/football/live\">Live scores</a> | <a href=\"https://www.theguardian.com/football/2026/oct/01/womens-ballon-dor-2026-power-rankings-will-a-new-winner-be-crowned\">Ballon…",
-      "link": "https://www.theguardian.com/football/live/2026/oct/01/manchester-city-v-real-madrid-womens-champions-league-live",
-      "image": "https://i.guim.co.uk/img/media/45a3a6c90519cc375dcd3767cdb052bf789ea156/917_200_2355_1884/master/2355.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=57fd643969a85e018388de55377c75bf"
+      "headline": "Denmark 2-4 Portugal: Jesus&#8217; men put Ronaldo drama to one side with superb win",
+      "excerpt": "Portugal produced another excellent away performance without their record goalscorer.",
+      "link": "https://www.101greatgoals.com/match-reports/denmark-portugal-report/",
+      "image": null
     },
     {
       "id": "story-3",
