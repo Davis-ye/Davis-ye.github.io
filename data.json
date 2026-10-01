@@ -1,19 +1,52 @@
 {
-  "updatedAt": "2026-10-01T14:04:02.332Z",
+  "updatedAt": "2026-10-01T14:23:55.391Z",
   "hero": {
     "id": "story-0",
     "league": "Football",
     "dot": "#AFC4AC",
     "source": "101 Great Goals",
     "time": "Oct 1",
-    "headline": "Who will wear the number seven shirt for Portugal against Denmark following Ronaldo&#8217;s escape act?",
-    "excerpt": "Portugal's number seven shirt will not be worn by Cristiano Ronaldo against Denmark on Thursday.…",
-    "link": "https://www.101greatgoals.com/football/internationals/who-will-wear-the-number-seven-shirt-portugal-against-denmark-cristiano-ronaldo/",
+    "headline": "Pittsburgh Steelers @ Cleveland Browns: Preview, prediction and odds",
+    "excerpt": "The Cleveland Browns host the Pittsburgh Steelers on Thursday Night Football. Read our in-depth preview.",
+    "link": "https://www.101greatgoals.com/news/pittsburgh-steelers-cleveland-browns-preview-prediction-and-odds/",
     "image": null
   },
   "topStories": [
     {
       "id": "story-1",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "The Guardian",
+      "time": "Oct 1",
+      "headline": "Manchester City fans are right to feel angry – now they need to direct it at the owners | Will Unwin",
+      "excerpt": "<p>Success under the Abu Dhabi regime made supporters feel proud, but they can only really…",
+      "link": "https://www.theguardian.com/football/2026/oct/01/manchester-city-premier-league-financial-rule-breaches-fans-anger-owners",
+      "image": "https://i.guim.co.uk/img/media/ff57625f54c149248f38a61994c78470502058c9/276_0_3038_2430/master/3038.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=2498cbeab40bca5cb174d99dd8ee851f"
+    },
+    {
+      "id": "story-2",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "BBC Sport",
+      "time": "Oct 1",
+      "headline": "Do clubs get compensation for player injuries on international duty?",
+      "excerpt": "BBC Sport's Ask Me Anything team looks into whether clubs get compensated in scenarios where…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c3wyzy75dl24o?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7606/live/a3446640-bd9d-11f1-9a76-4118bb2c2e43.jpg"
+    },
+    {
+      "id": "story-3",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "BBC Sport",
+      "time": "Oct 1",
+      "headline": "Space for Gannon-Doak? Does McGinn keep place? Key questions for Pocognoli",
+      "excerpt": "Scotland head coach Sebastien Pocognoli has decisions to make as he searches for his first…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c6x2ze5zm93go?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/81c5/live/0dc2d520-bda2-11f1-8373-27235719cf2a.jpg"
+    },
+    {
+      "id": "story-4",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -21,10 +54,10 @@
       "headline": "Space for Gannon-Doak? Does McGinn keep place? Welsh to return? - key questions for Pocognoli",
       "excerpt": "Scotland head coach Sebastien Pocognoli has decisions to make as he searches for his first…",
       "link": "https://www.bbc.co.uk/sport/football/articles/c6x2ze5zm93go?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9b33/live/ebae0ad0-bd93-11f1-9a76-4118bb2c2e43.jpg"
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/81c5/live/0dc2d520-bda2-11f1-8373-27235719cf2a.jpg"
     },
     {
-      "id": "story-2",
+      "id": "story-5",
       "league": "La Liga",
       "dot": "#E3B4F5",
       "source": "The Guardian",
@@ -35,7 +68,7 @@
       "image": "https://i.guim.co.uk/img/media/74404c0749a41958b3ce6bb11995f50f2105424f/556_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=2c91dd255e778cc1eaaa27bf61f289b0"
     },
     {
-      "id": "story-3",
+      "id": "story-6",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -46,7 +79,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1e6b/live/93b07620-bcd4-11f1-9f83-d9975ff80416.jpg"
     },
     {
-      "id": "story-4",
+      "id": "story-7",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -57,7 +90,7 @@
       "image": "https://i.guim.co.uk/img/media/f8fa995ecebcbe4e037f107533da18371e1d2409/1171_0_3822_3058/master/3822.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=51e6e811690a99b8ae4463c28bde7499"
     },
     {
-      "id": "story-5",
+      "id": "story-8",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "The Guardian",
@@ -68,7 +101,7 @@
       "image": "https://i.guim.co.uk/img/media/5f60f18a0aee425444ef3a951054fd8858e60787/785_0_6448_5160/master/6448.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=48268d0bc616cc5a59a26bee14b22a27"
     },
     {
-      "id": "story-6",
+      "id": "story-9",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -79,7 +112,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e204/live/e4b301c0-bd86-11f1-ab03-fd866f8788d0.png"
     },
     {
-      "id": "story-7",
+      "id": "story-10",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "The Guardian",
@@ -90,7 +123,7 @@
       "image": "https://i.guim.co.uk/img/media/77e0e5f557df54958ea9b839a5408507e81cccaf/441_34_2259_1807/master/2259.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=5a156a3ef4dd0d728fb48581fd0910f2"
     },
     {
-      "id": "story-8",
+      "id": "story-11",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -101,7 +134,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f87f/live/ccd34e20-bd8b-11f1-b442-f3f672c979ff.jpg"
     },
     {
-      "id": "story-9",
+      "id": "story-12",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -112,7 +145,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ab72/live/3cc2a5a0-bd87-11f1-ab03-fd866f8788d0.jpg"
     },
     {
-      "id": "story-10",
+      "id": "story-13",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -123,7 +156,7 @@
       "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0pdctsy.jpg"
     },
     {
-      "id": "story-11",
+      "id": "story-14",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -134,7 +167,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c221/live/851f86b0-bd82-11f1-add9-b18e6ea43b60.jpg"
     },
     {
-      "id": "story-12",
+      "id": "story-15",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -145,7 +178,7 @@
       "image": "https://i.guim.co.uk/img/media/01c1a2637b97c09abba8a373ea348e6dcdaa204b/0_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=dc28a0a70982fc89710d8de7243911c1"
     },
     {
-      "id": "story-13",
+      "id": "story-16",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "The Guardian",
@@ -156,7 +189,7 @@
       "image": "https://i.guim.co.uk/img/media/834764456883e5ca6c36b62a6193918c9dc3d853/609_0_4464_3571/master/4464.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ed05489358c0792000748bccce8e75f5"
     },
     {
-      "id": "story-14",
+      "id": "story-17",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -167,7 +200,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7ad9/live/2e98f800-bd7b-11f1-bc2e-018d645d8d21.png"
     },
     {
-      "id": "story-15",
+      "id": "story-18",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -178,7 +211,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fd37/live/43be03a0-bd22-11f1-af5a-a31326a1e777.jpg"
     },
     {
-      "id": "story-16",
+      "id": "story-19",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -189,7 +222,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cf44/live/6b0f06d0-bd7b-11f1-add9-b18e6ea43b60.jpg"
     },
     {
-      "id": "story-17",
+      "id": "story-20",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -200,7 +233,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/125f/live/8ffec770-bd92-11f1-9a76-4118bb2c2e43.jpg"
     },
     {
-      "id": "story-18",
+      "id": "story-21",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "The Guardian",
@@ -211,7 +244,7 @@
       "image": "https://i.guim.co.uk/img/media/09d64b4e9befac7f354793489483226682396437/190_0_1900_1520/master/1900.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c21ff43ce0402943a95ea10596a73d30"
     },
     {
-      "id": "story-19",
+      "id": "story-22",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "The Guardian",
@@ -222,7 +255,7 @@
       "image": "https://i.guim.co.uk/img/media/4e11fbb71625089cf83c40d80930ecd9d13bf33d/450_0_5800_4640/master/5800.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e2242599ddc7b2faa3056cd0bd4dcc18"
     },
     {
-      "id": "story-20",
+      "id": "story-23",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -231,39 +264,6 @@
       "excerpt": "Cove Rangers are \"considering all available options\" after having a season-long registration ban imposed upon…",
       "link": "https://www.bbc.co.uk/sport/football/articles/cx4gqgddz3zmo?at_medium=RSS&amp;at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6afd/live/a78fbda0-bd73-11f1-8134-9503562e5ca9.jpg"
-    },
-    {
-      "id": "story-21",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "BBC Sport",
-      "time": "Oct 1",
-      "headline": "Cove 'considering options' after receiving season-long transfer ban over rule breaches",
-      "excerpt": "Cove Rangers are \"considering all available options\" after having a season-long registration ban imposed upon…",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cx4gqgddz3zmo?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6afd/live/a78fbda0-bd73-11f1-8134-9503562e5ca9.jpg"
-    },
-    {
-      "id": "story-22",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "BBC Sport",
-      "time": "Oct 1",
-      "headline": "Why one Irish team is set to face Salah's Trabzonspor",
-      "excerpt": "Drogheda United will travel to Turkey to face Trabzonspor at the 40,000-seat Papara Park as…",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c3kg80vp00z4o?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/63fc/live/0fd426b0-bbe6-11f1-bfea-9d5bb7e7d40b.jpg"
-    },
-    {
-      "id": "story-23",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "BBC Sport",
-      "time": "Oct 1",
-      "headline": "Robertson set to hit 100 Scotland caps - but who else makes top 10?",
-      "excerpt": "We want you to name the 10 most capped Scotland men's players of all time,…",
-      "link": "https://www.bbc.co.uk/sport/football/articles/ck3reg92815ro?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/035e/live/8596bf90-bc2f-11f1-bc1f-3f186ca4140c.png"
     }
   ],
   "scoreboard": []
