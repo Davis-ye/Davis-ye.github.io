@@ -1,19 +1,41 @@
 {
-  "updatedAt": "2026-10-01T07:00:25.723Z",
+  "updatedAt": "2026-10-01T07:17:09.320Z",
   "hero": {
     "id": "story-0",
     "league": "Football",
     "dot": "#AFC4AC",
     "source": "BBC Sport",
     "time": "Oct 1",
-    "headline": "Money, family and sexism - why the number of women coaches is dropping",
-    "excerpt": "Despite recent on-pitch successes and increased media exposure for women's sport in the UK, major…",
-    "link": "https://www.bbc.co.uk/sport/football/articles/cwz0z2en8xxno?at_medium=RSS&amp;at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c749/live/0b39d6c0-bb25-11f1-97b0-3f86b3abbccc.jpg"
+    "headline": "We will learn from mistakes made - Hallgrimsson",
+    "excerpt": "Republif of Ireland manager Heimir Hallgrimsson says he and the Football Association of Ireland can…",
+    "link": "https://www.bbc.co.uk/sport/football/articles/c6lyey3np07qo?at_medium=RSS&amp;at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/59e2/live/840b2560-bd12-11f1-88b1-671c34af7444.jpg"
   },
   "topStories": [
     {
       "id": "story-1",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "BBC Sport",
+      "time": "Oct 1",
+      "headline": "Inside Northern Ireland's football conveyor belt",
+      "excerpt": "BBC Sport NI spends the day at the IFA JD Academy Residential at Campbell College…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/crpd0ww7z7n9o?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bf8f/live/c79fcbd0-bd14-11f1-80fb-f1c05882e774.jpg"
+    },
+    {
+      "id": "story-2",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "BBC Sport",
+      "time": "Oct 1",
+      "headline": "Money, family and sexism - why the number of women coaches is dropping",
+      "excerpt": "Despite recent on-pitch successes and increased media exposure for women's sport in the UK, major…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cwz0z2en8xxno?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c749/live/0b39d6c0-bb25-11f1-97b0-3f86b3abbccc.jpg"
+    },
+    {
+      "id": "story-3",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -24,7 +46,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/90ad/live/86097f10-bd62-11f1-a64c-550be9e3c66b.png"
     },
     {
-      "id": "story-2",
+      "id": "story-4",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -35,7 +57,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/78b7/live/86435770-b746-11f1-8846-e70401199dae.jpg"
     },
     {
-      "id": "story-3",
+      "id": "story-5",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -46,7 +68,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ab34/live/a31cc5b0-bc0b-11f1-a524-3125ac41b7f5.jpg"
     },
     {
-      "id": "story-4",
+      "id": "story-6",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -57,7 +79,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ada7/live/27df4c70-9658-11f1-b2ab-0dd01740f9f6.jpg"
     },
     {
-      "id": "story-5",
+      "id": "story-7",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -68,7 +90,7 @@
       "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0p4zrww.jpg"
     },
     {
-      "id": "story-6",
+      "id": "story-8",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "101 Great Goals",
@@ -79,7 +101,7 @@
       "image": null
     },
     {
-      "id": "story-7",
+      "id": "story-9",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -90,7 +112,7 @@
       "image": "https://i.guim.co.uk/img/media/f94ebfe542d772aee043421d8b9ec8d41c3dfc87/836_0_6114_4892/master/6114.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=14cb51b21d079a03cf05013b25b3d943"
     },
     {
-      "id": "story-8",
+      "id": "story-10",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -101,7 +123,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3ed8/live/d625e7c0-bd14-11f1-a64c-550be9e3c66b.jpg"
     },
     {
-      "id": "story-9",
+      "id": "story-11",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -112,7 +134,7 @@
       "image": "https://i.guim.co.uk/img/media/dd5aa86350fbefc980f8d50bda052cbf0f619217/593_0_5925_4740/master/5925.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=bc79ffd2d8396b0a99335673b1cdffcd"
     },
     {
-      "id": "story-10",
+      "id": "story-12",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -123,7 +145,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c30c/live/9f3fe530-b990-11f1-afe7-6566e301a06f.jpg"
     },
     {
-      "id": "story-11",
+      "id": "story-13",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -134,7 +156,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ebff/live/69ca0bb0-bd23-11f1-b3b7-a16fdfb382f9.jpg"
     },
     {
-      "id": "story-12",
+      "id": "story-14",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -145,7 +167,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d297/live/e5e71cc0-bd09-11f1-a64c-550be9e3c66b.png"
     },
     {
-      "id": "story-13",
+      "id": "story-15",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -156,7 +178,7 @@
       "image": "https://i.guim.co.uk/img/media/06bb090972d56a61a6d27f9228743c86c505b67e/432_0_4320_3456/master/4320.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a5e53dd0a063cf6d578c15ae66ad5afa"
     },
     {
-      "id": "story-14",
+      "id": "story-16",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "The Guardian",
@@ -167,7 +189,7 @@
       "image": "https://i.guim.co.uk/img/media/c0a5d4d913d66f04d737bc7cc19938cada7c0017/1045_251_4834_3868/master/4834.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b2ecfd2eaf85d923dcd00e47be0d9b58"
     },
     {
-      "id": "story-15",
+      "id": "story-17",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -178,7 +200,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5e80/live/152e8620-bd06-11f1-bc2e-018d645d8d21.jpg"
     },
     {
-      "id": "story-16",
+      "id": "story-18",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -189,7 +211,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c22b/live/4dcb5ef0-bcf1-11f1-8ce2-417f8f7cb095.jpg"
     },
     {
-      "id": "story-17",
+      "id": "story-19",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -200,7 +222,7 @@
       "image": "https://i.guim.co.uk/img/media/dc4bc91af9dd1786ac944bc995beb58b0331fe99/414_0_4140_3312/master/4140.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ee5276ec13688152253369bbbba2c7dd"
     },
     {
-      "id": "story-18",
+      "id": "story-20",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -211,7 +233,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e680/live/3c053660-bcf5-11f1-8ce2-417f8f7cb095.jpg"
     },
     {
-      "id": "story-19",
+      "id": "story-21",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -222,7 +244,7 @@
       "image": "https://i.guim.co.uk/img/media/ce46cb33caad8aec4178b9a74ca0826840e8d0d6/238_0_2658_2126/master/2658.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=818a48c50ee432a3227abfec0e824bb5"
     },
     {
-      "id": "story-20",
+      "id": "story-22",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -233,7 +255,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f350/live/164eca90-bd03-11f1-ae73-153b8464afc4.jpg"
     },
     {
-      "id": "story-21",
+      "id": "story-23",
       "league": "La Liga",
       "dot": "#E3B4F5",
       "source": "BBC Sport",
@@ -242,28 +264,6 @@
       "excerpt": "Heart of Midlothian exit the Women's Europa Cup after Real Sociedad sweep to a convincing…",
       "link": "https://www.bbc.co.uk/sport/articles/c61mvdm1ge4jo?at_medium=RSS&amp;at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a09d/live/bdbd1050-bd00-11f1-ae73-153b8464afc4.jpg"
-    },
-    {
-      "id": "story-22",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "The Guardian",
-      "time": "Sep 30",
-      "headline": "Rival clubs feel relegating Manchester City to Championship would not be enough",
-      "excerpt": "<ul><li><p>Premier League executives push for severe punishment</p></li><li><p>City maintain they are ‘innocent of the accusations’</p></li></ul><p>The Premier…",
-      "link": "https://www.theguardian.com/football/2026/sep/30/rival-clubs-feel-relegating-manchester-city-championship-not-enough-premier-league",
-      "image": "https://i.guim.co.uk/img/media/86f48ffa9fc8353c9198478f8167f7990e88002d/1000_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b082cf95e40546c9d676403dd489b72d"
-    },
-    {
-      "id": "story-23",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "BBC Sport",
-      "time": "Sep 30",
-      "headline": "Arsenal let two-goal lead slip to draw with Paris FC",
-      "excerpt": "A miscommunication between Arsenal goalkeeper Misa Rodriguez and England captain Leah Williamson gifts Paris FC…",
-      "link": "https://www.bbc.co.uk/sport/football/videos/cwzdz9mzd3mvo?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/742d/live/996238b0-bd15-11f1-bc2e-018d645d8d21.jpg"
     }
   ],
   "scoreboard": []
