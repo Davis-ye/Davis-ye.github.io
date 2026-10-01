@@ -1,19 +1,74 @@
 {
-  "updatedAt": "2026-10-01T12:00:11.862Z",
+  "updatedAt": "2026-10-01T12:19:18.652Z",
   "hero": {
     "id": "story-0",
     "league": "Football",
     "dot": "#AFC4AC",
-    "source": "BBC Sport",
+    "source": "101 Great Goals",
     "time": "Oct 1",
-    "headline": "Troubled Gateshead fail to pay September wages",
-    "excerpt": "Gateshead's players and staff do not receive their September wages on time in the same…",
-    "link": "https://www.bbc.co.uk/sport/football/articles/ck86x60nv5z0o?at_medium=RSS&amp;at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f87f/live/ccd34e20-bd8b-11f1-b442-f3f672c979ff.jpg"
+    "headline": "Portuguese public turn against Cristiano Ronaldo and back Jorge Jesus after row that could end striker&#8217;s international career",
+    "excerpt": "Cristiano Ronaldo has lost the support of the Portuguese public after walking out on the…",
+    "link": "https://www.101greatgoals.com/football/internationals/portuguese-public-turn-against-cristiano-ronaldo-back-jorge-jesus-after-spectacular-fall-out/",
+    "image": null
   },
   "topStories": [
     {
       "id": "story-1",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "The Guardian",
+      "time": "Oct 1",
+      "headline": "Manchester City scandal latest as Pep Guardiola speaks | Football Weekly – video",
+      "excerpt": "<p><a href=\"https://bsky.app/profile/maxrushden.bsky.social\">Max Rushden</a> is joined by <a href=\"https://bsky.app/profile/barryglendenning.bsky.social\">Barry Glendenning</a>, <a href=\"https://bsky.app/profile/philippeauclair.bsky.social\">Philippe Auclair</a> and <a href=\"https://bsky.app/profile/alimaxwell.bsky.social\">Ali…",
+      "link": "https://www.theguardian.com/football/video/2026/oct/01/manchester-city-scandal-latest-as-pep-guardiola-speaks-football-weekly-video",
+      "image": "https://i.guim.co.uk/img/media/f8fa995ecebcbe4e037f107533da18371e1d2409/1171_0_3822_3058/master/3822.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=51e6e811690a99b8ae4463c28bde7499"
+    },
+    {
+      "id": "story-2",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "The Guardian",
+      "time": "Oct 1",
+      "headline": "United States lined up to host first Women’s Club World Cup",
+      "excerpt": "<ul><li><p>LA and San Diego among favoured host cities for 2028</p></li><li><p>19-team event would go ahead without…",
+      "link": "https://www.theguardian.com/football/2026/oct/01/united-states-host-first-womens-club-world-cup-football",
+      "image": "https://i.guim.co.uk/img/media/5f60f18a0aee425444ef3a951054fd8858e60787/785_0_6448_5160/master/6448.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=48268d0bc616cc5a59a26bee14b22a27"
+    },
+    {
+      "id": "story-3",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "BBC Sport",
+      "time": "Oct 1",
+      "headline": "Hull's Gourna-Douath crashes near training ground",
+      "excerpt": "The crash, involving Lucas Gourna-Douath, follows a similar incident involving Sorba Thomas.",
+      "link": "https://www.bbc.co.uk/news/articles/cm89j90gv57vo?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e204/live/e4b301c0-bd86-11f1-ab03-fd866f8788d0.png"
+    },
+    {
+      "id": "story-4",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "The Guardian",
+      "time": "Oct 1",
+      "headline": "England forward Ivan Toney pleads not guilty to Soho nightclub assault",
+      "excerpt": "<ul><li><p>Striker accused of headbutting and punching man</p></li><li><p>Elected for crown court trial in front of judge…",
+      "link": "https://www.theguardian.com/football/2026/oct/01/ivan-toney-pleads-not-guilty-to-soho-nightclub-assault",
+      "image": "https://i.guim.co.uk/img/media/77e0e5f557df54958ea9b839a5408507e81cccaf/441_34_2259_1807/master/2259.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=5a156a3ef4dd0d728fb48581fd0910f2"
+    },
+    {
+      "id": "story-5",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "BBC Sport",
+      "time": "Oct 1",
+      "headline": "Troubled Gateshead fail to pay September wages",
+      "excerpt": "Gateshead's players and staff do not receive their September wages on time in the same…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/ck86x60nv5z0o?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f87f/live/ccd34e20-bd8b-11f1-b442-f3f672c979ff.jpg"
+    },
+    {
+      "id": "story-6",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -24,18 +79,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ab72/live/3cc2a5a0-bd87-11f1-ab03-fd866f8788d0.jpg"
     },
     {
-      "id": "story-2",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "101 Great Goals",
-      "time": "Oct 1",
-      "headline": "Tip of the Day: Nations League and Grand Prix darts the focus of our three-leg acca",
-      "excerpt": "Our Tip of the Day is centred around action from the Nations League and the…",
-      "link": "https://www.101greatgoals.com/football/internationals/tip-of-the-day/",
-      "image": null
-    },
-    {
-      "id": "story-3",
+      "id": "story-7",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -46,7 +90,7 @@
       "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0pdctsy.jpg"
     },
     {
-      "id": "story-4",
+      "id": "story-8",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -57,7 +101,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c221/live/851f86b0-bd82-11f1-add9-b18e6ea43b60.jpg"
     },
     {
-      "id": "story-5",
+      "id": "story-9",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -68,7 +112,7 @@
       "image": "https://i.guim.co.uk/img/media/01c1a2637b97c09abba8a373ea348e6dcdaa204b/0_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=dc28a0a70982fc89710d8de7243911c1"
     },
     {
-      "id": "story-6",
+      "id": "story-10",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "The Guardian",
@@ -79,7 +123,7 @@
       "image": "https://i.guim.co.uk/img/media/834764456883e5ca6c36b62a6193918c9dc3d853/609_0_4464_3571/master/4464.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ed05489358c0792000748bccce8e75f5"
     },
     {
-      "id": "story-7",
+      "id": "story-11",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -90,7 +134,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7ad9/live/2e98f800-bd7b-11f1-bc2e-018d645d8d21.png"
     },
     {
-      "id": "story-8",
+      "id": "story-12",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -101,7 +145,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fd37/live/43be03a0-bd22-11f1-af5a-a31326a1e777.jpg"
     },
     {
-      "id": "story-9",
+      "id": "story-13",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -112,7 +156,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cf44/live/6b0f06d0-bd7b-11f1-add9-b18e6ea43b60.jpg"
     },
     {
-      "id": "story-10",
+      "id": "story-14",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -120,10 +164,10 @@
       "headline": "Ranking the best British football exports this century",
       "excerpt": "From David Beckham and Gareth Bale to Jude Bellingham and Harry Kane, who are the…",
       "link": "https://www.bbc.co.uk/sport/football/articles/cqx2zejdk5x0o?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e4b7/live/fe01e900-bc11-11f1-bc1f-3f186ca4140c.png"
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9cfd/live/3a632120-bcdf-11f1-babe-4199b0e7ccea.jpg"
     },
     {
-      "id": "story-11",
+      "id": "story-15",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "The Guardian",
@@ -134,7 +178,7 @@
       "image": "https://i.guim.co.uk/img/media/09d64b4e9befac7f354793489483226682396437/190_0_1900_1520/master/1900.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c21ff43ce0402943a95ea10596a73d30"
     },
     {
-      "id": "story-12",
+      "id": "story-16",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "The Guardian",
@@ -145,7 +189,7 @@
       "image": "https://i.guim.co.uk/img/media/4e11fbb71625089cf83c40d80930ecd9d13bf33d/450_0_5800_4640/master/5800.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e2242599ddc7b2faa3056cd0bd4dcc18"
     },
     {
-      "id": "story-13",
+      "id": "story-17",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -156,7 +200,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6afd/live/a78fbda0-bd73-11f1-8134-9503562e5ca9.jpg"
     },
     {
-      "id": "story-14",
+      "id": "story-18",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -167,7 +211,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6afd/live/a78fbda0-bd73-11f1-8134-9503562e5ca9.jpg"
     },
     {
-      "id": "story-15",
+      "id": "story-19",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -178,7 +222,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/63fc/live/0fd426b0-bbe6-11f1-bfea-9d5bb7e7d40b.jpg"
     },
     {
-      "id": "story-16",
+      "id": "story-20",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -189,7 +233,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/035e/live/8596bf90-bc2f-11f1-bc1f-3f186ca4140c.png"
     },
     {
-      "id": "story-17",
+      "id": "story-21",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -200,7 +244,7 @@
       "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0pdbfn2.jpg"
     },
     {
-      "id": "story-18",
+      "id": "story-22",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -211,7 +255,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/59e2/live/840b2560-bd12-11f1-88b1-671c34af7444.jpg"
     },
     {
-      "id": "story-19",
+      "id": "story-23",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -220,50 +264,6 @@
       "excerpt": "BBC Sport NI spends the day at the IFA JD Academy Residential at Campbell College…",
       "link": "https://www.bbc.co.uk/sport/football/articles/crpd0ww7z7n9o?at_medium=RSS&amp;at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bf8f/live/c79fcbd0-bd14-11f1-80fb-f1c05882e774.jpg"
-    },
-    {
-      "id": "story-20",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "BBC Sport",
-      "time": "Oct 1",
-      "headline": "Money, family and sexism - why the number of women coaches is dropping",
-      "excerpt": "Despite recent on-pitch successes and increased media exposure for women's sport in the UK, major…",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cwz0z2en8xxno?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c749/live/0b39d6c0-bb25-11f1-97b0-3f86b3abbccc.jpg"
-    },
-    {
-      "id": "story-21",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "BBC Sport",
-      "time": "Oct 1",
-      "headline": "Unwell Nygren isolating on international duty - gossip",
-      "excerpt": "Celtic midfielder unwell on international duty, Dundee look at free agent market and Arbroath snap…",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cqn0jdnne1d4o?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/90ad/live/86097f10-bd62-11f1-a64c-550be9e3c66b.png"
-    },
-    {
-      "id": "story-22",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "BBC Sport",
-      "time": "Oct 1",
-      "headline": "You are the Scotland boss - what would you do?",
-      "excerpt": "Put yourself in the shoes of the new Scotland head coach Sebastien Pocognoli as he…",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cq7702pre6l4o?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/78b7/live/86435770-b746-11f1-8846-e70401199dae.jpg"
-    },
-    {
-      "id": "story-23",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "BBC Sport",
-      "time": "Oct 1",
-      "headline": "You are the Scotland boss - what would you do for North Macedonia trip?",
-      "excerpt": "Put yourself in the shoes of the new Scotland head coach Sebastien Pocognoli as he…",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cq7702pre6l4o?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/78b7/live/86435770-b746-11f1-8846-e70401199dae.jpg"
     }
   ],
   "scoreboard": []
