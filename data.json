@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-10-01T19:56:18.402Z",
+  "updatedAt": "2026-10-01T20:05:58.959Z",
   "hero": {
     "id": "story-0",
-    "league": "Premier League",
-    "dot": "#9CC0F0",
-    "source": "BBC Sport",
+    "league": "Football",
+    "dot": "#AFC4AC",
+    "source": "The Guardian",
     "time": "Oct 1",
-    "headline": "Real Madrid keen on Quansah - Friday's gossip",
-    "excerpt": "Real Madrid are keen on Bayer Leverkusen's Jarell Quansah, Liverpool are monitoring Club Tijuana's teenage…",
-    "link": "https://www.bbc.co.uk/sport/football/articles/cw8r6r0pdkyzo?at_medium=RSS&amp;at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/75ef/live/6b7db870-bdce-11f1-bc2e-018d645d8d21.png"
+    "headline": "Wales v Norway, Denmark v Portugal, Germany v Serbia: Nations League – live",
+    "excerpt": "<ul><li><p>All the latest news from the 7.45pm BST kick-offs</p></li><li><p><a href=\"https://www.theguardian.com/football/live\">Live scores</a> | <a href=\"https://www.theguardian.com/football/nations-league/table\">Nations League…",
+    "link": "https://www.theguardian.com/football/live/2026/oct/01/wales-norway-denmark-portugal-germany-serbia-nations-league-live",
+    "image": "https://i.guim.co.uk/img/media/fc5b47815ee51df1b9a1bbb7602e7841b5ae602c/297_0_2263_1812/master/2263.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e99ae2155673793a88e618eb203ad2d4"
   },
   "topStories": [
     {
@@ -21,18 +21,18 @@
       "headline": "Manchester City v Real Madrid: Women’s Champions League – live",
       "excerpt": "<p>⚽ Champions League updates from the 8pm BST kick-off<br>⚽ <a href=\"https://www.theguardian.com/football/live\">Live scores</a> | <a href=\"https://www.theguardian.com/football/2026/oct/01/womens-ballon-dor-2026-power-rankings-will-a-new-winner-be-crowned\">Ballon…",
       "link": "https://www.theguardian.com/football/live/2026/oct/01/manchester-city-v-real-madrid-womens-champions-league-live",
-      "image": "https://i.guim.co.uk/img/media/572f7773d528a739bfc6188a9393c767934cdd2b/224_28_2413_1932/master/2413.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=8737a54ef020d93147d0db152b8e2262"
+      "image": "https://i.guim.co.uk/img/media/75c429bd6fec6d806973ef6d9fa381b8cbaaddc6/101_0_2108_1686/master/2108.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c9f847ed06703be1fc47243b978c4bed"
     },
     {
       "id": "story-2",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "The Guardian",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "BBC Sport",
       "time": "Oct 1",
-      "headline": "Wales v Norway, Denmark v Portugal, Germany v Serbia: Nations League – live",
-      "excerpt": "<ul><li><p>All the latest news from the 7.45pm BST kick-offs</p></li><li><p><a href=\"https://www.theguardian.com/football/live\">Live scores</a> | <a href=\"https://www.theguardian.com/football/nations-league/table\">Nations League…",
-      "link": "https://www.theguardian.com/football/live/2026/oct/01/wales-norway-denmark-portugal-germany-serbia-nations-league-live",
-      "image": "https://i.guim.co.uk/img/media/fc5b47815ee51df1b9a1bbb7602e7841b5ae602c/297_0_2263_1812/master/2263.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e99ae2155673793a88e618eb203ad2d4"
+      "headline": "Real Madrid keen on Quansah - Friday's gossip",
+      "excerpt": "Real Madrid are keen on Bayer Leverkusen's Jarell Quansah, Liverpool are monitoring Club Tijuana's teenage…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cw8r6r0pdkyzo?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/75ef/live/6b7db870-bdce-11f1-bc2e-018d645d8d21.png"
     },
     {
       "id": "story-3",
