@@ -1,19 +1,30 @@
 {
-  "updatedAt": "2026-10-01T15:53:18.736Z",
+  "updatedAt": "2026-10-01T16:02:11.420Z",
   "hero": {
     "id": "story-0",
     "league": "Premier League",
     "dot": "#9CC0F0",
-    "source": "The Guardian",
+    "source": "101 Great Goals",
     "time": "Oct 1",
-    "headline": "Andy Burnham’s Manchester City comments stir fresh tensions with Premier League",
-    "excerpt": "<ul><li><p>Government said to be unhappy at lack of warning</p></li><li><p>Burnham previously criticised league’s Everton sanction</p></li></ul><p>Andy Burnham’s…",
-    "link": "https://www.theguardian.com/football/2026/oct/01/andy-burnhams-manchester-city-comments-stir-fresh-tensions-with-premier-league",
-    "image": "https://i.guim.co.uk/img/media/a152c3623ce8ee75501f12b728be3fc569a2fdf4/256_78_1196_957/master/1196.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=68364b9f61f11f42c3d7d8c597129bcd"
+    "headline": "Tottenham chief backs Roberto De Zerbi despite winless Premier League start",
+    "excerpt": "Roberto De Zerbi still has the backing of the Tottenham hierarchy.",
+    "link": "https://www.101greatgoals.com/football/premier-league/tottenham-chief-backs-roberto-de-zerbi/",
+    "image": null
   },
   "topStories": [
     {
       "id": "story-1",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "The Guardian",
+      "time": "Oct 1",
+      "headline": "Andy Burnham’s Manchester City comments stir fresh tensions with Premier League",
+      "excerpt": "<ul><li><p>Government said to be unhappy at lack of warning</p></li><li><p>Burnham previously criticised league’s Everton sanction</p></li></ul><p>Andy Burnham’s…",
+      "link": "https://www.theguardian.com/football/2026/oct/01/andy-burnhams-manchester-city-comments-stir-fresh-tensions-with-premier-league",
+      "image": "https://i.guim.co.uk/img/media/a152c3623ce8ee75501f12b728be3fc569a2fdf4/256_78_1196_957/master/1196.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=68364b9f61f11f42c3d7d8c597129bcd"
+    },
+    {
+      "id": "story-2",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -24,7 +35,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e861/live/18b03290-bda5-11f1-8373-27235719cf2a.jpg"
     },
     {
-      "id": "story-2",
+      "id": "story-3",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -33,17 +44,6 @@
       "excerpt": "Manchester City's appeal against the Premier League's verdict hinges on the club's claim that its…",
       "link": "https://www.bbc.co.uk/sport/football/articles/cjkg7g93y5yno?at_medium=RSS&amp;at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eda1/live/922cde20-bdaa-11f1-8373-27235719cf2a.jpg"
-    },
-    {
-      "id": "story-3",
-      "league": "La Liga",
-      "dot": "#E3B4F5",
-      "source": "101 Great Goals",
-      "time": "Oct 1",
-      "headline": "Negreira case: UEFA looking into Barcelona documents",
-      "excerpt": "Real Madrid believe payments made by Barca helped them on the pitch",
-      "link": "https://www.101greatgoals.com/news/negreira-case-uefa-looking-into-barcelona-documents/",
-      "image": null
     },
     {
       "id": "story-4",
