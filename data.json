@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-01T12:43:07.364Z",
+  "updatedAt": "2026-10-01T13:00:45.328Z",
   "hero": {
     "id": "story-0",
     "league": "Premier League",
@@ -41,7 +41,7 @@
       "source": "The Guardian",
       "time": "Oct 1",
       "headline": "United States lined up to host first Women’s Club World Cup",
-      "excerpt": "<ul><li><p>LA and San Diego among favoured host cities for 2028</p></li><li><p>19-team event would go ahead without…",
+      "excerpt": "<ul><li><p>LA and San Diego among favoured host cities for 2028</p></li><li><p>Tournament would include nineteen teams</p></li></ul><p>The United…",
       "link": "https://www.theguardian.com/football/2026/oct/01/united-states-host-first-womens-club-world-cup-football",
       "image": "https://i.guim.co.uk/img/media/5f60f18a0aee425444ef3a951054fd8858e60787/785_0_6448_5160/master/6448.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=48268d0bc616cc5a59a26bee14b22a27"
     },
@@ -51,7 +51,7 @@
       "dot": "#AFC4AC",
       "source": "BBC Sport",
       "time": "Oct 1",
-      "headline": "Hull's Gourna-Douath crashes near training ground",
+      "headline": "Second Hull City player crashes near training ground",
       "excerpt": "The crash, involving Lucas Gourna-Douath, follows a similar incident involving Sorba Thomas.",
       "link": "https://www.bbc.co.uk/news/articles/cm89j90gv57vo?at_medium=RSS&amp;at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e204/live/e4b301c0-bd86-11f1-ab03-fd866f8788d0.png"
