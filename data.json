@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-10-01T20:23:25.555Z",
+  "updatedAt": "2026-10-01T20:38:46.315Z",
   "hero": {
     "id": "story-0",
     "league": "Premier League",
     "dot": "#9CC0F0",
-    "source": "The Guardian",
+    "source": "101 Great Goals",
     "time": "Oct 1",
-    "headline": "Manchester City v Real Madrid: Women’s Champions League – live",
-    "excerpt": "<p>⚽ Champions League updates from the 8pm BST kick-off<br>⚽ <a href=\"https://www.theguardian.com/football/live\">Live scores</a> | <a href=\"https://www.theguardian.com/football/2026/oct/01/womens-ballon-dor-2026-power-rankings-will-a-new-winner-be-crowned\">Ballon…",
-    "link": "https://www.theguardian.com/football/live/2026/oct/01/manchester-city-v-real-madrid-womens-champions-league-live",
-    "image": "https://i.guim.co.uk/img/media/75c429bd6fec6d806973ef6d9fa381b8cbaaddc6/101_0_2108_1686/master/2108.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c9f847ed06703be1fc47243b978c4bed"
+    "headline": "Germany 2-0 Serbia: Wirtz shines as Klopp delivers his first win",
+    "excerpt": "Liverpool playmaker scores superb goal in maiden Klopp win",
+    "link": "https://www.101greatgoals.com/match-reports/germany-2-0-serbia-wirtz-shines-as-klopp-delivers-his-first-win/",
+    "image": null
   },
   "topStories": [
     {
@@ -27,23 +27,23 @@
       "id": "story-2",
       "league": "Premier League",
       "dot": "#9CC0F0",
+      "source": "The Guardian",
+      "time": "Oct 1",
+      "headline": "Manchester City v Real Madrid: Women’s Champions League – live",
+      "excerpt": "<p>⚽ Champions League updates from the 8pm BST kick-off<br>⚽ <a href=\"https://www.theguardian.com/football/live\">Live scores</a> | <a href=\"https://www.theguardian.com/football/2026/oct/01/womens-ballon-dor-2026-power-rankings-will-a-new-winner-be-crowned\">Ballon…",
+      "link": "https://www.theguardian.com/football/live/2026/oct/01/manchester-city-v-real-madrid-womens-champions-league-live",
+      "image": "https://i.guim.co.uk/img/media/45a3a6c90519cc375dcd3767cdb052bf789ea156/917_200_2355_1884/master/2355.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=57fd643969a85e018388de55377c75bf"
+    },
+    {
+      "id": "story-3",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
       "source": "BBC Sport",
       "time": "Oct 1",
       "headline": "Real Madrid keen on Quansah - Friday's gossip",
       "excerpt": "Real Madrid are keen on Bayer Leverkusen's Jarell Quansah, Liverpool are monitoring Club Tijuana's teenage…",
       "link": "https://www.bbc.co.uk/sport/football/articles/cw8r6r0pdkyzo?at_medium=RSS&amp;at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/75ef/live/6b7db870-bdce-11f1-bc2e-018d645d8d21.png"
-    },
-    {
-      "id": "story-3",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "101 Great Goals",
-      "time": "Oct 1",
-      "headline": "Ramos stars as Portugal put Ronaldo drama behind them against Denmark",
-      "excerpt": "Ramos put Portugal on course to maintain their perfect Nations League record.",
-      "link": "https://www.101greatgoals.com/football/internationals/ramos-portugal-ronaldo-drama-behind-them/",
-      "image": null
     },
     {
       "id": "story-4",
