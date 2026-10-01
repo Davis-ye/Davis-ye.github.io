@@ -1,27 +1,27 @@
 {
-  "updatedAt": "2026-10-01T20:05:58.959Z",
+  "updatedAt": "2026-10-01T20:23:25.555Z",
   "hero": {
     "id": "story-0",
-    "league": "Football",
-    "dot": "#AFC4AC",
+    "league": "Premier League",
+    "dot": "#9CC0F0",
     "source": "The Guardian",
     "time": "Oct 1",
-    "headline": "Wales v Norway, Denmark v Portugal, Germany v Serbia: Nations League – live",
-    "excerpt": "<ul><li><p>All the latest news from the 7.45pm BST kick-offs</p></li><li><p><a href=\"https://www.theguardian.com/football/live\">Live scores</a> | <a href=\"https://www.theguardian.com/football/nations-league/table\">Nations League…",
-    "link": "https://www.theguardian.com/football/live/2026/oct/01/wales-norway-denmark-portugal-germany-serbia-nations-league-live",
-    "image": "https://i.guim.co.uk/img/media/fc5b47815ee51df1b9a1bbb7602e7841b5ae602c/297_0_2263_1812/master/2263.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e99ae2155673793a88e618eb203ad2d4"
+    "headline": "Manchester City v Real Madrid: Women’s Champions League – live",
+    "excerpt": "<p>⚽ Champions League updates from the 8pm BST kick-off<br>⚽ <a href=\"https://www.theguardian.com/football/live\">Live scores</a> | <a href=\"https://www.theguardian.com/football/2026/oct/01/womens-ballon-dor-2026-power-rankings-will-a-new-winner-be-crowned\">Ballon…",
+    "link": "https://www.theguardian.com/football/live/2026/oct/01/manchester-city-v-real-madrid-womens-champions-league-live",
+    "image": "https://i.guim.co.uk/img/media/75c429bd6fec6d806973ef6d9fa381b8cbaaddc6/101_0_2108_1686/master/2108.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c9f847ed06703be1fc47243b978c4bed"
   },
   "topStories": [
     {
       "id": "story-1",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
+      "league": "Football",
+      "dot": "#AFC4AC",
       "source": "The Guardian",
       "time": "Oct 1",
-      "headline": "Manchester City v Real Madrid: Women’s Champions League – live",
-      "excerpt": "<p>⚽ Champions League updates from the 8pm BST kick-off<br>⚽ <a href=\"https://www.theguardian.com/football/live\">Live scores</a> | <a href=\"https://www.theguardian.com/football/2026/oct/01/womens-ballon-dor-2026-power-rankings-will-a-new-winner-be-crowned\">Ballon…",
-      "link": "https://www.theguardian.com/football/live/2026/oct/01/manchester-city-v-real-madrid-womens-champions-league-live",
-      "image": "https://i.guim.co.uk/img/media/75c429bd6fec6d806973ef6d9fa381b8cbaaddc6/101_0_2108_1686/master/2108.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c9f847ed06703be1fc47243b978c4bed"
+      "headline": "Ireland game interrupted by Palestine protests, Wales v Norway, Denmark v Portugal: Nations League – live",
+      "excerpt": "<ul><li><p>All the latest news from the 7.45pm BST kick-offs</p></li><li><p><a href=\"https://www.theguardian.com/football/live\">Live scores</a> | <a href=\"https://www.theguardian.com/football/nations-league/table\">Nations League…",
+      "link": "https://www.theguardian.com/football/live/2026/oct/01/wales-norway-denmark-portugal-germany-serbia-nations-league-live",
+      "image": "https://i.guim.co.uk/img/media/37d91a77b9dec6dee85b5cb4664de9bb08ee936d/220_50_4371_3497/master/4371.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=63949cd633066f8468f543a5d8258211"
     },
     {
       "id": "story-2",
