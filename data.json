@@ -1,19 +1,30 @@
 {
-  "updatedAt": "2026-10-01T09:37:24.407Z",
+  "updatedAt": "2026-10-01T09:52:26.365Z",
   "hero": {
     "id": "story-0",
     "league": "Football",
     "dot": "#AFC4AC",
     "source": "BBC Sport",
     "time": "Oct 1",
-    "headline": "Ivan Toney denies Soho nightclub assault",
-    "excerpt": "England striker Ivan Toney pleads not guilty to assaulting a man at a Soho nightclub…",
-    "link": "https://www.bbc.co.uk/news/articles/crkgwglz4dd5o?at_medium=RSS&amp;at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1a2d/live/537ff930-6139-11ee-b101-6f93d6dfbcc2.png"
+    "headline": "Curtis shines as revamped Scotland youth set up begins",
+    "excerpt": "Amidst a raft of coaching changes in Scotland's youth set up, the under-21s delivered an…",
+    "link": "https://www.bbc.co.uk/sport/football/articles/c6vgy2j0919do?at_medium=RSS&amp;at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fd37/live/43be03a0-bd22-11f1-af5a-a31326a1e777.jpg"
   },
   "topStories": [
     {
       "id": "story-1",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "BBC Sport",
+      "time": "Oct 1",
+      "headline": "Ivan Toney denies Soho nightclub assault",
+      "excerpt": "England striker Ivan Toney pleads not guilty to assaulting a man at a Soho nightclub…",
+      "link": "https://www.bbc.co.uk/news/articles/crkgwglz4dd5o?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cf44/live/6b0f06d0-bd7b-11f1-add9-b18e6ea43b60.jpg"
+    },
+    {
+      "id": "story-2",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -24,7 +35,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e4b7/live/fe01e900-bc11-11f1-bc1f-3f186ca4140c.png"
     },
     {
-      "id": "story-2",
+      "id": "story-3",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "The Guardian",
@@ -35,7 +46,7 @@
       "image": "https://i.guim.co.uk/img/media/09d64b4e9befac7f354793489483226682396437/190_0_1900_1520/master/1900.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c21ff43ce0402943a95ea10596a73d30"
     },
     {
-      "id": "story-3",
+      "id": "story-4",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "The Guardian",
@@ -46,7 +57,7 @@
       "image": "https://i.guim.co.uk/img/media/4e11fbb71625089cf83c40d80930ecd9d13bf33d/450_0_5800_4640/master/5800.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e2242599ddc7b2faa3056cd0bd4dcc18"
     },
     {
-      "id": "story-4",
+      "id": "story-5",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -57,7 +68,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6afd/live/a78fbda0-bd73-11f1-8134-9503562e5ca9.jpg"
     },
     {
-      "id": "story-5",
+      "id": "story-6",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -68,7 +79,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6afd/live/a78fbda0-bd73-11f1-8134-9503562e5ca9.jpg"
     },
     {
-      "id": "story-6",
+      "id": "story-7",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "101 Great Goals",
@@ -79,7 +90,7 @@
       "image": null
     },
     {
-      "id": "story-7",
+      "id": "story-8",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -90,7 +101,18 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/63fc/live/0fd426b0-bbe6-11f1-bfea-9d5bb7e7d40b.jpg"
     },
     {
-      "id": "story-8",
+      "id": "story-9",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "101 Great Goals",
+      "time": "Oct 1",
+      "headline": "No Messi, no problem as Argentina crush sorry Bolivia",
+      "excerpt": "The first game of the post-Lionel Messi era ended in a convincing win for Argentina",
+      "link": "https://www.101greatgoals.com/football/internationals/lionel-messi-argentina-crush-sorry-bolivia/",
+      "image": null
+    },
+    {
+      "id": "story-10",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -101,18 +123,18 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/035e/live/8596bf90-bc2f-11f1-bc1f-3f186ca4140c.png"
     },
     {
-      "id": "story-9",
+      "id": "story-11",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
       "time": "Oct 1",
-      "headline": "Podcast: What's really happening at Celtic and do Scotland have a goalkeeping problem?",
+      "headline": "What's really happening at Celtic & do Scotland have goalkeeping problem?",
       "excerpt": "Do Scotland have a goalkeeping problem and Celtic's manager wait.",
       "link": "https://www.bbc.co.uk/sounds/play/p0pdbfhp?at_medium=RSS&amp;at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0pdbfn2.jpg"
     },
     {
-      "id": "story-10",
+      "id": "story-12",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -123,7 +145,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/59e2/live/840b2560-bd12-11f1-88b1-671c34af7444.jpg"
     },
     {
-      "id": "story-11",
+      "id": "story-13",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -134,7 +156,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bf8f/live/c79fcbd0-bd14-11f1-80fb-f1c05882e774.jpg"
     },
     {
-      "id": "story-12",
+      "id": "story-14",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -145,7 +167,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c749/live/0b39d6c0-bb25-11f1-97b0-3f86b3abbccc.jpg"
     },
     {
-      "id": "story-13",
+      "id": "story-15",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -156,7 +178,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/90ad/live/86097f10-bd62-11f1-a64c-550be9e3c66b.png"
     },
     {
-      "id": "story-14",
+      "id": "story-16",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -167,7 +189,18 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/78b7/live/86435770-b746-11f1-8846-e70401199dae.jpg"
     },
     {
-      "id": "story-15",
+      "id": "story-17",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "BBC Sport",
+      "time": "Oct 1",
+      "headline": "You are the Scotland boss - what would you do for North Macedonia trip?",
+      "excerpt": "Put yourself in the shoes of the new Scotland head coach Sebastien Pocognoli as he…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cq7702pre6l4o?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/78b7/live/86435770-b746-11f1-8846-e70401199dae.jpg"
+    },
+    {
+      "id": "story-18",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -178,7 +211,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ab34/live/a31cc5b0-bc0b-11f1-a524-3125ac41b7f5.jpg"
     },
     {
-      "id": "story-16",
+      "id": "story-19",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -189,7 +222,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ada7/live/27df4c70-9658-11f1-b2ab-0dd01740f9f6.jpg"
     },
     {
-      "id": "story-17",
+      "id": "story-20",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -200,7 +233,18 @@
       "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0p4zrww.jpg"
     },
     {
-      "id": "story-18",
+      "id": "story-21",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "101 Great Goals",
+      "time": "Sep 30",
+      "headline": "Man City whistleblower: Infantino helped club avoid sanctions and should have &#8216;no place in football&#8217;",
+      "excerpt": "The whistleblower who exposed Manchester City&#8217;s serious financial breaches says FIFA president Gianni Infantino helped…",
+      "link": "https://www.101greatgoals.com/football/premier-league/man-city-whistleblower-infantino-helped-club-avoid-sanctions-and-should-have-no-place-in-football/",
+      "image": null
+    },
+    {
+      "id": "story-22",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -211,7 +255,7 @@
       "image": "https://i.guim.co.uk/img/media/f94ebfe542d772aee043421d8b9ec8d41c3dfc87/836_0_6114_4892/master/6114.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=14cb51b21d079a03cf05013b25b3d943"
     },
     {
-      "id": "story-19",
+      "id": "story-23",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -220,50 +264,6 @@
       "excerpt": "Chelsea have a penalty overturned by VAR, while Lauren James and Maika Hamano come close…",
       "link": "https://www.bbc.co.uk/sport/football/videos/cr86x8n80572o?at_medium=RSS&amp;at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3ed8/live/d625e7c0-bd14-11f1-a64c-550be9e3c66b.jpg"
-    },
-    {
-      "id": "story-20",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "The Guardian",
-      "time": "Sep 30",
-      "headline": "Hampton’s heroics preserve WCL point for Chelsea on Bompastor’s OL Lyonnes return",
-      "excerpt": "<p>There were plenty of encouraging signs for Chelsea as they claimed a valuable point in…",
-      "link": "https://www.theguardian.com/football/2026/sep/30/ol-lyonnes-chelsea-womens-champions-league-match-report",
-      "image": "https://i.guim.co.uk/img/media/dd5aa86350fbefc980f8d50bda052cbf0f619217/593_0_5925_4740/master/5925.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=bc79ffd2d8396b0a99335673b1cdffcd"
-    },
-    {
-      "id": "story-21",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "BBC Sport",
-      "time": "Sep 30",
-      "headline": "Meet the only Scot managing a national team in world football",
-      "excerpt": "More than 4,000 miles from his native Dundee, Kurt Herd is flying the flag for…",
-      "link": "https://www.bbc.co.uk/sport/football/articles/ck3reye2vnypo?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c30c/live/9f3fe530-b990-11f1-afe7-6566e301a06f.jpg"
-    },
-    {
-      "id": "story-22",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "BBC Sport",
-      "time": "Sep 30",
-      "headline": "Punish Man City this season, say other club chiefs",
-      "excerpt": "Manchester City's punishment for breaching Premier League rules should be handed down before the end…",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c6vgyg3zv3kwo?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ebff/live/69ca0bb0-bd23-11f1-b3b7-a16fdfb382f9.jpg"
-    },
-    {
-      "id": "story-23",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "BBC Sport",
-      "time": "Sep 30",
-      "headline": "Liverpool contenders for Schade - Thursday's gossip",
-      "excerpt": "Germany forward Kevin Schade is wanted by Liverpool, Erling Haaland and Phil Foden are among…",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c3ew9vv7444xo?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d297/live/e5e71cc0-bd09-11f1-a64c-550be9e3c66b.png"
     }
   ],
   "scoreboard": []
