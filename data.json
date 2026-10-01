@@ -1,19 +1,41 @@
 {
-  "updatedAt": "2026-10-01T14:40:35.272Z",
+  "updatedAt": "2026-10-01T14:54:46.898Z",
   "hero": {
     "id": "story-0",
     "league": "Football",
     "dot": "#AFC4AC",
     "source": "BBC Sport",
     "time": "Oct 1",
-    "headline": "How author Stephen King is helping keep Highland League side going",
-    "excerpt": "Buckie Thistle thank famous horror writer Stephen King for his \"fantastic\" donation towards a fundraising…",
-    "link": "https://www.bbc.co.uk/sport/football/articles/cw804037yy9eo?at_medium=RSS&amp;at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2da9/live/a7737480-bd9e-11f1-8373-27235719cf2a.jpg"
+    "headline": "Injured O'Reilly withdraws from England squad",
+    "excerpt": "Nico O'Reilly withdraws from the England squad for their final two Nations League games of…",
+    "link": "https://www.bbc.co.uk/sport/football/articles/c6kg0gkjngzmo?at_medium=RSS&amp;at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f07b/live/12df77b0-bda3-11f1-8373-27235719cf2a.jpg"
   },
   "topStories": [
     {
       "id": "story-1",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "BBC Sport",
+      "time": "Oct 1",
+      "headline": "Bristol Rovers' Raynor diagnosed with bowel cancer",
+      "excerpt": "Bristol Rovers assistant head coach Paul Raynor reveals he has been diagnosed with bowel cancer.",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cmwyzynggvy5o?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fe96/live/ae273930-bd9c-11f1-9a76-4118bb2c2e43.jpg"
+    },
+    {
+      "id": "story-2",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "BBC Sport",
+      "time": "Oct 1",
+      "headline": "How author Stephen King is helping keep Highland League side going",
+      "excerpt": "Buckie Thistle thank famous horror writer Stephen King for his \"fantastic\" donation towards a fundraising…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cw804037yy9eo?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2da9/live/a7737480-bd9e-11f1-8373-27235719cf2a.jpg"
+    },
+    {
+      "id": "story-3",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "101 Great Goals",
@@ -24,7 +46,7 @@
       "image": null
     },
     {
-      "id": "story-2",
+      "id": "story-4",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -35,7 +57,7 @@
       "image": "https://i.guim.co.uk/img/media/ff57625f54c149248f38a61994c78470502058c9/276_0_3038_2430/master/3038.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=2498cbeab40bca5cb174d99dd8ee851f"
     },
     {
-      "id": "story-3",
+      "id": "story-5",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -46,7 +68,18 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7606/live/a3446640-bd9d-11f1-9a76-4118bb2c2e43.jpg"
     },
     {
-      "id": "story-4",
+      "id": "story-6",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "The Guardian",
+      "time": "Oct 1",
+      "headline": "Football Daily | An impressive new entry for the Cristiano Ronaldo catalogue of petulance",
+      "excerpt": "<p><a href=\"https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up\"><strong>Sign up now! Sign up now! Sign up now? Sign up now!</strong></a></p><p>When Jorge Jesus…",
+      "link": "https://www.theguardian.com/football/2026/oct/01/football-daily-newsletter-cristiano-ronaldo-portugal",
+      "image": "https://i.guim.co.uk/img/media/2342d3e038952f1a339d6c4d7fafaee2ff0f29b8/1062_51_2894_2315/master/2894.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=7b3ed5a6d14338fd5b3af411c48181a5"
+    },
+    {
+      "id": "story-7",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -57,7 +90,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/81c5/live/0dc2d520-bda2-11f1-8373-27235719cf2a.jpg"
     },
     {
-      "id": "story-5",
+      "id": "story-8",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -68,7 +101,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/81c5/live/0dc2d520-bda2-11f1-8373-27235719cf2a.jpg"
     },
     {
-      "id": "story-6",
+      "id": "story-9",
       "league": "La Liga",
       "dot": "#E3B4F5",
       "source": "The Guardian",
@@ -79,7 +112,7 @@
       "image": "https://i.guim.co.uk/img/media/74404c0749a41958b3ce6bb11995f50f2105424f/556_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=2c91dd255e778cc1eaaa27bf61f289b0"
     },
     {
-      "id": "story-7",
+      "id": "story-10",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -90,7 +123,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1e6b/live/93b07620-bcd4-11f1-9f83-d9975ff80416.jpg"
     },
     {
-      "id": "story-8",
+      "id": "story-11",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -101,7 +134,7 @@
       "image": "https://i.guim.co.uk/img/media/f8fa995ecebcbe4e037f107533da18371e1d2409/1171_0_3822_3058/master/3822.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=51e6e811690a99b8ae4463c28bde7499"
     },
     {
-      "id": "story-9",
+      "id": "story-12",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "The Guardian",
@@ -112,7 +145,7 @@
       "image": "https://i.guim.co.uk/img/media/5f60f18a0aee425444ef3a951054fd8858e60787/785_0_6448_5160/master/6448.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=48268d0bc616cc5a59a26bee14b22a27"
     },
     {
-      "id": "story-10",
+      "id": "story-13",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -123,7 +156,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e204/live/e4b301c0-bd86-11f1-ab03-fd866f8788d0.png"
     },
     {
-      "id": "story-11",
+      "id": "story-14",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "The Guardian",
@@ -134,7 +167,7 @@
       "image": "https://i.guim.co.uk/img/media/77e0e5f557df54958ea9b839a5408507e81cccaf/441_34_2259_1807/master/2259.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=5a156a3ef4dd0d728fb48581fd0910f2"
     },
     {
-      "id": "story-12",
+      "id": "story-15",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -145,7 +178,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f87f/live/ccd34e20-bd8b-11f1-b442-f3f672c979ff.jpg"
     },
     {
-      "id": "story-13",
+      "id": "story-16",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -156,7 +189,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ab72/live/3cc2a5a0-bd87-11f1-ab03-fd866f8788d0.jpg"
     },
     {
-      "id": "story-14",
+      "id": "story-17",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -167,7 +200,7 @@
       "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0pdctsy.jpg"
     },
     {
-      "id": "story-15",
+      "id": "story-18",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -178,7 +211,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c221/live/851f86b0-bd82-11f1-add9-b18e6ea43b60.jpg"
     },
     {
-      "id": "story-16",
+      "id": "story-19",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -189,7 +222,7 @@
       "image": "https://i.guim.co.uk/img/media/01c1a2637b97c09abba8a373ea348e6dcdaa204b/0_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=dc28a0a70982fc89710d8de7243911c1"
     },
     {
-      "id": "story-17",
+      "id": "story-20",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "The Guardian",
@@ -200,7 +233,7 @@
       "image": "https://i.guim.co.uk/img/media/834764456883e5ca6c36b62a6193918c9dc3d853/609_0_4464_3571/master/4464.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ed05489358c0792000748bccce8e75f5"
     },
     {
-      "id": "story-18",
+      "id": "story-21",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -211,7 +244,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7ad9/live/2e98f800-bd7b-11f1-bc2e-018d645d8d21.png"
     },
     {
-      "id": "story-19",
+      "id": "story-22",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -222,7 +255,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fd37/live/43be03a0-bd22-11f1-af5a-a31326a1e777.jpg"
     },
     {
-      "id": "story-20",
+      "id": "story-23",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -231,39 +264,6 @@
       "excerpt": "England striker Ivan Toney pleads not guilty to assaulting a man at a Soho nightclub…",
       "link": "https://www.bbc.co.uk/news/articles/crkgwglz4dd5o?at_medium=RSS&amp;at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cf44/live/6b0f06d0-bd7b-11f1-add9-b18e6ea43b60.jpg"
-    },
-    {
-      "id": "story-21",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "BBC Sport",
-      "time": "Oct 1",
-      "headline": "Ranking the best British football exports this century",
-      "excerpt": "From David Beckham and Gareth Bale to Jude Bellingham and Harry Kane, who are the…",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cqx2zejdk5x0o?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/125f/live/8ffec770-bd92-11f1-9a76-4118bb2c2e43.jpg"
-    },
-    {
-      "id": "story-22",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "The Guardian",
-      "time": "Oct 1",
-      "headline": "US soccer’s youth system is expensive, chaotic and overdue for reform",
-      "excerpt": "<p>World Cup setbacks have renewed concern over America’s costly, fragmented youth system. The real test…",
-      "link": "https://www.theguardian.com/football/2026/oct/01/us-soccer-youth-development-pay-to-play-travel-soccer",
-      "image": "https://i.guim.co.uk/img/media/09d64b4e9befac7f354793489483226682396437/190_0_1900_1520/master/1900.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c21ff43ce0402943a95ea10596a73d30"
-    },
-    {
-      "id": "story-23",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "The Guardian",
-      "time": "Oct 1",
-      "headline": "‘Is there still a glass ceiling? Of course’: Kazim-Richards fights for breakthrough at Crawley",
-      "excerpt": "<p>Alongside his assistant, Julian Gray, rookie manager talks about the state of play for black…",
-      "link": "https://www.theguardian.com/football/2026/oct/01/colin-kazim-richards-julian-gray-crawley-town-league-two",
-      "image": "https://i.guim.co.uk/img/media/4e11fbb71625089cf83c40d80930ecd9d13bf33d/450_0_5800_4640/master/5800.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e2242599ddc7b2faa3056cd0bd4dcc18"
     }
   ],
   "scoreboard": []
