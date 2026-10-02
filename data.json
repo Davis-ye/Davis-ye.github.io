@@ -1,27 +1,27 @@
 {
-  "updatedAt": "2026-10-02T19:33:56.734Z",
+  "updatedAt": "2026-10-02T19:48:33.200Z",
   "hero": {
     "id": "story-0",
-    "league": "Premier League",
-    "dot": "#9CC0F0",
-    "source": "BBC Sport",
+    "league": "Football",
+    "dot": "#AFC4AC",
+    "source": "The Guardian",
     "time": "Oct 2",
-    "headline": "Man City whistleblower set to lose protection amid fears for life",
-    "excerpt": "Portuguese computer hacker who released documents which led to the Premier League investigation into Manchester…",
-    "link": "https://www.bbc.co.uk/sport/football/articles/cxyvrp78ddvqo?at_medium=RSS&amp;at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c09c/live/ec8c2630-be8d-11f1-888b-4d28ea12c7e2.jpg"
+    "headline": "France v Italy: Nations League football – live",
+    "excerpt": "<p>⚽ Nations League updates from the 7.45pm BST kick-off<br>⚽ <a href=\"https://www.theguardian.com/football/fixtures\">Live scores</a> | <a href=\"https://www.theguardian.com/football/nations-league/table\">Nations…",
+    "link": "https://www.theguardian.com/football/live/2026/oct/02/france-v-italy-nations-league-football-live-score-updates",
+    "image": "https://i.guim.co.uk/img/media/e90bbca621e7079011a67e9bda24f3455fe57ce0/222_46_2786_2228/master/2786.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=38b9b20bec192f671955ad71610cab52"
   },
   "topStories": [
     {
       "id": "story-1",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "The Guardian",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "BBC Sport",
       "time": "Oct 2",
-      "headline": "France v Italy: Nations League football – live",
-      "excerpt": "<p>⚽ Nations League updates from the 7.45pm BST kick-off<br>⚽ <a href=\"https://www.theguardian.com/football/fixtures\">Live scores</a> | <a href=\"https://www.theguardian.com/football/nations-league/table\">Nations…",
-      "link": "https://www.theguardian.com/football/live/2026/oct/02/france-v-italy-nations-league-football-live-score-updates",
-      "image": "https://i.guim.co.uk/img/media/e90bbca621e7079011a67e9bda24f3455fe57ce0/222_46_2786_2228/master/2786.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=38b9b20bec192f671955ad71610cab52"
+      "headline": "Man City whistleblower set to lose protection amid fears for life",
+      "excerpt": "Portuguese computer hacker who released documents which led to the Premier League investigation into Manchester…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cxyvrp78ddvqo?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c09c/live/ec8c2630-be8d-11f1-888b-4d28ea12c7e2.jpg"
     },
     {
       "id": "story-2",
