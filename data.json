@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-10-02T14:22:39.210Z",
+  "updatedAt": "2026-10-02T14:39:37.486Z",
   "hero": {
     "id": "story-0",
     "league": "Football",
     "dot": "#AFC4AC",
-    "source": "BBC Sport",
+    "source": "101 Great Goals",
     "time": "Oct 2",
-    "headline": "Tankards, Clough & 'creaky joints' - Tennent's Sixes returns",
-    "excerpt": "More than three decades since its last staging, Scottish football's cult indoor event makes a…",
-    "link": "https://www.bbc.co.uk/sport/football/articles/cv8e3eyx5y8eo?at_medium=RSS&amp;at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5796/live/068e91a0-bdab-11f1-bc2e-018d645d8d21.png"
+    "headline": "Spain v Czechia: Preview, expected line-ups, stats and where to watch",
+    "excerpt": "Spain face the Czech Republic in the Nations League. Read our in-depth preview here.",
+    "link": "https://www.101greatgoals.com/match-previews/spain-v-czechia-preview-expected-line-ups-stats-and-where-to-watch/",
+    "image": null
   },
   "topStories": [
     {
@@ -25,6 +25,17 @@
     },
     {
       "id": "story-2",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "BBC Sport",
+      "time": "Oct 2",
+      "headline": "Tankards, Clough & 'creaky joints' - Tennent's Sixes returns",
+      "excerpt": "More than three decades since its last staging, Scottish football's cult indoor event makes a…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cv8e3eyx5y8eo?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5796/live/068e91a0-bdab-11f1-bc2e-018d645d8d21.png"
+    },
+    {
+      "id": "story-3",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -35,7 +46,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/97e7/live/897a3830-bb67-11f1-9ecf-8dd029790cef.jpg"
     },
     {
-      "id": "story-3",
+      "id": "story-4",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -44,17 +55,6 @@
       "excerpt": "A giant Edin Dzeko shirt is unveiled in Sarajevo to mark the Bosnia striker's retirement…",
       "link": "https://www.bbc.co.uk/sport/football/videos/cx8dzpj896edo?at_medium=RSS&amp;at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1afb/live/6d75a9e0-be68-11f1-babe-4199b0e7ccea.jpg"
-    },
-    {
-      "id": "story-4",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "101 Great Goals",
-      "time": "Oct 2",
-      "headline": "Tuchel admits Manchester City verdict has been a hot topic in the England camp ahead of Croatia clash",
-      "excerpt": "England's players have been following news of Manchester City's troubles this week ahead of the…",
-      "link": "https://www.101greatgoals.com/football/internationals/thomas-tuchel-manchester-city-verdict-hot-topic-england-croatia/",
-      "image": null
     },
     {
       "id": "story-5",
