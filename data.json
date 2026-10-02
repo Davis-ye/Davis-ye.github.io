@@ -1,19 +1,30 @@
 {
-  "updatedAt": "2026-10-02T21:31:41.264Z",
+  "updatedAt": "2026-10-02T21:46:13.838Z",
   "hero": {
     "id": "story-0",
-    "league": "Premier League",
-    "dot": "#9CC0F0",
-    "source": "BBC Sport",
+    "league": "Football",
+    "dot": "#AFC4AC",
+    "source": "101 Great Goals",
     "time": "Oct 2",
-    "headline": "Chiesa eyes Liverpool exit - Saturday's gossip",
-    "excerpt": "Liverpool forward Federico Chiesa is on the radar of a trio of Serie A clubs,…",
-    "link": "https://www.bbc.co.uk/sport/football/articles/cq70p3w936w9o?at_medium=RSS&amp;at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ab9f/live/9478d6d0-bea3-11f1-a22a-011993fe1af2.png"
+    "headline": "UEFA Nations League: De Bruyne at the double for Belgium as Lewandowski scores treble and Dzeko bows out",
+    "excerpt": "It was a superb night for a couple of European football's modern greats.",
+    "link": "https://www.101greatgoals.com/football/internationals/belgium-de-bruyne-brace/",
+    "image": null
   },
   "topStories": [
     {
       "id": "story-1",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "BBC Sport",
+      "time": "Oct 2",
+      "headline": "Chiesa eyes Liverpool exit - Saturday's gossip",
+      "excerpt": "Liverpool forward Federico Chiesa is on the radar of a trio of Serie A clubs,…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cq70p3w936w9o?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ab9f/live/9478d6d0-bea3-11f1-a22a-011993fe1af2.png"
+    },
+    {
+      "id": "story-2",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "The Guardian",
@@ -24,7 +35,7 @@
       "image": "https://i.guim.co.uk/img/media/c2a8cf61c75a6bbb9d374405386713fb380614df/257_0_2345_1876/master/2345.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=fbc176fe98027b66850a1e47f091e13e"
     },
     {
-      "id": "story-2",
+      "id": "story-3",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -33,17 +44,6 @@
       "excerpt": "Aston Villa beat Sevilla in the Antonio Puerta Trophy, named in memory of one of…",
       "link": "https://www.bbc.co.uk/sport/football/articles/crvg6xd6p9n5o?at_medium=RSS&amp;at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d027/live/d34d3b10-be6e-11f1-8a45-cd59664d243b.jpg"
-    },
-    {
-      "id": "story-3",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "101 Great Goals",
-      "time": "Oct 2",
-      "headline": "France 1-1 Italy: Zidane&#8217;s 10 men endure frustrating homecoming as Azzurri claim point",
-      "excerpt": "Italy were excellent value for a share of the spoils.",
-      "link": "https://www.101greatgoals.com/match-reports/france-italy-zidane-frustrated/",
-      "image": null
     },
     {
       "id": "story-4",
@@ -74,7 +74,7 @@
       "source": "BBC Sport",
       "time": "Oct 2",
       "headline": "Man City whistleblower set to lose protection amid fears for life",
-      "excerpt": "Portuguese computer hacker who released documents which led to the Premier League investigation into Manchester…",
+      "excerpt": "Portuguese computer hacker who released documents which helped trigger the Premier League investigation into Manchester…",
       "link": "https://www.bbc.co.uk/sport/football/articles/cxyvrp78ddvqo?at_medium=RSS&amp;at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c09c/live/ec8c2630-be8d-11f1-888b-4d28ea12c7e2.jpg"
     },
