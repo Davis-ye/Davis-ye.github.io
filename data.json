@@ -1,19 +1,30 @@
 {
-  "updatedAt": "2026-10-02T11:17:14.776Z",
+  "updatedAt": "2026-10-02T11:32:05.056Z",
   "hero": {
     "id": "story-0",
     "league": "Premier League",
     "dot": "#9CC0F0",
-    "source": "The Guardian",
+    "source": "101 Great Goals",
     "time": "Oct 2",
-    "headline": "Manchester City lodge appeal as FA warns of major implications for integrity of game: football news – live",
-    "excerpt": "<ul><li><p>Updates on Manchester City and Nations League news</p></li><li><p><a href=\"https://www.theguardian.com/football/fixtures\">Fixtures</a> | Get <a href=\"https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up\">Football Daily</a> |…",
-    "link": "https://www.theguardian.com/football/live/2026/oct/02/manchester-city-appeal-deadline-nations-league-news-and-more-football-live",
-    "image": "https://i.guim.co.uk/img/media/bc693bbcd858d84e4c8c2298ae659c2aee140d92/355_291_3570_2856/master/3570.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=72b76a43336590fc717878eb2a81333c"
+    "headline": "Manchester City confirm appeal against commission ruling as FA hints at separate action",
+    "excerpt": "Manchester City could face separate action from the Football Association after being found guilty of…",
+    "link": "https://www.101greatgoals.com/football/premier-league/manchester-city-confirm-appeal-against-commission-ruling-as-fa-hints-at-separate-action/",
+    "image": null
   },
   "topStories": [
     {
       "id": "story-1",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "The Guardian",
+      "time": "Oct 2",
+      "headline": "Manchester City lodge appeal as FA warns of major implications for integrity of game: football news – live",
+      "excerpt": "<ul><li><p>Updates on Manchester City and Nations League news</p></li><li><p><a href=\"https://www.theguardian.com/football/fixtures\">Fixtures</a> | Get <a href=\"https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up\">Football Daily</a> |…",
+      "link": "https://www.theguardian.com/football/live/2026/oct/02/manchester-city-appeal-deadline-nations-league-news-and-more-football-live",
+      "image": "https://i.guim.co.uk/img/media/bc693bbcd858d84e4c8c2298ae659c2aee140d92/355_291_3570_2856/master/3570.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=72b76a43336590fc717878eb2a81333c"
+    },
+    {
+      "id": "story-2",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -24,7 +35,7 @@
       "image": "https://i.guim.co.uk/img/media/2e89118af52b3cb69ac182bcba8ae2ba78f48710/0_23_1536_1228/master/1536.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=235355667dd5042d903d07527ce3b79f"
     },
     {
-      "id": "story-2",
+      "id": "story-3",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -35,7 +46,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2a13/live/14109140-ab66-11f1-9647-01c7ddc5a2b1.jpg"
     },
     {
-      "id": "story-3",
+      "id": "story-4",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -44,17 +55,6 @@
       "excerpt": "<p>Match against England is welcome test for former West Ham coach as he replaces history-making…",
       "link": "https://www.theguardian.com/football/2026/oct/02/slaven-bilic-croatia-manager-second-coming-england-nations-league",
       "image": "https://i.guim.co.uk/img/media/3adeaa9f7c87bd2182712d6134bb7a3f07abf90d/269_0_3071_2457/master/3071.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=8f154e821e8f4a3aa94707659a0cb9f8"
-    },
-    {
-      "id": "story-4",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "101 Great Goals",
-      "time": "Oct 2",
-      "headline": "Tip of the Day: Awesome Olise to lead France past Italy and Slovakia to see off Faroes",
-      "excerpt": "Michael Olise is arguably the best player in the world right now and we're backing…",
-      "link": "https://www.101greatgoals.com/football/internationals/tip-of-the-day-michael-olise-france-past-italy-slovakia-to-see-off-faroes/",
-      "image": null
     },
     {
       "id": "story-5",
