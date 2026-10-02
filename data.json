@@ -1,19 +1,30 @@
 {
-  "updatedAt": "2026-10-02T09:58:44.550Z",
+  "updatedAt": "2026-10-02T10:11:08.554Z",
   "hero": {
     "id": "story-0",
-    "league": "Premier League",
-    "dot": "#9CC0F0",
-    "source": "The Guardian",
+    "league": "Football",
+    "dot": "#AFC4AC",
+    "source": "101 Great Goals",
     "time": "Oct 2",
-    "headline": "Manchester City case has major implications for integrity of game, says FA; Burnham stirs tensions: football news – live",
-    "excerpt": "<ul><li><p>Updates on Manchester City and Nations League news</p></li><li><p><a href=\"https://www.theguardian.com/football/fixtures\">Fixtures</a> | Get <a href=\"https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up\">Football Daily</a> |…",
-    "link": "https://www.theguardian.com/football/live/2026/oct/02/manchester-city-appeal-deadline-nations-league-news-and-more-football-live",
-    "image": "https://i.guim.co.uk/img/media/bc693bbcd858d84e4c8c2298ae659c2aee140d92/355_291_3570_2856/master/3570.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=72b76a43336590fc717878eb2a81333c"
+    "headline": "Tip of the Day: Awesome Olise to lead France past Italy and Slovakia to see off Faroes",
+    "excerpt": "Michael Olise is arguably the best player in the world right now and we're backing…",
+    "link": "https://www.101greatgoals.com/football/internationals/tip-of-the-day-michael-olise-france-past-italy-slovakia-to-see-off-faroes/",
+    "image": null
   },
   "topStories": [
     {
       "id": "story-1",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "The Guardian",
+      "time": "Oct 2",
+      "headline": "Manchester City case has major implications for integrity of game, says FA; Burnham stirs tensions: football news – live",
+      "excerpt": "<ul><li><p>Updates on Manchester City and Nations League news</p></li><li><p><a href=\"https://www.theguardian.com/football/fixtures\">Fixtures</a> | Get <a href=\"https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up\">Football Daily</a> |…",
+      "link": "https://www.theguardian.com/football/live/2026/oct/02/manchester-city-appeal-deadline-nations-league-news-and-more-football-live",
+      "image": "https://i.guim.co.uk/img/media/bc693bbcd858d84e4c8c2298ae659c2aee140d92/355_291_3570_2856/master/3570.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=72b76a43336590fc717878eb2a81333c"
+    },
+    {
+      "id": "story-2",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -24,7 +35,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ebc0/live/ebdcb020-be3c-11f1-883b-cfbfbf424e7e.jpg"
     },
     {
-      "id": "story-2",
+      "id": "story-3",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -33,17 +44,6 @@
       "excerpt": "<ul><li><p>FA has the power to charge club and individuals</p></li><li><p>It will assess action once appeal process…",
       "link": "https://www.theguardian.com/football/2026/oct/02/manchester-city-fa-guilty-verdict-premier-league-appeal",
       "image": "https://i.guim.co.uk/img/media/2e89118af52b3cb69ac182bcba8ae2ba78f48710/0_23_1536_1228/master/1536.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=235355667dd5042d903d07527ce3b79f"
-    },
-    {
-      "id": "story-3",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "101 Great Goals",
-      "time": "Oct 2",
-      "headline": "France v Italy: Preview, expected line-ups, stats and where to watch",
-      "excerpt": "France host Italy on Friday night in the Nations League. Can Zinedine Zidane maintain his…",
-      "link": "https://www.101greatgoals.com/football/internationals/france-v-italy-preview-expected-line-ups-stats-stream-where-to-watch/",
-      "image": null
     },
     {
       "id": "story-4",
