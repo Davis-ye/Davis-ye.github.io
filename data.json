@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-02T07:02:03.193Z",
+  "updatedAt": "2026-10-02T07:20:00.862Z",
   "hero": {
     "id": "story-0",
     "league": "Football",
@@ -18,13 +18,24 @@
       "dot": "#AFC4AC",
       "source": "BBC Sport",
       "time": "Oct 2",
+      "headline": "The Unpromotables: Germany's league champions who can't go up",
+      "excerpt": "German football is grappling with a sum that doesn't add up - four promotion spots…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cmj4jr2vgx0ko?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5d16/live/5df4b650-bcbf-11f1-810a-9579202680fa.jpg"
+    },
+    {
+      "id": "story-2",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "BBC Sport",
+      "time": "Oct 2",
       "headline": "Flex your football brain with our daily quizzes",
       "excerpt": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
       "link": "https://www.bbc.co.uk/sport/football/articles/cmkgwgd08yl1o?at_medium=RSS&amp;at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ada7/live/27df4c70-9658-11f1-b2ab-0dd01740f9f6.jpg"
     },
     {
-      "id": "story-2",
+      "id": "story-3",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -35,7 +46,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9a31/live/d7e8e0c0-bd51-11f1-b976-539055889f76.png"
     },
     {
-      "id": "story-3",
+      "id": "story-4",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -46,7 +57,7 @@
       "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0pddfjs.jpg"
     },
     {
-      "id": "story-4",
+      "id": "story-5",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -57,7 +68,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/61e8/live/059e20b0-bdb7-11f1-bc2e-018d645d8d21.jpg"
     },
     {
-      "id": "story-5",
+      "id": "story-6",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -68,7 +79,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee14/live/a0756920-bddc-11f1-88d5-b903d805bdb1.jpg"
     },
     {
-      "id": "story-6",
+      "id": "story-7",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -79,7 +90,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fd64/live/f7c74c30-bde5-11f1-9358-01e3cd30f9bf.jpg"
     },
     {
-      "id": "story-7",
+      "id": "story-8",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "101 Great Goals",
@@ -90,7 +101,7 @@
       "image": null
     },
     {
-      "id": "story-8",
+      "id": "story-9",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "The Guardian",
@@ -101,7 +112,7 @@
       "image": "https://i.guim.co.uk/img/media/80c87ff430ba3b9a748471b0f522f7d088e7bff3/1220_315_4930_3944/master/4930.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=55bcc3da855993c8cfe9ce7be49d8741"
     },
     {
-      "id": "story-9",
+      "id": "story-10",
       "league": "La Liga",
       "dot": "#E3B4F5",
       "source": "BBC Sport",
@@ -112,7 +123,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8dfe/live/d7b03ef0-bddd-11f1-88d5-b903d805bdb1.jpg"
     },
     {
-      "id": "story-10",
+      "id": "story-11",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "The Guardian",
@@ -123,7 +134,7 @@
       "image": "https://i.guim.co.uk/img/media/dba0cafaeef415877e09a5357fdc2be6222c49ae/1077_0_5525_4419/master/5525.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=dd1e65d34999c643e0706e3636fa4ee7"
     },
     {
-      "id": "story-11",
+      "id": "story-12",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -134,7 +145,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2da7/live/7319b510-bdde-11f1-bc2e-018d645d8d21.png"
     },
     {
-      "id": "story-12",
+      "id": "story-13",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -145,7 +156,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/deda/live/648b1500-bddb-11f1-babe-4199b0e7ccea.jpg"
     },
     {
-      "id": "story-13",
+      "id": "story-14",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -156,7 +167,7 @@
       "image": "https://i.guim.co.uk/img/media/fd4e2843ce71c5b03a27384a0af452fcdf2f49a0/12_0_6473_5179/master/6473.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=6fb51e2463565f00b0676d0e3b01fdd3"
     },
     {
-      "id": "story-14",
+      "id": "story-15",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -167,7 +178,7 @@
       "image": "https://i.guim.co.uk/img/media/2fcb9e598ed8d830a776bd51b1ba06bb769714d7/279_0_2883_2306/master/2883.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3b429a36f29ce78113723396efe9c069"
     },
     {
-      "id": "story-15",
+      "id": "story-16",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -178,7 +189,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/75ef/live/6b7db870-bdce-11f1-bc2e-018d645d8d21.png"
     },
     {
-      "id": "story-16",
+      "id": "story-17",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -189,7 +200,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2d58/live/4284d100-bdca-11f1-b74d-89126d2b845a.jpg"
     },
     {
-      "id": "story-17",
+      "id": "story-18",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -200,7 +211,7 @@
       "image": "https://i.guim.co.uk/img/media/51cebfa32dd4d9c6494c19a29656442e5ae5ff18/378_0_2267_1814/master/2267.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c5380ea98f80eb63d0ce4ce17aedefc8"
     },
     {
-      "id": "story-18",
+      "id": "story-19",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -211,7 +222,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eda1/live/922cde20-bdaa-11f1-8373-27235719cf2a.jpg"
     },
     {
-      "id": "story-19",
+      "id": "story-20",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -222,7 +233,7 @@
       "image": "https://i.guim.co.uk/img/media/a152c3623ce8ee75501f12b728be3fc569a2fdf4/256_78_1196_957/master/1196.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=68364b9f61f11f42c3d7d8c597129bcd"
     },
     {
-      "id": "story-20",
+      "id": "story-21",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -233,7 +244,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9ef9/live/9976e2d0-bdbd-11f1-bc2e-018d645d8d21.png"
     },
     {
-      "id": "story-21",
+      "id": "story-22",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -244,7 +255,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8871/live/1c7974f0-bdb8-11f1-b7d8-31573a2bd831.jpg"
     },
     {
-      "id": "story-22",
+      "id": "story-23",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -253,17 +264,6 @@
       "excerpt": "<p>The sports world has accomplished a rare feat: calling out industrial-scale cheating on both sides…",
       "link": "https://www.theguardian.com/football/2026/oct/01/manchester-city-la-clippers-ultra-rich-accountability",
       "image": "https://i.guim.co.uk/img/media/9b51f6b0220f9e9e4592c0753c9ff50d0213a02d/220_0_3553_2843/master/3553.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=fda1baf9d36e442dcd0b6b241c904890"
-    },
-    {
-      "id": "story-23",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "The Guardian",
-      "time": "Oct 1",
-      "headline": "Cristiano Ronaldo’s Portugal walkout divides a nation as Jorge Jesus asserts control",
-      "excerpt": "<p>Row sparked by head coach’s decision to leave the 41-year-old on the bench has left…",
-      "link": "https://www.theguardian.com/football/2026/oct/01/cristiano-ronaldos-portugal-walkout-divides-a-nation-as-jorge-jesus-asserts-control",
-      "image": "https://i.guim.co.uk/img/media/41fcb5e4ba4fdb8a7c3c5970a6b6499af7b46e04/379_31_2464_1971/master/2464.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=0109fca1d7f2d2b46170397fe8a3823f"
     }
   ],
   "scoreboard": []
