@@ -1,19 +1,30 @@
 {
-  "updatedAt": "2026-10-02T17:58:09.747Z",
+  "updatedAt": "2026-10-02T18:12:18.542Z",
   "hero": {
     "id": "story-0",
     "league": "Football",
     "dot": "#AFC4AC",
     "source": "101 Great Goals",
     "time": "Oct 2",
-    "headline": "France v Italy: Confirmed line-ups for Zidane&#8217;s first home game",
-    "excerpt": "Zidane is looking to make it three wins from three.",
-    "link": "https://www.101greatgoals.com/football/internationals/france-italy-confirmed-teams/",
+    "headline": "Kansas City Chiefs @ Las Vegas Raiders: Preview, prediction and odds",
+    "excerpt": "The Las Vegas Raiders host the Kansas City Chiefs on Sunday Night Football. Read our…",
+    "link": "https://www.101greatgoals.com/nfl/kansas-city-chiefs-las-vegas-raiders-preview-prediction-and-odds/",
     "image": null
   },
   "topStories": [
     {
       "id": "story-1",
+      "league": "La Liga",
+      "dot": "#E3B4F5",
+      "source": "The Guardian",
+      "time": "Oct 2",
+      "headline": "France v Italy: Nations League football – live",
+      "excerpt": "<p>⚽ Nations League updates from the 7.45pm BST kick-off<br>⚽ <a href=\"https://www.theguardian.com/football/fixtures\">Live scores</a> | <a href=\"https://www.theguardian.com/football/nations-league/table\">Nations…",
+      "link": "https://www.theguardian.com/football/live/2026/oct/02/france-v-italy-nations-league-football-live-score-updates",
+      "image": "https://i.guim.co.uk/img/media/b8c737eed2b51ba5490d8c2d5a73fc96cf13eebd/0_29_4640_3712/master/4640.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e1f72b0045fc7e0603183222f54650ee"
+    },
+    {
+      "id": "story-2",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -24,7 +35,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/250e/live/77b09c80-be45-11f1-a64c-550be9e3c66b.jpg"
     },
     {
-      "id": "story-2",
+      "id": "story-3",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -33,17 +44,6 @@
       "excerpt": "John Murray & Ali Bruce-Ball are joined by Conor McNamara to chat commentator life.",
       "link": "https://www.bbc.co.uk/sounds/play/m0032m7b?at_medium=RSS&amp;at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0m6ztjd.jpg"
-    },
-    {
-      "id": "story-3",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "The Guardian",
-      "time": "Oct 2",
-      "headline": "France v Italy: Nations League football – live",
-      "excerpt": "<p>⚽ Nations League updates from the 7.45pm BST kick-off<br>⚽ <a href=\"https://www.theguardian.com/football/fixtures\">Live scores</a> | <a href=\"https://www.theguardian.com/football/nations-league/table\">Nations…",
-      "link": "https://www.theguardian.com/football/live/2026/oct/02/france-v-italy-nations-league-football-live-score-updates",
-      "image": "https://i.guim.co.uk/img/media/b8c737eed2b51ba5490d8c2d5a73fc96cf13eebd/0_29_4640_3712/master/4640.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e1f72b0045fc7e0603183222f54650ee"
     },
     {
       "id": "story-4",
