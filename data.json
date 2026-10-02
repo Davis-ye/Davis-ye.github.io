@@ -1,27 +1,27 @@
 {
-  "updatedAt": "2026-10-02T09:14:35.662Z",
+  "updatedAt": "2026-10-02T09:32:24.884Z",
   "hero": {
     "id": "story-0",
-    "league": "Football",
-    "dot": "#AFC4AC",
-    "source": "101 Great Goals",
+    "league": "Premier League",
+    "dot": "#9CC0F0",
+    "source": "The Guardian",
     "time": "Oct 2",
-    "headline": "France v Italy: Preview, expected line-ups, stats and where to watch",
-    "excerpt": "France host Italy on Friday night in the Nations League. Can Zinedine Zidane maintain his…",
-    "link": "https://www.101greatgoals.com/football/internationals/france-v-italy-preview-expected-line-ups-stats-stream-where-to-watch/",
-    "image": null
+    "headline": "Manchester City case has major implications for integrity of game, says FA; Burnham stirs tensions: football news – live",
+    "excerpt": "<ul><li><p>Updates on Manchester City and Nations League news</p></li><li><p><a href=\"https://www.theguardian.com/football/fixtures\">Fixtures</a> | Get <a href=\"https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up\">Football Daily</a> |…",
+    "link": "https://www.theguardian.com/football/live/2026/oct/02/manchester-city-appeal-deadline-nations-league-news-and-more-football-live",
+    "image": "https://i.guim.co.uk/img/media/bc693bbcd858d84e4c8c2298ae659c2aee140d92/355_291_3570_2856/master/3570.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=72b76a43336590fc717878eb2a81333c"
   },
   "topStories": [
     {
       "id": "story-1",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "The Guardian",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "101 Great Goals",
       "time": "Oct 2",
-      "headline": "Manchester City case has major implications for integrity of game, says FA; Burnham stirs tensions: football news – live",
-      "excerpt": "<ul><li><p>Updates on Manchester City and Nations League news</p></li><li><p><a href=\"https://www.theguardian.com/football/fixtures\">Fixtures</a> | Get <a href=\"https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up\">Football Daily</a> |…",
-      "link": "https://www.theguardian.com/football/live/2026/oct/02/manchester-city-appeal-deadline-nations-league-news-and-more-football-live",
-      "image": "https://i.guim.co.uk/img/media/bc693bbcd858d84e4c8c2298ae659c2aee140d92/355_291_3570_2856/master/3570.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=72b76a43336590fc717878eb2a81333c"
+      "headline": "France v Italy: Preview, expected line-ups, stats and where to watch",
+      "excerpt": "France host Italy on Friday night in the Nations League. Can Zinedine Zidane maintain his…",
+      "link": "https://www.101greatgoals.com/football/internationals/france-v-italy-preview-expected-line-ups-stats-stream-where-to-watch/",
+      "image": null
     },
     {
       "id": "story-2",
@@ -41,9 +41,9 @@
       "source": "BBC Sport",
       "time": "Oct 2",
       "headline": "Man City verdict has 'significant implications on game's integrity' - FA",
-      "excerpt": "The independent commission's verdict against Manchester City has \"significant implications for the integrity of the…",
+      "excerpt": "English football's governing body adds it will \"take action where appropriate.\"",
       "link": "https://www.bbc.co.uk/sport/football/articles/cqn7470513n0o?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb7a/live/5c0f70d0-6139-11ee-ac8c-9d18dbc280ea.png"
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3ee2/live/e0e72da0-be3f-11f1-bc2e-018d645d8d21.jpg"
     },
     {
       "id": "story-4",
