@@ -1,19 +1,30 @@
 {
-  "updatedAt": "2026-10-02T19:48:33.200Z",
+  "updatedAt": "2026-10-02T19:59:02.011Z",
   "hero": {
     "id": "story-0",
     "league": "Football",
     "dot": "#AFC4AC",
-    "source": "The Guardian",
+    "source": "101 Great Goals",
     "time": "Oct 2",
-    "headline": "France v Italy: Nations League football – live",
-    "excerpt": "<p>⚽ Nations League updates from the 7.45pm BST kick-off<br>⚽ <a href=\"https://www.theguardian.com/football/fixtures\">Live scores</a> | <a href=\"https://www.theguardian.com/football/nations-league/table\">Nations…",
-    "link": "https://www.theguardian.com/football/live/2026/oct/02/france-v-italy-nations-league-football-live-score-updates",
-    "image": "https://i.guim.co.uk/img/media/e90bbca621e7079011a67e9bda24f3455fe57ce0/222_46_2786_2228/master/2786.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=38b9b20bec192f671955ad71610cab52"
+    "headline": "Los Angeles Rams @ Philadelphia Eagles: Preview, prediction and odds",
+    "excerpt": "Both the Rams and Eagles are dealing with key injuries amid indifferent starts.",
+    "link": "https://www.101greatgoals.com/nfl/rams-eagles-preview-prediction-and-odds/",
+    "image": null
   },
   "topStories": [
     {
       "id": "story-1",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "The Guardian",
+      "time": "Oct 2",
+      "headline": "France v Italy: Nations League football – live",
+      "excerpt": "<p>⚽ Nations League updates from the 7.45pm BST kick-off<br>⚽ <a href=\"https://www.theguardian.com/football/fixtures\">Live scores</a> | <a href=\"https://www.theguardian.com/football/nations-league/table\">Nations…",
+      "link": "https://www.theguardian.com/football/live/2026/oct/02/france-v-italy-nations-league-football-live-score-updates",
+      "image": "https://i.guim.co.uk/img/media/e90bbca621e7079011a67e9bda24f3455fe57ce0/222_46_2786_2228/master/2786.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=38b9b20bec192f671955ad71610cab52"
+    },
+    {
+      "id": "story-2",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -24,7 +35,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c09c/live/ec8c2630-be8d-11f1-888b-4d28ea12c7e2.jpg"
     },
     {
-      "id": "story-2",
+      "id": "story-3",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -35,7 +46,7 @@
       "image": "https://i.guim.co.uk/img/media/6a87bf94e531fa9fc471dd16196a58f680403260/0_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=0840821b920d7ba1c0d59078e0505158"
     },
     {
-      "id": "story-3",
+      "id": "story-4",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -44,17 +55,6 @@
       "excerpt": "<ul><li><p>‘It is of course a topic and we speak about it at dinner’</p></li><li><p>Head coach has…",
       "link": "https://www.theguardian.com/football/2026/oct/02/manchester-citys-england-players-are-worried-about-their-futures-admits-tuchel",
       "image": "https://i.guim.co.uk/img/media/4101ab63d8b82a6b2dededc9afbd7267680599cf/230_0_2700_2159/master/2700.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b59e4fa10f2e47fa4879a94567792054"
-    },
-    {
-      "id": "story-4",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "101 Great Goals",
-      "time": "Oct 2",
-      "headline": "Kansas City Chiefs @ Las Vegas Raiders: Preview, prediction and odds",
-      "excerpt": "The Las Vegas Raiders host the Kansas City Chiefs on Sunday Night Football. Read our…",
-      "link": "https://www.101greatgoals.com/nfl/kansas-city-chiefs-las-vegas-raiders-preview-prediction-and-odds/",
-      "image": null
     },
     {
       "id": "story-5",
