@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-02T15:40:19.763Z",
+  "updatedAt": "2026-10-02T15:54:34.205Z",
   "hero": {
     "id": "story-0",
     "league": "Premier League",
@@ -14,6 +14,17 @@
   "topStories": [
     {
       "id": "story-1",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "101 Great Goals",
+      "time": "Oct 2",
+      "headline": "Carlos Espi earns first Spain call-up after five-goal haul for U21s",
+      "excerpt": "Carlos Espi has been rewarded for his performances with the Spain Under-21s team.",
+      "link": "https://www.101greatgoals.com/football/internationals/carlos-espi-earns-first-spain-call-up/",
+      "image": null
+    },
+    {
+      "id": "story-2",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -24,7 +35,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d027/live/d34d3b10-be6e-11f1-8a45-cd59664d243b.jpg"
     },
     {
-      "id": "story-2",
+      "id": "story-3",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -33,17 +44,6 @@
       "excerpt": "England boss Thomas Tuchel says he would \"never rule out\" selecting someone who is not…",
       "link": "https://www.bbc.co.uk/sport/football/articles/cqd095z49gjvo?at_medium=RSS&amp;at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/30e8/live/840f8520-be65-11f1-b36c-81ad410b221e.jpg"
-    },
-    {
-      "id": "story-3",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "101 Great Goals",
-      "time": "Oct 2",
-      "headline": "Spain v Czechia: Preview, expected line-ups, stats and where to watch",
-      "excerpt": "Spain face the Czech Republic in the Nations League. Read our in-depth preview here.",
-      "link": "https://www.101greatgoals.com/match-previews/spain-v-czechia-preview-expected-line-ups-stats-and-where-to-watch/",
-      "image": null
     },
     {
       "id": "story-4",
