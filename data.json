@@ -1,30 +1,41 @@
 {
-  "updatedAt": "2026-10-02T10:11:08.554Z",
+  "updatedAt": "2026-10-02T10:26:20.643Z",
   "hero": {
     "id": "story-0",
-    "league": "Football",
-    "dot": "#AFC4AC",
-    "source": "101 Great Goals",
+    "league": "Premier League",
+    "dot": "#9CC0F0",
+    "source": "The Guardian",
     "time": "Oct 2",
-    "headline": "Tip of the Day: Awesome Olise to lead France past Italy and Slovakia to see off Faroes",
-    "excerpt": "Michael Olise is arguably the best player in the world right now and we're backing…",
-    "link": "https://www.101greatgoals.com/football/internationals/tip-of-the-day-michael-olise-france-past-italy-slovakia-to-see-off-faroes/",
-    "image": null
+    "headline": "Manchester City case has major implications for integrity of game, says FA; Burnham stirs tensions: football news – live",
+    "excerpt": "<ul><li><p>Updates on Manchester City and Nations League news</p></li><li><p><a href=\"https://www.theguardian.com/football/fixtures\">Fixtures</a> | Get <a href=\"https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up\">Football Daily</a> |…",
+    "link": "https://www.theguardian.com/football/live/2026/oct/02/manchester-city-appeal-deadline-nations-league-news-and-more-football-live",
+    "image": "https://i.guim.co.uk/img/media/bc693bbcd858d84e4c8c2298ae659c2aee140d92/355_291_3570_2856/master/3570.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=72b76a43336590fc717878eb2a81333c"
   },
   "topStories": [
     {
       "id": "story-1",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "The Guardian",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "101 Great Goals",
       "time": "Oct 2",
-      "headline": "Manchester City case has major implications for integrity of game, says FA; Burnham stirs tensions: football news – live",
-      "excerpt": "<ul><li><p>Updates on Manchester City and Nations League news</p></li><li><p><a href=\"https://www.theguardian.com/football/fixtures\">Fixtures</a> | Get <a href=\"https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up\">Football Daily</a> |…",
-      "link": "https://www.theguardian.com/football/live/2026/oct/02/manchester-city-appeal-deadline-nations-league-news-and-more-football-live",
-      "image": "https://i.guim.co.uk/img/media/bc693bbcd858d84e4c8c2298ae659c2aee140d92/355_291_3570_2856/master/3570.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=72b76a43336590fc717878eb2a81333c"
+      "headline": "Tip of the Day: Awesome Olise to lead France past Italy and Slovakia to see off Faroes",
+      "excerpt": "Michael Olise is arguably the best player in the world right now and we're backing…",
+      "link": "https://www.101greatgoals.com/football/internationals/tip-of-the-day-michael-olise-france-past-italy-slovakia-to-see-off-faroes/",
+      "image": null
     },
     {
       "id": "story-2",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "BBC Sport",
+      "time": "Oct 2",
+      "headline": "Was long-awaited win a turning point for Bellamy?",
+      "excerpt": "Has the impressive 2-1 victory over Norway changed the mood music for Wales and restored…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cqe8x87y3lg2o?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/49c0/live/3a9b0ca0-be35-11f1-883b-cfbfbf424e7e.jpg"
+    },
+    {
+      "id": "story-3",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -35,7 +46,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ebc0/live/ebdcb020-be3c-11f1-883b-cfbfbf424e7e.jpg"
     },
     {
-      "id": "story-3",
+      "id": "story-4",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -46,7 +57,7 @@
       "image": "https://i.guim.co.uk/img/media/2e89118af52b3cb69ac182bcba8ae2ba78f48710/0_23_1536_1228/master/1536.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=235355667dd5042d903d07527ce3b79f"
     },
     {
-      "id": "story-4",
+      "id": "story-5",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -57,7 +68,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f9c7/live/372ea260-be45-11f1-beff-83dd12d67cca.jpg"
     },
     {
-      "id": "story-5",
+      "id": "story-6",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -68,7 +79,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/250e/live/77b09c80-be45-11f1-a64c-550be9e3c66b.jpg"
     },
     {
-      "id": "story-6",
+      "id": "story-7",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -79,7 +90,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1cd2/live/7863d710-bd6d-11f1-8134-9503562e5ca9.png"
     },
     {
-      "id": "story-7",
+      "id": "story-8",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -90,7 +101,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8489/live/ccc95ea0-be31-11f1-a64c-550be9e3c66b.png"
     },
     {
-      "id": "story-8",
+      "id": "story-9",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -101,7 +112,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b719/live/4e2095b0-bdb3-11f1-b7d8-31573a2bd831.jpg"
     },
     {
-      "id": "story-9",
+      "id": "story-10",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -112,7 +123,7 @@
       "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0pdljy4.jpg"
     },
     {
-      "id": "story-10",
+      "id": "story-11",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -123,7 +134,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fc7f/live/2f454ce0-bde4-11f1-a361-995fc2fd8a70.jpg"
     },
     {
-      "id": "story-11",
+      "id": "story-12",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -134,7 +145,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5d16/live/5df4b650-bcbf-11f1-810a-9579202680fa.jpg"
     },
     {
-      "id": "story-12",
+      "id": "story-13",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -145,7 +156,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ada7/live/27df4c70-9658-11f1-b2ab-0dd01740f9f6.jpg"
     },
     {
-      "id": "story-13",
+      "id": "story-14",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -156,7 +167,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9a31/live/d7e8e0c0-bd51-11f1-b976-539055889f76.png"
     },
     {
-      "id": "story-14",
+      "id": "story-15",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -167,7 +178,7 @@
       "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0pddfjs.jpg"
     },
     {
-      "id": "story-15",
+      "id": "story-16",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -178,7 +189,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/61e8/live/059e20b0-bdb7-11f1-bc2e-018d645d8d21.jpg"
     },
     {
-      "id": "story-16",
+      "id": "story-17",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -189,7 +200,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee14/live/a0756920-bddc-11f1-88d5-b903d805bdb1.jpg"
     },
     {
-      "id": "story-17",
+      "id": "story-18",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -200,7 +211,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fd64/live/f7c74c30-bde5-11f1-9358-01e3cd30f9bf.jpg"
     },
     {
-      "id": "story-18",
+      "id": "story-19",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "The Guardian",
@@ -211,7 +222,7 @@
       "image": "https://i.guim.co.uk/img/media/80c87ff430ba3b9a748471b0f522f7d088e7bff3/1220_315_4930_3944/master/4930.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=55bcc3da855993c8cfe9ce7be49d8741"
     },
     {
-      "id": "story-19",
+      "id": "story-20",
       "league": "La Liga",
       "dot": "#E3B4F5",
       "source": "BBC Sport",
@@ -222,7 +233,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8dfe/live/d7b03ef0-bddd-11f1-88d5-b903d805bdb1.jpg"
     },
     {
-      "id": "story-20",
+      "id": "story-21",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "The Guardian",
@@ -233,7 +244,7 @@
       "image": "https://i.guim.co.uk/img/media/dba0cafaeef415877e09a5357fdc2be6222c49ae/1077_0_5525_4419/master/5525.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=dd1e65d34999c643e0706e3636fa4ee7"
     },
     {
-      "id": "story-21",
+      "id": "story-22",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -244,7 +255,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2da7/live/7319b510-bdde-11f1-bc2e-018d645d8d21.png"
     },
     {
-      "id": "story-22",
+      "id": "story-23",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -253,17 +264,6 @@
       "excerpt": "Khadija Shaw scores a superb equaliser before Real Madrid have a late goal chalked off…",
       "link": "https://www.bbc.co.uk/sport/football/videos/cmj4j4zyrg90o?at_medium=RSS&amp;at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/deda/live/648b1500-bddb-11f1-babe-4199b0e7ccea.jpg"
-    },
-    {
-      "id": "story-23",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "The Guardian",
-      "time": "Oct 1",
-      "headline": "Shaw secures WCL draw against Real Madrid as Manchester City show spirit after week of turmoil",
-      "excerpt": "<p>Andrée Jeglertz, the Manchester City head coach, said the noise surrounding the <a href=\"https://www.theguardian.com/football/2026/sep/29/manchester-city-found-guilty-all-premier-league-charges-rule-breaches\">guilty verdict…",
-      "link": "https://www.theguardian.com/football/2026/oct/01/manchester-city-real-madrid-womens-champions-league-league-stage-match-report",
-      "image": "https://i.guim.co.uk/img/media/fd4e2843ce71c5b03a27384a0af452fcdf2f49a0/12_0_6473_5179/master/6473.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=6fb51e2463565f00b0676d0e3b01fdd3"
     }
   ],
   "scoreboard": []
