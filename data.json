@@ -1,27 +1,27 @@
 {
-  "updatedAt": "2026-10-02T11:47:25.992Z",
+  "updatedAt": "2026-10-02T11:58:18.108Z",
   "hero": {
     "id": "story-0",
-    "league": "Football",
-    "dot": "#AFC4AC",
-    "source": "BBC Sport",
+    "league": "Premier League",
+    "dot": "#9CC0F0",
+    "source": "The Guardian",
     "time": "Oct 2",
-    "headline": "Robertson's Scotland career in numbers as 100th cap looms",
-    "excerpt": "Andy Robertson is poised to become only the second man ever to play 100 times…",
-    "link": "https://www.bbc.co.uk/sport/football/articles/crgjqjg1l740o?at_medium=RSS&amp;at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c8a5/live/99c8f0b0-bd8c-11f1-a64c-550be9e3c66b.jpg"
+    "headline": "Manchester City lodge appeal as FA warns of major implications for integrity of game: football news – live",
+    "excerpt": "<ul><li><p>Updates on Manchester City and Nations League news</p></li><li><p><a href=\"https://www.theguardian.com/football/fixtures\">Fixtures</a> | Get <a href=\"https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up\">Football Daily</a> |…",
+    "link": "https://www.theguardian.com/football/live/2026/oct/02/manchester-city-appeal-deadline-nations-league-news-and-more-football-live",
+    "image": "https://i.guim.co.uk/img/media/bc693bbcd858d84e4c8c2298ae659c2aee140d92/355_291_3570_2856/master/3570.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=72b76a43336590fc717878eb2a81333c"
   },
   "topStories": [
     {
       "id": "story-1",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "The Guardian",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "BBC Sport",
       "time": "Oct 2",
-      "headline": "Manchester City lodge appeal as FA warns of major implications for integrity of game: football news – live",
-      "excerpt": "<ul><li><p>Updates on Manchester City and Nations League news</p></li><li><p><a href=\"https://www.theguardian.com/football/fixtures\">Fixtures</a> | Get <a href=\"https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up\">Football Daily</a> |…",
-      "link": "https://www.theguardian.com/football/live/2026/oct/02/manchester-city-appeal-deadline-nations-league-news-and-more-football-live",
-      "image": "https://i.guim.co.uk/img/media/bc693bbcd858d84e4c8c2298ae659c2aee140d92/355_291_3570_2856/master/3570.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=72b76a43336590fc717878eb2a81333c"
+      "headline": "Robertson's Scotland career in numbers as 100th cap looms",
+      "excerpt": "Andy Robertson is poised to become only the second man ever to play 100 times…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/crgjqjg1l740o?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c8a5/live/99c8f0b0-bd8c-11f1-a64c-550be9e3c66b.jpg"
     },
     {
       "id": "story-2",
