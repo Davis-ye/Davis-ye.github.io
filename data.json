@@ -1,27 +1,27 @@
 {
-  "updatedAt": "2026-10-02T12:34:32.280Z",
+  "updatedAt": "2026-10-02T12:53:54.957Z",
   "hero": {
     "id": "story-0",
-    "league": "Football",
-    "dot": "#AFC4AC",
-    "source": "BBC Sport",
+    "league": "Premier League",
+    "dot": "#9CC0F0",
+    "source": "The Guardian",
     "time": "Oct 2",
-    "headline": "Peterborough appoint Forest Green boss Savage",
-    "excerpt": "Peterborough United appoint Forest Green Rovers boss Robbie Savage as Luke Williams' successor.",
-    "link": "https://www.bbc.co.uk/sport/football/articles/cqe8xrk0err4o?at_medium=RSS&amp;at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/17c0/live/66cb0b00-bb4b-11f1-a071-65d2e11c8f4a.jpg"
+    "headline": "Manchester City lodge appeal as FA warns of major implications for integrity of game: football news – live",
+    "excerpt": "<ul><li><p>Updates on Manchester City and Nations League news</p></li><li><p><a href=\"https://www.theguardian.com/football/fixtures\">Fixtures</a> | Get <a href=\"https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up\">Football Daily</a> |…",
+    "link": "https://www.theguardian.com/football/live/2026/oct/02/manchester-city-appeal-deadline-nations-league-news-and-more-football-live",
+    "image": "https://i.guim.co.uk/img/media/bc693bbcd858d84e4c8c2298ae659c2aee140d92/355_291_3570_2856/master/3570.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=72b76a43336590fc717878eb2a81333c"
   },
   "topStories": [
     {
       "id": "story-1",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "The Guardian",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "BBC Sport",
       "time": "Oct 2",
-      "headline": "Manchester City lodge appeal as FA warns of major implications for integrity of game: football news – live",
-      "excerpt": "<ul><li><p>Updates on Manchester City and Nations League news</p></li><li><p><a href=\"https://www.theguardian.com/football/fixtures\">Fixtures</a> | Get <a href=\"https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up\">Football Daily</a> |…",
-      "link": "https://www.theguardian.com/football/live/2026/oct/02/manchester-city-appeal-deadline-nations-league-news-and-more-football-live",
-      "image": "https://i.guim.co.uk/img/media/bc693bbcd858d84e4c8c2298ae659c2aee140d92/355_291_3570_2856/master/3570.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=72b76a43336590fc717878eb2a81333c"
+      "headline": "Peterborough appoint Forest Green boss Savage",
+      "excerpt": "Peterborough United appoint Forest Green Rovers boss Robbie Savage as Luke Williams' successor.",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cqe8xrk0err4o?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/17c0/live/66cb0b00-bb4b-11f1-a071-65d2e11c8f4a.jpg"
     },
     {
       "id": "story-2",
@@ -227,7 +227,7 @@
       "dot": "#9CC0F0",
       "source": "BBC Sport",
       "time": "Oct 2",
-      "headline": "Ferguson on being 'terrified' by brain haemorrhage and 'fantastic' return to Man Utd",
+      "headline": "Ferguson 'terrified' before 'fantastic' return to Man Utd after brain haemorrhage",
       "excerpt": "Former Manchester United manager Sir Alex Ferguson speaks to BBC Breakfast as he approaches his…",
       "link": "https://www.bbc.co.uk/sport/football/articles/cvwyz0jx3znyo?at_medium=RSS&amp;at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9a31/live/d7e8e0c0-bd51-11f1-b976-539055889f76.png"
