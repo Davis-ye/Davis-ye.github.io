@@ -1,19 +1,30 @@
 {
-  "updatedAt": "2026-10-02T13:23:34.183Z",
+  "updatedAt": "2026-10-02T13:39:06.775Z",
   "hero": {
     "id": "story-0",
     "league": "Premier League",
     "dot": "#9CC0F0",
-    "source": "101 Great Goals",
+    "source": "The Guardian",
     "time": "Oct 2",
-    "headline": "Tuchel admits Manchester City verdict has been a hot topic in the England camp ahead of Croatia clash",
-    "excerpt": "England's players have been following news of Manchester City's troubles this week ahead of the…",
-    "link": "https://www.101greatgoals.com/football/internationals/thomas-tuchel-manchester-city-verdict-hot-topic-england-croatia/",
-    "image": null
+    "headline": "Manchester City lodge appeal as FA warns of major implications for integrity of game: football news – live",
+    "excerpt": "<ul><li><p>Updates on Manchester City and Nations League news</p></li><li><p><a href=\"https://www.theguardian.com/football/fixtures\">Fixtures</a> | Get <a href=\"https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up\">Football Daily</a> |…",
+    "link": "https://www.theguardian.com/football/live/2026/oct/02/manchester-city-appeal-deadline-nations-league-news-and-more-football-live",
+    "image": "https://i.guim.co.uk/img/media/bc693bbcd858d84e4c8c2298ae659c2aee140d92/355_291_3570_2856/master/3570.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=72b76a43336590fc717878eb2a81333c"
   },
   "topStories": [
     {
       "id": "story-1",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "101 Great Goals",
+      "time": "Oct 2",
+      "headline": "Tuchel admits Manchester City verdict has been a hot topic in the England camp ahead of Croatia clash",
+      "excerpt": "England's players have been following news of Manchester City's troubles this week ahead of the…",
+      "link": "https://www.101greatgoals.com/football/internationals/thomas-tuchel-manchester-city-verdict-hot-topic-england-croatia/",
+      "image": null
+    },
+    {
+      "id": "story-2",
       "league": "La Liga",
       "dot": "#E3B4F5",
       "source": "BBC Sport",
@@ -22,17 +33,6 @@
       "excerpt": "Anthony Gordon has been England's in-form player since the World Cup knockout stage - is…",
       "link": "https://www.bbc.co.uk/sport/football/articles/cm9qrqelnd49o?at_medium=RSS&amp;at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f014/live/cd024a60-bdac-11f1-8373-27235719cf2a.jpg"
-    },
-    {
-      "id": "story-2",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "The Guardian",
-      "time": "Oct 2",
-      "headline": "Manchester City lodge appeal as FA warns of major implications for integrity of game: football news – live",
-      "excerpt": "<ul><li><p>Updates on Manchester City and Nations League news</p></li><li><p><a href=\"https://www.theguardian.com/football/fixtures\">Fixtures</a> | Get <a href=\"https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up\">Football Daily</a> |…",
-      "link": "https://www.theguardian.com/football/live/2026/oct/02/manchester-city-appeal-deadline-nations-league-news-and-more-football-live",
-      "image": "https://i.guim.co.uk/img/media/bc693bbcd858d84e4c8c2298ae659c2aee140d92/355_291_3570_2856/master/3570.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=72b76a43336590fc717878eb2a81333c"
     },
     {
       "id": "story-3",
