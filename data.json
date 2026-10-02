@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-10-02T21:17:05.649Z",
+  "updatedAt": "2026-10-02T21:31:41.264Z",
   "hero": {
     "id": "story-0",
     "league": "Premier League",
     "dot": "#9CC0F0",
     "source": "BBC Sport",
     "time": "Oct 2",
-    "headline": "Why Aston Villa played Sevilla for a trophy you haven't heard of",
-    "excerpt": "Aston Villa beat Sevilla in the Antonio Puerta Trophy, named in memory of one of…",
-    "link": "https://www.bbc.co.uk/sport/football/articles/crvg6xd6p9n5o?at_medium=RSS&amp;at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d027/live/d34d3b10-be6e-11f1-8a45-cd59664d243b.jpg"
+    "headline": "Chiesa eyes Liverpool exit - Saturday's gossip",
+    "excerpt": "Liverpool forward Federico Chiesa is on the radar of a trio of Serie A clubs,…",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cq70p3w936w9o?at_medium=RSS&amp;at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ab9f/live/9478d6d0-bea3-11f1-a22a-011993fe1af2.png"
   },
   "topStories": [
     {
@@ -18,13 +18,24 @@
       "dot": "#AFC4AC",
       "source": "The Guardian",
       "time": "Oct 2",
-      "headline": "France 1-1 Italy: Nations League football – live reaction",
-      "excerpt": "<p>Alessandro Bastoni cancelled out Michael Olise’s goal to give Italy a precious point in Paris</p><p><strong>3…",
-      "link": "https://www.theguardian.com/football/live/2026/oct/02/france-v-italy-nations-league-football-live-score-updates",
-      "image": "https://i.guim.co.uk/img/media/c4e32500b40bea8f75133de54178b9a1f4f434bd/243_159_2248_1798/master/2248.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=005407c70addf8bf840c7c7dfa5d83a1"
+      "headline": "Nations League: Italy earn draw against 10-man France, Northern Ireland stun Ukraine",
+      "excerpt": "<ul><li><p>League A: France 1-1 Italy, Belgium 3-0 Turkey</p></li><li><p>Northern Ireland boost promotion bid with 3-0 win</p></li></ul><p>Zinedine…",
+      "link": "https://www.theguardian.com/football/2026/oct/02/nations-league-roundup-france-italy-northern-ireland-ukraine-belgium",
+      "image": "https://i.guim.co.uk/img/media/c2a8cf61c75a6bbb9d374405386713fb380614df/257_0_2345_1876/master/2345.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=fbc176fe98027b66850a1e47f091e13e"
     },
     {
       "id": "story-2",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "BBC Sport",
+      "time": "Oct 2",
+      "headline": "Why Aston Villa played Sevilla for a trophy you haven't heard of",
+      "excerpt": "Aston Villa beat Sevilla in the Antonio Puerta Trophy, named in memory of one of…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/crvg6xd6p9n5o?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d027/live/d34d3b10-be6e-11f1-8a45-cd59664d243b.jpg"
+    },
+    {
+      "id": "story-3",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "101 Great Goals",
@@ -35,7 +46,7 @@
       "image": null
     },
     {
-      "id": "story-3",
+      "id": "story-4",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -46,7 +57,7 @@
       "image": "https://i.guim.co.uk/img/media/386c7dab46c6ed906a5dd2e80431ea75b8dc001a/446_0_4890_3910/master/4890.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=2b41b4fa72d5f530d79acaba81d2015e"
     },
     {
-      "id": "story-4",
+      "id": "story-5",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -57,7 +68,7 @@
       "image": "https://i.guim.co.uk/img/media/d54beac4807b69bc9cbd57da11cb7793ea0d116a/1361_0_6831_5464/master/6831.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=8f54b3b761edc946cc8187018353b1e8"
     },
     {
-      "id": "story-5",
+      "id": "story-6",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -68,7 +79,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c09c/live/ec8c2630-be8d-11f1-888b-4d28ea12c7e2.jpg"
     },
     {
-      "id": "story-6",
+      "id": "story-7",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -79,7 +90,7 @@
       "image": "https://i.guim.co.uk/img/media/6a87bf94e531fa9fc471dd16196a58f680403260/0_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=0840821b920d7ba1c0d59078e0505158"
     },
     {
-      "id": "story-7",
+      "id": "story-8",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -90,7 +101,7 @@
       "image": "https://i.guim.co.uk/img/media/4101ab63d8b82a6b2dededc9afbd7267680599cf/230_0_2700_2159/master/2700.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b59e4fa10f2e47fa4879a94567792054"
     },
     {
-      "id": "story-8",
+      "id": "story-9",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "The Guardian",
@@ -101,7 +112,7 @@
       "image": "https://i.guim.co.uk/img/media/017521a8bb29b5be4694ec9b84896cff9244934d/306_0_4880_3905/master/4880.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=fd135ae95693b60f64fe2a9e61ac4d7d"
     },
     {
-      "id": "story-9",
+      "id": "story-10",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -112,7 +123,7 @@
       "image": "https://i.guim.co.uk/img/media/db7f45adfadc9cfa0f3a066188bc7f6b87caa1ca/336_0_3341_2674/master/3341.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c0d94998b9fe697fe835bf8894d23339"
     },
     {
-      "id": "story-10",
+      "id": "story-11",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -123,7 +134,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/250e/live/77b09c80-be45-11f1-a64c-550be9e3c66b.jpg"
     },
     {
-      "id": "story-11",
+      "id": "story-12",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -134,7 +145,7 @@
       "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0m6ztjd.jpg"
     },
     {
-      "id": "story-12",
+      "id": "story-13",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -145,7 +156,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/efbe/live/0b7f3df0-be77-11f1-8a45-cd59664d243b.jpg"
     },
     {
-      "id": "story-13",
+      "id": "story-14",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -156,7 +167,7 @@
       "image": "https://i.guim.co.uk/img/media/f4c403024ae5db490d637b50f06239add4c1ee13/951_0_4052_3242/master/4052.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=fd05e01c68070c681ad6c68943bf0294"
     },
     {
-      "id": "story-14",
+      "id": "story-15",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "The Guardian",
@@ -167,7 +178,7 @@
       "image": "https://i.guim.co.uk/img/media/d6971cd002c3b6ed954d169aaba2f34fd40e60b1/0_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=9ced9597c94316f865e6f5d6f833ac34"
     },
     {
-      "id": "story-15",
+      "id": "story-16",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -178,7 +189,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/30e8/live/840f8520-be65-11f1-b36c-81ad410b221e.jpg"
     },
     {
-      "id": "story-16",
+      "id": "story-17",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -189,7 +200,7 @@
       "image": "https://i.guim.co.uk/img/media/583718b87b653686e1a6092fb7bcff8caacfbece/316_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=352ac2f7285f28b4205718addaf53e36"
     },
     {
-      "id": "story-17",
+      "id": "story-18",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -200,7 +211,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5796/live/068e91a0-bdab-11f1-bc2e-018d645d8d21.png"
     },
     {
-      "id": "story-18",
+      "id": "story-19",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -211,7 +222,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/97e7/live/897a3830-bb67-11f1-9ecf-8dd029790cef.jpg"
     },
     {
-      "id": "story-19",
+      "id": "story-20",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -222,7 +233,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1afb/live/6d75a9e0-be68-11f1-babe-4199b0e7ccea.jpg"
     },
     {
-      "id": "story-20",
+      "id": "story-21",
       "league": "La Liga",
       "dot": "#E3B4F5",
       "source": "BBC Sport",
@@ -233,7 +244,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f014/live/cd024a60-bdac-11f1-8373-27235719cf2a.jpg"
     },
     {
-      "id": "story-21",
+      "id": "story-22",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -244,7 +255,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/17c0/live/66cb0b00-bb4b-11f1-a071-65d2e11c8f4a.jpg"
     },
     {
-      "id": "story-22",
+      "id": "story-23",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "The Guardian",
@@ -253,17 +264,6 @@
       "excerpt": "<ul><li><p>Savage leaves Forest Green to take League One role</p></li><li><p>‘Excitement is the word I can use,’…",
       "link": "https://www.theguardian.com/football/2026/oct/02/robbie-savage-peterborough-manager-job-understands-reservations",
       "image": "https://i.guim.co.uk/img/media/63d8194bb7f4b28794f986f83ecf0c0b16dda46a/606_162_1262_1010/master/1262.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=22791309a1de39e23ed316adc1f1c8e1"
-    },
-    {
-      "id": "story-23",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "BBC Sport",
-      "time": "Oct 2",
-      "headline": "Robertson's Scotland career in numbers as 100th cap looms",
-      "excerpt": "Andy Robertson is poised to become only the second man ever to play 100 times…",
-      "link": "https://www.bbc.co.uk/sport/football/articles/crgjqjg1l740o?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c8a5/live/99c8f0b0-bd8c-11f1-a64c-550be9e3c66b.jpg"
     }
   ],
   "scoreboard": []
