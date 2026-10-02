@@ -1,19 +1,30 @@
 {
-  "updatedAt": "2026-10-02T17:46:52.107Z",
+  "updatedAt": "2026-10-02T17:58:09.747Z",
   "hero": {
     "id": "story-0",
-    "league": "Premier League",
-    "dot": "#9CC0F0",
-    "source": "BBC Sport",
+    "league": "Football",
+    "dot": "#AFC4AC",
+    "source": "101 Great Goals",
     "time": "Oct 2",
-    "headline": "Man City confirm appeal against guilty verdict",
-    "excerpt": "The club's statement says the ruling contains \"clear material errors, of law, principle and fact,…",
-    "link": "https://www.bbc.co.uk/sport/football/articles/cqn7470513n0o?at_medium=RSS&amp;at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/250e/live/77b09c80-be45-11f1-a64c-550be9e3c66b.jpg"
+    "headline": "France v Italy: Confirmed line-ups for Zidane&#8217;s first home game",
+    "excerpt": "Zidane is looking to make it three wins from three.",
+    "link": "https://www.101greatgoals.com/football/internationals/france-italy-confirmed-teams/",
+    "image": null
   },
   "topStories": [
     {
       "id": "story-1",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "BBC Sport",
+      "time": "Oct 2",
+      "headline": "Man City confirm appeal against guilty verdict",
+      "excerpt": "The club's statement says the ruling contains \"clear material errors, of law, principle and fact,…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cqn7470513n0o?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/250e/live/77b09c80-be45-11f1-a64c-550be9e3c66b.jpg"
+    },
+    {
+      "id": "story-2",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -24,7 +35,7 @@
       "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0m6ztjd.jpg"
     },
     {
-      "id": "story-2",
+      "id": "story-3",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "The Guardian",
@@ -33,17 +44,6 @@
       "excerpt": "<p>⚽ Nations League updates from the 7.45pm BST kick-off<br>⚽ <a href=\"https://www.theguardian.com/football/fixtures\">Live scores</a> | <a href=\"https://www.theguardian.com/football/nations-league/table\">Nations…",
       "link": "https://www.theguardian.com/football/live/2026/oct/02/france-v-italy-nations-league-football-live-score-updates",
       "image": "https://i.guim.co.uk/img/media/b8c737eed2b51ba5490d8c2d5a73fc96cf13eebd/0_29_4640_3712/master/4640.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e1f72b0045fc7e0603183222f54650ee"
-    },
-    {
-      "id": "story-3",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "101 Great Goals",
-      "time": "Oct 2",
-      "headline": "Argentina vs Burkina Faso: Preview, expected line-ups, stats and where to watch",
-      "excerpt": "Argentina face Burkina Faso in an international friendly on Saturday night. Read our in-depth preview…",
-      "link": "https://www.101greatgoals.com/match-previews/argentina-vs-burkina-faso-preview-expected-line-ups-stats-and-where-to-watch/",
-      "image": null
     },
     {
       "id": "story-4",
