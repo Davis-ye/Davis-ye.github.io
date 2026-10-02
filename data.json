@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-02T20:51:54.087Z",
+  "updatedAt": "2026-10-02T21:01:41.629Z",
   "hero": {
     "id": "story-0",
     "league": "Football",
@@ -7,13 +7,24 @@
     "source": "The Guardian",
     "time": "Oct 2",
     "headline": "France 1-1 Italy: Nations League football – live reaction",
-    "excerpt": "<p>⚽ Nations League updates from the 7.45pm BST kick-off<br>⚽ <a href=\"https://www.theguardian.com/football/live\">Live scores</a> | <a href=\"https://www.theguardian.com/football/nations-league/table\">Nations…",
+    "excerpt": "<p>Alessandro Bastoni cancelled out Michael Olise’s goal to give Italy a precious point in Paris</p><p><strong>3…",
     "link": "https://www.theguardian.com/football/live/2026/oct/02/france-v-italy-nations-league-football-live-score-updates",
     "image": "https://i.guim.co.uk/img/media/c4e32500b40bea8f75133de54178b9a1f4f434bd/243_159_2248_1798/master/2248.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=005407c70addf8bf840c7c7dfa5d83a1"
   },
   "topStories": [
     {
       "id": "story-1",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "101 Great Goals",
+      "time": "Oct 2",
+      "headline": "France 1-1 Italy: Zidane&#8217;s 10 men endure frustrating homecoming as Azzurri claim point",
+      "excerpt": "Italy were excellent value for a share of the spoils.",
+      "link": "https://www.101greatgoals.com/match-reports/france-italy-zidane-frustrated/",
+      "image": null
+    },
+    {
+      "id": "story-2",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -22,17 +33,6 @@
       "excerpt": "<ul><li><p>Club opt for improvements in hospitality and retail</p></li><li><p>An increase to 60,704 capacity had been considered</p></li></ul><p>Arsenal…",
       "link": "https://www.theguardian.com/football/2026/oct/02/arsenal-shelve-plans-for-major-expansion-of-emirates-stadium",
       "image": "https://i.guim.co.uk/img/media/386c7dab46c6ed906a5dd2e80431ea75b8dc001a/446_0_4890_3910/master/4890.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=2b41b4fa72d5f530d79acaba81d2015e"
-    },
-    {
-      "id": "story-2",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "101 Great Goals",
-      "time": "Oct 2",
-      "headline": "Los Angeles Rams @ Philadelphia Eagles: Preview, prediction and odds",
-      "excerpt": "Both the Rams and Eagles are dealing with key injuries amid indifferent starts.",
-      "link": "https://www.101greatgoals.com/nfl/rams-eagles-preview-prediction-and-odds/",
-      "image": null
     },
     {
       "id": "story-3",
