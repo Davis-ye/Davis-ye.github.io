@@ -1,27 +1,27 @@
 {
-  "updatedAt": "2026-10-03T09:43:54.012Z",
+  "updatedAt": "2026-10-03T09:54:27.301Z",
   "hero": {
     "id": "story-0",
-    "league": "Football",
-    "dot": "#AFC4AC",
-    "source": "101 Great Goals",
+    "league": "Premier League",
+    "dot": "#9CC0F0",
+    "source": "The Guardian",
     "time": "Oct 3",
-    "headline": "Greece v Germany: Preview, expected line-ups, stats and where to watch",
-    "excerpt": "Greece face Germany in the Nations League on Sunday. Read our in-depth preview here.",
-    "link": "https://www.101greatgoals.com/match-previews/greece-v-germany-preview-expected-line-ups-stats-and-where-to-watch/",
-    "image": null
+    "headline": "Croatia v England to be mainly full despite fan ban; Manchester City latest – matchday live",
+    "excerpt": "<ul><li><p>All the latest before Saturday’s Nations League action</p></li><li><p><a href=\"https://www.theguardian.com/football/live\">Today’s fixtures</a> | <a href=\"https://www.theguardian.com/football/tables\">Latest tables</a> |…",
+    "link": "https://www.theguardian.com/football/live/2026/oct/03/england-scotland-nations-league-action-manchester-city-latest-matchday-live",
+    "image": "https://i.guim.co.uk/img/media/a90cb911c72e31f9a3e4c28cbf2e43ee0c37023b/313_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ea3b8d47019ddf43cc45d7cd5935aeab"
   },
   "topStories": [
     {
       "id": "story-1",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "The Guardian",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "101 Great Goals",
       "time": "Oct 3",
-      "headline": "Croatia v England to be mainly full despite fan ban; Manchester City latest – matchday live",
-      "excerpt": "<ul><li><p>All the latest before Saturday’s Nations League action</p></li><li><p><a href=\"https://www.theguardian.com/football/live\">Today’s fixtures</a> | <a href=\"https://www.theguardian.com/football/tables\">Latest tables</a> |…",
-      "link": "https://www.theguardian.com/football/live/2026/oct/03/england-scotland-nations-league-action-manchester-city-latest-matchday-live",
-      "image": "https://i.guim.co.uk/img/media/a90cb911c72e31f9a3e4c28cbf2e43ee0c37023b/313_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ea3b8d47019ddf43cc45d7cd5935aeab"
+      "headline": "Greece v Germany: Preview, expected line-ups, stats and where to watch",
+      "excerpt": "Greece face Germany in the Nations League on Sunday. Read our in-depth preview here.",
+      "link": "https://www.101greatgoals.com/match-previews/greece-v-germany-preview-expected-line-ups-stats-and-where-to-watch/",
+      "image": null
     },
     {
       "id": "story-2",
