@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-10-04T22:01:56.442Z",
+  "updatedAt": "2026-10-04T22:17:25.685Z",
   "hero": {
     "id": "story-0",
-    "league": "Premier League",
-    "dot": "#9CC0F0",
-    "source": "The Guardian",
+    "league": "Football",
+    "dot": "#AFC4AC",
+    "source": "BBC Sport",
     "time": "Oct 4",
-    "headline": "Nations League roundup: Haaland limps off in Norway’s loss to Portugal",
-    "excerpt": "<ul><li><p>Portugal victory seals place in quarter-finals</p></li><li><p>Greece hold Germany to goalless draw</p></li></ul><p>Title-holders <strong>Portugal</strong> maintained their 100%…",
-    "link": "https://www.theguardian.com/football/2026/oct/04/nations-league-roundup-haaland-limps-off-in-norways-loss-to-portugal",
-    "image": "https://i.guim.co.uk/img/media/3122f94274e23830c44bcecedfd3605595dacdd7/713_0_3588_2871/master/3588.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=58d7eeee2af1a5e7e02bc586a382320e"
+    "headline": "Portugal boss says door open for Ronaldo return",
+    "excerpt": "Cristiano Ronaldo could still return for Portugal, according to boss Jorge Jesus.",
+    "link": "https://www.bbc.co.uk/sport/football/articles/c3dxwry8vydvo?at_medium=RSS&amp;at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/43de/live/68de2c00-c00b-11f1-b8fc-7927883c19e9.jpg"
   },
   "topStories": [
     {
@@ -18,13 +18,24 @@
       "dot": "#AFC4AC",
       "source": "101 Great Goals",
       "time": "Oct 4",
-      "headline": "Nations League: Wales lose again as Netherlands go top of group",
-      "excerpt": "Catch up on Sunday's Nations League fixtures",
-      "link": "https://www.101greatgoals.com/football/internationals/nations-league-wales-lose-again-as-netherlands-go-top-of-group/",
+      "headline": "NFL Week 4: Chism&#8217;s stunning catch gives Patriots win over Bills, Eagles collapse against Rams",
+      "excerpt": "There was an unlikely hero for the Patriots.",
+      "link": "https://www.101greatgoals.com/nfl/nfl-chism-stunning-catch-patriots-bills/",
       "image": null
     },
     {
       "id": "story-2",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "The Guardian",
+      "time": "Oct 4",
+      "headline": "Nations League roundup: Haaland limps off in Norway’s loss to Portugal",
+      "excerpt": "<ul><li><p>Portugal victory seals place in quarter-finals</p></li><li><p>Greece hold Germany to goalless draw</p></li></ul><p>Title-holders <strong>Portugal</strong> maintained their 100%…",
+      "link": "https://www.theguardian.com/football/2026/oct/04/nations-league-roundup-haaland-limps-off-in-norways-loss-to-portugal",
+      "image": "https://i.guim.co.uk/img/media/3122f94274e23830c44bcecedfd3605595dacdd7/713_0_3588_2871/master/3588.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=58d7eeee2af1a5e7e02bc586a382320e"
+    },
+    {
+      "id": "story-3",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -35,7 +46,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/94e2/live/cf56a740-bf44-11f1-8acc-0bb5649ca116.jpg"
     },
     {
-      "id": "story-3",
+      "id": "story-4",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -46,7 +57,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e308/live/d9095200-c01c-11f1-babe-4199b0e7ccea.jpg"
     },
     {
-      "id": "story-4",
+      "id": "story-5",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "The Guardian",
@@ -57,7 +68,7 @@
       "image": "https://i.guim.co.uk/img/media/4521ee584fc8429918c5d40b017a58c2f02b6859/981_0_1422_1137/master/1422.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=72e32f1a864cb188662593cc4fcbb8ed"
     },
     {
-      "id": "story-5",
+      "id": "story-6",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -68,7 +79,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/78b7/live/86435770-b746-11f1-8846-e70401199dae.jpg"
     },
     {
-      "id": "story-6",
+      "id": "story-7",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "The Guardian",
@@ -79,7 +90,7 @@
       "image": "https://i.guim.co.uk/img/media/3ede7b755125eacd52536d5e40ec962ef763c08d/231_0_3268_2614/master/3268.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=657c44fff2f0dbcccabd1de565605751"
     },
     {
-      "id": "story-7",
+      "id": "story-8",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "The Guardian",
@@ -90,7 +101,7 @@
       "image": "https://i.guim.co.uk/img/media/169e6d4539e108c76af46fd9ee51f53f8db4d2ca/314_0_3830_3064/master/3830.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=4127de4e8e0615f5984971895271fdea"
     },
     {
-      "id": "story-8",
+      "id": "story-9",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -101,7 +112,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d6ec/live/77998e20-c01e-11f1-bfc0-dbc6925567bb.jpg"
     },
     {
-      "id": "story-9",
+      "id": "story-10",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -112,7 +123,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3536/live/68d05a40-c014-11f1-b8fc-7927883c19e9.png"
     },
     {
-      "id": "story-10",
+      "id": "story-11",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -123,7 +134,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/92d2/live/92919590-c02a-11f1-bef3-2128f412928e.jpg"
     },
     {
-      "id": "story-11",
+      "id": "story-12",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -134,7 +145,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/28f2/live/9b50ed40-c01e-11f1-babe-4199b0e7ccea.jpg"
     },
     {
-      "id": "story-12",
+      "id": "story-13",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -145,7 +156,7 @@
       "image": "https://i.guim.co.uk/img/media/3623452c4a89f04396a9ba83d3691c3e99d502b9/229_0_2599_2079/master/2599.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=636459de16a741e6aeb1d3568b67ebce"
     },
     {
-      "id": "story-13",
+      "id": "story-14",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -156,7 +167,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9417/live/01ac7620-c012-11f1-babe-4199b0e7ccea.jpg"
     },
     {
-      "id": "story-14",
+      "id": "story-15",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -167,7 +178,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d969/live/01da5960-c011-11f1-b8fc-7927883c19e9.jpg"
     },
     {
-      "id": "story-15",
+      "id": "story-16",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -178,7 +189,7 @@
       "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0gf9mfx.jpg"
     },
     {
-      "id": "story-16",
+      "id": "story-17",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -189,7 +200,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fa81/live/3097a1a0-c001-11f1-a6d2-b3be352f49ed.jpg"
     },
     {
-      "id": "story-17",
+      "id": "story-18",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "The Guardian",
@@ -200,7 +211,7 @@
       "image": "https://i.guim.co.uk/img/media/6f4f50e53e8512902f89ffab8d8e00d261869f26/533_0_5793_4634/master/5793.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d816be4567d3999feef8fe3bcf5a0502"
     },
     {
-      "id": "story-18",
+      "id": "story-19",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -211,7 +222,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/04d7/live/e638a110-bfdb-11f1-b4e6-d96c2bf27b65.jpg"
     },
     {
-      "id": "story-19",
+      "id": "story-20",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -222,7 +233,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3e53/live/7ab140f0-bfc7-11f1-ae6d-41d695ddb617.jpg"
     },
     {
-      "id": "story-20",
+      "id": "story-21",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "The Guardian",
@@ -233,7 +244,7 @@
       "image": "https://i.guim.co.uk/img/media/346239503f403d075a2a9b6c0fd3addd1eb19218/293_0_2915_2332/master/2915.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=1b5961eb1021266815e788c6e5100a9c"
     },
     {
-      "id": "story-21",
+      "id": "story-22",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -244,7 +255,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/14a6/live/d4fed630-bb4e-11f1-bd21-bdf910f2cec6.jpg"
     },
     {
-      "id": "story-22",
+      "id": "story-23",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -253,17 +264,6 @@
       "excerpt": "Test your football knowledge against today's Who Am I?, Five in Five and Brainteaser.",
       "link": "https://www.bbc.co.uk/sport/football/articles/cw20v0prjn66o?at_medium=RSS&amp;at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ada7/live/27df4c70-9658-11f1-b2ab-0dd01740f9f6.jpg"
-    },
-    {
-      "id": "story-23",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "BBC Sport",
-      "time": "Oct 3",
-      "headline": "Two going on four, five or six on good night for new Scotland era",
-      "excerpt": "Scotland scored twice in North Macedonia but the scoreline does not reflect their dominance in…",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cx7vp540g75mo?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8291/live/df976de0-bf78-11f1-940c-1914ec9d5f66.jpg"
     }
   ],
   "scoreboard": []
