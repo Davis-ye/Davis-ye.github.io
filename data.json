@@ -1,38 +1,38 @@
 {
-  "updatedAt": "2026-10-03T18:23:31.366Z",
+  "updatedAt": "2026-10-04T00:07:29.394Z",
   "hero": {
     "id": "story-0",
     "league": "Football",
     "dot": "#AFC4AC",
     "source": "The Guardian",
     "time": "Oct 3",
-    "headline": "North Macedonia v Scotland, Spain v Czechia, and more: Nations League – live",
-    "excerpt": "<ul><li><p>Nations League updates from the 7.45pm BST kick-offs</p></li><li><p><a href=\"https://www.theguardian.com/football/live\">Live scores</a> | <a href=\"https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up\">Get the Football…",
-    "link": "https://www.theguardian.com/football/live/2026/oct/03/north-macedonia-v-scotland-spain-v-czechia-and-more-nations-league-live",
-    "image": "https://i.guim.co.uk/img/media/1bc0d61630e06cead461b73f241238f1bccac235/873_119_3500_2799/master/3500.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=591d91038c5135177084f418adb83c80"
+    "headline": "Celtic fans throw tennis balls at club owner Dermot Desmond during golf tournament",
+    "excerpt": "<ul><li><p>Desmond escorted off St Andrews course by security</p></li><li><p>Celtic say the protest ‘brought shame upon the…",
+    "link": "https://www.theguardian.com/football/2026/oct/03/celtic-fans-throw-tennis-balls-at-club-owner-dermot-desmond-during-golf-tournament",
+    "image": "https://i.guim.co.uk/img/media/a04f09e9e3e49954424622a89351e083a568efb3/608_0_7217_5773/master/7217.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=23e30c09fa28fe473bcaa142ce38de7c"
   },
   "topStories": [
     {
       "id": "story-1",
       "league": "Football",
       "dot": "#AFC4AC",
-      "source": "The Guardian",
+      "source": "BBC Sport",
       "time": "Oct 3",
-      "headline": "Kane and Saka at the double as England thrash Croatia 7-0 in Nations League",
-      "excerpt": "<p>It had all the edge of a pop concert in the stands but England looked…",
-      "link": "https://www.theguardian.com/football/2026/oct/03/croatia-england-nations-league-match-report",
-      "image": "https://i.guim.co.uk/img/media/90c7fa175ef88fafa729a5d329fd7f789dc658b7/452_0_3084_2469/master/3084.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c5c4459f7d6ce9522ebb1cf66da10b36"
+      "headline": "Two going on four, five or six on good night for new Scotland era",
+      "excerpt": "Scotland scored twice in North Macedonia but the scoreline does not reflect their dominance in…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cx7vp540g75mo?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8291/live/df976de0-bf78-11f1-940c-1914ec9d5f66.jpg"
     },
     {
       "id": "story-2",
       "league": "Football",
       "dot": "#AFC4AC",
-      "source": "101 Great Goals",
+      "source": "The Guardian",
       "time": "Oct 3",
-      "headline": "Croatia 0-7 England: Rampant Three Lions see off familiar foe in style",
-      "excerpt": "It was a ruthless display from Thomas Tuchel's side.",
-      "link": "https://www.101greatgoals.com/football/internationals/croatia-england-result-report-goals-highlights/",
-      "image": null
+      "headline": "Ireland cut short news conference as mood darkens further before Israel game",
+      "excerpt": "<ul><li><p>Ireland manager Hallgrímsson calls for ‘cool heads’</p></li><li><p>Says Uefa must consider whether nations meet again</p></li></ul><p>The Republic…",
+      "link": "https://www.theguardian.com/football/2026/oct/03/ireland-cut-short-news-conference-israel-nations-league-football",
+      "image": "https://i.guim.co.uk/img/media/926e7622d214ccc74e63083c8ae8e7aac0ec8f12/1685_794_3673_2939/master/3673.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=7add9a7c807a8d73eca58e17bdcba1c0"
     },
     {
       "id": "story-3",
@@ -40,24 +40,145 @@
       "dot": "#AFC4AC",
       "source": "BBC Sport",
       "time": "Oct 3",
-      "headline": "Who was the best player on the pitch? - England player ratings",
-      "excerpt": "England produce one of their best performances in recent times as they thump Croatia 6-0…",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cq4g1x8znyd0o?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/70d1/live/36cf3a10-bf52-11f1-a84d-81c67bc2828e.jpg"
-    },
-    {
-      "id": "story-4",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "BBC Sport",
-      "time": "Oct 3",
-      "headline": "Desmond targeted by Celtic fan protest at Alfred Dunhill",
+      "headline": "Celtic condemn fan protest as Desmond targeted at Alfred Dunhill",
       "excerpt": "Celtic's largest shareholder Dermot Desmond is targeted in a protest at the Alfred Dunhill Links…",
       "link": "https://www.bbc.co.uk/sport/football/articles/c60qke217knjo?at_medium=RSS&amp;at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/94e2/live/cf56a740-bf44-11f1-8acc-0bb5649ca116.jpg"
     },
     {
+      "id": "story-4",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "101 Great Goals",
+      "time": "Oct 3",
+      "headline": "UEFA Nations League: Scotland grab first win while Switzerland and Finland continue strong starts",
+      "excerpt": "Catch up on all the action across the continent on Saturday.",
+      "link": "https://www.101greatgoals.com/football/internationals/uefa-nations-league-scotland-grab-first-win-while-switzerland-and-finland-continue-strong-starts/",
+      "image": null
+    },
+    {
       "id": "story-5",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "BBC Sport",
+      "time": "Oct 3",
+      "headline": "'It means everything' - numbers behind Robertson's 100-cap Scotland career",
+      "excerpt": "Andy Robertson has become only the second man ever to play 100 times for Scotland.…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/crgjqjg1l740o?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/01ec/live/9fd85a20-bf6e-11f1-8353-af47de35c0c8.jpg"
+    },
+    {
+      "id": "story-6",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "The Guardian",
+      "time": "Oct 3",
+      "headline": "Lamine Yamal stars again as Spain see off Czechia and maintain perfect start",
+      "excerpt": "<p>Lamine Yamal says he feels like Superman or Spider-Man sometimes, and Spain’s fans are starting…",
+      "link": "https://www.theguardian.com/football/2026/oct/03/lamine-yamal-stars-again-as-spain-see-off-czechia-and-maintain-perfect-start",
+      "image": "https://i.guim.co.uk/img/media/4da43e5ef116a9a641c07d1d72e387dfc2ca7db5/277_0_2637_2109/master/2637.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=46e3fed93c6aceb8fbfc0b164d3e8dc6"
+    },
+    {
+      "id": "story-7",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "BBC Sport",
+      "time": "Oct 3",
+      "headline": "Bellingham unlocks new level and potential to be 'one of the greatest'",
+      "excerpt": "Jude Bellingham's international future was being called into question a year ago, but now he…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cv5yn8znyx2ro?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ec9a/live/385a09b0-bf5b-11f1-bf94-5355097afbf2.jpg"
+    },
+    {
+      "id": "story-8",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "The Guardian",
+      "time": "Oct 3",
+      "headline": "Bowie gets Pocognoli off mark with Scotland victory in North Macedonia",
+      "excerpt": "<p>This was an occasion on which Scotland dare not stumble. By the time Kieron Bowie…",
+      "link": "https://www.theguardian.com/football/2026/oct/03/north-macedonia-scotland-nations-league-match-report",
+      "image": "https://i.guim.co.uk/img/media/57091e219c0b67e52b7112da3c8504d0da5c1f9f/294_0_4158_3327/master/4158.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b9646c6b5a185490163be99e83c08da4"
+    },
+    {
+      "id": "story-9",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "BBC Sport",
+      "time": "Oct 3",
+      "headline": "Man Utd & Arsenal eye Croatia striker - Sunday's gossip",
+      "excerpt": "Three Premier League clubs are interested in Freiburg striker Igor Matanovic, Juventus want Liverpool centre-back…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cw62y457008lo?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ac4a/live/45c6e1e0-bf65-11f1-a64c-550be9e3c66b.png"
+    },
+    {
+      "id": "story-10",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "The Guardian",
+      "time": "Oct 3",
+      "headline": "Bellingham stands out for high-grade England but Uefa sends out wrong message on racism | Barney Ronay",
+      "excerpt": "<p>Allowing children in after a ban on adult fans was wrong in the extreme but…",
+      "link": "https://www.theguardian.com/football/2026/oct/03/bellingham-stands-out-for-high-grade-england-but-uefa-sends-wrong-message-on-racism",
+      "image": "https://i.guim.co.uk/img/media/c066ca330ce783057fd6a14799d19ada9cd3b6e9/451_0_4513_3610/master/4513.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e8f92a54a32226387218e23fa6932dbf"
+    },
+    {
+      "id": "story-11",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "The Guardian",
+      "time": "Oct 3",
+      "headline": "Tuchel convinced England have buried World Cup woes with Croatia thrashing",
+      "excerpt": "<ul><li><p>‘We’ll always have a scar, but this is how we move forward’</p></li><li><p>Manager praises ‘complete package’…",
+      "link": "https://www.theguardian.com/football/2026/oct/03/tuchel-convinced-england-have-buried-world-cup-woes-with-croatia-thrashing",
+      "image": "https://i.guim.co.uk/img/media/61efffc3f902e5770d413791fa7030ab1c6ae7d8/704_0_4705_3764/master/4705.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=1eaaa8e2bc3ded32938bef57e95d78a6"
+    },
+    {
+      "id": "story-12",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "The Guardian",
+      "time": "Oct 3",
+      "headline": "‘Portugal’s greatest symbol’: Bruno Fernandes backs Cristiano Ronaldo despite walkout",
+      "excerpt": "<ul><li><p>Fernandes: ‘There are no divisions in the national team’</p></li><li><p>Ronaldo left team camp this week in…",
+      "link": "https://www.theguardian.com/football/2026/oct/03/cristiano-ronaldo-portugal-bruno-fernandes-jorge-jesus-nations-league",
+      "image": "https://i.guim.co.uk/img/media/f710f3a60d8570ab7a597aec7cd6245a3d27674d/208_1_2794_2236/master/2794.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=51be8f237402a592bb7d9d8d823b6d53"
+    },
+    {
+      "id": "story-13",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "The Guardian",
+      "time": "Oct 3",
+      "headline": "Let there be blanks instead of Manchester City’s name on trophies: there was no honour there | Jonathan Wilson",
+      "excerpt": "<p>The spaces can stand both as a rebuke to an era of greed but also…",
+      "link": "https://www.theguardian.com/football/2026/oct/03/blank-instead-manchester-city-name-trophies-premier-league",
+      "image": "https://i.guim.co.uk/img/media/cf4bbf1472e23618e18462482e3df24b8968025c/781_0_2665_2131/master/2665.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=7901046ccd2612d3c9714595b2ca3688"
+    },
+    {
+      "id": "story-14",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "BBC Sport",
+      "time": "Oct 3",
+      "headline": "Ronaldo still 'greatest symbol' of Portugal -  Fernandes",
+      "excerpt": "Portugal midfielder Bruno Fernandes says Cristiano Ronaldo remains the country's greatest footballing figure despite leaving…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/ckq5nd1g14v4o?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8140/live/6ff772e0-bf51-11f1-a84d-81c67bc2828e.jpg"
+    },
+    {
+      "id": "story-15",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "BBC Sport",
+      "time": "Oct 3",
+      "headline": "Who was best player on the pitch? Who looks a great addition? England ratings",
+      "excerpt": "England produce one of their best performances in recent times as they thump Croatia 6-0…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cq4g1x8znyd0o?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/70d1/live/36cf3a10-bf52-11f1-a84d-81c67bc2828e.jpg"
+    },
+    {
+      "id": "story-16",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -68,7 +189,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d544/live/cd3b0f80-bf1e-11f1-9b47-174f268aae1d.jpg"
     },
     {
-      "id": "story-6",
+      "id": "story-17",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -79,7 +200,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/46bd/live/5d5b9050-bf40-11f1-babe-4199b0e7ccea.jpg"
     },
     {
-      "id": "story-7",
+      "id": "story-18",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -90,7 +211,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/362e/live/1d2b8af0-bf39-11f1-babe-4199b0e7ccea.jpg"
     },
     {
-      "id": "story-8",
+      "id": "story-19",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -101,18 +222,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4ac8/live/5d39bc00-bf36-11f1-bc2e-018d645d8d21.jpg"
     },
     {
-      "id": "story-9",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "The Guardian",
-      "time": "Oct 3",
-      "headline": "Ireland cut short news conference as mood darkens further before Israel game",
-      "excerpt": "<ul><li><p>Ireland manager Hallgrímsson calls for ‘cool heads’</p></li><li><p>Accusations of racism dismissed as ‘completely untrue’</p></li></ul><p>The Republic of…",
-      "link": "https://www.theguardian.com/football/2026/oct/03/ireland-cut-short-news-conference-israel-nations-league-football",
-      "image": "https://i.guim.co.uk/img/media/926e7622d214ccc74e63083c8ae8e7aac0ec8f12/1685_794_3673_2939/master/3673.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=7add9a7c807a8d73eca58e17bdcba1c0"
-    },
-    {
-      "id": "story-10",
+      "id": "story-20",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -123,7 +233,7 @@
       "image": "https://i.guim.co.uk/img/media/587e6b8cba6843a3feebd95671a5347daa95e075/2982_1437_2243_1795/master/2243.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e4c2193e464acecce6008b172fa8cb4e"
     },
     {
-      "id": "story-11",
+      "id": "story-21",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -134,7 +244,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3eee/live/4c3aab70-bf23-11f1-bacc-0989b00347ed.jpg"
     },
     {
-      "id": "story-12",
+      "id": "story-22",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -145,18 +255,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c979/live/12ca4de0-bea7-11f1-a22a-011993fe1af2.jpg"
     },
     {
-      "id": "story-13",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "The Guardian",
-      "time": "Oct 3",
-      "headline": "Manchester City whistleblower ready to help UK authorities in return for protection",
-      "excerpt": "<ul><li><p>Rui Pinto faces loss of witness safeguarding in Portugal</p></li><li><p>More documents over City affairs may be…",
-      "link": "https://www.theguardian.com/football/2026/oct/03/manchester-city-whistleblower-rui-pinto-ready-to-help-uk-authorities-in-return-for-protection",
-      "image": "https://i.guim.co.uk/img/media/f6b8ee9f00cd4faa4c11211cd6e8002adeda65f1/898_0_3887_3113/master/3887.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=bdeb90009851d0f9af8ced30049832c1"
-    },
-    {
-      "id": "story-14",
+      "id": "story-23",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -165,105 +264,6 @@
       "excerpt": "Avoiding finishing bottom of their Nations League group is a major aim for Wales following…",
       "link": "https://www.bbc.co.uk/sport/football/articles/ck1wv77v9y3wo?at_medium=RSS&amp;at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b19c/live/8c0378e0-be8d-11f1-888b-4d28ea12c7e2.jpg"
-    },
-    {
-      "id": "story-15",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "BBC Sport",
-      "time": "Oct 3",
-      "headline": "Second Israel game won't be a friendly - Hallgrimsson",
-      "excerpt": "Republic of Ireland head coach Heimir Hallgrimsson admits Sunday's second game against Israel is \"not…",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cq77075x5xv7o?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2c42/live/deaffb90-bded-11f1-8307-556ed6258238.jpg"
-    },
-    {
-      "id": "story-16",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "BBC Sport",
-      "time": "Oct 3",
-      "headline": "Dyche would be open to Celtic approach - gossip",
-      "excerpt": "Premier League manager would be interested if Celtic require a mid-season change...",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c5398k7ezemko?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/38bb/live/fc07b020-bf05-11f1-babe-4199b0e7ccea.png"
-    },
-    {
-      "id": "story-17",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "BBC Sport",
-      "time": "Oct 3",
-      "headline": "Lewandowski, 38, hits hat-trick in 6-0 Poland win",
-      "excerpt": "Robert Lewandowski, 38, scores a hat-trick in the Nations League and Edin Dzeko plays his…",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c6vgxe0yxpn8o?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9ec0/live/311aa970-bef2-11f1-babe-4199b0e7ccea.jpg"
-    },
-    {
-      "id": "story-18",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "BBC Sport",
-      "time": "Oct 3",
-      "headline": "Too quiet for too long, can McGinn recapture best for Scotland?",
-      "excerpt": "Fifth in the all-time scoring chart for Scotland and closing in on 100 caps, John…",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c5398kvl77xno?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7ad7/live/f03cb6d0-bea8-11f1-a22a-011993fe1af2.jpg"
-    },
-    {
-      "id": "story-19",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "The Guardian",
-      "time": "Oct 3",
-      "headline": "Thrown in with Giggs and Beckham: how Manchester United tried to get Billy Kenny",
-      "excerpt": "<p>Former Everton midfielder, known as the ‘Goodison Gazza’, recalls being made to feel special by…",
-      "link": "https://www.theguardian.com/football/2026/oct/03/billy-kenny-ryan-giggs-david-beckham-manchester-united-autobiography",
-      "image": "https://i.guim.co.uk/img/media/f4a286df811f62f6bf154d9e2432026c62bc3a66/651_0_4108_3286/master/4108.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=bf5e8c9ab55817f292ae663bb6d6c6a3"
-    },
-    {
-      "id": "story-20",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "The Guardian",
-      "time": "Oct 3",
-      "headline": "The football horse that Andy Burnham rode in on is now bucking his vibe | Barney Ronay",
-      "excerpt": "<p>PM’s contortions over the Manchester City verdicts have landed him with an early test of…",
-      "link": "https://www.theguardian.com/football/2026/oct/03/manchester-city-verdict-andy-burnham",
-      "image": "https://i.guim.co.uk/img/media/db27fe945502e39102619ee4868c8f00068756d8/0_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=775fc89340ce967f58710c83b7f9d5f7"
-    },
-    {
-      "id": "story-21",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "BBC Sport",
-      "time": "Oct 3",
-      "headline": "Who am I? Guess WSL star No 7",
-      "excerpt": "Work out the identity of today's Women's Super League player in as few attempts as…",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c9rk3vx2y7pro?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/87e1/live/1b00e450-9afe-11f1-a291-b542ee92de7c.jpg"
-    },
-    {
-      "id": "story-22",
-      "league": "La Liga",
-      "dot": "#E3B4F5",
-      "source": "BBC Sport",
-      "time": "Oct 3",
-      "headline": "The student playing in La Liga: Introvert Rodri's unique rise to top",
-      "excerpt": "Rodri is already playing a key role at Barcelona after turning down Real Madrid this…",
-      "link": "https://www.bbc.co.uk/sport/football/articles/ck5ywwpxe1gno?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6e99/live/1c2848d0-b9b4-11f1-929f-f1f9c2e672cb.jpg"
-    },
-    {
-      "id": "story-23",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "BBC Sport",
-      "time": "Oct 3",
-      "headline": "Flex your football brain with our daily quizzes",
-      "excerpt": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c64gdgp8w4ddo?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ada7/live/27df4c70-9658-11f1-b2ab-0dd01740f9f6.jpg"
     }
   ],
   "scoreboard": []
