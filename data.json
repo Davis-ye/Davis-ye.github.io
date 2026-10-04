@@ -1,19 +1,74 @@
 {
-  "updatedAt": "2026-10-04T21:07:52.411Z",
+  "updatedAt": "2026-10-04T21:36:24.409Z",
   "hero": {
     "id": "story-0",
     "league": "Football",
     "dot": "#AFC4AC",
-    "source": "The Guardian",
+    "source": "BBC Sport",
     "time": "Oct 4",
-    "headline": "Wales v Denmark, Republic of Ireland v Israel and more: Nations League – live",
-    "excerpt": "<p>⚽️ Nations League updates from 7.45pm kick-offs<br>⚽️ <a href=\"https://www.theguardian.com/football/live\">Live scoreboard</a> | <a href=\"mailto:daniel.gallan.casual@guardian.co.uk\">And mail Daniel</a></p><p><strong>Five…",
-    "link": "https://www.theguardian.com/football/live/2026/oct/04/wales-v-denmark-republic-of-ireland-v-israel-and-more-nations-league-live",
-    "image": "https://i.guim.co.uk/img/media/35234d241382bfe88d923f288d7d0f3972d5d1a2/168_0_1800_1440/master/1800.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=52b3cf6be062c0287fa850da9e0f96f4"
+    "headline": "Fans group questions Desmond's priorities amid Celtic protest row",
+    "excerpt": "The Celtic Fans Collective has criticised Dermot Desmond's \"priorities\" after the Scottish champions withdrew recognition…",
+    "link": "https://www.bbc.co.uk/sport/football/articles/c60qke217knjo?at_medium=RSS&amp;at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/94e2/live/cf56a740-bf44-11f1-8acc-0bb5649ca116.jpg"
   },
   "topStories": [
     {
       "id": "story-1",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "BBC Sport",
+      "time": "Oct 4",
+      "headline": "Man City fight back to beat struggling Arsenal",
+      "excerpt": "Manchester City twice came from behind to beat Arsenal 4-2 at the Etihad Stadium and…",
+      "link": "https://www.bbc.co.uk/sport/football/videos/c64g71j3dkw7o?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e308/live/d9095200-c01c-11f1-babe-4199b0e7ccea.jpg"
+    },
+    {
+      "id": "story-2",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "The Guardian",
+      "time": "Oct 4",
+      "headline": "No handshakes again as Ireland play out tetchy ‘home’ draw with Israel in Serbia",
+      "excerpt": "<p>The Republic of Ireland were pegged back to a draw by Israel in another tetchy…",
+      "link": "https://www.theguardian.com/football/2026/oct/04/republic-of-ireland-israel-nations-league-match-report",
+      "image": "https://i.guim.co.uk/img/media/4521ee584fc8429918c5d40b017a58c2f02b6859/981_0_1422_1137/master/1422.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=72e32f1a864cb188662593cc4fcbb8ed"
+    },
+    {
+      "id": "story-3",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "BBC Sport",
+      "time": "Oct 4",
+      "headline": "You are the Scotland boss - what would you do?",
+      "excerpt": "Put yourself in the shoes of the new Scotland head coach Sebastien Pocognoli as he…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cr4g1q2w1g6zo?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/78b7/live/86435770-b746-11f1-8846-e70401199dae.jpg"
+    },
+    {
+      "id": "story-4",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "The Guardian",
+      "time": "Oct 4",
+      "headline": "Let’s stop doubting Thomas Tuchel: England are impressive and Euro 2028 is the target",
+      "excerpt": "<p>Coming third in the World Cup was really not a disaster, and Saturday’s rout of…",
+      "link": "https://www.theguardian.com/football/2026/oct/04/thomas-tuchel-england-croatia-nations-league-euro-2028",
+      "image": "https://i.guim.co.uk/img/media/3ede7b755125eacd52536d5e40ec962ef763c08d/231_0_3268_2614/master/3268.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=657c44fff2f0dbcccabd1de565605751"
+    },
+    {
+      "id": "story-5",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "The Guardian",
+      "time": "Oct 4",
+      "headline": "Denmark sink Wales as Rasmus Højlund makes Danny Ward pay for blunder",
+      "excerpt": "<p>Only a few days ago Craig Bellamy suggested Wales had blown Nations League A4 wide…",
+      "link": "https://www.theguardian.com/football/2026/oct/04/wales-denmark-nations-league-match-report",
+      "image": "https://i.guim.co.uk/img/media/169e6d4539e108c76af46fd9ee51f53f8db4d2ca/314_0_3830_3064/master/3830.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=4127de4e8e0615f5984971895271fdea"
+    },
+    {
+      "id": "story-6",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "101 Great Goals",
@@ -24,7 +79,7 @@
       "image": null
     },
     {
-      "id": "story-2",
+      "id": "story-7",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -35,7 +90,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d6ec/live/77998e20-c01e-11f1-bfc0-dbc6925567bb.jpg"
     },
     {
-      "id": "story-3",
+      "id": "story-8",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -46,7 +101,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3536/live/68d05a40-c014-11f1-b8fc-7927883c19e9.png"
     },
     {
-      "id": "story-4",
+      "id": "story-9",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -57,7 +112,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/92d2/live/92919590-c02a-11f1-bef3-2128f412928e.jpg"
     },
     {
-      "id": "story-5",
+      "id": "story-10",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -68,7 +123,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/28f2/live/9b50ed40-c01e-11f1-babe-4199b0e7ccea.jpg"
     },
     {
-      "id": "story-6",
+      "id": "story-11",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -79,18 +134,7 @@
       "image": "https://i.guim.co.uk/img/media/3623452c4a89f04396a9ba83d3691c3e99d502b9/229_0_2599_2079/master/2599.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=636459de16a741e6aeb1d3568b67ebce"
     },
     {
-      "id": "story-7",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "The Guardian",
-      "time": "Oct 4",
-      "headline": "Tuchel says Alex Scott’s emergence gives England – and Rice – ‘high level’ competition",
-      "excerpt": "<ul><li><p>Tuchel praises Scott’s all-round display in Croatia win</p></li><li><p>‘We will not survive on two midfielders. More…",
-      "link": "https://www.theguardian.com/football/2026/oct/04/alex-scott-declan-rice-thomas-tuchel-midfield-england-croatia-nations-league",
-      "image": "https://i.guim.co.uk/img/media/aaed66d6527eba11ded9f67f597c06189cfd970c/152_84_4287_3430/master/4287.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=041e29586aa0c632f56abb5b053db527"
-    },
-    {
-      "id": "story-8",
+      "id": "story-12",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -101,7 +145,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9417/live/01ac7620-c012-11f1-babe-4199b0e7ccea.jpg"
     },
     {
-      "id": "story-9",
+      "id": "story-13",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -112,7 +156,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d969/live/01da5960-c011-11f1-b8fc-7927883c19e9.jpg"
     },
     {
-      "id": "story-10",
+      "id": "story-14",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -123,7 +167,7 @@
       "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0gf9mfx.jpg"
     },
     {
-      "id": "story-11",
+      "id": "story-15",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -134,7 +178,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fa81/live/3097a1a0-c001-11f1-a6d2-b3be352f49ed.jpg"
     },
     {
-      "id": "story-12",
+      "id": "story-16",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "The Guardian",
@@ -145,7 +189,7 @@
       "image": "https://i.guim.co.uk/img/media/6f4f50e53e8512902f89ffab8d8e00d261869f26/533_0_5793_4634/master/5793.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d816be4567d3999feef8fe3bcf5a0502"
     },
     {
-      "id": "story-13",
+      "id": "story-17",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -156,7 +200,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/04d7/live/e638a110-bfdb-11f1-b4e6-d96c2bf27b65.jpg"
     },
     {
-      "id": "story-14",
+      "id": "story-18",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -167,7 +211,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3e53/live/7ab140f0-bfc7-11f1-ae6d-41d695ddb617.jpg"
     },
     {
-      "id": "story-15",
+      "id": "story-19",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "The Guardian",
@@ -178,7 +222,7 @@
       "image": "https://i.guim.co.uk/img/media/346239503f403d075a2a9b6c0fd3addd1eb19218/293_0_2915_2332/master/2915.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=1b5961eb1021266815e788c6e5100a9c"
     },
     {
-      "id": "story-16",
+      "id": "story-20",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -189,7 +233,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/14a6/live/d4fed630-bb4e-11f1-bd21-bdf910f2cec6.jpg"
     },
     {
-      "id": "story-17",
+      "id": "story-21",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -200,7 +244,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ada7/live/27df4c70-9658-11f1-b2ab-0dd01740f9f6.jpg"
     },
     {
-      "id": "story-18",
+      "id": "story-22",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -211,18 +255,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8291/live/df976de0-bf78-11f1-940c-1914ec9d5f66.jpg"
     },
     {
-      "id": "story-19",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "BBC Sport",
-      "time": "Oct 3",
-      "headline": "Celtic condemn fan protest as Desmond targeted at Alfred Dunhill",
-      "excerpt": "Celtic's largest shareholder Dermot Desmond is targeted in a protest at the Alfred Dunhill Links…",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c60qke217knjo?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/94e2/live/cf56a740-bf44-11f1-8acc-0bb5649ca116.jpg"
-    },
-    {
-      "id": "story-20",
+      "id": "story-23",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -231,39 +264,6 @@
       "excerpt": "Andy Robertson has become only the second man ever to play 100 times for Scotland.…",
       "link": "https://www.bbc.co.uk/sport/football/articles/crgjqjg1l740o?at_medium=RSS&amp;at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/01ec/live/9fd85a20-bf6e-11f1-8353-af47de35c0c8.jpg"
-    },
-    {
-      "id": "story-21",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "The Guardian",
-      "time": "Oct 3",
-      "headline": "Lamine Yamal stars again as Spain see off Czechia and maintain perfect start",
-      "excerpt": "<p>Lamine Yamal says he feels like Superman or Spider-Man sometimes, and Spain’s fans are starting…",
-      "link": "https://www.theguardian.com/football/2026/oct/03/lamine-yamal-stars-again-as-spain-see-off-czechia-and-maintain-perfect-start",
-      "image": "https://i.guim.co.uk/img/media/4da43e5ef116a9a641c07d1d72e387dfc2ca7db5/277_0_2637_2109/master/2637.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=46e3fed93c6aceb8fbfc0b164d3e8dc6"
-    },
-    {
-      "id": "story-22",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "BBC Sport",
-      "time": "Oct 3",
-      "headline": "Bellingham unlocks new level and potential to be 'one of the greatest'",
-      "excerpt": "Jude Bellingham's international future was being called into question a year ago, but now he…",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cv5yn8znyx2ro?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ec9a/live/385a09b0-bf5b-11f1-bf94-5355097afbf2.jpg"
-    },
-    {
-      "id": "story-23",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "BBC Sport",
-      "time": "Oct 3",
-      "headline": "Seventh heaven for England in Croatia",
-      "excerpt": "John Murray presents reaction in Croatia to England's 7-0 Nations League win.",
-      "link": "https://www.bbc.co.uk/sounds/play/p0pdvwxg?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0pdvwxq.jpg"
     }
   ],
   "scoreboard": []
