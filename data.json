@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-04T22:17:25.685Z",
+  "updatedAt": "2026-10-04T22:31:31.228Z",
   "hero": {
     "id": "story-0",
     "league": "Football",
@@ -91,12 +91,12 @@
     },
     {
       "id": "story-8",
-      "league": "Football",
-      "dot": "#AFC4AC",
+      "league": "Ligue 1",
+      "dot": "#B8D4E8",
       "source": "The Guardian",
       "time": "Oct 4",
       "headline": "Denmark sink Wales as Rasmus Højlund makes Danny Ward pay for blunder",
-      "excerpt": "<p>Only a few days ago Craig Bellamy suggested Wales had blown Nations League A4 wide…",
+      "excerpt": "<p>Wales crave momentum but, a few days after surely the sweetest high of Craig Bellamy’s…",
       "link": "https://www.theguardian.com/football/2026/oct/04/wales-denmark-nations-league-match-report",
       "image": "https://i.guim.co.uk/img/media/169e6d4539e108c76af46fd9ee51f53f8db4d2ca/314_0_3830_3064/master/3830.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=4127de4e8e0615f5984971895271fdea"
     },
