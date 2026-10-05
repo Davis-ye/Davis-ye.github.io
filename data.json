@@ -1,19 +1,30 @@
 {
-  "updatedAt": "2026-10-05T21:34:52.949Z",
+  "updatedAt": "2026-10-05T21:49:50.704Z",
   "hero": {
     "id": "story-0",
-    "league": "Football",
-    "dot": "#AFC4AC",
-    "source": "BBC Sport",
+    "league": "Premier League",
+    "dot": "#9CC0F0",
+    "source": "The Guardian",
     "time": "Oct 5",
-    "headline": "Humble Gilmour happy with new role as 50th cap beckons",
-    "excerpt": "Billy Gilmour is excited by the prospect of earning a 50th Scotland cap after a…",
-    "link": "https://www.bbc.co.uk/sport/football/articles/cmly05el6gz2o?at_medium=RSS&amp;at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ca64/live/a6d4b810-c102-11f1-9ff2-3b6c88884537.jpg"
+    "headline": "How did some City fans become aggressive defenders of a nation state’s regime? | Sean Ingle",
+    "excerpt": "<p>The Manchester City case is one example of how fandom has warped beyond previous boundaries…",
+    "link": "https://www.theguardian.com/football/2026/oct/05/how-do-sports-fans-end-up-as-aggressive-defenders-of-a-nation-states-regime",
+    "image": "https://i.guim.co.uk/img/media/a0999a27c9e6255e4b49f4d729e2af6fc9eea71b/446_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c76834990e6f4ef1469cf5f6ace0130b"
   },
   "topStories": [
     {
       "id": "story-1",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "BBC Sport",
+      "time": "Oct 5",
+      "headline": "Humble Gilmour happy with new role as 50th cap beckons",
+      "excerpt": "Billy Gilmour is excited by the prospect of earning a 50th Scotland cap after a…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cmly05el6gz2o?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ca64/live/a6d4b810-c102-11f1-9ff2-3b6c88884537.jpg"
+    },
+    {
+      "id": "story-2",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "The Guardian",
@@ -24,7 +35,7 @@
       "image": "https://i.guim.co.uk/img/media/ad8477e0c63fdba55a1501ede707f7aa42581591/284_0_3134_2508/master/3134.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=4f232335ac0f1bca67fb28d6b95d95b2"
     },
     {
-      "id": "story-2",
+      "id": "story-3",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "101 Great Goals",
@@ -35,7 +46,7 @@
       "image": null
     },
     {
-      "id": "story-3",
+      "id": "story-4",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -46,7 +57,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/90d3/live/7d914c60-c0f9-11f1-812d-715b1c9a79e7.png"
     },
     {
-      "id": "story-4",
+      "id": "story-5",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -55,17 +66,6 @@
       "excerpt": "What are the benefits of players going abroad to play their club football?",
       "link": "https://www.bbc.co.uk/sounds/play/p0pf4nx4?at_medium=RSS&amp;at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0pf4nxn.jpg"
-    },
-    {
-      "id": "story-5",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "The Guardian",
-      "time": "Oct 5",
-      "headline": "How do sports fans end up as aggressive defenders of a nation state’s regime? | Sean Ingle",
-      "excerpt": "<p>The Manchester City case is one example of how fandom has warped beyond previous boundaries…",
-      "link": "https://www.theguardian.com/football/2026/oct/05/how-do-sports-fans-end-up-as-aggressive-defenders-of-a-nation-states-regime",
-      "image": "https://i.guim.co.uk/img/media/a0999a27c9e6255e4b49f4d729e2af6fc9eea71b/446_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c76834990e6f4ef1469cf5f6ace0130b"
     },
     {
       "id": "story-6",
