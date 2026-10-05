@@ -1,19 +1,30 @@
 {
-  "updatedAt": "2026-10-05T12:28:20.061Z",
+  "updatedAt": "2026-10-05T12:50:34.271Z",
   "hero": {
     "id": "story-0",
-    "league": "Football",
-    "dot": "#AFC4AC",
-    "source": "101 Great Goals",
+    "league": "Premier League",
+    "dot": "#9CC0F0",
+    "source": "BBC Sport",
     "time": "Oct 5",
-    "headline": "Thomas Tuchel hails King Kane as he prepares to equal England appearance record",
-    "excerpt": "Harry Kane will match Peter Shilton's England appearance record when he leads out the Three…",
-    "link": "https://www.101greatgoals.com/football/internationals/thomas-tuchel-harry-kane-england-appearance-record-shilton/",
-    "image": null
+    "headline": "Bournemouth unhappy after Scott injured with England",
+    "excerpt": "Bournemouth are unhappy with the way they believe England handled the injury to Alex Scott…",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cqm2dyrg84ymo?at_medium=RSS&amp;at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/15de/live/f6f840f0-c099-11f1-a4af-19dbf5352a59.jpg"
   },
   "topStories": [
     {
       "id": "story-1",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "101 Great Goals",
+      "time": "Oct 5",
+      "headline": "Thomas Tuchel hails King Kane as he prepares to equal England appearance record",
+      "excerpt": "Harry Kane will match Peter Shilton's England appearance record when he leads out the Three…",
+      "link": "https://www.101greatgoals.com/football/internationals/thomas-tuchel-harry-kane-england-appearance-record-shilton/",
+      "image": null
+    },
+    {
+      "id": "story-2",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "The Guardian",
@@ -24,7 +35,7 @@
       "image": "https://i.guim.co.uk/img/media/2ef8405008c018fd5e229bc28ab571cf2ec78716/390_41_2242_1794/master/2242.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c9bcdbee0f4adc58147216543cb12fa2"
     },
     {
-      "id": "story-2",
+      "id": "story-3",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -33,17 +44,6 @@
       "excerpt": "After five frantic weeks, the Women's Super League takes a two-week break, offering the perfect…",
       "link": "https://www.bbc.co.uk/sport/football/articles/cm4g1l6rxypzo?at_medium=RSS&amp;at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/42c4/live/c0f6afa0-c0b2-11f1-babe-4199b0e7ccea.jpg"
-    },
-    {
-      "id": "story-3",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "BBC Sport",
-      "time": "Oct 5",
-      "headline": "Scott withdraws from England squad and could be out for eight weeks",
-      "excerpt": "Bournemouth midfielder Alex Scott withdraws from the England squad with a thigh injury that could…",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cqm2dyrg84ymo?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/15de/live/f6f840f0-c099-11f1-a4af-19dbf5352a59.jpg"
     },
     {
       "id": "story-4",
