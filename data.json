@@ -1,19 +1,52 @@
 {
-  "updatedAt": "2026-10-05T08:05:20.490Z",
+  "updatedAt": "2026-10-05T08:25:43.447Z",
   "hero": {
     "id": "story-0",
-    "league": "Football",
-    "dot": "#AFC4AC",
+    "league": "Premier League",
+    "dot": "#9CC0F0",
     "source": "BBC Sport",
     "time": "Oct 5",
-    "headline": "The only side in Nations League yet to concede? Northern Ireland",
-    "excerpt": "With three clean sheets from three games in Uefa Nations League Group B2, Northern Ireland…",
-    "link": "https://www.bbc.co.uk/sport/football/articles/cw30elngz4y5o?at_medium=RSS&amp;at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/926e/live/f883bdd0-bfe7-11f1-b06d-85ecedcb7cff.jpg"
+    "headline": "Scott withdraws from England squad and could be out for eight weeks",
+    "excerpt": "Bournemouth midfielder Alex Scott withdraws from the England squad to face the Czech Republic on…",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cqm2dyrg84ymo?at_medium=RSS&amp;at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb7a/live/5c0f70d0-6139-11ee-ac8c-9d18dbc280ea.png"
   },
   "topStories": [
     {
       "id": "story-1",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "101 Great Goals",
+      "time": "Oct 5",
+      "headline": "Portuguese chief confident he can solve &#8216;misunderstanding&#8217; but Jesus won&#8217;t apologise to Ronaldo",
+      "excerpt": "FPF president Pedro Proenca is confident he can broker peace between Jorge Jesus and Cristiano…",
+      "link": "https://www.101greatgoals.com/football/internationals/portugal-misunderstanding-jorge-jesus-wont-apologise-cristiano-ronaldo/",
+      "image": null
+    },
+    {
+      "id": "story-2",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "BBC Sport",
+      "time": "Oct 5",
+      "headline": "£800m in, £800m out - Why Man City scandal shines light on Man Utd finances",
+      "excerpt": "Manchester City's owners have been found guilty of injecting money into the club. At Manchester…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/ckg5j87jy3zmo?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cb97/live/507e37e0-be7b-11f1-a64c-550be9e3c66b.jpg"
+    },
+    {
+      "id": "story-3",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "BBC Sport",
+      "time": "Oct 5",
+      "headline": "The only side in Nations League yet to concede? Northern Ireland",
+      "excerpt": "With three clean sheets from three games in Uefa Nations League Group B2, Northern Ireland…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cw30elngz4y5o?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/926e/live/f883bdd0-bfe7-11f1-b06d-85ecedcb7cff.jpg"
+    },
+    {
+      "id": "story-4",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -24,7 +57,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/280a/live/9c06b0a0-c08a-11f1-babe-4199b0e7ccea.jpg"
     },
     {
-      "id": "story-2",
+      "id": "story-5",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -35,7 +68,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ef14/live/b70d9b40-c08d-11f1-bc2e-018d645d8d21.jpg"
     },
     {
-      "id": "story-3",
+      "id": "story-6",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "The Guardian",
@@ -46,7 +79,7 @@
       "image": "https://i.guim.co.uk/img/media/4d5af237e75e615e6c11cb1da1c829f79fccdd04/159_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=bdd169fd33d8d77fee01b9ca05e98de3"
     },
     {
-      "id": "story-4",
+      "id": "story-7",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -57,7 +90,7 @@
       "image": "https://i.guim.co.uk/img/media/e34e4e953f8867d481f946d0d9fdad43a1dc27c3/720_0_7200_5760/master/7200.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f73e5341da5f38a067cc4fcfc818e20d"
     },
     {
-      "id": "story-5",
+      "id": "story-8",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -68,7 +101,7 @@
       "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0pf0983.jpg"
     },
     {
-      "id": "story-6",
+      "id": "story-9",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -79,7 +112,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4522/live/f16a5610-c084-11f1-bc2e-018d645d8d21.png"
     },
     {
-      "id": "story-7",
+      "id": "story-10",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -90,7 +123,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fbf/live/38bd3c70-bda7-11f1-bc2e-018d645d8d21.png"
     },
     {
-      "id": "story-8",
+      "id": "story-11",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -101,7 +134,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/95e2/live/2ac00d80-c042-11f1-b3e5-8557f7e62bde.jpg"
     },
     {
-      "id": "story-9",
+      "id": "story-12",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -112,7 +145,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d038/live/2587d730-c042-11f1-b3e5-8557f7e62bde.jpg"
     },
     {
-      "id": "story-10",
+      "id": "story-13",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -123,7 +156,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a124/live/22651ef0-c038-11f1-86a1-ad5985eac783.jpg"
     },
     {
-      "id": "story-11",
+      "id": "story-14",
       "league": "La Liga",
       "dot": "#E3B4F5",
       "source": "The Guardian",
@@ -134,7 +167,7 @@
       "image": "https://i.guim.co.uk/img/media/ba2e34d3629eee951221fb7868c36ac6e719787e/204_0_2219_1776/master/2219.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=4f36bca888932f00253cb59204ea60e6"
     },
     {
-      "id": "story-12",
+      "id": "story-15",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -145,18 +178,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/43de/live/68de2c00-c00b-11f1-b8fc-7927883c19e9.jpg"
     },
     {
-      "id": "story-13",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "101 Great Goals",
-      "time": "Oct 4",
-      "headline": "NFL Week 4: Chism&#8217;s stunning catch gives Patriots win over Bills, Eagles collapse against Rams",
-      "excerpt": "There was an unlikely hero for the Patriots.",
-      "link": "https://www.101greatgoals.com/nfl/nfl-chism-stunning-catch-patriots-bills/",
-      "image": null
-    },
-    {
-      "id": "story-14",
+      "id": "story-16",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -167,7 +189,7 @@
       "image": "https://i.guim.co.uk/img/media/3122f94274e23830c44bcecedfd3605595dacdd7/713_0_3588_2871/master/3588.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=58d7eeee2af1a5e7e02bc586a382320e"
     },
     {
-      "id": "story-15",
+      "id": "story-17",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -178,7 +200,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/94e2/live/cf56a740-bf44-11f1-8acc-0bb5649ca116.jpg"
     },
     {
-      "id": "story-16",
+      "id": "story-18",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -189,7 +211,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e308/live/d9095200-c01c-11f1-babe-4199b0e7ccea.jpg"
     },
     {
-      "id": "story-17",
+      "id": "story-19",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "The Guardian",
@@ -200,7 +222,7 @@
       "image": "https://i.guim.co.uk/img/media/1fa5f2477b6880723077f538d72b1e59a47fd456/522_0_3310_2648/master/3310.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=fa8c90741355cbfcbb406263fe6c510d"
     },
     {
-      "id": "story-18",
+      "id": "story-20",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -211,7 +233,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/78b7/live/86435770-b746-11f1-8846-e70401199dae.jpg"
     },
     {
-      "id": "story-19",
+      "id": "story-21",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "The Guardian",
@@ -222,7 +244,7 @@
       "image": "https://i.guim.co.uk/img/media/3ede7b755125eacd52536d5e40ec962ef763c08d/231_0_3268_2614/master/3268.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=657c44fff2f0dbcccabd1de565605751"
     },
     {
-      "id": "story-20",
+      "id": "story-22",
       "league": "Ligue 1",
       "dot": "#B8D4E8",
       "source": "The Guardian",
@@ -233,7 +255,7 @@
       "image": "https://i.guim.co.uk/img/media/169e6d4539e108c76af46fd9ee51f53f8db4d2ca/314_0_3830_3064/master/3830.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=4127de4e8e0615f5984971895271fdea"
     },
     {
-      "id": "story-21",
+      "id": "story-23",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -242,28 +264,6 @@
       "excerpt": "It is only five matches into the WSL season but Arsenal are already 10 points…",
       "link": "https://www.bbc.co.uk/sport/football/articles/c9p8gmvlvp57o?at_medium=RSS&amp;at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d6ec/live/77998e20-c01e-11f1-bfc0-dbc6925567bb.jpg"
-    },
-    {
-      "id": "story-22",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "BBC Sport",
-      "time": "Oct 4",
-      "headline": "Real Madrid join race for Scott - Monday's gossip",
-      "excerpt": "Bournemouth's Alex Scott at the centre of a transfer tussle, Arsenal show interest in Juventus…",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cke8r1v3jndlo?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3536/live/68d05a40-c014-11f1-b8fc-7927883c19e9.png"
-    },
-    {
-      "id": "story-23",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "BBC Sport",
-      "time": "Oct 4",
-      "headline": "'We fought for every ball' - Hemp on Man City's thrilling win",
-      "excerpt": "Two-goal Lauren Hemp says Manchester City showed passion and character in their 4-2 win over…",
-      "link": "https://www.bbc.co.uk/sport/football/videos/cqly0lgy37z8o?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/28f2/live/9b50ed40-c01e-11f1-babe-4199b0e7ccea.jpg"
     }
   ],
   "scoreboard": []
