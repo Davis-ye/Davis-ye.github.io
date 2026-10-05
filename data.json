@@ -1,19 +1,30 @@
 {
-  "updatedAt": "2026-10-05T23:01:03.445Z",
+  "updatedAt": "2026-10-05T23:14:05.487Z",
   "hero": {
     "id": "story-0",
     "league": "Football",
     "dot": "#AFC4AC",
-    "source": "The Guardian",
+    "source": "BBC Sport",
     "time": "Oct 5",
-    "headline": "Nations League roundup: Olise leads late charge as France bowl over Belgium",
-    "excerpt": "<ul><li><p>France score four goals in 14 minutes to triumph</p></li><li><p>Italy see off Turkey, Hungary edge out…",
-    "link": "https://www.theguardian.com/football/2026/oct/05/nations-league-roundup-olise-leads-late-charge-as-france-bowl-over-belgium",
-    "image": "https://i.guim.co.uk/img/media/dce415f753d6d269b51711f093be74a07323ee66/222_0_3865_3092/master/3865.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=53bd32c11a07ac9782777e6dd09e62ca"
+    "headline": "Highlights: Northern Ireland frustrated by Georgia",
+    "excerpt": "Watch highlights as Northern Ireland end the extended window with a 0-0 Nations League draw…",
+    "link": "https://www.bbc.co.uk/sport/football/videos/ck5ynp3ej7m8o?at_medium=RSS&amp;at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b7c8/live/96cce150-c106-11f1-a64c-550be9e3c66b.jpg"
   },
   "topStories": [
     {
       "id": "story-1",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "The Guardian",
+      "time": "Oct 5",
+      "headline": "Nations League roundup: Olise leads late charge as France bowl over Belgium",
+      "excerpt": "<ul><li><p>France score four goals in 14 minutes to triumph</p></li><li><p>Italy see off Turkey, Hungary edge out…",
+      "link": "https://www.theguardian.com/football/2026/oct/05/nations-league-roundup-olise-leads-late-charge-as-france-bowl-over-belgium",
+      "image": "https://i.guim.co.uk/img/media/dce415f753d6d269b51711f093be74a07323ee66/222_0_3865_3092/master/3865.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=53bd32c11a07ac9782777e6dd09e62ca"
+    },
+    {
+      "id": "story-2",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -24,7 +35,7 @@
       "image": "https://i.guim.co.uk/img/media/a0999a27c9e6255e4b49f4d729e2af6fc9eea71b/446_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c76834990e6f4ef1469cf5f6ace0130b"
     },
     {
-      "id": "story-2",
+      "id": "story-3",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -35,7 +46,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ca64/live/a6d4b810-c102-11f1-9ff2-3b6c88884537.jpg"
     },
     {
-      "id": "story-3",
+      "id": "story-4",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "The Guardian",
@@ -46,7 +57,7 @@
       "image": "https://i.guim.co.uk/img/media/ad8477e0c63fdba55a1501ede707f7aa42581591/284_0_3134_2508/master/3134.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=4f232335ac0f1bca67fb28d6b95d95b2"
     },
     {
-      "id": "story-4",
+      "id": "story-5",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "101 Great Goals",
@@ -57,7 +68,7 @@
       "image": null
     },
     {
-      "id": "story-5",
+      "id": "story-6",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -68,7 +79,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/90d3/live/7d914c60-c0f9-11f1-812d-715b1c9a79e7.png"
     },
     {
-      "id": "story-6",
+      "id": "story-7",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -79,7 +90,7 @@
       "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0pf4nxn.jpg"
     },
     {
-      "id": "story-7",
+      "id": "story-8",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -90,7 +101,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6c15/live/8a854380-c0e1-11f1-a64c-550be9e3c66b.jpg"
     },
     {
-      "id": "story-8",
+      "id": "story-9",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -101,7 +112,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6d7b/live/25236e70-c0a2-11f1-b72b-c3e328aa18ed.jpg"
     },
     {
-      "id": "story-9",
+      "id": "story-10",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "The Guardian",
@@ -112,7 +123,7 @@
       "image": "https://i.guim.co.uk/img/media/9af754426c8a1273f4f42795710344b0338f7f61/332_0_3305_2645/master/3305.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=743154f6319de86647e3ea25ad79b842"
     },
     {
-      "id": "story-10",
+      "id": "story-11",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "The Guardian",
@@ -123,7 +134,7 @@
       "image": "https://i.guim.co.uk/img/media/3b80ec3ad1ce35e911fc502b18e69bde7f9b8fad/1510_901_3718_2975/master/3718.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=46d272426342730b7cd442f9e564bfe2"
     },
     {
-      "id": "story-11",
+      "id": "story-12",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -134,7 +145,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ef4e/live/3e564240-c0da-11f1-8cf3-7dbc6a5861dd.jpg"
     },
     {
-      "id": "story-12",
+      "id": "story-13",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "The Guardian",
@@ -145,7 +156,7 @@
       "image": "https://i.guim.co.uk/img/media/d8bafdeee56d3a7a027b839e6eb79fdccbac5486/0_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=6298bf2313918ecfb21b05321cf1f969"
     },
     {
-      "id": "story-13",
+      "id": "story-14",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -156,7 +167,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/081b/live/d3d7cd00-c0cd-11f1-bc2e-018d645d8d21.jpg"
     },
     {
-      "id": "story-14",
+      "id": "story-15",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -167,7 +178,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6a87/live/3816bed0-c0be-11f1-885f-4f9e8c6dce17.jpg"
     },
     {
-      "id": "story-15",
+      "id": "story-16",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -178,7 +189,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/48c4/live/7f3ff650-c0c3-11f1-885f-4f9e8c6dce17.jpg"
     },
     {
-      "id": "story-16",
+      "id": "story-17",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "The Guardian",
@@ -189,7 +200,7 @@
       "image": "https://i.guim.co.uk/img/media/79ea171a845c578e017b25ada5b68a551668a40d/49_0_2039_1631/master/2039.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=154893815d244fcaeef38dd79943ee33"
     },
     {
-      "id": "story-17",
+      "id": "story-18",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -200,7 +211,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aa10/live/df63d940-c0c1-11f1-885f-4f9e8c6dce17.jpg"
     },
     {
-      "id": "story-18",
+      "id": "story-19",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "The Guardian",
@@ -211,7 +222,7 @@
       "image": "https://i.guim.co.uk/img/media/b5155ce396ddbb488fee02d20b7fdbae578d319b/213_180_2916_2333/master/2916.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=fc450f40445ea0a538cbccfc23246948"
     },
     {
-      "id": "story-19",
+      "id": "story-20",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -222,7 +233,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/15de/live/f6f840f0-c099-11f1-a4af-19dbf5352a59.jpg"
     },
     {
-      "id": "story-20",
+      "id": "story-21",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -233,7 +244,7 @@
       "image": "https://i.guim.co.uk/img/media/7c214204dd57f3642ff4559f608c9f19217935ed/282_0_3503_2803/master/3503.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3eef1193c54c8af714890d79ddc2ee7c"
     },
     {
-      "id": "story-21",
+      "id": "story-22",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "The Guardian",
@@ -244,7 +255,7 @@
       "image": "https://i.guim.co.uk/img/media/2ef8405008c018fd5e229bc28ab571cf2ec78716/390_41_2242_1794/master/2242.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c9bcdbee0f4adc58147216543cb12fa2"
     },
     {
-      "id": "story-22",
+      "id": "story-23",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -253,17 +264,6 @@
       "excerpt": "After five frantic weeks, the Women's Super League takes a two-week break, offering the perfect…",
       "link": "https://www.bbc.co.uk/sport/football/articles/cm4g1l6rxypzo?at_medium=RSS&amp;at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/42c4/live/c0f6afa0-c0b2-11f1-babe-4199b0e7ccea.jpg"
-    },
-    {
-      "id": "story-23",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "BBC Sport",
-      "time": "Oct 5",
-      "headline": "Duff set to be appointed Bradford boss",
-      "excerpt": "Bradford City are set to appoint former Wycombe Wanderers boss Michael Duff as their new…",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cmvg9l7e72v5o?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f5b1/live/2f52f1c0-c0b3-11f1-837f-5ba27a94daa8.jpg"
     }
   ],
   "scoreboard": []
