@@ -1,27 +1,27 @@
 {
-  "updatedAt": "2026-10-05T08:58:44.718Z",
+  "updatedAt": "2026-10-05T09:13:31.678Z",
   "hero": {
     "id": "story-0",
-    "league": "Football",
-    "dot": "#AFC4AC",
+    "league": "Premier League",
+    "dot": "#9CC0F0",
     "source": "BBC Sport",
     "time": "Oct 5",
-    "headline": "All the goals from the Women's Super League - matchweek five",
-    "excerpt": "Watch every goal from matchweek five of the Women's Super League 2026-27 season.",
-    "link": "https://www.bbc.co.uk/sport/football/videos/cmx2d59jn021o?at_medium=RSS&amp;at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2517/live/470ea640-c038-11f1-a64c-550be9e3c66b.jpg"
+    "headline": "Scott withdraws from England squad and could be out for eight weeks",
+    "excerpt": "Bournemouth midfielder Alex Scott withdraws from the England squad with a thigh injury that could…",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cqm2dyrg84ymo?at_medium=RSS&amp;at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/15de/live/f6f840f0-c099-11f1-a4af-19dbf5352a59.jpg"
   },
   "topStories": [
     {
       "id": "story-1",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
+      "league": "Football",
+      "dot": "#AFC4AC",
       "source": "BBC Sport",
       "time": "Oct 5",
-      "headline": "Scott withdraws from England squad and could be out for eight weeks",
-      "excerpt": "Bournemouth midfielder Alex Scott withdraws from the England squad with a thigh injury that could…",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cqm2dyrg84ymo?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb7a/live/5c0f70d0-6139-11ee-ac8c-9d18dbc280ea.png"
+      "headline": "All the goals from the Women's Super League - matchweek five",
+      "excerpt": "Watch every goal from matchweek five of the Women's Super League 2026-27 season.",
+      "link": "https://www.bbc.co.uk/sport/football/videos/cmx2d59jn021o?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2517/live/470ea640-c038-11f1-a64c-550be9e3c66b.jpg"
     },
     {
       "id": "story-2",
