@@ -1,19 +1,30 @@
 {
-  "updatedAt": "2026-10-05T09:51:54.867Z",
+  "updatedAt": "2026-10-05T10:04:04.552Z",
   "hero": {
     "id": "story-0",
-    "league": "Football",
-    "dot": "#AFC4AC",
-    "source": "101 Great Goals",
+    "league": "Premier League",
+    "dot": "#9CC0F0",
+    "source": "BBC Sport",
     "time": "Oct 5",
-    "headline": "Kansas City Chiefs lining up sensational return for Tyreek Hill after WR setbacks",
-    "excerpt": "Free agent Tyreek Hill could be set for a return to the Kansas City Chiefs,…",
-    "link": "https://www.101greatgoals.com/nfl/kansas-city-chiefs-return-tyreek-hill-after-wr-setbacks/",
-    "image": null
+    "headline": "Scott withdraws from England squad and could be out for eight weeks",
+    "excerpt": "Bournemouth midfielder Alex Scott withdraws from the England squad with a thigh injury that could…",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cqm2dyrg84ymo?at_medium=RSS&amp;at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/15de/live/f6f840f0-c099-11f1-a4af-19dbf5352a59.jpg"
   },
   "topStories": [
     {
       "id": "story-1",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "101 Great Goals",
+      "time": "Oct 5",
+      "headline": "Kansas City Chiefs lining up sensational return for Tyreek Hill after WR setbacks",
+      "excerpt": "Free agent Tyreek Hill could be set for a return to the Kansas City Chiefs,…",
+      "link": "https://www.101greatgoals.com/nfl/kansas-city-chiefs-return-tyreek-hill-after-wr-setbacks/",
+      "image": null
+    },
+    {
+      "id": "story-2",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -22,17 +33,6 @@
       "excerpt": "<p>We pick the best youngsters at each club born between 1 September 2009 and 31…",
       "link": "https://www.theguardian.com/football/ng-interactive/2026/oct/05/next-generation-2026-20-of-the-best-talents-at-premier-league-clubs",
       "image": "https://i.guim.co.uk/img/media/fc1ba01924cf666e56b0846a7f96397946384f70/0_0_1250_1000/master/1250.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f90d62959b934d376c79a9fc715451c3"
-    },
-    {
-      "id": "story-2",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "BBC Sport",
-      "time": "Oct 5",
-      "headline": "Scott withdraws from England squad and could be out for eight weeks",
-      "excerpt": "Bournemouth midfielder Alex Scott withdraws from the England squad with a thigh injury that could…",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cqm2dyrg84ymo?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/15de/live/f6f840f0-c099-11f1-a4af-19dbf5352a59.jpg"
     },
     {
       "id": "story-3",
