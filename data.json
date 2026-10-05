@@ -1,19 +1,30 @@
 {
-  "updatedAt": "2026-10-05T14:03:00.912Z",
+  "updatedAt": "2026-10-05T14:24:59.181Z",
   "hero": {
     "id": "story-0",
     "league": "Football",
     "dot": "#AFC4AC",
-    "source": "BBC Sport",
+    "source": "101 Great Goals",
     "time": "Oct 5",
-    "headline": "What we learned from Wales' Nations League window",
-    "excerpt": "On the back of a demanding four-game international window, BBC Sport Wales assesses the key…",
-    "link": "https://www.bbc.co.uk/sport/football/articles/c6pwg5enxwz8o?at_medium=RSS&amp;at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aa10/live/df63d940-c0c1-11f1-885f-4f9e8c6dce17.jpg"
+    "headline": "Scotland v Slovenia: Preview, expected line-ups, stats and where to watch",
+    "excerpt": "Scotland won 2-0 in North Macedonia on Saturday to breathe life into their Nations League…",
+    "link": "https://www.101greatgoals.com/match-previews/scotland-v-slovenia-preview-expected-line-ups-stats-stream-where-to-watch/",
+    "image": null
   },
   "topStories": [
     {
       "id": "story-1",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "BBC Sport",
+      "time": "Oct 5",
+      "headline": "What we learned from Wales' Nations League window",
+      "excerpt": "On the back of a demanding four-game international window, BBC Sport Wales assesses the key…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c6pwg5enxwz8o?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aa10/live/df63d940-c0c1-11f1-885f-4f9e8c6dce17.jpg"
+    },
+    {
+      "id": "story-2",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "The Guardian",
@@ -24,7 +35,7 @@
       "image": "https://i.guim.co.uk/img/media/b5155ce396ddbb488fee02d20b7fdbae578d319b/213_180_2916_2333/master/2916.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=fc450f40445ea0a538cbccfc23246948"
     },
     {
-      "id": "story-2",
+      "id": "story-3",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -33,17 +44,6 @@
       "excerpt": "<ul><li><p>Midfielder may be out for two months with thigh injury</p></li><li><p>Scott played in pain but Tuchel…",
       "link": "https://www.theguardian.com/football/2026/oct/05/alex-scott-injury-two-months-england-bournemouth",
       "image": "https://i.guim.co.uk/img/media/c1df61311a321079a3b08f0fbd052f7371b3c410/236_158_2365_1892/master/2365.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=75609fe229ab0787c7955a6eae0ba478"
-    },
-    {
-      "id": "story-3",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "101 Great Goals",
-      "time": "Oct 5",
-      "headline": "England v Czechia: Preview, expected line-ups, stats and where to watch",
-      "excerpt": "England face the Czech Republic in the UEFA Nations League on Tuesday. Read our in-depth…",
-      "link": "https://www.101greatgoals.com/match-previews/england-v-czechia-preview-expected-line-ups-stats-and-where-to-watch/",
-      "image": null
     },
     {
       "id": "story-4",
