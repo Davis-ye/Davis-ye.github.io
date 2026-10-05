@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-05T22:40:50.336Z",
+  "updatedAt": "2026-10-05T22:52:20.299Z",
   "hero": {
     "id": "story-0",
     "league": "Football",
@@ -126,6 +126,17 @@
       "id": "story-11",
       "league": "Football",
       "dot": "#AFC4AC",
+      "source": "BBC Sport",
+      "time": "Oct 5",
+      "headline": "Ex-England player Carroll names attacker as TV dance coach",
+      "excerpt": "The former England striker tells the Sun he was sexually assaulted by former Fame Academy…",
+      "link": "https://www.bbc.co.uk/news/articles/cm5yn9np73xeo?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ef4e/live/3e564240-c0da-11f1-8cf3-7dbc6a5861dd.jpg"
+    },
+    {
+      "id": "story-12",
+      "league": "Football",
+      "dot": "#AFC4AC",
       "source": "The Guardian",
       "time": "Oct 5",
       "headline": "Ronaldo’s break with Portugal is sad, fitting, and long overdue | Jonathan Wilson",
@@ -134,7 +145,7 @@
       "image": "https://i.guim.co.uk/img/media/d8bafdeee56d3a7a027b839e6eb79fdccbac5486/0_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=6298bf2313918ecfb21b05321cf1f969"
     },
     {
-      "id": "story-12",
+      "id": "story-13",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -145,7 +156,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/081b/live/d3d7cd00-c0cd-11f1-bc2e-018d645d8d21.jpg"
     },
     {
-      "id": "story-13",
+      "id": "story-14",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -156,7 +167,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6a87/live/3816bed0-c0be-11f1-885f-4f9e8c6dce17.jpg"
     },
     {
-      "id": "story-14",
+      "id": "story-15",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -167,7 +178,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/48c4/live/7f3ff650-c0c3-11f1-885f-4f9e8c6dce17.jpg"
     },
     {
-      "id": "story-15",
+      "id": "story-16",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "The Guardian",
@@ -178,7 +189,7 @@
       "image": "https://i.guim.co.uk/img/media/79ea171a845c578e017b25ada5b68a551668a40d/49_0_2039_1631/master/2039.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=154893815d244fcaeef38dd79943ee33"
     },
     {
-      "id": "story-16",
+      "id": "story-17",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -189,7 +200,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/aa10/live/df63d940-c0c1-11f1-885f-4f9e8c6dce17.jpg"
     },
     {
-      "id": "story-17",
+      "id": "story-18",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "The Guardian",
@@ -200,7 +211,7 @@
       "image": "https://i.guim.co.uk/img/media/b5155ce396ddbb488fee02d20b7fdbae578d319b/213_180_2916_2333/master/2916.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=fc450f40445ea0a538cbccfc23246948"
     },
     {
-      "id": "story-18",
+      "id": "story-19",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -211,7 +222,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/15de/live/f6f840f0-c099-11f1-a4af-19dbf5352a59.jpg"
     },
     {
-      "id": "story-19",
+      "id": "story-20",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -222,7 +233,7 @@
       "image": "https://i.guim.co.uk/img/media/7c214204dd57f3642ff4559f608c9f19217935ed/282_0_3503_2803/master/3503.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3eef1193c54c8af714890d79ddc2ee7c"
     },
     {
-      "id": "story-20",
+      "id": "story-21",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "The Guardian",
@@ -233,7 +244,7 @@
       "image": "https://i.guim.co.uk/img/media/2ef8405008c018fd5e229bc28ab571cf2ec78716/390_41_2242_1794/master/2242.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c9bcdbee0f4adc58147216543cb12fa2"
     },
     {
-      "id": "story-21",
+      "id": "story-22",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -244,7 +255,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/42c4/live/c0f6afa0-c0b2-11f1-babe-4199b0e7ccea.jpg"
     },
     {
-      "id": "story-22",
+      "id": "story-23",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -253,17 +264,6 @@
       "excerpt": "Bradford City are set to appoint former Wycombe Wanderers boss Michael Duff as their new…",
       "link": "https://www.bbc.co.uk/sport/football/articles/cmvg9l7e72v5o?at_medium=RSS&amp;at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f5b1/live/2f52f1c0-c0b3-11f1-837f-5ba27a94daa8.jpg"
-    },
-    {
-      "id": "story-23",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "The Guardian",
-      "time": "Oct 5",
-      "headline": "WSL talking points: heat cranks up on Arsenal and Putellas and Diani shine",
-      "excerpt": "<p>Pressure continues to build on the Gunners’ head coach, while powerful London City Lionesses demolished…",
-      "link": "https://www.theguardian.com/football/2026/oct/05/wsl-talking-points-renee-slegers-arsenal-keira-walsh-chelsea",
-      "image": "https://i.guim.co.uk/img/media/9caa42320661bd2fb652efbf6d8582fdb6228896/0_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=86596340082adc7565c0d9fa211c3e68"
     }
   ],
   "scoreboard": []
