@@ -1,19 +1,30 @@
 {
-  "updatedAt": "2026-10-06T19:47:31.318Z",
+  "updatedAt": "2026-10-06T19:58:01.475Z",
   "hero": {
     "id": "story-0",
     "league": "Football",
     "dot": "#AFC4AC",
-    "source": "BBC Sport",
+    "source": "101 Great Goals",
     "time": "Oct 6",
-    "headline": "Ronaldo wants Portugal 'punishment' but not retiring",
-    "excerpt": "Cristiano Ronaldo says he is not retiring from international football but deserves to be punished…",
-    "link": "https://www.bbc.co.uk/sport/football/articles/cmd7qn48q13lo?at_medium=RSS&amp;at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb7a/live/5c0f70d0-6139-11ee-ac8c-9d18dbc280ea.png"
+    "headline": "Cristiano Ronaldo hits out at Jorge Jesus in lengthy statement but insists he still wants to play for Portugal",
+    "excerpt": "Ronaldo said Jesus broke his word twice but still wants to play for his country.",
+    "link": "https://www.101greatgoals.com/football/internationals/ronaldo-hits-out-jesus-statement/",
+    "image": "https://www.101greatgoals.com/wp-content/uploads/2026/10/3FKAK3P-2.jpg"
   },
   "topStories": [
     {
       "id": "story-1",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "BBC Sport",
+      "time": "Oct 6",
+      "headline": "Ronaldo wants Portugal 'punishment' but not retiring",
+      "excerpt": "Cristiano Ronaldo says he is not retiring from international football but deserves to be punished…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cmd7qn48q13lo?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb7a/live/5c0f70d0-6139-11ee-ac8c-9d18dbc280ea.png"
+    },
+    {
+      "id": "story-2",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "The Guardian",
@@ -24,7 +35,7 @@
       "image": "https://i.guim.co.uk/img/media/01af69e46e9856c5579be2412fc35774cf02480c/592_42_2183_1747/master/2183.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=340205187988fb42b3b5b0ae01f750e9"
     },
     {
-      "id": "story-2",
+      "id": "story-3",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "The Guardian",
@@ -35,7 +46,7 @@
       "image": "https://i.guim.co.uk/img/media/bf5222acd841a8a93829e2b66223db5da66bd099/0_256_1673_1337/master/1673.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ca512089cffa7078278a51328d8943d8"
     },
     {
-      "id": "story-3",
+      "id": "story-4",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -46,7 +57,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/135d/live/c0091b70-c19b-11f1-a64c-550be9e3c66b.jpg"
     },
     {
-      "id": "story-4",
+      "id": "story-5",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -57,7 +68,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f8e4/live/6ceccdf0-c1a1-11f1-8fa2-19a1e9b6288f.jpg"
     },
     {
-      "id": "story-5",
+      "id": "story-6",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -68,7 +79,7 @@
       "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0lz125l.jpg"
     },
     {
-      "id": "story-6",
+      "id": "story-7",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -79,7 +90,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6d7b/live/25236e70-c0a2-11f1-b72b-c3e328aa18ed.jpg"
     },
     {
-      "id": "story-7",
+      "id": "story-8",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "The Guardian",
@@ -88,17 +99,6 @@
       "excerpt": "<ul><li><p>Nigeria filed complaint over ineligible players in playoff</p></li><li><p>Fifa investigators aware of situation before tournament</p></li></ul><p>Fifa allowed…",
       "link": "https://www.theguardian.com/football/2026/oct/06/fifa-reportedly-allowed-dr-congo-into-world-cup-despite-ineligible-player-in-qualifying",
       "image": "https://i.guim.co.uk/img/media/0aa0c4c4981d5ca89d4dfc37e83e1942da261a27/235_0_1846_1477/master/1846.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=28f9fa364a6ce47f9de1d84720693deb"
-    },
-    {
-      "id": "story-8",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "101 Great Goals",
-      "time": "Oct 6",
-      "headline": "Croatia vs Spain: Line-ups confirmed as La Roja look for flawless finish",
-      "excerpt": "Catch up with all the team news ahead of Croatia vs Spain.",
-      "link": "https://www.101greatgoals.com/football/internationals/croatia-vs-spain-line-ups-confirmed-la-roja/",
-      "image": null
     },
     {
       "id": "story-9",
