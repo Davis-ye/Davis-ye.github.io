@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-10-06T19:33:46.059Z",
+  "updatedAt": "2026-10-06T19:47:31.318Z",
   "hero": {
     "id": "story-0",
-    "league": "Premier League",
-    "dot": "#9CC0F0",
+    "league": "Football",
+    "dot": "#AFC4AC",
     "source": "BBC Sport",
     "time": "Oct 6",
-    "headline": "Rival clubs want retrospective and future punishments for Man City",
-    "excerpt": "A number of Premier League clubs want Manchester City to be hit with both retrospective…",
-    "link": "https://www.bbc.co.uk/sport/football/articles/c623d8707k5lo?at_medium=RSS&amp;at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/135d/live/c0091b70-c19b-11f1-a64c-550be9e3c66b.jpg"
+    "headline": "Ronaldo wants Portugal 'punishment' but not retiring",
+    "excerpt": "Cristiano Ronaldo says he is not retiring from international football but deserves to be punished…",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cmd7qn48q13lo?at_medium=RSS&amp;at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb7a/live/5c0f70d0-6139-11ee-ac8c-9d18dbc280ea.png"
   },
   "topStories": [
     {
@@ -21,7 +21,7 @@
       "headline": "England v Czechia: Nations League football – live",
       "excerpt": "<ul><li><p>Nations League updates from the 7.45pm BST kick-off</p></li><li><p><a href=\"https://www.theguardian.com/football/live\">Live scores</a> | <a href=\"https://www.theguardian.com/football/2026/oct/06/south-korea-military-service-football-daily-newsletter\">Read today’s Football…",
       "link": "https://www.theguardian.com/football/live/2026/oct/06/england-v-czechia-nations-league-football-live",
-      "image": "https://i.guim.co.uk/img/media/16e6019296e2d501d174206670d3990d84d68944/394_0_2609_2089/master/2609.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=25ff536dc98e72fffd8213df7bea32ce"
+      "image": "https://i.guim.co.uk/img/media/01af69e46e9856c5579be2412fc35774cf02480c/592_42_2183_1747/master/2183.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=340205187988fb42b3b5b0ae01f750e9"
     },
     {
       "id": "story-2",
@@ -36,6 +36,17 @@
     },
     {
       "id": "story-3",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "BBC Sport",
+      "time": "Oct 6",
+      "headline": "Rival clubs want retrospective and future punishments for Man City",
+      "excerpt": "A number of Premier League clubs want Manchester City to be hit with both retrospective…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c623d8707k5lo?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/135d/live/c0091b70-c19b-11f1-a64c-550be9e3c66b.jpg"
+    },
+    {
+      "id": "story-4",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -46,7 +57,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f8e4/live/6ceccdf0-c1a1-11f1-8fa2-19a1e9b6288f.jpg"
     },
     {
-      "id": "story-4",
+      "id": "story-5",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -57,7 +68,7 @@
       "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0lz125l.jpg"
     },
     {
-      "id": "story-5",
+      "id": "story-6",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -68,7 +79,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6d7b/live/25236e70-c0a2-11f1-b72b-c3e328aa18ed.jpg"
     },
     {
-      "id": "story-6",
+      "id": "story-7",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "The Guardian",
@@ -79,7 +90,7 @@
       "image": "https://i.guim.co.uk/img/media/0aa0c4c4981d5ca89d4dfc37e83e1942da261a27/235_0_1846_1477/master/1846.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=28f9fa364a6ce47f9de1d84720693deb"
     },
     {
-      "id": "story-7",
+      "id": "story-8",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "101 Great Goals",
@@ -90,7 +101,7 @@
       "image": null
     },
     {
-      "id": "story-8",
+      "id": "story-9",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -101,7 +112,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9e1a/live/88baa780-c1a3-11f1-8fa2-19a1e9b6288f.jpg"
     },
     {
-      "id": "story-9",
+      "id": "story-10",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -112,7 +123,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9e1a/live/88baa780-c1a3-11f1-8fa2-19a1e9b6288f.jpg"
     },
     {
-      "id": "story-10",
+      "id": "story-11",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -123,7 +134,7 @@
       "image": "https://i.guim.co.uk/img/media/f4bb011a8859e5cf8221f2c9e1c5ca027ce3f314/305_0_4627_3702/master/4627.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c63ae49be7ab927a9a9550eb7da586a8"
     },
     {
-      "id": "story-11",
+      "id": "story-12",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -134,7 +145,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3dbb/live/4ad5a6c0-c1a0-11f1-8fa2-19a1e9b6288f.jpg"
     },
     {
-      "id": "story-12",
+      "id": "story-13",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -145,7 +156,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b1a5/live/c82ea520-c184-11f1-83c7-97e75190a976.jpg"
     },
     {
-      "id": "story-13",
+      "id": "story-14",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -156,7 +167,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9d7e/live/a5490100-c19c-11f1-babe-4199b0e7ccea.jpg"
     },
     {
-      "id": "story-14",
+      "id": "story-15",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -167,7 +178,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fafd/live/75fca6b0-c181-11f1-9cd2-572f18c73464.jpg"
     },
     {
-      "id": "story-15",
+      "id": "story-16",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "The Guardian",
@@ -178,7 +189,7 @@
       "image": "https://i.guim.co.uk/img/media/13c10c1b6b4564b8727bf78be341950083762927/929_232_4710_3768/master/4710.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=58b9eb991085507e2a2960881c2fb678"
     },
     {
-      "id": "story-16",
+      "id": "story-17",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -189,7 +200,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e333/live/22627ad0-c180-11f1-9cd2-572f18c73464.jpg"
     },
     {
-      "id": "story-17",
+      "id": "story-18",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -200,7 +211,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e90b/live/d951c0d0-c189-11f1-bc2e-018d645d8d21.jpg"
     },
     {
-      "id": "story-18",
+      "id": "story-19",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -211,7 +222,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0f4d/live/1a3abd50-c18e-11f1-83c7-97e75190a976.jpg"
     },
     {
-      "id": "story-19",
+      "id": "story-20",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -222,7 +233,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5cf5/live/81e8eba0-c186-11f1-83c7-97e75190a976.jpg"
     },
     {
-      "id": "story-20",
+      "id": "story-21",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -233,7 +244,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5cf5/live/81e8eba0-c186-11f1-83c7-97e75190a976.jpg"
     },
     {
-      "id": "story-21",
+      "id": "story-22",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -244,7 +255,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d67a/live/90a9b4b0-c188-11f1-83c7-97e75190a976.jpg"
     },
     {
-      "id": "story-22",
+      "id": "story-23",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -253,17 +264,6 @@
       "excerpt": "<p><a href=\"https://www.theguardian.com/profile/faye-carruthers\">Faye Carruthers</a> is joined by<a href=\"https://www.theguardian.com/profile/suzanne-wrack\"> Suzanne Wrack</a>, <a href=\"https://www.theguardian.com/profile/tom-garry\">Tom Garry</a> and Tim Stillman…",
       "link": "https://www.theguardian.com/football/audio/2026/oct/06/more-woe-for-arsenal-as-manchester-city-march-on-womens-football-weekly",
       "image": "https://i.guim.co.uk/img/media/1b1f6852019e339af86a94c57db49c2bb38bf7cc/533_75_3807_3046/master/3807.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f22273cb2da954db3e3e5295b0a63672"
-    },
-    {
-      "id": "story-23",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "The Guardian",
-      "time": "Oct 6",
-      "headline": "Lionel Messi has completed football and can bid Argentina farewell with pride",
-      "excerpt": "<p>Messi says goodbye with 208 caps and a World Cup but there were times he…",
-      "link": "https://www.theguardian.com/football/2026/oct/06/lionel-messi-completed-football-argentina-farewell-world-cup-glory",
-      "image": "https://i.guim.co.uk/img/media/840e3b3bc9df565af3f59cd3d94fbcbde70361f9/1046_0_6689_5350/master/6689.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=cb53ea04ebb92aaadc5ff35590605ed8"
     }
   ],
   "scoreboard": []
