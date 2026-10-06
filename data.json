@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-06T14:53:10.970Z",
+  "updatedAt": "2026-10-06T15:05:15.903Z",
   "hero": {
     "id": "story-0",
-    "league": "Premier League",
-    "dot": "#9CC0F0",
+    "league": "Football",
+    "dot": "#AFC4AC",
     "source": "101 Great Goals",
     "time": "Oct 6",
-    "headline": "Julian Alvarez makes major agent decision after Arsenal and Barcelona transfer saga",
-    "excerpt": "Julian Alvarez is looking to change agents after failing to get a move away from…",
-    "link": "https://www.101greatgoals.com/news/transfers/julian-alvarez-agent-decision-arsenal-barcelona-transfer-saga/",
+    "headline": "Benin don&#8217;t plan to mark Lionel Messi as defender reveals they want to give Argentina star the perfect send-off",
+    "excerpt": "There could be a cricket score in Buenos Aires tonight with Benin seemingly having no…",
+    "link": "https://www.101greatgoals.com/football/internationals/benin-lionel-messi-defender-argentina-star-perfect-send-off/",
     "image": null
   },
   "topStories": [
@@ -228,7 +228,7 @@
       "source": "BBC Sport",
       "time": "Oct 6",
       "headline": "South Korea captain apologises for gloating over military service exemption",
-      "excerpt": "Lee Gi-hyuk apologises for gloating about avoiding South Korea's mandatory military service by captaining his…",
+      "excerpt": "Lee Gi-hyuk apologises for gloating about avoiding South Korea's mandatory military service.",
       "link": "https://www.bbc.co.uk/sport/football/articles/c6wy4xd80xyvo?at_medium=RSS&amp;at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/efe7/live/8b257120-c14f-11f1-a043-4511bb61bfac.jpg"
     },
