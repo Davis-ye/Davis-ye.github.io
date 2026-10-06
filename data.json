@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-06T14:03:11.619Z",
+  "updatedAt": "2026-10-06T14:21:59.769Z",
   "hero": {
     "id": "story-0",
     "league": "Premier League",
@@ -18,13 +18,24 @@
       "dot": "#AFC4AC",
       "source": "BBC Sport",
       "time": "Oct 6",
+      "headline": "Shevchenko's son signs for seventh tier side",
+      "excerpt": "Kristian Shevchenko, son of former Ballon d'Or winner Andriy Shevchenko, signs for seventh tier side…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cmy0rlwpjd8eo?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e333/live/22627ad0-c180-11f1-9cd2-572f18c73464.jpg"
+    },
+    {
+      "id": "story-2",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "BBC Sport",
+      "time": "Oct 6",
       "headline": "What's it like to be the World Cup final referee?",
       "excerpt": "Slavko Vincic, who refereed the 2026 World Cup final, reveals what it's like to take…",
       "link": "https://www.bbc.co.uk/sport/football/videos/ck86zq03wznlo?at_medium=RSS&amp;at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e90b/live/d951c0d0-c189-11f1-bc2e-018d645d8d21.jpg"
     },
     {
-      "id": "story-2",
+      "id": "story-3",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -35,7 +46,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0f4d/live/1a3abd50-c18e-11f1-83c7-97e75190a976.jpg"
     },
     {
-      "id": "story-3",
+      "id": "story-4",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -46,7 +57,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5cf5/live/81e8eba0-c186-11f1-83c7-97e75190a976.jpg"
     },
     {
-      "id": "story-4",
+      "id": "story-5",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -57,7 +68,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5cf5/live/81e8eba0-c186-11f1-83c7-97e75190a976.jpg"
     },
     {
-      "id": "story-5",
+      "id": "story-6",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -68,7 +79,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d67a/live/90a9b4b0-c188-11f1-83c7-97e75190a976.jpg"
     },
     {
-      "id": "story-6",
+      "id": "story-7",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -79,7 +90,7 @@
       "image": "https://i.guim.co.uk/img/media/1b1f6852019e339af86a94c57db49c2bb38bf7cc/533_75_3807_3046/master/3807.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f22273cb2da954db3e3e5295b0a63672"
     },
     {
-      "id": "story-7",
+      "id": "story-8",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "The Guardian",
@@ -90,7 +101,7 @@
       "image": "https://i.guim.co.uk/img/media/840e3b3bc9df565af3f59cd3d94fbcbde70361f9/1046_0_6689_5350/master/6689.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=cb53ea04ebb92aaadc5ff35590605ed8"
     },
     {
-      "id": "story-8",
+      "id": "story-9",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -101,7 +112,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2864/live/7a894370-c170-11f1-a003-8be783290413.jpg"
     },
     {
-      "id": "story-9",
+      "id": "story-10",
       "league": "Bundesliga",
       "dot": "#FFC469",
       "source": "The Guardian",
@@ -112,7 +123,7 @@
       "image": "https://i.guim.co.uk/img/media/ad6904a2e0e84da0cc8e8e08c5fe792698fad271/279_0_2939_2351/master/2939.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d41b802c4b982d0940e7a622b222ac54"
     },
     {
-      "id": "story-10",
+      "id": "story-11",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "The Guardian",
@@ -123,7 +134,7 @@
       "image": "https://i.guim.co.uk/img/media/2cf039320e00578add0a26b00a9a979efc1e93cc/528_0_4742_3793/master/4742.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=0411c30381c1c0763a45a0761e231f3e"
     },
     {
-      "id": "story-11",
+      "id": "story-12",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -134,7 +145,7 @@
       "image": "https://i.guim.co.uk/img/media/b7ba568b001c9d37f27a841072d55afde100d7cf/0_0_1250_1000/master/1250.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=0507d3e072209b7f638dc49015d73c5d"
     },
     {
-      "id": "story-12",
+      "id": "story-13",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -145,7 +156,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6a66/live/626b3a30-c168-11f1-a003-8be783290413.jpg"
     },
     {
-      "id": "story-13",
+      "id": "story-14",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -156,7 +167,7 @@
       "image": "https://i.guim.co.uk/img/media/6cc80fd8a5d94b1c03c41a1f05e099d81d07262d/1124_935_6627_5302/master/6627.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=1f582723b92f08671fe02b5d6eda9f2f"
     },
     {
-      "id": "story-14",
+      "id": "story-15",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -167,7 +178,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a11e/live/1b0e6fd0-c0c4-11f1-885f-4f9e8c6dce17.jpg"
     },
     {
-      "id": "story-15",
+      "id": "story-16",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -178,7 +189,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a8b9/live/5639b910-c11a-11f1-a29c-b34ab2f04b87.jpg"
     },
     {
-      "id": "story-16",
+      "id": "story-17",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -189,7 +200,7 @@
       "image": "https://i.guim.co.uk/img/media/1adb5b0d87015885e1cb199fde85d7ce837f7674/831_0_4635_3707/master/4635.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=716c4c2e063487835b872615e5245a33"
     },
     {
-      "id": "story-17",
+      "id": "story-18",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "The Guardian",
@@ -200,7 +211,7 @@
       "image": "https://i.guim.co.uk/img/media/c70117707be950cc94ebaa0fb08d8512b13325b9/1017_1746_916_732/master/916.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a3edd42a03ad6bc2708647d597cc2451"
     },
     {
-      "id": "story-18",
+      "id": "story-19",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -211,7 +222,7 @@
       "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0pf5ygn.jpg"
     },
     {
-      "id": "story-19",
+      "id": "story-20",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -222,7 +233,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/efe7/live/8b257120-c14f-11f1-a043-4511bb61bfac.jpg"
     },
     {
-      "id": "story-20",
+      "id": "story-21",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -233,7 +244,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2c0e/live/ee31d890-c14e-11f1-babe-4199b0e7ccea.png"
     },
     {
-      "id": "story-21",
+      "id": "story-22",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -244,7 +255,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/02d0/live/0aeb80f0-c00d-11f1-a64c-550be9e3c66b.png"
     },
     {
-      "id": "story-22",
+      "id": "story-23",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -253,17 +264,6 @@
       "excerpt": "It takes talent, resilience and good fortune in finding managers who believe in you, but…",
       "link": "https://www.bbc.co.uk/sport/football/articles/crd938wj2n14o?at_medium=RSS&amp;at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cf4d/live/150d2fd0-c156-11f1-ae7b-cfc528a6c828.jpg"
-    },
-    {
-      "id": "story-23",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "BBC Sport",
-      "time": "Oct 6",
-      "headline": "Who am I? Guess Premier League star No 78",
-      "excerpt": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cxzdzdr6dyzlo?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fbf/live/38bd3c70-bda7-11f1-bc2e-018d645d8d21.png"
     }
   ],
   "scoreboard": []
