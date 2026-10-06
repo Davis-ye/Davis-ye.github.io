@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-10-06T19:18:27.212Z",
+  "updatedAt": "2026-10-06T19:33:46.059Z",
   "hero": {
     "id": "story-0",
-    "league": "Football",
-    "dot": "#AFC4AC",
+    "league": "Premier League",
+    "dot": "#9CC0F0",
     "source": "BBC Sport",
     "time": "Oct 6",
-    "headline": "Kane's rise from childhood keeper to equalling England cap record",
-    "excerpt": "Harry Kane reaches another significant England milestone by equalling Peter Shilton's record as the most-capped…",
-    "link": "https://www.bbc.co.uk/sport/football/articles/cx2ln5n7yqdo?at_medium=RSS&amp;at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f8e4/live/6ceccdf0-c1a1-11f1-8fa2-19a1e9b6288f.jpg"
+    "headline": "Rival clubs want retrospective and future punishments for Man City",
+    "excerpt": "A number of Premier League clubs want Manchester City to be hit with both retrospective…",
+    "link": "https://www.bbc.co.uk/sport/football/articles/c623d8707k5lo?at_medium=RSS&amp;at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/135d/live/c0091b70-c19b-11f1-a64c-550be9e3c66b.jpg"
   },
   "topStories": [
     {
@@ -21,7 +21,7 @@
       "headline": "England v Czechia: Nations League football – live",
       "excerpt": "<ul><li><p>Nations League updates from the 7.45pm BST kick-off</p></li><li><p><a href=\"https://www.theguardian.com/football/live\">Live scores</a> | <a href=\"https://www.theguardian.com/football/2026/oct/06/south-korea-military-service-football-daily-newsletter\">Read today’s Football…",
       "link": "https://www.theguardian.com/football/live/2026/oct/06/england-v-czechia-nations-league-football-live",
-      "image": "https://i.guim.co.uk/img/media/56feffe8b3187233b707f3c4a2785638ee4504e6/522_296_3114_2492/master/3114.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=18f8690b05e71d511f4125285be881f4"
+      "image": "https://i.guim.co.uk/img/media/16e6019296e2d501d174206670d3990d84d68944/394_0_2609_2089/master/2609.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=25ff536dc98e72fffd8213df7bea32ce"
     },
     {
       "id": "story-2",
@@ -32,10 +32,21 @@
       "headline": "Scotland v Slovenia, Croatia v Spain, and more: Nations League football – live",
       "excerpt": "<ul><li><p>Nations League updates from the 7.45pm BST kick-offs</p></li><li><p><a href=\"https://www.theguardian.com/football/live\">Live scores</a> | <a href=\"https://www.theguardian.com/football/2026/oct/06/south-korea-military-service-football-daily-newsletter\">Read today’s Football…",
       "link": "https://www.theguardian.com/football/live/2026/oct/06/scotland-slovenia-croatia-spain-nations-league-football-live-score-updates",
-      "image": "https://i.guim.co.uk/img/media/7cc80c7cf032c7c5d37a7ceba9b93317f1e38547/621_76_4090_3272/master/4090.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=20671a4faadf24d9bcd84a9d7bb656bc"
+      "image": "https://i.guim.co.uk/img/media/bf5222acd841a8a93829e2b66223db5da66bd099/0_256_1673_1337/master/1673.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ca512089cffa7078278a51328d8943d8"
     },
     {
       "id": "story-3",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "BBC Sport",
+      "time": "Oct 6",
+      "headline": "Kane's rise from childhood keeper to equalling England cap record",
+      "excerpt": "Harry Kane reaches another significant England milestone by equalling Peter Shilton's record as the most-capped…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cx2ln5n7yqdo?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f8e4/live/6ceccdf0-c1a1-11f1-8fa2-19a1e9b6288f.jpg"
+    },
+    {
+      "id": "story-4",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -46,7 +57,7 @@
       "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0lz125l.jpg"
     },
     {
-      "id": "story-4",
+      "id": "story-5",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -57,7 +68,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6d7b/live/25236e70-c0a2-11f1-b72b-c3e328aa18ed.jpg"
     },
     {
-      "id": "story-5",
+      "id": "story-6",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "The Guardian",
@@ -68,7 +79,7 @@
       "image": "https://i.guim.co.uk/img/media/0aa0c4c4981d5ca89d4dfc37e83e1942da261a27/235_0_1846_1477/master/1846.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=28f9fa364a6ce47f9de1d84720693deb"
     },
     {
-      "id": "story-6",
+      "id": "story-7",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "101 Great Goals",
@@ -79,7 +90,7 @@
       "image": null
     },
     {
-      "id": "story-7",
+      "id": "story-8",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -90,7 +101,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9e1a/live/88baa780-c1a3-11f1-8fa2-19a1e9b6288f.jpg"
     },
     {
-      "id": "story-8",
+      "id": "story-9",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -101,7 +112,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9e1a/live/88baa780-c1a3-11f1-8fa2-19a1e9b6288f.jpg"
     },
     {
-      "id": "story-9",
+      "id": "story-10",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -112,7 +123,7 @@
       "image": "https://i.guim.co.uk/img/media/f4bb011a8859e5cf8221f2c9e1c5ca027ce3f314/305_0_4627_3702/master/4627.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c63ae49be7ab927a9a9550eb7da586a8"
     },
     {
-      "id": "story-10",
+      "id": "story-11",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -121,17 +132,6 @@
       "excerpt": "Defender Mayzee Davies says missing Wales' first major tournament at Euro 2025 with a serious…",
       "link": "https://www.bbc.co.uk/sport/football/articles/c5y43nry14j7o?at_medium=RSS&amp;at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3dbb/live/4ad5a6c0-c1a0-11f1-8fa2-19a1e9b6288f.jpg"
-    },
-    {
-      "id": "story-11",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "BBC Sport",
-      "time": "Oct 6",
-      "headline": "Rival clubs want retrospective and future punishments for Man City",
-      "excerpt": "A number of Premier League clubs want Manchester City to be hit with both retrospective…",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c623d8707k5lo?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/135d/live/c0091b70-c19b-11f1-a64c-550be9e3c66b.jpg"
     },
     {
       "id": "story-12",
