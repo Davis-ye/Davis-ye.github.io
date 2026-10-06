@@ -1,19 +1,41 @@
 {
-  "updatedAt": "2026-10-06T18:52:52.269Z",
+  "updatedAt": "2026-10-06T19:02:49.609Z",
   "hero": {
     "id": "story-0",
     "league": "Football",
     "dot": "#AFC4AC",
-    "source": "BBC Sport",
+    "source": "The Guardian",
     "time": "Oct 6",
-    "headline": "Kane's rise from childhood keeper to equalling England cap record",
-    "excerpt": "Harry Kane reaches another significant England milestone by equalling Peter Shilton's record as the most-capped…",
-    "link": "https://www.bbc.co.uk/sport/football/articles/cx2ln5n7yqdo?at_medium=RSS&amp;at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f8e4/live/6ceccdf0-c1a1-11f1-8fa2-19a1e9b6288f.jpg"
+    "headline": "Scotland v Slovenia, Croatia v Spain, and more: Nations League football – live",
+    "excerpt": "<ul><li><p>Nations League updates from the 7.45pm BST kick-offs</p></li><li><p><a href=\"https://www.theguardian.com/football/live\">Live scores</a> | <a href=\"https://www.theguardian.com/football/2026/oct/06/south-korea-military-service-football-daily-newsletter\">Read today’s Football…",
+    "link": "https://www.theguardian.com/football/live/2026/oct/06/scotland-slovenia-croatia-spain-nations-league-football-live-score-updates",
+    "image": "https://i.guim.co.uk/img/media/c12259f69a873ca16e1ba0aa23fc401410c49e2c/361_0_4592_3673/master/4592.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=28f1fa192102c8bab08ed91c2431105c"
   },
   "topStories": [
     {
       "id": "story-1",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "The Guardian",
+      "time": "Oct 6",
+      "headline": "England v Czechia: Nations League football – live",
+      "excerpt": "<ul><li><p>Nations League updates from the 7.45pm BST kick-off</p></li><li><p><a href=\"https://www.theguardian.com/football/live\">Live scores</a> | <a href=\"https://www.theguardian.com/football/2026/oct/06/south-korea-military-service-football-daily-newsletter\">Read today’s Football…",
+      "link": "https://www.theguardian.com/football/live/2026/oct/06/england-v-czechia-nations-league-football-live",
+      "image": "https://i.guim.co.uk/img/media/df8762a5f29de3026929a3d64c0c40bfdff5b58d/242_0_4577_3663/master/4577.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=51877dd97cd7694248ca934628190c72"
+    },
+    {
+      "id": "story-2",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "BBC Sport",
+      "time": "Oct 6",
+      "headline": "Kane's rise from childhood keeper to equalling England cap record",
+      "excerpt": "Harry Kane reaches another significant England milestone by equalling Peter Shilton's record as the most-capped…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cx2ln5n7yqdo?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f8e4/live/6ceccdf0-c1a1-11f1-8fa2-19a1e9b6288f.jpg"
+    },
+    {
+      "id": "story-3",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -22,28 +44,6 @@
       "excerpt": "With Harry Kane set to equal Peter Shilton's all-time England appearance record, where does he…",
       "link": "https://www.bbc.co.uk/sport/football/articles/cm5ynj882zw0o?at_medium=RSS&amp;at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6d7b/live/25236e70-c0a2-11f1-b72b-c3e328aa18ed.jpg"
-    },
-    {
-      "id": "story-2",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "The Guardian",
-      "time": "Oct 6",
-      "headline": "Scotland v Slovenia, Croatia v Spain, and more: Nations League football – live",
-      "excerpt": "<ul><li><p>Nations League updates from the 7.45pm BST kick-offs</p></li><li><p><a href=\"https://www.theguardian.com/football/live\">Live scores</a> | <a href=\"https://www.theguardian.com/football/2026/oct/06/south-korea-military-service-football-daily-newsletter\">Read today’s Football…",
-      "link": "https://www.theguardian.com/football/live/2026/oct/06/scotland-slovenia-croatia-spain-nations-league-football-live-score-updates",
-      "image": "https://i.guim.co.uk/img/media/c12259f69a873ca16e1ba0aa23fc401410c49e2c/361_0_4592_3673/master/4592.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=28f1fa192102c8bab08ed91c2431105c"
-    },
-    {
-      "id": "story-3",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "The Guardian",
-      "time": "Oct 6",
-      "headline": "England v Czechia: Nations League football – live",
-      "excerpt": "<ul><li><p>Nations League updates from the 7.45pm BST kick-off</p></li><li><p><a href=\"https://www.theguardian.com/football/live\">Live scores</a> | <a href=\"https://www.theguardian.com/football/2026/oct/06/south-korea-military-service-football-daily-newsletter\">Read today’s Football…",
-      "link": "https://www.theguardian.com/football/live/2026/oct/06/england-v-czechia-nations-league-football-live",
-      "image": "https://i.guim.co.uk/img/media/900c1a9757cd9ee667f0bf042f6ce853ff19f60f/539_0_4046_3237/master/4046.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=43567bcfadb2fb0dcfee4d2e84b624a0"
     },
     {
       "id": "story-4",
