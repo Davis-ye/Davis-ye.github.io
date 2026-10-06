@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-10-06T17:48:54.868Z",
+  "updatedAt": "2026-10-06T17:59:46.584Z",
   "hero": {
     "id": "story-0",
     "league": "Football",
     "dot": "#AFC4AC",
-    "source": "The Guardian",
+    "source": "101 Great Goals",
     "time": "Oct 6",
-    "headline": "England v Czechia: Nations League football – live",
-    "excerpt": "<ul><li><p>Nations League updates from the 7.45pm BST kick-off</p></li><li><p><a href=\"https://www.theguardian.com/football/live\">Live scores</a> | <a href=\"https://www.theguardian.com/football/2026/oct/06/south-korea-military-service-football-daily-newsletter\">Read today’s Football…",
-    "link": "https://www.theguardian.com/football/live/2026/oct/06/england-v-czechia-nations-league-football-live",
-    "image": "https://i.guim.co.uk/img/media/7734cb688bb03da315d9407dcfbdb12ab35f8741/0_2277_3907_3125/master/3907.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a86508e2e70ac5a52040896cbfe25e79"
+    "headline": "Croatia vs Spain: Line-ups confirmed as La Roja look for flawless finish",
+    "excerpt": "Catch up with all the team news ahead of Croatia vs Spain.",
+    "link": "https://www.101greatgoals.com/football/internationals/croatia-vs-spain-line-ups-confirmed-la-roja/",
+    "image": null
   },
   "topStories": [
     {
@@ -18,21 +18,21 @@
       "dot": "#AFC4AC",
       "source": "The Guardian",
       "time": "Oct 6",
-      "headline": "Scotland v Slovenia, Croatia v Spain, and more: Nations League football – live",
-      "excerpt": "<ul><li><p>Nations League updates from the 7.45pm BST kick-offs</p></li><li><p><a href=\"https://www.theguardian.com/football/live\">Live scores</a> | <a href=\"https://www.theguardian.com/football/2026/oct/06/south-korea-military-service-football-daily-newsletter\">Read today’s Football…",
-      "link": "https://www.theguardian.com/football/live/2026/oct/06/scotland-slovenia-croatia-spain-nations-league-football-live-score-updates",
-      "image": "https://i.guim.co.uk/img/media/0fc5e66de4a64b778b597bfdeabf86fe8ac55775/545_0_6759_5407/master/6759.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c8b6fe08d00c85904c94d2c6ae78cc18"
+      "headline": "England v Czechia: Nations League football – live",
+      "excerpt": "<ul><li><p>Nations League updates from the 7.45pm BST kick-off</p></li><li><p><a href=\"https://www.theguardian.com/football/live\">Live scores</a> | <a href=\"https://www.theguardian.com/football/2026/oct/06/south-korea-military-service-football-daily-newsletter\">Read today’s Football…",
+      "link": "https://www.theguardian.com/football/live/2026/oct/06/england-v-czechia-nations-league-football-live",
+      "image": "https://i.guim.co.uk/img/media/7734cb688bb03da315d9407dcfbdb12ab35f8741/0_2277_3907_3125/master/3907.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a86508e2e70ac5a52040896cbfe25e79"
     },
     {
       "id": "story-2",
       "league": "Football",
       "dot": "#AFC4AC",
-      "source": "101 Great Goals",
+      "source": "The Guardian",
       "time": "Oct 6",
-      "headline": "Martin O&#8217;Neill clears up Celtic future after &#8216;time of reflection&#8217;",
-      "excerpt": "Martin O'Neill still believes he is the right man to lead Celtic.",
-      "link": "https://www.101greatgoals.com/football/scottish-premiership/martin-oneill-clears-up-celtic-future/",
-      "image": null
+      "headline": "Scotland v Slovenia, Croatia v Spain, and more: Nations League football – live",
+      "excerpt": "<ul><li><p>Nations League updates from the 7.45pm BST kick-offs</p></li><li><p><a href=\"https://www.theguardian.com/football/live\">Live scores</a> | <a href=\"https://www.theguardian.com/football/2026/oct/06/south-korea-military-service-football-daily-newsletter\">Read today’s Football…",
+      "link": "https://www.theguardian.com/football/live/2026/oct/06/scotland-slovenia-croatia-spain-nations-league-football-live-score-updates",
+      "image": "https://i.guim.co.uk/img/media/0fc5e66de4a64b778b597bfdeabf86fe8ac55775/545_0_6759_5407/master/6759.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c8b6fe08d00c85904c94d2c6ae78cc18"
     },
     {
       "id": "story-3",
