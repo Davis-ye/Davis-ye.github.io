@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-10-06T20:41:16.560Z",
+  "updatedAt": "2026-10-07T00:08:34.828Z",
   "hero": {
     "id": "story-0",
-    "league": "Football",
-    "dot": "#AFC4AC",
-    "source": "101 Great Goals",
+    "league": "La Liga",
+    "dot": "#E3B4F5",
+    "source": "The Guardian",
     "time": "Oct 6",
-    "headline": "England 3-0 Czechia: Kane marks record-tying cap with brace in routine win",
-    "excerpt": "It was a night to remember for the England captain.",
-    "link": "https://www.101greatgoals.com/match-reports/england-czechia-kane-record/",
-    "image": null
+    "headline": "USMNT v Canada live – updates, analysis and more from international friendly",
+    "excerpt": "<ul><li><p>Game at Allianz Field in Saint Paul kicks off at 8pm ET</p></li><li><p>Last time out: <a…",
+    "link": "https://www.theguardian.com/football/live/2026/oct/06/usmnt-v-canada-live-updates-analysis",
+    "image": "https://i.guim.co.uk/img/media/676322d769b5ba6a5492da6f7581aec5b7279176/911_0_4735_3788/master/4735.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=21e64f9c12fcfe7dc1b4d9050b557287"
   },
   "topStories": [
     {
@@ -18,10 +18,10 @@
       "dot": "#AFC4AC",
       "source": "The Guardian",
       "time": "Oct 6",
-      "headline": "Scotland v Slovenia, Croatia v Spain, and more: Nations League football – live",
-      "excerpt": "<ul><li><p>Nations League updates from the 7.45pm BST kick-offs</p></li><li><p><a href=\"https://www.theguardian.com/football/live\">Live scores</a> | <a href=\"https://www.theguardian.com/football/2026/oct/06/south-korea-military-service-football-daily-newsletter\">Read today’s Football…",
-      "link": "https://www.theguardian.com/football/live/2026/oct/06/scotland-slovenia-croatia-spain-nations-league-football-live-score-updates",
-      "image": "https://i.guim.co.uk/img/media/0b5d0cbb0146447da219dbbd70306cc0c7983a98/253_0_2072_1658/master/2072.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=aec198b4446c36c66ae87095a5a52f1b"
+      "headline": "Lionel Messi farewell match live – updates and analysis from Argentina v Benin",
+      "excerpt": "<ul><li><p>Farewell match kicks off at 7pm ET</p></li><li><p><a href=\"https://www.theguardian.com/football/2026/oct/06/lionel-messi-completed-football-argentina-farewell-world-cup-glory\">Messi has completed football</a></p></li><li><p><a href=\"mailto:pablo.maurer@theguardian.com\">Email Pablo</a> your analysis,…",
+      "link": "https://www.theguardian.com/football/live/2026/oct/06/lionel-messi-farewell-match-live-updates-analysis-argentina-benin",
+      "image": "https://i.guim.co.uk/img/media/3e32fb3d12be8e3b2dcd3268c816427893c26695/0_0_3061_2449/master/3061.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=38ba9c24ca9b6aead98defd623e61cd9"
     },
     {
       "id": "story-2",
@@ -29,24 +29,68 @@
       "dot": "#AFC4AC",
       "source": "The Guardian",
       "time": "Oct 6",
-      "headline": "England v Czechia: Nations League football – live",
-      "excerpt": "<ul><li><p>Nations League updates from the 7.45pm BST kick-off</p></li><li><p><a href=\"https://www.theguardian.com/football/live\">Live scores</a> | <a href=\"https://www.theguardian.com/football/2026/oct/06/south-korea-military-service-football-daily-newsletter\">Read today’s Football…",
-      "link": "https://www.theguardian.com/football/live/2026/oct/06/england-v-czechia-nations-league-football-live",
-      "image": "https://i.guim.co.uk/img/media/49eabdee4d001aa4637cd666941b6084f84645d2/434_391_2200_1760/master/2200.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=2f818def2cdff236af00b3d850a3acf9"
+      "headline": "Total Midweek Kane: England’s icon delivers a classic on his way to footballing ultimacy | Barney Ronay",
+      "excerpt": "<p>On a night where he equalled Peter Shilton’s England appearance record, Harry Kane did what…",
+      "link": "https://www.theguardian.com/football/2026/oct/06/total-midweek-kane-englands-icon-delivers-a-classic-on-his-way-to-footballing-ultimacy",
+      "image": "https://i.guim.co.uk/img/media/5805111de7f902e2e44d893a4cc777e9f4e6bf4f/28_0_2332_1866/master/2332.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=fa61a98d1b910339f04196d18bea6e4d"
     },
     {
       "id": "story-3",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
+      "league": "Football",
+      "dot": "#AFC4AC",
       "source": "BBC Sport",
       "time": "Oct 6",
-      "headline": "Villa eye Endrick loan deal - Wednesday's gossip",
-      "excerpt": "Aston Villa might lure Endrick to the Premier League, Bournemouth fight to keep hold of…",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cm75pl4dw5rpo?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e72b/live/9f775490-c1c2-11f1-a64c-550be9e3c66b.png"
+      "headline": "Midfield options and a fab front four - what we've learned about England",
+      "excerpt": "From Trent Alexander-Arnold's return to Alex Scott's debut, Phil McNulty assesses what England have learned…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cq62y431dj8vo?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/182e/live/76bbb150-c1cb-11f1-bc2e-018d645d8d21.jpg"
     },
     {
       "id": "story-4",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "BBC Sport",
+      "time": "Oct 6",
+      "headline": "Honeymoon over as Pocognoli's Scotland suffer domestic disharmony",
+      "excerpt": "Sebastien Pocognoli is left with questions to answer after an inert Scotland performance leaves him…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c5lye031jvgro?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c4be/live/c8a91df0-c1d4-11f1-a85d-a124076c9e55.jpg"
+    },
+    {
+      "id": "story-5",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "BBC Sport",
+      "time": "Oct 6",
+      "headline": "'Outfought' and 'not good enough' - Robertson on Scotland defeat",
+      "excerpt": "Scotland were \"outfought\" and simply \"not good enough\" in their 2-1 Nations League defeat by…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/crz98xv1e8nlo?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6fe9/live/12ebcea0-c1d3-11f1-9481-05b270811269.jpg"
+    },
+    {
+      "id": "story-6",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "BBC Sport",
+      "time": "Oct 6",
+      "headline": "Football Daily",
+      "excerpt": "What have we learn't about England during this international break?",
+      "link": "https://www.bbc.co.uk/sounds/play/p0pfbc3n?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0pfbc7s.jpg"
+    },
+    {
+      "id": "story-7",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "101 Great Goals",
+      "time": "Oct 6",
+      "headline": "UEFA Nations League: Scotland promotion hopes dealt crushing blow by Slovenia turnaround",
+      "excerpt": "Scotland look likely to miss out on the promotion play-offs as well.",
+      "link": "https://www.101greatgoals.com/football/internationals/scotland-promotion-hopes-slovenia-turnaround/",
+      "image": null
+    },
+    {
+      "id": "story-8",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -57,7 +101,73 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9aa4/live/8a4523d0-c1be-11f1-babe-4199b0e7ccea.jpg"
     },
     {
-      "id": "story-5",
+      "id": "story-9",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "BBC Sport",
+      "time": "Oct 6",
+      "headline": "Scotland let lead slip in abject defeat by Slovenia",
+      "excerpt": "Watch the best of the action as Slovenia come from behind to beat Scotland 2-1…",
+      "link": "https://www.bbc.co.uk/sport/football/videos/ckpqgdyyg2wgo?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/53c7/live/1c455130-c1cc-11f1-babe-4199b0e7ccea.jpg"
+    },
+    {
+      "id": "story-10",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "BBC Sport",
+      "time": "Oct 6",
+      "headline": "Savage starts Peterborough reign with 4-1 win - EFL Trophy round-up",
+      "excerpt": "Robbie Savage's first game in charge of Peterborough is a comfortable win which sends his…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cq62y46px53no?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bd6d/live/40306750-c1c8-11f1-babe-4199b0e7ccea.jpg"
+    },
+    {
+      "id": "story-11",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "The Guardian",
+      "time": "Oct 6",
+      "headline": "Harry Kane doubles up on landmark night as England cruise past Czechia",
+      "excerpt": "<p>It was a night that belonged to Harry Kane. Yet another one. It began with…",
+      "link": "https://www.theguardian.com/football/2026/oct/06/england-czechia-nations-league-match-report",
+      "image": "https://i.guim.co.uk/img/media/bd0a586ad097f31bb5739e7e23900c9b1556378c/426_74_3558_2847/master/3558.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=9d8be0a76e96f30ecacf6115b181ff3e"
+    },
+    {
+      "id": "story-12",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "The Guardian",
+      "time": "Oct 6",
+      "headline": "Sturm warning rocks Pocognoli as abject Scotland turned over by Slovenia",
+      "excerpt": "<p>The nature of this Scotland defeat felt far more significant than the fact it arrived…",
+      "link": "https://www.theguardian.com/football/2026/oct/06/scotland-slovenia-nations-league-match-report",
+      "image": "https://i.guim.co.uk/img/media/359c664e197a96ae49553defeeee2c17a5ca98df/411_0_3171_2536/master/3171.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=4e8374204a234a1ff4dbb972368a0a77"
+    },
+    {
+      "id": "story-13",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "BBC Sport",
+      "time": "Oct 6",
+      "headline": "Kane scores twice but who else was a 'real threat'? England player ratings",
+      "excerpt": "Senior football correspondent Sami Mokbel rates the England players after Tuesday's 3-0 win against the…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cx7vp3lqv985o?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/961a/live/7b935fd0-c1c5-11f1-babe-4199b0e7ccea.jpg"
+    },
+    {
+      "id": "story-14",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "BBC Sport",
+      "time": "Oct 6",
+      "headline": "Villa eye Endrick loan deal - Wednesday's gossip",
+      "excerpt": "Aston Villa might lure Endrick to the Premier League, Bournemouth fight to keep hold of…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cm75pl4dw5rpo?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e72b/live/9f775490-c1c2-11f1-a64c-550be9e3c66b.png"
+    },
+    {
+      "id": "story-15",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "The Guardian",
@@ -68,7 +178,7 @@
       "image": "https://i.guim.co.uk/img/media/0865ca2e077657309e0bc77496ecd625c68c4630/321_1086_2915_2332/master/2915.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=512ee87c68789cb6fc2b86dd4090d63a"
     },
     {
-      "id": "story-6",
+      "id": "story-16",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -79,7 +189,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/135d/live/c0091b70-c19b-11f1-a64c-550be9e3c66b.jpg"
     },
     {
-      "id": "story-7",
+      "id": "story-17",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -90,7 +200,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f8e4/live/6ceccdf0-c1a1-11f1-8fa2-19a1e9b6288f.jpg"
     },
     {
-      "id": "story-8",
+      "id": "story-18",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -101,7 +211,7 @@
       "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0lz125l.jpg"
     },
     {
-      "id": "story-9",
+      "id": "story-19",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -112,7 +222,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6d7b/live/25236e70-c0a2-11f1-b72b-c3e328aa18ed.jpg"
     },
     {
-      "id": "story-10",
+      "id": "story-20",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "The Guardian",
@@ -123,7 +233,7 @@
       "image": "https://i.guim.co.uk/img/media/0aa0c4c4981d5ca89d4dfc37e83e1942da261a27/235_0_1846_1477/master/1846.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=28f9fa364a6ce47f9de1d84720693deb"
     },
     {
-      "id": "story-11",
+      "id": "story-21",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -134,7 +244,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9e1a/live/88baa780-c1a3-11f1-8fa2-19a1e9b6288f.jpg"
     },
     {
-      "id": "story-12",
+      "id": "story-22",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -145,7 +255,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9e1a/live/88baa780-c1a3-11f1-8fa2-19a1e9b6288f.jpg"
     },
     {
-      "id": "story-13",
+      "id": "story-23",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -154,116 +264,6 @@
       "excerpt": "<p>Renée<strong> </strong>Slegers’ team have the technical ability, but doubts remain over the nastiness needed to…",
       "link": "https://www.theguardian.com/football/2026/oct/06/arsenal-womens-super-league-title-renee-slegers-manchester-city-chelsea",
       "image": "https://i.guim.co.uk/img/media/f4bb011a8859e5cf8221f2c9e1c5ca027ce3f314/305_0_4627_3702/master/4627.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c63ae49be7ab927a9a9550eb7da586a8"
-    },
-    {
-      "id": "story-14",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "BBC Sport",
-      "time": "Oct 6",
-      "headline": "Davies' 'extra motivation' after Euros heartbreak",
-      "excerpt": "Defender Mayzee Davies says missing Wales' first major tournament at Euro 2025 with a serious…",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c5y43nry14j7o?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3dbb/live/4ad5a6c0-c1a0-11f1-8fa2-19a1e9b6288f.jpg"
-    },
-    {
-      "id": "story-15",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "BBC Sport",
-      "time": "Oct 6",
-      "headline": "'Real buzz' around Northern Ireland - Charles",
-      "excerpt": "Northern Ireland midfielder Shea Charles says \"he could not be happier\" following the side's unbeaten…",
-      "link": "https://www.bbc.co.uk/sport/football/articles/crgj97g0gqzxo?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b1a5/live/c82ea520-c184-11f1-83c7-97e75190a976.jpg"
-    },
-    {
-      "id": "story-16",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "BBC Sport",
-      "time": "Oct 6",
-      "headline": "Marsch calls USA politics 'big talk' as Pochettino praises Canada coach",
-      "excerpt": "Canada manager Jesse Marsch calls USA politics \"big talk\" while US coach Mauricio Pochettino praises…",
-      "link": "https://www.bbc.co.uk/sport/football/videos/cwdr8d6kr8mlo?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9d7e/live/a5490100-c19c-11f1-babe-4199b0e7ccea.jpg"
-    },
-    {
-      "id": "story-17",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "BBC Sport",
-      "time": "Oct 6",
-      "headline": "Kamara might miss QPR's next game over Finland row",
-      "excerpt": "QPR might be without Glen Kamara for Friday's Championship game against West Ham, if Fifa…",
-      "link": "https://www.bbc.co.uk/sport/football/articles/ckqxnwe0xdx9o?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fafd/live/75fca6b0-c181-11f1-9cd2-572f18c73464.jpg"
-    },
-    {
-      "id": "story-18",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "The Guardian",
-      "time": "Oct 6",
-      "headline": "Football Daily | South Korea’s golden boys and a brouhaha over military service",
-      "excerpt": "<p><a href=\"https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up\"><strong>Sign up now! Sign up now! Sign up now? Sign up now!</strong></a></p><p>In his 1965…",
-      "link": "https://www.theguardian.com/football/2026/oct/06/south-korea-military-service-football-daily-newsletter",
-      "image": "https://i.guim.co.uk/img/media/13c10c1b6b4564b8727bf78be341950083762927/929_232_4710_3768/master/4710.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=58b9eb991085507e2a2960881c2fb678"
-    },
-    {
-      "id": "story-19",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "BBC Sport",
-      "time": "Oct 6",
-      "headline": "Shevchenko's son signs for seventh-tier club",
-      "excerpt": "Kristian Shevchenko, son of Ballon d'Or winner Andriy Shevchenko, signs for seventh-tier club Sholing FC.",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cmy0rlwpjd8eo?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e333/live/22627ad0-c180-11f1-9cd2-572f18c73464.jpg"
-    },
-    {
-      "id": "story-20",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "BBC Sport",
-      "time": "Oct 6",
-      "headline": "What's it like to be the World Cup final referee?",
-      "excerpt": "Slavko Vincic, who refereed the 2026 World Cup final, reveals what it's like to take…",
-      "link": "https://www.bbc.co.uk/sport/football/videos/ck86zq03wznlo?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e90b/live/d951c0d0-c189-11f1-bc2e-018d645d8d21.jpg"
-    },
-    {
-      "id": "story-21",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "BBC Sport",
-      "time": "Oct 6",
-      "headline": "Cardiff's Bielik banned over Portsmouth incident",
-      "excerpt": "The Football Association bans Cardiff City defender Krystian Bielik for two games and fines him…",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cw99zr4edjrzo?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0f4d/live/1a3abd50-c18e-11f1-83c7-97e75190a976.jpg"
-    },
-    {
-      "id": "story-22",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "BBC Sport",
-      "time": "Oct 6",
-      "headline": "US group given SFA green light in bid to buy Shrewsbury",
-      "excerpt": "The US group trying to buy Shrewsbury Town get clearance to hold controlling interests in…",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c6n49218ky0yo?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5cf5/live/81e8eba0-c186-11f1-83c7-97e75190a976.jpg"
-    },
-    {
-      "id": "story-23",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "BBC Sport",
-      "time": "Oct 6",
-      "headline": "Spartans owner given dual ownership clearance",
-      "excerpt": "The US group trying to buy Shrewsbury Town get clearance to hold controlling interests in…",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c6n49218ky0yo?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5cf5/live/81e8eba0-c186-11f1-83c7-97e75190a976.jpg"
     }
   ],
   "scoreboard": []
