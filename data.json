@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-10-08T09:30:16.887Z",
+  "updatedAt": "2026-10-08T16:49:11.488Z",
   "hero": {
     "id": "story-0",
     "league": "Premier League",
     "dot": "#9CC0F0",
     "source": "BBC Sport",
     "time": "Oct 8",
-    "headline": "Clubs fear political interference in Man City appeal",
-    "excerpt": "Premier League clubs are \"concerned\" about political interference in Manchester City's appeal after Prime Minister…",
-    "link": "https://www.bbc.co.uk/sport/football/articles/c6y93qq5175wo?at_medium=RSS&amp;at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c127/live/c855ee70-c290-11f1-a13a-652a29dd7204.jpg"
+    "headline": "'It's changed my life' - Eckert on Spygate scandal",
+    "excerpt": "Southampton head coach Tonda Eckert says the Spygate scandal is an experience that has changed…",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cvrly3el4e63o?at_medium=RSS&amp;at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a8c/live/57d56c80-c32f-11f1-9981-cf94ea240e40.jpg"
   },
   "topStories": [
     {
@@ -18,54 +18,54 @@
       "dot": "#9CC0F0",
       "source": "BBC Sport",
       "time": "Oct 8",
-      "headline": "Toone comes into England squad as Bronze withdraws",
-      "excerpt": "Manchester United midfielder Ella Toone receives a late England call-up for this month's World Cup…",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c962yzlgln8po?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ac99/live/b14497a0-c2f3-11f1-8771-2125507fafb1.jpg"
+      "headline": "Maresca tells Man City players to stay focused and positive",
+      "excerpt": "Manchester City boss Enzo Maresca wants his squad to focus and be positive after the…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c6n4ex2lgg2ko?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3f74/live/19a47500-c334-11f1-9981-cf94ea240e40.jpg"
     },
     {
       "id": "story-2",
       "league": "Premier League",
       "dot": "#9CC0F0",
-      "source": "The Guardian",
-      "time": "Oct 8",
-      "headline": "Havertz, Isak, Dorgu … spate of injuries with national teams leaves sour taste for top clubs",
-      "excerpt": "<p>Premier League clubs, and their European rivals, left with a long list of absentees after…",
-      "link": "https://www.theguardian.com/football/2026/oct/08/premier-league-injuries-kai-havertz-alexander-isak-patrick-dorgu",
-      "image": "https://i.guim.co.uk/img/media/73725f30d4d4ba2ce7053e681375dfa8a7979b6a/0_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=83c7b2d743f8a714c21ecab3daae1a9c"
-    },
-    {
-      "id": "story-3",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "BBC Sport",
-      "time": "Oct 8",
-      "headline": "What Guardiola said about Man City charges",
-      "excerpt": "BBC Sport examines Pep Guardiola's comments about the Manchester City financial rule-breaking case during his…",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cq2d6l0p6ry0o?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9cb1/live/45e72880-c2f1-11f1-bc2e-018d645d8d21.jpg"
-    },
-    {
-      "id": "story-4",
-      "league": "Football",
-      "dot": "#AFC4AC",
       "source": "101 Great Goals",
       "time": "Oct 8",
-      "headline": "Tip of the Day: Dallas to demolish terrible Tampa Bay",
-      "excerpt": "TNF presents us with an excellent opportunity for Thursday's Tip of the Day",
-      "link": "https://www.101greatgoals.com/nfl/tip-of-the-day-dallas-to-demolish-terrible-tampa-bay/",
+      "headline": "Erling Haaland says Manchester City must &#8216;stick together&#8217; as Premier League pile-on continues",
+      "excerpt": "Erling Haaland has sent a message to Manchester City fans.",
+      "link": "https://www.101greatgoals.com/football/premier-league/erling-haaland-says-manchester-city-stick-together/",
       "image": null
     },
     {
-      "id": "story-5",
+      "id": "story-3",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "The Guardian",
+      "time": "Oct 8",
+      "headline": "Victor Montagliani eyes re-election at Concacaf that would rule out Fifa presidency run",
+      "excerpt": "<ul><li><p>Confederation president clarifies his intentions to staff</p></li><li><p>Canadian was eyed as potential rival to Gianni Infantino</p></li></ul><p>Victor…",
+      "link": "https://www.theguardian.com/football/2026/oct/08/victor-montagliani-concacaf-reelection-fifa-presidency",
+      "image": "https://i.guim.co.uk/img/media/f5fc4213f14a5a8cf30cd4452f7fdf8dd064e29d/447_84_1807_1445/master/1807.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c4623ab69ba6fbffa7a426b92792054c"
+    },
+    {
+      "id": "story-4",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
       "time": "Oct 8",
-      "headline": "Football Q&A: ask Ed Aarons your questions as the Premier League returns",
-      "excerpt": "<p>After a lengthy international break dominated by the Manchester City verdict, the Premier League is…",
+      "headline": "‘Is the greatness of the Premier League a myth?’: Ed Aarons answered your football questions",
+      "excerpt": "<p>With the Premier League back on Saturday, football writer Ed Aarons answered your questions on…",
       "link": "https://www.theguardian.com/sport/live/2026/oct/08/football-qa-ask-ed-aarons-your-questions-as-the-premier-league-returns",
       "image": "https://i.guim.co.uk/img/media/778f70b6f7fe66d4eb2eda280a62158f35a78b51/0_0_2000_1600/master/2000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=dda2dab2d6dbfe356d046f4d52e8fa9f"
+    },
+    {
+      "id": "story-5",
+      "league": "Ligue 1",
+      "dot": "#B8D4E8",
+      "source": "The Guardian",
+      "time": "Oct 8",
+      "headline": "With no Pulisic and good results, have the USMNT moved on from their savior complex? | Leander Schaerlaeckens",
+      "excerpt": "<p>The US have been defined for so long by the next singular player. This past…",
+      "link": "https://www.theguardian.com/football/2026/oct/08/usmnt-christian-pulisic-youth-movement-mauricio-pochettino",
+      "image": "https://i.guim.co.uk/img/media/142677ae0fad01b1e36993184369c776abc20ead/418_0_4178_3343/master/4178.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=68b35b6c985bf962a1e986c89351f05d"
     },
     {
       "id": "story-6",
@@ -73,21 +73,21 @@
       "dot": "#AFC4AC",
       "source": "BBC Sport",
       "time": "Oct 8",
-      "headline": "SPFL pays out close to £50m in record year",
-      "excerpt": "The Scottish Professional Football League (SPFL) pays clubs a record £49.6m in the past year.",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cm93z85ggy79o?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6609/live/00a2e340-c260-11f1-a202-b3a903690ffe.jpg"
+      "headline": "Wales target clean sheet in World Cup play-off first leg",
+      "excerpt": "Rhian Wilkinson makes a clean sheet the first target for Wales in Friday's Women's World…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cwr7yv4yl59do?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e2c/live/d0075850-c323-11f1-bd97-fbe5a3482cde.jpg"
     },
     {
       "id": "story-7",
       "league": "Football",
       "dot": "#AFC4AC",
-      "source": "The Guardian",
+      "source": "BBC Sport",
       "time": "Oct 8",
-      "headline": "How the Kop’s chants propelled Andy Burnham to fight for Hillsborough justice",
-      "excerpt": "<p>A speech at Anfield in 2009 was met with boos but it led to a…",
-      "link": "https://www.theguardian.com/football/2026/oct/08/how-the-kops-chants-propelled-andy-burnham-to-fight-for-hillsborough-justice",
-      "image": "https://i.guim.co.uk/img/media/ecd62ccc0ac15b97cd88aeccf37c3842d3e10bad/412_0_2029_1623/master/2029.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=099a1fb7ae3927027640d4867bd97cb9"
+      "headline": "Ceferin to stand for fourth term as Uefa president",
+      "excerpt": "Uefa president Aleksander Ceferin will stand for a fourth term, reversing a previous decision to…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cmn4ex2y53l8o?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dcec/live/c5348490-c31c-11f1-babe-4199b0e7ccea.jpg"
     },
     {
       "id": "story-8",
@@ -95,21 +95,21 @@
       "dot": "#9CC0F0",
       "source": "BBC Sport",
       "time": "Oct 8",
-      "headline": "Working with Iraola, car clauses and hope - the Liverpool academy approach",
-      "excerpt": "Liverpool academy director Alex Inglethorpe talks to BBC Sport about the value and future of…",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cmx2z9z10wezo?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/97ab/live/65d4a550-bcc5-11f1-ae14-0b840f99ba59.jpg"
+      "headline": "Everton's Sherif fined for breaching betting rules",
+      "excerpt": "The Football Association fines Everton forward Martin Sherif £5,000 for breaching its betting rules over…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c54g13we4rero?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7903/live/cef3f0b0-c31c-11f1-bd97-fbe5a3482cde.jpg"
     },
     {
       "id": "story-9",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "BBC Sport",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "The Guardian",
       "time": "Oct 8",
-      "headline": "How can home nations reach Women's World Cup?",
-      "excerpt": "England, Wales, Northern Ireland, Scotland and the Republic of Ireland are among those hoping to…",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cqzrdmjp5162o?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0909/live/5c1b6eb0-c2ef-11f1-babe-4199b0e7ccea.png"
+      "headline": "Football Daily | Spygate: one of football’s stranger and more pointless transgressions",
+      "excerpt": "<p><a href=\"https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up\"><strong>Sign up now! Sign up now! Sign up now? Sign up now!</strong></a></p><p>The recent international…",
+      "link": "https://www.theguardian.com/football/2026/oct/08/football-daily-email-southampton-spygate-tonda-eckert",
+      "image": "https://i.guim.co.uk/img/media/404b3be0fb8c65cdf81005af4b1860f05b770eea/445_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=86930c4732f44c8a766d5c2f73fb16ec"
     },
     {
       "id": "story-10",
@@ -117,43 +117,43 @@
       "dot": "#9CC0F0",
       "source": "The Guardian",
       "time": "Oct 8",
-      "headline": "‘Those memories are ours and no verdict changes that’: Manchester City fans’ views",
-      "excerpt": "<p>While most supporters seem to want to get behind the club, some fear actions of…",
-      "link": "https://www.theguardian.com/football/2026/oct/08/manchester-city-verdict-fans-views",
-      "image": "https://i.guim.co.uk/img/media/e728d62414d833cdbfd82fcc522f1218539f2352/0_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=192639f6c51b8d8ea738dc52c7d40182"
+      "headline": "Manchester United offer JJ Gabriel new deal but risk losing prodigy for £350,000",
+      "excerpt": "<ul><li><p>Teenager almost certain to leave despite fresh offer</p></li><li><p>Compensation for move to European rival would be…",
+      "link": "https://www.theguardian.com/football/2026/oct/08/manchester-united-offer-jj-gabriel-new-deal-risk-losing-prodigy-football-premier-league",
+      "image": "https://i.guim.co.uk/img/media/67d60e119375343c39832edf622a8a13ea400c1a/355_0_3630_2904/master/3630.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b144fa34f993004c9d9ff02fb6ef3a76"
     },
     {
       "id": "story-11",
-      "league": "Football",
-      "dot": "#AFC4AC",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
       "source": "The Guardian",
       "time": "Oct 8",
-      "headline": "Laos footballer arrested in connection with alleged match-fixing for betting syndicate",
-      "excerpt": "<ul><li><p>National FA refers Soukphachan Lueanthala to police</p></li><li><p>Accused of helping group during summer tournament</p></li></ul><p>A Laos international…",
-      "link": "https://www.theguardian.com/football/2026/oct/08/laos-international-arrested-in-connection-alleged-match-fixing-football",
-      "image": "https://i.guim.co.uk/img/media/034963bbafb6bf5d46e18e400a0b07d9c28c35b0/1841_202_959_767/master/959.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=79d0d092fe3e241de7ffa24e6447cb7e"
+      "headline": "Khaldoon al-Mubarak: the tightrope walker who made rare misstep over City charges",
+      "excerpt": "<p>Manchester City’s chair is key to the project of making Abu Dhabi a secure world…",
+      "link": "https://www.theguardian.com/football/2026/oct/08/khaldoon-al-mubarak-manchester-city-charges-abu-dhabi",
+      "image": "https://i.guim.co.uk/img/media/a71867c832785801ac08c2fcb9aedf5e72c563f6/32_74_1512_1209/master/1512.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=77446bc51303f778ad8c771efb23dceb"
     },
     {
       "id": "story-12",
       "league": "Football",
       "dot": "#AFC4AC",
-      "source": "BBC Sport",
+      "source": "The Guardian",
       "time": "Oct 8",
-      "headline": "How early-season data signals Scottish Premiership style shift",
-      "excerpt": "Underlying numbers from the start of the Scottish Premiership season suggest a refreshed approach could…",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cwnv0j499jrgo?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7a2f/live/da2da400-c25c-11f1-bc2e-018d645d8d21.png"
+      "headline": "‘Like a movie script’: Michael McArdle backs Northern Ireland to make history",
+      "excerpt": "<p>Manager says he has made team ‘play-off ready’ since taking over in March. They now…",
+      "link": "https://www.theguardian.com/football/2026/oct/08/michael-mcardle-northern-ireland-women-moving-the-goalposts",
+      "image": "https://i.guim.co.uk/img/media/b3c2f69356018e2624cd9a87c5121a6d206f5d3e/183_165_3105_2483/master/3105.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=51d912ddb8cc46dae01e1e17ed0fd828"
     },
     {
       "id": "story-13",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "BBC Sport",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "The Guardian",
       "time": "Oct 8",
-      "headline": "Why early-season data points to Premiership style shift",
-      "excerpt": "Underlying numbers from the start of the Scottish Premiership season suggest a refreshed approach could…",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cwnv0j499jrgo?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7a2f/live/da2da400-c25c-11f1-bc2e-018d645d8d21.png"
+      "headline": "Manchester City go to Anfield and is Eckert’s Spygate ban too lenient? | Football Weekly video",
+      "excerpt": "<p><a href=\"https://bsky.app/profile/maxrushden.bsky.social\">Max Rushden</a> is joined by Barry Glendenning, Nicky Bandini and Paul Watson to preview…",
+      "link": "https://www.theguardian.com/football/video/2026/oct/08/manchester-city-liverpool-eckert-spygate-ban-too-lenient-football-weekly-video",
+      "image": "https://i.guim.co.uk/img/media/c7045f58085b84f451b3602c45cb6632b122ba74/16_0_5064_4052/master/5064.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=19f3dbac7381cd667a7578e6c92dd703"
     },
     {
       "id": "story-14",
@@ -161,109 +161,109 @@
       "dot": "#AFC4AC",
       "source": "BBC Sport",
       "time": "Oct 8",
-      "headline": "Celtic-linked manager considers options - gossip",
-      "excerpt": "Manager linked with Celtic takes time to consider future and Aberdeen defender will not be…",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cm79p1z393y7o?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8063/live/d0a80090-c2e0-11f1-babe-4199b0e7ccea.png"
+      "headline": "Rangers boss McInnes 'not a fan' of extended break",
+      "excerpt": "Rangers manager Derek McInnes says he is \"not a fan\" of the extended international break…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cm3vqrz41l2vo?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/899d/live/1dea94e0-c30d-11f1-8f04-85217d686658.jpg"
     },
     {
       "id": "story-15",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
+      "league": "Football",
+      "dot": "#AFC4AC",
       "source": "BBC Sport",
       "time": "Oct 8",
-      "headline": "Who am I? Guess Premier League star No 80",
-      "excerpt": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cmd7qnqrzdg1o?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fbf/live/38bd3c70-bda7-11f1-bc2e-018d645d8d21.png"
+      "headline": "'It's longer than lot of tournaments' - McInnes against extended break",
+      "excerpt": "Rangers manager Derek McInnes says he is \"not a fan\" of the extended international break…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cm3vqrz41l2vo?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/899d/live/1dea94e0-c30d-11f1-8f04-85217d686658.jpg"
     },
     {
       "id": "story-16",
       "league": "Football",
       "dot": "#AFC4AC",
-      "source": "BBC Sport",
+      "source": "The Guardian",
       "time": "Oct 8",
-      "headline": "Inside the £1-an-hour official football shirt factories",
-      "excerpt": "A BBC Sport investigation traces official football shirt production to factories in Cambodia where workers…",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cx2lggyz2wgo?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/77c1/live/22e2f250-c0b8-11f1-babe-4199b0e7ccea.png"
+      "headline": "‘¡Qué Horror!’: Mexico’s World Cup honeymoon is over but is Rafa Márquez really to blame?",
+      "excerpt": "<p>A series of dispiriting friendly results have El Tri reeling. But the problems run much…",
+      "link": "https://www.theguardian.com/football/2026/oct/08/mexico-soccer-team-rafael-marquez",
+      "image": "https://i.guim.co.uk/img/media/4c307200e8f27513fa23b4d56ca61eb91d69dc86/312_67_2737_2190/master/2737.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=590c42f83f2e1c2ca2c684057e49a6c6"
     },
     {
       "id": "story-17",
       "league": "Premier League",
       "dot": "#9CC0F0",
-      "source": "BBC Sport",
-      "time": "Oct 7",
-      "headline": "Rice close to agreeing new Arsenal deal",
-      "excerpt": "Declan Rice is close to agreeing a new long-term Arsenal contract, sources have told BBC…",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c9gkvx74je7do?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5f9d/live/b1c9adf0-c276-11f1-b278-615cdfb74f16.jpg"
+      "source": "The Guardian",
+      "time": "Oct 8",
+      "headline": "Are Brighton genuine contenders to qualify for the Champions League?",
+      "excerpt": "<p>They are the top scorers in the league, they have the best goal difference and…",
+      "link": "https://www.theguardian.com/football/2026/oct/08/brighton-contenders-qualify-champions-league",
+      "image": "https://i.guim.co.uk/img/media/29ed1bc140622497f8cc0777802fff06c9681bed/299_12_2844_2276/master/2844.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=fd498b15b4a8dc18049033a893a55759"
     },
     {
       "id": "story-18",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
-      "time": "Oct 7",
-      "headline": "Euro Leagues: Ronaldo's fallout with Jorge Jesus & is Zidane making his mark?",
-      "excerpt": "Is Ronaldo's behaviour a surprise? And what've we learnt from Zidane's start?",
-      "link": "https://www.bbc.co.uk/sounds/play/p0pfk3y1?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0p4zrww.jpg"
+      "time": "Oct 8",
+      "headline": "How a folk band, football club and Fifa 11 came together for unlikely anthem",
+      "excerpt": "After playing a bit of Fifa 11, Kingfishr leader singer Eddie Keogh posted a song…",
+      "link": "https://www.bbc.co.uk/news/articles/cq8jz9p2ln9zo?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6578/live/3a1ff8f0-c306-11f1-babe-4199b0e7ccea.jpg"
     },
     {
       "id": "story-19",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "BBC Sport",
-      "time": "Oct 7",
-      "headline": "Man Utd and Liverpool eye Truffert - Thursday's gossip",
-      "excerpt": "Manchester United and Liverpool eye Adrien Truffert, Tyler Morton is wanted by Newcastle and Martin…",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cr2ke0k8g7xeo?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c9e7/live/5e5d2d80-c290-11f1-babe-4199b0e7ccea.png"
-    },
-    {
-      "id": "story-20",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
-      "time": "Oct 7",
-      "headline": "Two icons, a glorious farewell and a potentially bitter ending",
-      "excerpt": "As Lionel Messi's international career ends in fond farewell, Cristiano Ronaldo's is at risk of…",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cw5ynm4e0d68o?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9db8/live/302f0ab0-c244-11f1-bc2e-018d645d8d21.png"
+      "time": "Oct 8",
+      "headline": "'Nothing impossible' for NI on long road to Brazil",
+      "excerpt": "Northern Ireland defenders Nat Johnson and Rebecca Holloway tell BBC Sport NI of their dream…",
+      "link": "https://www.bbc.co.uk/sport/articles/c6y8lyrpyv85o?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d2aa/live/f57c48f0-c302-11f1-9955-5d2e13ff2bea.jpg"
+    },
+    {
+      "id": "story-20",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "BBC Sport",
+      "time": "Oct 8",
+      "headline": "How Brighton attract and develop the best young players ahead of their rivals",
+      "excerpt": "Brighton sporting director Mike Cave discusses Brighton's transfer policy and how the club signs and…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cm0e35gzgdqeo?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f4ad/live/ca558840-c23e-11f1-b390-9f59a375fdd2.jpg"
     },
     {
       "id": "story-21",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
-      "time": "Oct 7",
-      "headline": "'Amazing' Kane targets 100 international goals",
-      "excerpt": "Striker Harry Kane says he could reach 100 goals for England after equalling his country's…",
-      "link": "https://www.bbc.co.uk/sport/football/videos/cm75pwl3w2x7o?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c6dd/live/8b12ff40-c27b-11f1-bc2e-018d645d8d21.jpg"
+      "time": "Oct 8",
+      "headline": "Afcon final to play out in court - when will Morocco or Senegal be crowned champions?",
+      "excerpt": "The Court of Arbitration for Sport is set to rule on the decision to strip…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/ckjw5jj2l26lo?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/473b/live/8627f400-bd98-11f1-babe-4199b0e7ccea.png"
     },
     {
       "id": "story-22",
       "league": "Premier League",
       "dot": "#9CC0F0",
-      "source": "BBC Sport",
-      "time": "Oct 7",
-      "headline": "Guardiola set to attend Man City's first home game since guilty verdict",
-      "excerpt": "Pep Guardiola managed Manchester City for a decade, leaving in the summer, and has backed…",
-      "link": "https://www.bbc.co.uk/sport/football/articles/ckrey77jq1n7o?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/144e/live/f422e5d0-c286-11f1-98ea-35e6bf307fc9.jpg"
+      "source": "The Guardian",
+      "time": "Oct 8",
+      "headline": "Mikel Arteta’s new contract reflects where the power now lies at Arsenal | Ed Aarons",
+      "excerpt": "<p>From transfers to stadium works and even the training-ground dog, there is no doubting the…",
+      "link": "https://www.theguardian.com/football/2026/oct/08/mikel-arteta-arsenal-contract",
+      "image": "https://i.guim.co.uk/img/media/e69d56fba273f9630d6d0cf8f6579a43a5dc8354/1188_667_6047_4837/master/6047.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e54e20cbd8cb017005320fa8bb1f70a2"
     },
     {
       "id": "story-23",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
+      "league": "Football",
+      "dot": "#AFC4AC",
       "source": "The Guardian",
-      "time": "Oct 7",
-      "headline": "Eckert’s Spygate ban may be lenient, but no sane manager will try the same trick again",
-      "excerpt": "<p>Verdict has been a long time coming and the Southampton head coach has recaptured hearts…",
-      "link": "https://www.theguardian.com/football/2026/oct/07/southampton-spygate-tonda-eckert-suspended-ban",
-      "image": "https://i.guim.co.uk/img/media/ff3ed7813cdd11b4fd6b3c2e4f211886b4d0b84f/270_0_3898_3119/master/3898.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a25b4af86da27ca7ca32ee19041fdb8d"
+      "time": "Oct 8",
+      "headline": "Women’s Super League faces wait until 2029 for full-time referees despite funding boost",
+      "excerpt": "<ul><li><p>Extra investment agreed at latest WSL board meeting</p></li><li><p>Calls for fully professional match officials have grown</p></li></ul><p>Women’s…",
+      "link": "https://www.theguardian.com/football/2026/oct/08/womens-super-league-wait-2029-full-time-referees-funding-boost-football",
+      "image": "https://i.guim.co.uk/img/media/22e5b96610467262454d2849998c3ebf198adf91/27_0_3500_2800/master/3500.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=1629693f39914c9574b8451973d7f54e"
     }
   ],
   "scoreboard": []
