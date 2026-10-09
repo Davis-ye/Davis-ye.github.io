@@ -1,19 +1,52 @@
 {
-  "updatedAt": "2026-10-08T21:34:23.871Z",
+  "updatedAt": "2026-10-09T01:23:10.694Z",
   "hero": {
     "id": "story-0",
     "league": "Premier League",
     "dot": "#9CC0F0",
-    "source": "BBC Sport",
+    "source": "The Guardian",
     "time": "Oct 8",
-    "headline": "Real seek McTominay move - Friday's gossip",
-    "excerpt": "Real Madrid are interested in former Manchester United midfielder Scott McTominay and France forward Michael…",
-    "link": "https://www.bbc.co.uk/sport/football/articles/crgj96ww6x4eo?at_medium=RSS&amp;at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d234/live/c725e4c0-c352-11f1-9a39-31b474234113.png"
+    "headline": "Premier League: 10 things to look out for this weekend",
+    "excerpt": "<p>Michael Carrick is wary of ‘Dr Tottenham’, Oliver Glasner returns to Selhurst Park and will…",
+    "link": "https://www.theguardian.com/football/2026/oct/09/premier-league-10-things-to-look-out-for-this-weekend",
+    "image": "https://i.guim.co.uk/img/media/70b9b1425ea904c9677e0820e9d273ebd09342a4/203_151_4433_3546/master/4433.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=bac41ca5ffe71f7cf635fe7fea5c74a8"
   },
   "topStories": [
     {
       "id": "story-1",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "BBC Sport",
+      "time": "Oct 8",
+      "headline": "Spurs' Simons enrols at iconic university Harvard",
+      "excerpt": "Tottenham's Xavi Simons enrols at prestigious American university Harvard as he continues his recovery from…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/ckpqg9388e7wo?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d252/live/2520d290-c364-11f1-adf9-5f790696e20a.jpg"
+    },
+    {
+      "id": "story-2",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "101 Great Goals",
+      "time": "Oct 8",
+      "headline": "Mourinho jokes he&#8217;ll be lucky to see final Man City verdict",
+      "excerpt": "Mourinho's Man United finished second to Man City in 2017-18.",
+      "link": "https://www.101greatgoals.com/football/premier-league/mourinho-jokes-final-man-city-verdict/",
+      "image": null
+    },
+    {
+      "id": "story-3",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "BBC Sport",
+      "time": "Oct 8",
+      "headline": "Real seek McTominay move - Friday's gossip",
+      "excerpt": "Real Madrid are interested in former Manchester United midfielder Scott McTominay and France forward Michael…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/crgj96ww6x4eo?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d234/live/c725e4c0-c352-11f1-9a39-31b474234113.png"
+    },
+    {
+      "id": "story-4",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -24,18 +57,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ec26/live/b62ee460-c298-11f1-babe-4199b0e7ccea.png"
     },
     {
-      "id": "story-2",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "101 Great Goals",
-      "time": "Oct 8",
-      "headline": "&#8216;They don&#8217;t care about the noise&#8217; &#8211; Maresca hails &#8216;fantastic&#8217; feeling in Man City camp",
-      "excerpt": "City are set to face a fierce atmosphere at Anfield on Sunday.",
-      "link": "https://www.101greatgoals.com/football/premier-league/maresca-fantastic-feeling-man-city-camp/",
-      "image": null
-    },
-    {
-      "id": "story-3",
+      "id": "story-5",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -46,7 +68,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3f74/live/19a47500-c334-11f1-9981-cf94ea240e40.jpg"
     },
     {
-      "id": "story-4",
+      "id": "story-6",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -57,7 +79,7 @@
       "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0mz7gm9.jpg"
     },
     {
-      "id": "story-5",
+      "id": "story-7",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -68,7 +90,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b580/live/603bae40-c350-11f1-a323-895aa67440d0.jpg"
     },
     {
-      "id": "story-6",
+      "id": "story-8",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "The Guardian",
@@ -79,7 +101,7 @@
       "image": "https://i.guim.co.uk/img/media/b2fcbb043133c723545c34b38ad0ca2a60e1fe02/1685_784_3499_2800/master/3499.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ec8ca92888b2ea57af34a90da5269ed6"
     },
     {
-      "id": "story-7",
+      "id": "story-9",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -90,7 +112,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5c0b/live/198c3cd0-c35a-11f1-bc2e-018d645d8d21.jpg"
     },
     {
-      "id": "story-8",
+      "id": "story-10",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -101,7 +123,7 @@
       "image": "https://i.guim.co.uk/img/media/4219073ffeff0efee4e77f8dda14f41e64caaef5/264_0_2533_2026/master/2533.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e3b4658730a15a23edcebf78da77ad59"
     },
     {
-      "id": "story-9",
+      "id": "story-11",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -112,7 +134,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4cfb/live/c6a4e930-c337-11f1-9981-cf94ea240e40.jpg"
     },
     {
-      "id": "story-10",
+      "id": "story-12",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -123,7 +145,7 @@
       "image": "https://i.guim.co.uk/img/media/a39a73263a235f0c029cdd2607f466dbd9f2dae3/767_0_6830_5464/master/6830.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d614224fbe5bf8419068b610e4be71bd"
     },
     {
-      "id": "story-11",
+      "id": "story-13",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -134,7 +156,7 @@
       "image": "https://i.guim.co.uk/img/media/04deb83faac7fa2fd6343cb08166dc55d45a5416/314_68_2756_2206/master/2756.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=74dd09475f8e9841642562406611a50e"
     },
     {
-      "id": "story-12",
+      "id": "story-14",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -145,7 +167,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a8c/live/57d56c80-c32f-11f1-9981-cf94ea240e40.jpg"
     },
     {
-      "id": "story-13",
+      "id": "story-15",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "The Guardian",
@@ -156,7 +178,7 @@
       "image": "https://i.guim.co.uk/img/media/f5fc4213f14a5a8cf30cd4452f7fdf8dd064e29d/447_84_1807_1445/master/1807.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c4623ab69ba6fbffa7a426b92792054c"
     },
     {
-      "id": "story-14",
+      "id": "story-16",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -167,7 +189,7 @@
       "image": "https://i.guim.co.uk/img/media/778f70b6f7fe66d4eb2eda280a62158f35a78b51/0_0_2000_1600/master/2000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=dda2dab2d6dbfe356d046f4d52e8fa9f"
     },
     {
-      "id": "story-15",
+      "id": "story-17",
       "league": "Ligue 1",
       "dot": "#B8D4E8",
       "source": "The Guardian",
@@ -178,7 +200,7 @@
       "image": "https://i.guim.co.uk/img/media/142677ae0fad01b1e36993184369c776abc20ead/418_0_4178_3343/master/4178.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=68b35b6c985bf962a1e986c89351f05d"
     },
     {
-      "id": "story-16",
+      "id": "story-18",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -189,7 +211,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e2c/live/d0075850-c323-11f1-bd97-fbe5a3482cde.jpg"
     },
     {
-      "id": "story-17",
+      "id": "story-19",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -200,7 +222,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7903/live/cef3f0b0-c31c-11f1-bd97-fbe5a3482cde.jpg"
     },
     {
-      "id": "story-18",
+      "id": "story-20",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -211,7 +233,7 @@
       "image": "https://i.guim.co.uk/img/media/404b3be0fb8c65cdf81005af4b1860f05b770eea/445_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=86930c4732f44c8a766d5c2f73fb16ec"
     },
     {
-      "id": "story-19",
+      "id": "story-21",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -222,7 +244,7 @@
       "image": "https://i.guim.co.uk/img/media/67d60e119375343c39832edf622a8a13ea400c1a/355_0_3630_2904/master/3630.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b144fa34f993004c9d9ff02fb6ef3a76"
     },
     {
-      "id": "story-20",
+      "id": "story-22",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -233,7 +255,7 @@
       "image": "https://i.guim.co.uk/img/media/a71867c832785801ac08c2fcb9aedf5e72c563f6/32_74_1512_1209/master/1512.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=77446bc51303f778ad8c771efb23dceb"
     },
     {
-      "id": "story-21",
+      "id": "story-23",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "The Guardian",
@@ -242,28 +264,6 @@
       "excerpt": "<p>Manager says he has made team ‘playoff ready’ since taking over in March. They now…",
       "link": "https://www.theguardian.com/football/2026/oct/08/michael-mcardle-northern-ireland-women-moving-the-goalposts",
       "image": "https://i.guim.co.uk/img/media/b3c2f69356018e2624cd9a87c5121a6d206f5d3e/183_165_3105_2483/master/3105.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=51d912ddb8cc46dae01e1e17ed0fd828"
-    },
-    {
-      "id": "story-22",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "The Guardian",
-      "time": "Oct 8",
-      "headline": "Manchester City go to Anfield and is Eckert’s Spygate ban too lenient? | Football Weekly video",
-      "excerpt": "<p><a href=\"https://bsky.app/profile/maxrushden.bsky.social\">Max Rushden</a> is joined by Barry Glendenning, Nicky Bandini and Paul Watson to preview…",
-      "link": "https://www.theguardian.com/football/video/2026/oct/08/manchester-city-liverpool-eckert-spygate-ban-too-lenient-football-weekly-video",
-      "image": "https://i.guim.co.uk/img/media/c7045f58085b84f451b3602c45cb6632b122ba74/16_0_5064_4052/master/5064.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=19f3dbac7381cd667a7578e6c92dd703"
-    },
-    {
-      "id": "story-23",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "BBC Sport",
-      "time": "Oct 8",
-      "headline": "Rangers boss McInnes 'not a fan' of extended break",
-      "excerpt": "Rangers manager Derek McInnes says he is \"not a fan\" of the extended international break…",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cm3vqrz41l2vo?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/899d/live/1dea94e0-c30d-11f1-8f04-85217d686658.jpg"
     }
   ],
   "scoreboard": []
