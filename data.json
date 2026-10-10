@@ -1,30 +1,129 @@
 {
-  "updatedAt": "2026-10-10T08:55:25.379Z",
+  "updatedAt": "2026-10-10T14:54:28.623Z",
   "hero": {
     "id": "story-0",
     "league": "Premier League",
     "dot": "#9CC0F0",
     "source": "The Guardian",
     "time": "Oct 10",
-    "headline": "Arsenal bid to close gap on City, lowly Spurs head to Manchester United – matchday live",
-    "excerpt": "<p>⚽ All the latest news as the Premier League resumes<br>⚽ <a href=\"https://www.theguardian.com/football/2026/oct/09/premier-league-10-things-to-look-out-for-this-weekend\">Ten things to look…",
-    "link": "https://www.theguardian.com/football/live/2026/oct/10/arsenal-bid-to-close-gap-on-city-lowly-spurs-head-to-manchester-united-matchday-live",
-    "image": "https://i.guim.co.uk/img/media/611ca20476c70fe6ac709c0dbe9be90324fc3c9c/0_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ef9d13c61135a3a840964d0832ea04dc"
+    "headline": "Chelsea v Bournemouth, Sunderland v Brighton, and more: football – live",
+    "excerpt": "<p>⚽ Updates from Saturday’s afternoon kick-offs<br>⚽ <a href=\"https://www.theguardian.com/football/live\">Scores</a> | <a href=\"https://www.theguardian.com/football/tables\">Tables</a> | <a href=\"https://www.theguardian.com/football/2026/oct/09/premier-league-10-things-to-look-out-for-this-weekend\">Ten things…",
+    "link": "https://www.theguardian.com/football/live/2026/oct/10/chelsea-v-bournemouth-sunderland-v-brighton-and-more-football-live",
+    "image": "https://i.guim.co.uk/img/media/1ef14e259f6e5841489eb330ca798924ab11d436/208_71_1802_1442/master/1802.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ed399e41e89d5bd9153ea994d90a2eeb"
   },
   "topStories": [
     {
       "id": "story-1",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "101 Great Goals",
+      "time": "Oct 10",
+      "headline": "Mikel Arteta hails Arsenal response against Leeds &#8211; &#8216;We had to restore our identity&#8217;",
+      "excerpt": "Mikel Arteta has spoken after Arsenal's win over Leeds.",
+      "link": "https://www.101greatgoals.com/football/premier-league/mikel-arteta-hails-arsenal-response-leeds/",
+      "image": null
+    },
+    {
+      "id": "story-2",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "The Guardian",
+      "time": "Oct 10",
+      "headline": "Championship roundup: Swansea top after beating Norwich; Blues win at West Brom",
+      "excerpt": "<ul><li><p>Swansea 2-1 Norwich; West Brom 0-1 Birmingham</p></li><li><p>Charlton’s winless record goes on against Bristol City</p></li></ul><p>Adam Idah…",
+      "link": "https://www.theguardian.com/football/2026/oct/10/championship-roundup-swansea-norwich-birmingham-west-brom-middlesbrough-wolves",
+      "image": "https://i.guim.co.uk/img/media/5460d298688627664b06bb2ab1030585ca85122e/237_0_2482_1985/master/2482.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b6bc3a089cbd24a0d8446bee5e6e5fb5"
+    },
+    {
+      "id": "story-3",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "The Guardian",
+      "time": "Oct 10",
+      "headline": "Bruno Guimarães completes Arsenal comeback to end Leeds’ unbeaten run",
+      "excerpt": "<p>Arsenal came back from a goal down to defeat strong opponents and reset their form…",
+      "link": "https://www.theguardian.com/football/2026/oct/10/arsenal-leeds-premier-league-match-report",
+      "image": "https://i.guim.co.uk/img/media/7ffedd8e04d8861f2300d2160ec55508edac5cf0/450_0_3677_2942/master/3677.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ae4b1daf6c9704b312f245c9f88201c1"
+    },
+    {
+      "id": "story-4",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "BBC Sport",
+      "time": "Oct 10",
+      "headline": "Who changed the game? - player ratings for Arsenal v Leeds",
+      "excerpt": "How Arsenal and Leeds players rated following their Premier League match.",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cmx2dpwv02e1o?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ba52/live/206991f0-c4aa-11f1-ac13-6da90f5ff039.jpg"
+    },
+    {
+      "id": "story-5",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "The Guardian",
+      "time": "Oct 10",
+      "headline": "Portugal suspend Cristiano Ronaldo after walking out on national team",
+      "excerpt": "<ul><li><p>Federation opens disciplinary proceedings</p></li><li><p>Veteran has been critical of coach Jorge Jesus</p></li></ul><p>Cristiano Ronaldo has been provisionally…",
+      "link": "https://www.theguardian.com/football/2026/oct/10/portugal-suspend-cristiano-ronaldo",
+      "image": "https://i.guim.co.uk/img/media/d9cb82e839eee1272f63c993a43a665e7dbe2d01/369_0_3695_2956/master/3695.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b1bce06d20f71f2085829906dc250b15"
+    },
+    {
+      "id": "story-6",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "The Guardian",
+      "time": "Oct 10",
+      "headline": "South Melbourne make history with Australia Cup win that could change the future too | Joey Lynch",
+      "excerpt": "<p>South Melbourne defeat Melbourne Victory 4-3 on penalties (1-1 aet) to cap night of celebration…",
+      "link": "https://www.theguardian.com/football/2026/oct/11/south-melbourne-vs-victory-australia-cup-final",
+      "image": "https://i.guim.co.uk/img/media/39e38f5a70e9ba6ca1b0790fbebed38ac2dbe050/967_0_6975_5580/master/6975.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=6f793c138390ec441dc1caefef314953"
+    },
+    {
+      "id": "story-7",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
       "time": "Oct 10",
-      "headline": "Delight for Cuthbert with Scotland after 'long summer' of recovery",
-      "excerpt": "Erin Cuthbert expresses joy and relief at making her first appearance of the season in…",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cxj0l2d4dp2vo?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d1ee/live/a2bd0d40-c481-11f1-9323-b15f40d5009a.jpg"
+      "headline": "Wales hope pattern continues in Albania return",
+      "excerpt": "After an unconvincing win in Albania, Wales hope a return home will rejuvenate their Women's…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c8r4y6x4p2lzo?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/155a/live/184d89f0-c418-11f1-a175-8928617a734f.jpg"
     },
     {
-      "id": "story-2",
+      "id": "story-8",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "BBC Sport",
+      "time": "Oct 10",
+      "headline": "Palmer signs new Chelsea contract until 2034",
+      "excerpt": "Cole Palmer signs a new Chelsea contract on improved terms until 2034, one of the…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cwe9lngxzjpno?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a9a8/live/a94e41f0-c3d3-11f1-95ba-dba767ffba7e.jpg"
+    },
+    {
+      "id": "story-9",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "BBC Sport",
+      "time": "Oct 10",
+      "headline": "NI debut 'something I thought had passed' - Elmore",
+      "excerpt": "Northern Ireland's World Cup hopes may have all but come to an end against Portugal,…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/ck7vpdz0lnmvo?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dd5f/live/043ecdf0-c43d-11f1-a9d6-c1d479769bbc.jpg"
+    },
+    {
+      "id": "story-10",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "BBC Sport",
+      "time": "Oct 10",
+      "headline": "Football Daily",
+      "excerpt": "Kelly Somers speaks to Arsenal captain Martin Odegaard.",
+      "link": "https://www.bbc.co.uk/sounds/play/p0pfxl7m?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0pfxlf1.jpg"
+    },
+    {
+      "id": "story-11",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -35,7 +134,18 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d1ee/live/a2bd0d40-c481-11f1-9323-b15f40d5009a.jpg"
     },
     {
-      "id": "story-3",
+      "id": "story-12",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "BBC Sport",
+      "time": "Oct 10",
+      "headline": "Delight for Cuthbert with Scotland after 'long summer' of recovery",
+      "excerpt": "Erin Cuthbert expresses joy and relief at making her first appearance of the season in…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cxj0l2d4dp2vo?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d1ee/live/a2bd0d40-c481-11f1-9323-b15f40d5009a.jpg"
+    },
+    {
+      "id": "story-13",
       "league": "La Liga",
       "dot": "#E3B4F5",
       "source": "BBC Sport",
@@ -46,18 +156,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8f47/live/40724a90-c3f2-11f1-97a9-2d4b5e26e282.jpg"
     },
     {
-      "id": "story-4",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "BBC Sport",
-      "time": "Oct 10",
-      "headline": "Celtic decide against offering Bakayoko deal - gossip",
-      "excerpt": "Celtic elect not to offer deal to midfielder as Derek Riordan urges patience under new…",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c8r4ylzn6gkxo?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1f76/live/981ecc20-c47c-11f1-bc2e-018d645d8d21.png"
-    },
-    {
-      "id": "story-5",
+      "id": "story-14",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -68,7 +167,7 @@
       "image": "https://i.guim.co.uk/img/media/9fb36d7167f06bee01c9edc2516d772302b50a32/31_0_2402_1921/master/2402.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=90def962fe29dae1d1a101b415c2759a"
     },
     {
-      "id": "story-6",
+      "id": "story-15",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -79,7 +178,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cf87/live/028207c0-c406-11f1-838e-6d1d6d701264.jpg"
     },
     {
-      "id": "story-7",
+      "id": "story-16",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -90,7 +189,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/629b/live/843a2b40-c3ce-11f1-8fc5-335d62f6730b.jpg"
     },
     {
-      "id": "story-8",
+      "id": "story-17",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -101,7 +200,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fbf/live/38bd3c70-bda7-11f1-bc2e-018d645d8d21.png"
     },
     {
-      "id": "story-9",
+      "id": "story-18",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -112,18 +211,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6cb5/live/a8fc7030-c259-11f1-bc2e-018d645d8d21.png"
     },
     {
-      "id": "story-10",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "101 Great Goals",
-      "time": "Oct 10",
-      "headline": "West Ham 1-1 QPR: Report, result, goals as Bowen scores and has penalty saved",
-      "excerpt": "A sensational piece of goalkeeping ensured West Ham and QPR drew",
-      "link": "https://www.101greatgoals.com/match-reports/west-ham-qpr-report-result-goals-bowen-penalty-man-city-charles-championship/",
-      "image": null
-    },
-    {
-      "id": "story-11",
+      "id": "story-19",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -134,7 +222,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/14fa/live/90b2c580-c432-11f1-ba89-3b6b48238d10.jpg"
     },
     {
-      "id": "story-12",
+      "id": "story-20",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -145,7 +233,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9ba1/live/1f3fa640-c40d-11f1-838e-6d1d6d701264.jpg"
     },
     {
-      "id": "story-13",
+      "id": "story-21",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -156,7 +244,7 @@
       "image": "https://i.guim.co.uk/img/media/fd3bdac08ddcb17caafde64cfcf5b75e26c6267b/377_0_3765_3012/master/3765.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=2475e064d2361dd54dc26efafc1e07b0"
     },
     {
-      "id": "story-14",
+      "id": "story-22",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -167,7 +255,7 @@
       "image": "https://i.guim.co.uk/img/media/6d42d64d1ee7d127ec5e18afd0f6a3577f0fd8ac/1714_0_5712_4572/master/5712.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=7831b79a8df4bc94dd271546da1b9fc1"
     },
     {
-      "id": "story-15",
+      "id": "story-23",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -176,97 +264,19 @@
       "excerpt": "Michael McArdle admits Northern Ireland's chances of beating Portugal in a Women's World Cup play-off…",
       "link": "https://www.bbc.co.uk/sport/football/articles/c6gqw03lxxnno?at_medium=RSS&amp;at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/88c0/live/2933ad90-c426-11f1-a64c-550be9e3c66b.jpg"
-    },
-    {
-      "id": "story-16",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "BBC Sport",
-      "time": "Oct 9",
-      "headline": "Arsenal eye deal for teenager Mora - Saturday's gossip",
-      "excerpt": "Arsenal eye deal for Mexico teenager Gilberto Mora, AC Milan in pole position for Endrick,…",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cxr5y36yml21o?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7b5f/live/df833220-c424-11f1-9462-0fb8e72a616b.png"
-    },
-    {
-      "id": "story-17",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "The Guardian",
-      "time": "Oct 9",
-      "headline": "West Ham’s penalty pain costs them top spot in Championship after QPR draw",
-      "excerpt": "<p>The QPR goalkeeper Pierce Charles made a stunning double save from a Jarrod Bowen penalty…",
-      "link": "https://www.theguardian.com/football/2026/oct/09/west-ham-qpr-championship-report-penalties",
-      "image": "https://i.guim.co.uk/img/media/08887630ad0931e2a29aa6234f37d70aa7275313/285_32_2393_1916/master/2393.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e6036fc7eb3df2f790f1c2f59abc9961"
-    },
-    {
-      "id": "story-18",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "BBC Sport",
-      "time": "Oct 9",
-      "headline": "Greek takeaways: What did we learn from Lionesses' win?",
-      "excerpt": "England come away from Greece with a valuable first-leg lead in their Women's World Cup…",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cwp8g1ry6rjlo?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dd76/live/11f39650-c420-11f1-9462-0fb8e72a616b.jpg"
-    },
-    {
-      "id": "story-19",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "The Guardian",
-      "time": "Oct 9",
-      "headline": "Sam Kerr on target but Matildas outclassed by youthful Germany in European friendly",
-      "excerpt": "<ul><li><p>Australia fall 4-2 to world No 3 side in Karlsruhe</p></li><li><p>Holly McNamara joins Kerr on scoresheet…",
-      "link": "https://www.theguardian.com/football/2026/oct/10/matildas-australia-germany-sam-kerr-friendly-match-report",
-      "image": "https://i.guim.co.uk/img/media/fe63e8080abadf86ff8f283eb4e1dd071781f53c/626_0_4281_3426/master/4281.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e0e60a7aa76325bf0e7871ee03a4e701"
-    },
-    {
-      "id": "story-20",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "The Guardian",
-      "time": "Oct 9",
-      "headline": "Russo’s return to form is vital but Lionesses still lack bite against low blocks | Suzanne Wrack",
-      "excerpt": "<p>England have the edge over Greece after the first leg of their World Cup playoff…",
-      "link": "https://www.theguardian.com/football/2026/oct/09/lionesses-alessia-russo-england-greece-womens-world-cup-qualification-playoff",
-      "image": "https://i.guim.co.uk/img/media/942284a3fb025e4e9e9b357c495f8caf8c501cea/480_41_4677_3743/master/4677.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=9bb24661263c223382325992680cc356"
-    },
-    {
-      "id": "story-21",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "BBC Sport",
-      "time": "Oct 9",
-      "headline": "Wales must improve in World Cup bid - Wilkinson",
-      "excerpt": "Rhian Wilkinson accepts Wales must raise their standards after they scrape to a 1-0 victory…",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cw4g1z0g17x8o?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2409/live/b9c05e80-c417-11f1-a175-8928617a734f.jpg"
-    },
-    {
-      "id": "story-22",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "The Guardian",
-      "time": "Oct 9",
-      "headline": "The Premier League is back: welcome to the new era of post-verdict unreality | Barney Ronay",
-      "excerpt": "<p>As the top flight returns, armed with the knowledge its serial champions have been the…",
-      "link": "https://www.theguardian.com/football/2026/oct/09/the-premier-league-is-back-welcome-to-the-new-era-of-post-verdict-unreality",
-      "image": "https://i.guim.co.uk/img/media/3b5a45f626069075962052339878faacacff3271/0_0_2500_2000/master/2500.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=411f4262d76edec3e663a5f63c7adaea"
-    },
-    {
-      "id": "story-23",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "The Guardian",
-      "time": "Oct 9",
-      "headline": "Lionesses take control of World Cup playoff tie but unfancied Greece still in fight",
-      "excerpt": "<ul><li><p>World Cup qualifying playoff: Greece 1-3 England</p></li><li><p>Stanway, Le Tissier and Russo on target</p></li></ul><p>Sarina Wiegman said…",
-      "link": "https://www.theguardian.com/football/2026/oct/09/greece-england-womens-world-cup-qualifying-playoff",
-      "image": "https://i.guim.co.uk/img/media/e346226a6a70d50aee8c9cdd0e68ce599f2e0fcd/354_34_2577_2062/master/2577.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=769d5dc75656964fa9576cc43bd6f8fa"
     }
   ],
   "scoreboard": [
+    {
+      "id": "score-560593",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "time": "Oct 10",
+      "home": "Arsenal FC",
+      "away": "Leeds United FC",
+      "homeScore": 2,
+      "awayScore": 1
+    },
     {
       "id": "score-564706",
       "league": "La Liga",
