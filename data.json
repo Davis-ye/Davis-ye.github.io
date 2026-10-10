@@ -1,19 +1,30 @@
 {
-  "updatedAt": "2026-10-09T23:29:39.842Z",
+  "updatedAt": "2026-10-10T02:35:23.256Z",
   "hero": {
     "id": "story-0",
     "league": "Premier League",
     "dot": "#9CC0F0",
-    "source": "BBC Sport",
-    "time": "Oct 9",
-    "headline": "Man City whistleblower to remain in witness protection",
-    "excerpt": "The computer hacker who released documents which helped trigger the Premier League investigation into Manchester…",
-    "link": "https://www.bbc.co.uk/sport/football/articles/cq4g1xerk398o?at_medium=RSS&amp;at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/14fa/live/90b2c580-c432-11f1-ba89-3b6b48238d10.jpg"
+    "source": "101 Great Goals",
+    "time": "Oct 10",
+    "headline": "West Ham 1-1 QPR: Report, result, goals as Bowen scores and has penalty saved",
+    "excerpt": "A sensational piece of goalkeeping ensured West Ham and QPR drew",
+    "link": "https://www.101greatgoals.com/match-reports/west-ham-qpr-report-result-goals-bowen-penalty-man-city-charles-championship/",
+    "image": null
   },
   "topStories": [
     {
       "id": "story-1",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "BBC Sport",
+      "time": "Oct 9",
+      "headline": "Man City whistleblower to remain in witness protection",
+      "excerpt": "The computer hacker who released documents which helped trigger the Premier League investigation into Manchester…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cq4g1xerk398o?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/14fa/live/90b2c580-c432-11f1-ba89-3b6b48238d10.jpg"
+    },
+    {
+      "id": "story-2",
       "league": "La Liga",
       "dot": "#E3B4F5",
       "source": "101 Great Goals",
@@ -24,7 +35,7 @@
       "image": "https://www.101greatgoals.com/wp-content/uploads/2026/10/shutterstock_2484810649-1.jpg"
     },
     {
-      "id": "story-2",
+      "id": "story-3",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -35,7 +46,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9ba1/live/1f3fa640-c40d-11f1-838e-6d1d6d701264.jpg"
     },
     {
-      "id": "story-3",
+      "id": "story-4",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -46,7 +57,7 @@
       "image": "https://i.guim.co.uk/img/media/fd3bdac08ddcb17caafde64cfcf5b75e26c6267b/377_0_3765_3012/master/3765.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=2475e064d2361dd54dc26efafc1e07b0"
     },
     {
-      "id": "story-4",
+      "id": "story-5",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -57,7 +68,7 @@
       "image": "https://i.guim.co.uk/img/media/6d42d64d1ee7d127ec5e18afd0f6a3577f0fd8ac/1714_0_5712_4572/master/5712.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=7831b79a8df4bc94dd271546da1b9fc1"
     },
     {
-      "id": "story-5",
+      "id": "story-6",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -68,7 +79,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/88c0/live/2933ad90-c426-11f1-a64c-550be9e3c66b.jpg"
     },
     {
-      "id": "story-6",
+      "id": "story-7",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -79,7 +90,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7b5f/live/df833220-c424-11f1-9462-0fb8e72a616b.png"
     },
     {
-      "id": "story-7",
+      "id": "story-8",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -90,7 +101,7 @@
       "image": "https://i.guim.co.uk/img/media/08887630ad0931e2a29aa6234f37d70aa7275313/285_32_2393_1916/master/2393.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e6036fc7eb3df2f790f1c2f59abc9961"
     },
     {
-      "id": "story-8",
+      "id": "story-9",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -99,17 +110,6 @@
       "excerpt": "England come away from Greece with a valuable first-leg lead in their Women's World Cup…",
       "link": "https://www.bbc.co.uk/sport/football/articles/cwp8g1ry6rjlo?at_medium=RSS&amp;at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dd76/live/11f39650-c420-11f1-9462-0fb8e72a616b.jpg"
-    },
-    {
-      "id": "story-9",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "101 Great Goals",
-      "time": "Oct 9",
-      "headline": "West Ham 1-1 QPR: Report, result, goals as Bowen scores and has penalty saved",
-      "excerpt": "A sensational piece of goalkeeping ensured West Ham and QPR drew",
-      "link": "https://www.101greatgoals.com/match-reports/west-ham-qpr-report-result-goals-bowen-penalty-man-city-charles-championship/",
-      "image": null
     },
     {
       "id": "story-10",
