@@ -1,19 +1,173 @@
 {
-  "updatedAt": "2026-10-11T18:29:43.832Z",
+  "updatedAt": "2026-10-11T22:18:32.747Z",
   "hero": {
     "id": "story-0",
     "league": "Premier League",
     "dot": "#9CC0F0",
     "source": "BBC Sport",
     "time": "Oct 11",
-    "headline": "Burnham to release details of Man City meetings",
-    "excerpt": "Andy Burnham has faced criticism for comments he made in the wake of Manchester City…",
-    "link": "https://www.bbc.co.uk/sport/football/articles/c962y5nd273no?at_medium=RSS&amp;at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7513/live/9668f200-c57d-11f1-80f2-5bd1e5df7ada.jpg"
+    "headline": "Aston Villa planning Endrick move - Monday's gossip",
+    "excerpt": "Aston Villa are looking at signing Real Madrid striker Endrick, Liverpool are weighing up a…",
+    "link": "https://www.bbc.co.uk/sport/football/articles/c5gm01j87jl7o?at_medium=RSS&amp;at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1a52/live/35619e00-c5ad-11f1-9a39-31b474234113.png"
   },
   "topStories": [
     {
       "id": "story-1",
+      "league": "Serie A",
+      "dot": "#A9E6A0",
+      "source": "The Guardian",
+      "time": "Oct 11",
+      "headline": "European football: Freiburg move top of Bundesliga while Isco keeps Betis flying high",
+      "excerpt": "<ul><li><p>Goto seals late 2-1 win over Schalke for 10-man Freiburg</p></li><li><p>Lazio join Inter at top of…",
+      "link": "https://www.theguardian.com/football/2026/oct/11/european-football-lazio-maintain-strong-start-with-win-over-monza",
+      "image": "https://i.guim.co.uk/img/media/4dfca5bfebf95e778103b8778ac15e00be40de4a/117_0_4185_3348/master/4185.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=39a00978c9243ce94a568b2bfa6e14f5"
+    },
+    {
+      "id": "story-2",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "101 Great Goals",
+      "time": "Oct 11",
+      "headline": "NFL Sunday Week 5 Round-Up: Jaguars stun Eagles in London as Patriots crush Raiders and Giants draw with Commanders",
+      "excerpt": "Catch up on all the action from Sunday's NFL games, including the London clash between…",
+      "link": "https://www.101greatgoals.com/nfl/nfl-sunday-week-5-round-up-jaguars-eagles-steelers-colts/",
+      "image": null
+    },
+    {
+      "id": "story-3",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "BBC Sport",
+      "time": "Oct 11",
+      "headline": "Man City's statement win has feeling of irrelevance with season in limbo",
+      "excerpt": "Manchester City record what they will view as a statement win at Liverpool - but…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cmy0rd4pex7no?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8204/live/a6de9a60-c5a8-11f1-9f28-03371a5c8220.jpg"
+    },
+    {
+      "id": "story-4",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "The Guardian",
+      "time": "Oct 11",
+      "headline": "Impervious City shrug off chaos and controversy to silence Anfield | Andy Hunter",
+      "excerpt": "<p>What had been billed as a day of reckoning for the Premier League champions turned…",
+      "link": "https://www.theguardian.com/football/2026/oct/11/impervious-city-shrug-off-chaos-and-controversy-to-silence-anfield",
+      "image": "https://i.guim.co.uk/img/media/7c8f559a2f1c50af662af0141c9bbdb42b28f96a/52_0_4803_3843/master/4803.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=737f952622ca048061abac07420be65e"
+    },
+    {
+      "id": "story-5",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "The Guardian",
+      "time": "Oct 11",
+      "headline": "‘We make our own noise’: Maresca hails Manchester City after Liverpool triumph",
+      "excerpt": "<ul><li><p>‘You cannot imagine how happy I am … I’m here to win’</p></li><li><p>City win 3-0 at…",
+      "link": "https://www.theguardian.com/football/2026/oct/11/enzo-maresca-manchester-city-liverpool-premier-league",
+      "image": "https://i.guim.co.uk/img/media/c0165ddf686273de021ec29d65c174510049887d/422_0_4223_3379/master/4223.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=0e337aca0e51b49e5f56e72afd1a4bf3"
+    },
+    {
+      "id": "story-6",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "BBC Sport",
+      "time": "Oct 11",
+      "headline": "Winless and an 'easy touch' - what's happened to the Anfield fear factor?",
+      "excerpt": "Liverpool's struggles at Anfield continue as Iraola still awaits his first Premier League win at…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/ck5yn20wej62o?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8da7/live/b0352800-c5a7-11f1-9f28-03371a5c8220.jpg"
+    },
+    {
+      "id": "story-7",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "BBC Sport",
+      "time": "Oct 11",
+      "headline": "Football Daily",
+      "excerpt": "Rick Edwards, Luke Edwards and Clinton Morrison discuss the latest Premier League action.",
+      "link": "https://www.bbc.co.uk/sounds/play/p0pg61sx?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0pb3f0t.jpg"
+    },
+    {
+      "id": "story-8",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "The Guardian",
+      "time": "Oct 11",
+      "headline": "Premier League returns in shadow of Manchester City’s judgment day | Jonathan Wilson",
+      "excerpt": "<p>Football felt secondary on the first weekend of action since club were found guilty of…",
+      "link": "https://www.theguardian.com/football/2026/oct/11/premier-league-returns-in-shadow-of-manchester-citys-judgment-day",
+      "image": "https://i.guim.co.uk/img/media/13ebe78131663f728388f6dbf2273d56b6864b1a/848_0_2891_2313/master/2891.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=9ad9bfa9a821c011e4fb7fa4dd27e826"
+    },
+    {
+      "id": "story-9",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "BBC Sport",
+      "time": "Oct 11",
+      "headline": "Doku delights as Manchester City cruise past 10-man Liverpool",
+      "excerpt": "In their first match since being found guilty of breaching Premier League financial rules, Manchester…",
+      "link": "https://www.bbc.co.uk/sport/football/videos/c6vgy2ll1zypo?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e1f6/live/040fab80-c599-11f1-a64c-550be9e3c66b.jpg"
+    },
+    {
+      "id": "story-10",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "BBC Sport",
+      "time": "Oct 11",
+      "headline": "Hull continue good start with entertaining Everton draw",
+      "excerpt": "Mohamed Belloumi scores a second-half leveller as Hull City and Everton continue their good starts…",
+      "link": "https://www.bbc.co.uk/sport/football/videos/c61mvdy2mdx9o?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b46a/live/e253b1c0-c599-11f1-a64c-550be9e3c66b.jpg"
+    },
+    {
+      "id": "story-11",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "BBC Sport",
+      "time": "Oct 11",
+      "headline": "Glasner suffers loss on Selhurst return as Palace beat Forest",
+      "excerpt": "Oliver Glasner endures a frustrating return to Crystal Palace with his Nottingham Forest side lets…",
+      "link": "https://www.bbc.co.uk/sport/football/videos/cwz0zkj27greo?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/acfa/live/f4d5deb0-c592-11f1-bc2e-018d645d8d21.jpg"
+    },
+    {
+      "id": "story-12",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "BBC Sport",
+      "time": "Oct 11",
+      "headline": "'I didn't like the refereeing' - Iraola unhappy with Gravenberch red",
+      "excerpt": "Andoni Iraola says he didn't agree with midfielder Ryan Gravenberch's red card in Liverpool's defeat…",
+      "link": "https://www.bbc.co.uk/sport/football/videos/cj20v49vd4zro?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0740/live/6d878a60-c59e-11f1-bc2e-018d645d8d21.jpg"
+    },
+    {
+      "id": "story-13",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "BBC Sport",
+      "time": "Oct 11",
+      "headline": "'We deal with the noise' - Maresca 'proud' after Man City win",
+      "excerpt": "Manchester City manager Enzo Maresca says his squad 'dealt with the noise' after they beat…",
+      "link": "https://www.bbc.co.uk/sport/football/videos/cm62yzw2175yo?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0997/live/c94a55c0-c59f-11f1-9a39-31b474234113.jpg"
+    },
+    {
+      "id": "story-14",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "BBC Sport",
+      "time": "Oct 11",
+      "headline": "Burnham to release details of Man City meetings",
+      "excerpt": "Andy Burnham has faced criticism for comments he made in the wake of Manchester City…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c962y5nd273no?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7513/live/9668f200-c57d-11f1-80f2-5bd1e5df7ada.jpg"
+    },
+    {
+      "id": "story-15",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -24,18 +178,7 @@
       "image": "https://i.guim.co.uk/img/media/d6155b68812d3bbe43c0a2609c99558f024a17de/87_11_1482_1185/master/1482.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=785a2d7fd83036e574ff3024469033c4"
     },
     {
-      "id": "story-2",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "101 Great Goals",
-      "time": "Oct 11",
-      "headline": "Liverpool 0-3 Manchester City: Report, result and goals as Reds collapse after Gravenberch red card",
-      "excerpt": "Catch up with all the action from Liverpool vs Manchester City in the Premier League.",
-      "link": "https://www.101greatgoals.com/match-reports/liverpool-0-3-manchester-city-report-result-goals/",
-      "image": null
-    },
-    {
-      "id": "story-3",
+      "id": "story-16",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -46,7 +189,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c7a7/live/38b24d70-c59e-11f1-8caf-cb711a6adf3a.jpg"
     },
     {
-      "id": "story-4",
+      "id": "story-17",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -57,18 +200,18 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/75d7/live/c1c36af0-c593-11f1-9a39-31b474234113.jpg"
     },
     {
-      "id": "story-5",
+      "id": "story-18",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
       "time": "Oct 11",
       "headline": "Tension, ‘cheat’ banners and inflatable bananas: Manchester City’s welcome to Anfield",
-      "excerpt": "<p>An incendiary atmosphere greeted the former Premier League champions for their first game since being…",
+      "excerpt": "<p>A lively atmosphere greeted the former Premier League champions for their first game since being…",
       "link": "https://www.theguardian.com/football/2026/oct/11/tension-banners-and-inflatable-bananas-manchester-citys-welcome-to-anfield",
       "image": "https://i.guim.co.uk/img/media/31e34c1173bd28cd7ea0b4dc2cd0af698f8f77d9/559_0_3079_2465/master/3079.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3734315858599c994ff4cbd664839622"
     },
     {
-      "id": "story-6",
+      "id": "story-19",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -79,7 +222,7 @@
       "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0gf9mfx.jpg"
     },
     {
-      "id": "story-7",
+      "id": "story-20",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "The Guardian",
@@ -90,18 +233,7 @@
       "image": "https://i.guim.co.uk/img/media/3350ac6476a95c67b0d4f7bdd0a25b41ab6df7f0/251_0_2411_1929/master/2411.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=7559754793e9841baa1ab547c994b04f"
     },
     {
-      "id": "story-8",
-      "league": "Serie A",
-      "dot": "#A9E6A0",
-      "source": "The Guardian",
-      "time": "Oct 11",
-      "headline": "European football: Lazio join Inter at top of Serie A as Roma held at Como",
-      "excerpt": "<ul><li><p>Gattuso’s side ease to 3-1 win against 10-man Monza</p></li><li><p>Roma frustrated after goalless draw away at…",
-      "link": "https://www.theguardian.com/football/2026/oct/11/european-football-lazio-maintain-strong-start-with-win-over-monza",
-      "image": "https://i.guim.co.uk/img/media/edddf9d4277a3b0f4ee39dd968bdb0cfadea7fcb/205_0_2558_2047/master/2558.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=56552487657872388b8c5839bd169358"
-    },
-    {
-      "id": "story-9",
+      "id": "story-21",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -112,7 +244,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7242/live/b771a480-c580-11f1-80f2-5bd1e5df7ada.jpg"
     },
     {
-      "id": "story-10",
+      "id": "story-22",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -123,7 +255,7 @@
       "image": "https://i.guim.co.uk/img/media/b5e2878cd92d28d22d3aa15f3b7252325f499034/518_0_4863_3891/master/4863.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=89fa4ead179580243c978aa50569420b"
     },
     {
-      "id": "story-11",
+      "id": "story-23",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -132,141 +264,49 @@
       "excerpt": "<p>Hull retained their unbeaten home record since returning to the Premier League with an entertaining…",
       "link": "https://www.theguardian.com/football/2026/oct/11/hull-city-everton-premier-league-match-report",
       "image": "https://i.guim.co.uk/img/media/f28ba6dd7dd6fc2251f47df1108c0eb4438e0b21/346_0_2371_1897/master/2371.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3dfae5a0b4f624432ae8703fa3a22307"
-    },
-    {
-      "id": "story-12",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "The Guardian",
-      "time": "Oct 11",
-      "headline": "Joy for Eckert as 10-man Southampton edge out Portsmouth in feisty derby",
-      "excerpt": "<p>At the full-time whistle in the south coast derby, Tonda Eckert thrust his arms out…",
-      "link": "https://www.theguardian.com/football/2026/oct/11/southampton-portsmouth-championship-match-report",
-      "image": "https://i.guim.co.uk/img/media/684ba08a67943667880f359179c5aa9306b8918f/1228_1160_2260_1808/master/2260.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=0be54f7f95eac57e5820dd8f90c3966e"
-    },
-    {
-      "id": "story-13",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "BBC Sport",
-      "time": "Oct 11",
-      "headline": "Sharp retires after incredible 22-year career",
-      "excerpt": "Sheffield United legend Billy Sharp announces his retirement from football at the age of 40.",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cw7vpzzj0502o?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ff14/live/c6301180-c55f-11f1-9cae-455625013d45.jpg"
-    },
-    {
-      "id": "story-14",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "BBC Sport",
-      "time": "Oct 11",
-      "headline": "Elton John 'upset and disappointed' with Watford form",
-      "excerpt": "Former Watford owner Elton John says he is \"upset and disappointed\" by the club's form…",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cw3dj8802lnvo?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4b2f/live/b5ca8e90-c55c-11f1-9cae-455625013d45.jpg"
-    },
-    {
-      "id": "story-15",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "BBC Sport",
-      "time": "Oct 11",
-      "headline": "Russo named England player of the year",
-      "excerpt": "Arsenal forward Alessia Russo is named England women's player of the year after scoring five…",
-      "link": "https://www.bbc.co.uk/sport/football/articles/ckgel112lr1qo?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f4c3/live/088b06d0-c55f-11f1-9cae-455625013d45.jpg"
-    },
-    {
-      "id": "story-16",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "BBC Sport",
-      "time": "Oct 11",
-      "headline": "Highlights and analysis on Match of the Day",
-      "excerpt": "With Man Utd v Spurs, Arsenal v Leeds and Chelsea v Bournemouth as the top…",
-      "link": "https://www.bbc.co.uk/iplayer/episode/m0032wxj?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0pfp5mk.jpg"
-    },
-    {
-      "id": "story-17",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "The Guardian",
-      "time": "Oct 11",
-      "headline": "Robbie Savage the panto villain puts scepticism aside to leave Leicester reeling",
-      "excerpt": "<p>Peterborough’s new boss has long been a divisive figure but a stunning 3-1 win at…",
-      "link": "https://www.theguardian.com/football/2026/oct/11/robbie-savage-peterborough-manager-leicester",
-      "image": "https://i.guim.co.uk/img/media/6e11f4c5c5f7c1df407beddd69fe29a2f3fa970f/35_131_1745_1396/master/1745.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f060bdb167ad4e779b555bf3526057d9"
-    },
-    {
-      "id": "story-18",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "BBC Sport",
-      "time": "Oct 11",
-      "headline": "Who am I? Plus today's other quizzes",
-      "excerpt": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cmlylg0n5pg7o?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fbf/live/38bd3c70-bda7-11f1-bc2e-018d645d8d21.png"
-    },
-    {
-      "id": "story-19",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "BBC Sport",
-      "time": "Oct 11",
-      "headline": "Top five Liverpool-Man City moments",
-      "excerpt": "Relive five classic moments between Liverpool and Manchester City before Sunday's Premier League game at…",
-      "link": "https://www.bbc.co.uk/sport/football/videos/cqvg0m1my97go?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b0d5/live/b6396c70-c32c-11f1-bc2e-018d645d8d21.jpg"
-    },
-    {
-      "id": "story-20",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "BBC Sport",
-      "time": "Oct 10",
-      "headline": "'Absolutely superb' - How Caicedo proved pivotal in Chelsea win",
-      "excerpt": "Speaking on Match of the Day, Alan Shearer explains why the performance of Moises Caicedo…",
-      "link": "https://www.bbc.co.uk/sport/football/videos/cmx2dp7xgew6o?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/21d0/live/24953340-c4f7-11f1-bc2e-018d645d8d21.jpg"
-    },
-    {
-      "id": "story-21",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "BBC Sport",
-      "time": "Oct 10",
-      "headline": "Man Utd midfield can't control games - Murphy",
-      "excerpt": "Match of the Day pundit Danny Murphy looks at Manchester United's problems in midfield in…",
-      "link": "https://www.bbc.co.uk/sport/football/videos/c6lye9kmnvpzo?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1bfe/live/6d7af590-c501-11f1-9a39-31b474234113.jpg"
-    },
-    {
-      "id": "story-22",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "BBC Sport",
-      "time": "Oct 10",
-      "headline": "AC Milan keen on Scott - Sunday's gossip",
-      "excerpt": "AC Milan are looking at Bournemouth's Alex Scott, Bayern Munich have held fresh talks with…",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cmy0rp2r516po?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/52e9/live/b259feb0-c4f5-11f1-9a39-31b474234113.png"
-    },
-    {
-      "id": "story-23",
-      "league": "La Liga",
-      "dot": "#E3B4F5",
-      "source": "The Guardian",
-      "time": "Oct 10",
-      "headline": "Real Madrid’s Vinícius Júnior sent off for hair-pulling in victory over Villarreal",
-      "excerpt": "<p></p><p>Yan Diomandé earned Real Madrid a tight 1-0 victory over Villarreal to keep them six…",
-      "link": "https://www.theguardian.com/football/2026/oct/10/real-madrids-vinicius-junior-sent-off-for-hair-pulling-in-victory-over-villarreal",
-      "image": "https://i.guim.co.uk/img/media/d30836ac21d6433bdf9e209ed2c2082e818c7666/1653_211_3134_2509/master/3134.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=fb44d607820cf9e0640788a5477b0537"
     }
   ],
   "scoreboard": [
+    {
+      "id": "score-564705",
+      "league": "La Liga",
+      "dot": "#E3B4F5",
+      "time": "Oct 11",
+      "home": "Real Racing Club de Santander",
+      "away": "Valencia CF",
+      "homeScore": 2,
+      "awayScore": 2
+    },
+    {
+      "id": "score-558584",
+      "league": "Serie A",
+      "dot": "#A9E6A0",
+      "time": "Oct 11",
+      "home": "Cagliari Calcio",
+      "away": "Juventus FC",
+      "homeScore": 1,
+      "awayScore": 1
+    },
+    {
+      "id": "score-559671",
+      "league": "Ligue 1",
+      "dot": "#B8D4E8",
+      "time": "Oct 11",
+      "home": "ES Troyes AC",
+      "away": "Olympique de Marseille",
+      "homeScore": 0,
+      "awayScore": 2
+    },
+    {
+      "id": "score-564701",
+      "league": "La Liga",
+      "dot": "#E3B4F5",
+      "time": "Oct 11",
+      "home": "Real Betis Balompié",
+      "away": "CA Osasuna",
+      "homeScore": 5,
+      "awayScore": 2
+    },
     {
       "id": "score-558580",
       "league": "Serie A",
@@ -286,46 +326,6 @@
       "away": "Manchester City FC",
       "homeScore": 0,
       "awayScore": 3
-    },
-    {
-      "id": "score-565816",
-      "league": "Bundesliga",
-      "dot": "#FFC469",
-      "time": "Oct 11",
-      "home": "SC Freiburg",
-      "away": "FC Schalke 04",
-      "homeScore": 2,
-      "awayScore": 1
-    },
-    {
-      "id": "score-559667",
-      "league": "Ligue 1",
-      "dot": "#B8D4E8",
-      "time": "Oct 11",
-      "home": "Stade Rennais FC 1901",
-      "away": "AJ Auxerre",
-      "homeScore": 4,
-      "awayScore": 1
-    },
-    {
-      "id": "score-564707",
-      "league": "La Liga",
-      "dot": "#E3B4F5",
-      "time": "Oct 11",
-      "home": "Real Sociedad de Fútbol",
-      "away": "RC Deportivo La Coruña",
-      "homeScore": 3,
-      "awayScore": 2
-    },
-    {
-      "id": "score-565814",
-      "league": "Bundesliga",
-      "dot": "#FFC469",
-      "time": "Oct 11",
-      "home": "1. FC Köln",
-      "away": "Borussia Mönchengladbach",
-      "homeScore": 2,
-      "awayScore": 1
     }
   ]
 }
