@@ -1,19 +1,228 @@
 {
-  "updatedAt": "2026-10-13T03:39:37.843Z",
+  "updatedAt": "2026-10-13T11:04:52.735Z",
   "hero": {
     "id": "story-0",
     "league": "Football",
     "dot": "#AFC4AC",
     "source": "BBC Sport",
-    "time": "Oct 12",
-    "headline": "Coventry announce themselves back in the big time",
-    "excerpt": "Coventry climb out of the relegation zone after ending their 25-year wait for a top-flight…",
-    "link": "https://www.bbc.co.uk/sport/football/articles/cw78p7l7rp30o?at_medium=RSS&amp;at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d3bb/live/75fce310-c68a-11f1-a387-7d6d38bf2d79.jpg"
+    "time": "Oct 13",
+    "headline": "Bloom repeats faith in title ambition for Hearts",
+    "excerpt": "Investor Tony Bloom says he would be \"really disappointed\" if Hearts fail to win the…",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cw5yng2kjg8po?at_medium=RSS&amp;at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fda4/live/870aee80-c6ef-11f1-bc1b-8dfa7c975faa.jpg"
   },
   "topStories": [
     {
       "id": "story-1",
+      "league": "La Liga",
+      "dot": "#E3B4F5",
+      "source": "101 Great Goals",
+      "time": "Oct 13",
+      "headline": "Real Madrid legend joins Getafe on season-long deal",
+      "excerpt": "Dani Carvajal has joined Getafe on a deal until June",
+      "link": "https://www.101greatgoals.com/football/la-liga/real-madrid-legend-joins-getafe-on-season-long-deal/",
+      "image": null
+    },
+    {
+      "id": "story-2",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "BBC Sport",
+      "time": "Oct 13",
+      "headline": "Were any current Man City players signed during charges period?",
+      "excerpt": "BBC Sport's Ask Me Anything team looks at whether any Manchester City players were signed…",
+      "link": "https://www.bbc.co.uk/sport/articles/cmje5wl5ek32o?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2348/live/f6e71e10-c6e8-11f1-bc1b-8dfa7c975faa.jpg"
+    },
+    {
+      "id": "story-3",
+      "league": "Champions League",
+      "dot": "#F0C878",
+      "source": "BBC Sport",
+      "time": "Oct 13",
+      "headline": "Ronaldo scores after match delayed by missile alert",
+      "excerpt": "Cristiano Ronaldo scores as Al-Nassr win an AFC Champions League match which is delayed by…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c6kgq5j5d7qro?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/35fa/live/264b2210-c6e3-11f1-bf38-57dc5cd42af2.jpg"
+    },
+    {
+      "id": "story-4",
+      "league": "La Liga",
+      "dot": "#E3B4F5",
+      "source": "BBC Sport",
+      "time": "Oct 13",
+      "headline": "After 27 titles in 23 years at Real Madrid, Carvajal joins Getafe",
+      "excerpt": "Former Real Madrid captain Dani Carvajal joins Getafe as a free agent after his contract…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cxr5ydvl41dlo?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/92e0/live/15a772c0-c6e2-11f1-bf38-57dc5cd42af2.jpg"
+    },
+    {
+      "id": "story-5",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "The Guardian",
+      "time": "Oct 13",
+      "headline": "The Ballon d’Or doesn’t capture football’s wonder – Michael Olise is proof | Zito Madu",
+      "excerpt": "<p>France’s always-cool winger has crowds hanging on his every move – adulation that means more…",
+      "link": "https://www.theguardian.com/football/2026/oct/13/michael-olise-ballon-dor-france-belgium",
+      "image": "https://i.guim.co.uk/img/media/87d55fdbe377a203204dc7839c8a2201bfb0e4d8/394_0_3942_3154/master/3942.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=6381d260d9123f610bc3cc46c267b998"
+    },
+    {
+      "id": "story-6",
+      "league": "Serie A",
+      "dot": "#A9E6A0",
+      "source": "The Guardian",
+      "time": "Oct 13",
+      "headline": "Christian Pulisic is no longer a focal point for the US or Milan – and that’s OK",
+      "excerpt": "<p>The winger is 28, and younger teammates are rising into the high-pressure spots he has…",
+      "link": "https://www.theguardian.com/football/2026/oct/13/christian-pulisic-focal-point-milan-usmnt",
+      "image": "https://i.guim.co.uk/img/media/ff1e6a552f5ba1de11794f04054b1fc409560636/229_0_3253_2604/master/3253.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=5ab0049fbd54bedeb34e475fefb62711"
+    },
+    {
+      "id": "story-7",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "BBC Sport",
+      "time": "Oct 13",
+      "headline": "How much did Man City's rule breaking cost your team?",
+      "excerpt": "The potential impact of Manchester City's rule breaking runs deep, including missed Champions League qualification,…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cmq5nljx7972o?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c146/live/274c5090-c642-11f1-abff-0d918239b2e3.jpg"
+    },
+    {
+      "id": "story-8",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "BBC Sport",
+      "time": "Oct 13",
+      "headline": "Celtic 'need more' from record signing Hogh - gossip",
+      "excerpt": "Advice for new Celtic striker and for Rangers manager from former Old Firm duo...",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c6gr82v0rn0zo?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/128e/live/401acd90-c6d8-11f1-9a39-31b474234113.png"
+    },
+    {
+      "id": "story-9",
+      "league": "Ligue 1",
+      "dot": "#B8D4E8",
+      "source": "BBC Sport",
+      "time": "Oct 13",
+      "headline": "Lille considering legal action after Santos injury",
+      "excerpt": "The club have described the tackle on defender Tiago Santos as 'uncontrolled and dangerous'.",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c623d0mmym4xo?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8c44/live/b3adb900-c6d0-11f1-a486-5fe33afdac53.jpg"
+    },
+    {
+      "id": "story-10",
+      "league": "Bundesliga",
+      "dot": "#FFC469",
+      "source": "The Guardian",
+      "time": "Oct 13",
+      "headline": "Viking’s two head coaches on Champions League adventure: ‘For us, it’s the best team in the world’",
+      "excerpt": "<p>Norway’s champions, who host Bayern Munich on Tuesday, have excelled under Bjarte Lunde Aarsheim and…",
+      "link": "https://www.theguardian.com/football/2026/oct/13/viking-stavanger-morten-jensen-bjarte-lunde-aarsheim-champions-league-bayern-munich",
+      "image": "https://i.guim.co.uk/img/media/888599f11bf77f7a984b078cd7594910ab3047bd/537_0_6288_5031/master/6288.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=9c2fe30d2c23298b9c2b00ba6ec465dc"
+    },
+    {
+      "id": "story-11",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "BBC Sport",
+      "time": "Oct 13",
+      "headline": "Podcast: Will Hearts go the distance again and can Reedijk lift Hibs?",
+      "excerpt": "The contrasting stories of Hearts and Hibs, plus a big night for the Scotland WNT.",
+      "link": "https://www.bbc.co.uk/sounds/play/p0pgdj2y?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0pgdj3b.jpg"
+    },
+    {
+      "id": "story-12",
+      "league": "Ligue 1",
+      "dot": "#B8D4E8",
+      "source": "BBC Sport",
+      "time": "Oct 13",
+      "headline": "The star is Luis Enrique - inside the plans to keep PSG at the top",
+      "excerpt": "As Luis Enrique bids to guide PSG to a third successive Champions League triumph, Guillem…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c6kglnzvznn0o?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0171/live/1b756630-c62e-11f1-af2e-773141c7e84a.jpg"
+    },
+    {
+      "id": "story-13",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "BBC Sport",
+      "time": "Oct 13",
+      "headline": "Who am I? Plus today's other quizzes",
+      "excerpt": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cmp3gzq2v2p2o?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fbf/live/38bd3c70-bda7-11f1-bc2e-018d645d8d21.png"
+    },
+    {
+      "id": "story-14",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "BBC Sport",
+      "time": "Oct 13",
+      "headline": "Is Man Utd's Fernandes issue a symptom or reason for their form?",
+      "excerpt": "Manchester United skipper Bruno Fernandes is yet to reach the highs of last season -…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cr4g10nz0593o?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9ba7/live/4796ffe0-c669-11f1-8b8f-ddd45afdc2fc.jpg"
+    },
+    {
+      "id": "story-15",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "BBC Sport",
+      "time": "Oct 13",
+      "headline": "What Manchester's 'super-profit' deal with City owners has paid out so far",
+      "excerpt": "Manchester City Council has made almost £3m from the \"super-profits\" of Man City-linked developments.",
+      "link": "https://www.bbc.co.uk/news/articles/c62keg74dvxjo?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8a53/live/79c5e6b0-c642-11f1-abff-0d918239b2e3.png"
+    },
+    {
+      "id": "story-16",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "The Guardian",
+      "time": "Oct 13",
+      "headline": "David Squires on … the endless growth of football vodcasts and banal digital banter",
+      "excerpt": "<p>Our cartoonist looks at the battle for eyeball and earhole supremacy in the game’s rapidly…",
+      "link": "https://www.theguardian.com/football/picture/2026/oct/13/david-squires-on-endless-growth-football-podcasts-vodcasts-banal-digital-banter",
+      "image": "https://i.guim.co.uk/img/media/66cf2f829e4207f574711ca6f07f25a424519d93/46_873_932_745/master/932.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3692867e237c29d9775098a8d6fd9864"
+    },
+    {
+      "id": "story-17",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "The Guardian",
+      "time": "Oct 13",
+      "headline": "Fresh concerns over 2027 Asian Cup in Saudi Arabia after missile strikes in Riyadh",
+      "excerpt": "<ul><li><p>Situation is being monitored by global players’ union Fifpro </p></li><li><p>Tournament is due to kick off…",
+      "link": "https://www.theguardian.com/football/2026/oct/13/saudi-arabia-asian-cup-riyadh-missle-strikes-players-concern",
+      "image": "https://i.guim.co.uk/img/media/39cd792ef79005dc30fd7f7cd63beb681188c326/33_0_4467_3573/master/4467.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=2011eaa8ead6e0cdb3e2c9f93b376cf4"
+    },
+    {
+      "id": "story-18",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "BBC Sport",
+      "time": "Oct 13",
+      "headline": "Wales given play-off history lesson before Albania second leg",
+      "excerpt": "Wales take a 1-0 lead into their play-off semi-final second leg against Albania as they…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c83vqw003kdko?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1de4/live/aec9ef40-c657-11f1-8600-efb62b613ab5.jpg"
+    },
+    {
+      "id": "story-19",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "BBC Sport",
+      "time": "Oct 12",
+      "headline": "Coventry announce themselves back in the big time",
+      "excerpt": "Coventry climb out of the relegation zone after ending their 25-year wait for a top-flight…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cw78p7l7rp30o?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d3bb/live/75fce310-c68a-11f1-a387-7d6d38bf2d79.jpg"
+    },
+    {
+      "id": "story-20",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -24,29 +233,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/83ad/live/75a67e50-c68d-11f1-b789-b92a80d9185b.png"
     },
     {
-      "id": "story-2",
-      "league": "Champions League",
-      "dot": "#F0C878",
-      "source": "The Guardian",
-      "time": "Oct 12",
-      "headline": "Ronaldo’s Asian Champions League match delayed by missile alert in Riyadh",
-      "excerpt": "<ul><li><p>Kick-off put back by an hour after attack intercepted</p></li><li><p>Portuguese forward scores in Al-Nassr’s 3-1 victory</p></li></ul><p>Cristiano…",
-      "link": "https://www.theguardian.com/football/2026/oct/12/al-nassr-asian-champions-league-delay-missile-fired-cristiano-ronaldo",
-      "image": "https://i.guim.co.uk/img/media/03fc0a849640499f99114025a994f076e4c47df6/0_0_2418_1934/master/2418.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=56a9c4c98f5c8a1e8cff4e75570e2e0e"
-    },
-    {
-      "id": "story-3",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "101 Great Goals",
-      "time": "Oct 12",
-      "headline": "Lampard hails &#8216;complete performance&#8217; as Jaissle left frustrated by Newcastle attack",
-      "excerpt": "It was a night to remember for Frank Lampard and Coventry.",
-      "link": "https://www.101greatgoals.com/football/premier-league/lampard-hails-complete-performance-jaissle-frustrated-newcastle-attack/",
-      "image": "https://www.101greatgoals.com/wp-content/uploads/2026/10/3FRT3P5-2.jpg"
-    },
-    {
-      "id": "story-4",
+      "id": "story-21",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -57,7 +244,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/59aa/live/d8bec640-c684-11f1-bc2e-018d645d8d21.jpg"
     },
     {
-      "id": "story-5",
+      "id": "story-22",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -68,7 +255,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/615d/live/7ef559e0-c683-11f1-a64c-550be9e3c66b.jpg"
     },
     {
-      "id": "story-6",
+      "id": "story-23",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -77,193 +264,6 @@
       "excerpt": "<p>If ever validation is needed for attack being the best form of defence, Frank Lampard…",
       "link": "https://www.theguardian.com/football/2026/oct/12/coventry-newcastle-premier-league-match-report",
       "image": "https://i.guim.co.uk/img/media/098e031f7eca9ce9c93dc569bdcc6e74dc57ecfb/393_0_4819_3856/master/4819.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e50445391d221b9bcc0bb242a9dc231b"
-    },
-    {
-      "id": "story-7",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "The Guardian",
-      "time": "Oct 12",
-      "headline": "Carrick promises Manchester United will ‘come out fighting’ after sticky start",
-      "excerpt": "<ul><li><p>United have endured worst league start since 1986-87</p></li><li><p>Trip to Atlético in Champions League awaits on…",
-      "link": "https://www.theguardian.com/football/2026/oct/12/michael-carrick-manchester-united-no-negativity-atletico-madrid",
-      "image": "https://i.guim.co.uk/img/media/8b3124abac836454f6d5452b5de012631f195976/335_0_6679_5344/master/6679.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=7e7c095de6e53db7584f405a964f8625"
-    },
-    {
-      "id": "story-8",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "BBC Sport",
-      "time": "Oct 12",
-      "headline": "Man Utd eye Simeone - Tuesday's gossip",
-      "excerpt": "Manchester United interested in Atletico Madrid's Giuliano Simeone, Chelsea willing to meet Bournemouth's asking price…",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cmy8376gz5nvo?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/164b/live/997c5530-c67d-11f1-841c-2105a54cdb08.png"
-    },
-    {
-      "id": "story-9",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "BBC Sport",
-      "time": "Oct 12",
-      "headline": "Football Daily",
-      "excerpt": "Mark Chapman is joined by Andros Townsend, Chris Sutton and Rory Smith.",
-      "link": "https://www.bbc.co.uk/sounds/play/p0pgc622?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0pbt6l2.jpg"
-    },
-    {
-      "id": "story-10",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "BBC Sport",
-      "time": "Oct 12",
-      "headline": "Carroll thanks public for support over sexual assault",
-      "excerpt": "Former England striker Andy Carroll thanks the public for their support after speaking publicly about…",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cqy8le93zg7jo?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5eb1/live/b6acecb0-c677-11f1-8165-49c09cbfa390.jpg"
-    },
-    {
-      "id": "story-11",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "BBC Sport",
-      "time": "Oct 12",
-      "headline": "BBC Women's Football Weekly",
-      "excerpt": "How can Sarina Wiegman’s side become more ruthless in the final third?",
-      "link": "https://www.bbc.co.uk/sounds/play/p0pgbr8n?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0lz125l.jpg"
-    },
-    {
-      "id": "story-12",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "BBC Sport",
-      "time": "Oct 12",
-      "headline": "Man City bananas 'brought fun back', says Varadi",
-      "excerpt": "Former Manchester City striker Imre Varadi says it was \"brilliant to see\" the club's fans…",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cmvgx7e5y5gxo?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9804/live/c86e0e30-c65d-11f1-8600-efb62b613ab5.jpg"
-    },
-    {
-      "id": "story-13",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "BBC Sport",
-      "time": "Oct 12",
-      "headline": "Burnham had formal meeting with Man City chair while mayor",
-      "excerpt": "Prime Minister Andy Burnham had a formal meeting with Manchester City chairman Khaldoon Al Mubarak…",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c962y5nd273no?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7513/live/9668f200-c57d-11f1-80f2-5bd1e5df7ada.jpg"
-    },
-    {
-      "id": "story-14",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "BBC Sport",
-      "time": "Oct 12",
-      "headline": "Do Lionesses lack ruthlessness in front of goal?",
-      "excerpt": "England take a two-goal lead into the second leg of their Women's World Cup qualifying…",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cwe8rvm8yl93o?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bf7f/live/a5c37940-c65f-11f1-8600-efb62b613ab5.jpg"
-    },
-    {
-      "id": "story-15",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "The Guardian",
-      "time": "Oct 12",
-      "headline": "Grounded: Rayo Vallecano’s paper planes bring club’s crisis into the open",
-      "excerpt": "<p>Long-awaited return to Vallecas lasted just 13 minutes, as supporters made their displeasure with their…",
-      "link": "https://www.theguardian.com/football/2026/oct/12/rayo-vallecano-paper-planes-abandoned-raul-martin-presa-la-liga",
-      "image": "https://i.guim.co.uk/img/media/a4f1b940dd52728662c1bd14b7012c32f3efec2f/0_0_3196_2557/master/3196.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=bbc901e92eeebefd1cdfbb1fe39d1838"
-    },
-    {
-      "id": "story-16",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "BBC Sport",
-      "time": "Oct 12",
-      "headline": "McCabe and O'Sullivan to feature in Cork - Ward",
-      "excerpt": "Republic of Ireland manager Carla Ward confirms that Katie McCabe and Denise O'Sullivan will feature…",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cx1l3p3ve8g9o?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5304/live/4ab36670-c63a-11f1-b99d-0127a94fa1d0.jpg"
-    },
-    {
-      "id": "story-17",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "BBC Sport",
-      "time": "Oct 12",
-      "headline": "Northern Ireland will have 'one last swing' at World Cup place",
-      "excerpt": "Boss Michael McArdle says Northern Ireland will have \"one last swing\" at trying to reach…",
-      "link": "https://www.bbc.co.uk/sport/football/articles/ckpqg2r4ewgqo?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4410/live/734c6e10-c653-11f1-8600-efb62b613ab5.jpg"
-    },
-    {
-      "id": "story-18",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "BBC Sport",
-      "time": "Oct 12",
-      "headline": "Wales wary but eye record run in World Cup bid",
-      "excerpt": "Rhian Wilkinson warns favourites Wales not to underestimate Albania in the second leg of their…",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cmd6d5980jz3o?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dbc0/live/f6654e80-c625-11f1-b048-6946f232cb95.jpg"
-    },
-    {
-      "id": "story-19",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "BBC Sport",
-      "time": "Oct 12",
-      "headline": "Ex-Port Vale & Gillingham captain Loft dies at 39",
-      "excerpt": "Former Port Vale and Gillingham captain Doug Loft dies at the age of 39, following…",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cmkgq1dz5keko?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/17fc/live/1ebca980-c650-11f1-b47f-e3f9cf703bc3.jpg"
-    },
-    {
-      "id": "story-20",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "The Guardian",
-      "time": "Oct 12",
-      "headline": "Hincapié and Zubimendi out after warm-down injuries but Arsenal get Saliba boost",
-      "excerpt": "<ul><li><p>Defender and midfielder hurt after win against Leeds</p></li><li><p>Saliba resumes training on his own after back…",
-      "link": "https://www.theguardian.com/football/2026/oct/12/piero-hincapie-martin-zubimendi-injuries-warm-down-arsenal-mikel-arteta-william-saliba",
-      "image": "https://i.guim.co.uk/img/media/0dc0d77099afe66e836540552759071e458f37ef/1328_59_3685_2949/master/3685.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=827ffad89119abbb085182aa407b631c"
-    },
-    {
-      "id": "story-21",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "BBC Sport",
-      "time": "Oct 12",
-      "headline": "Alcohol allowed at seats for Scotland's World Cup play-off",
-      "excerpt": "Spectators will be able to consume alcohol at their seats when Scotland host the Czech…",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c50mew3yw79no?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bc1d/live/05f01c50-c63e-11f1-abff-0d918239b2e3.jpg"
-    },
-    {
-      "id": "story-22",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "BBC Sport",
-      "time": "Oct 12",
-      "headline": "Police officer hurt after Liverpool-Man City game",
-      "excerpt": "Ten people were arrested amid a heightened atmosphere when the rival teams met at Anfield…",
-      "link": "https://www.bbc.co.uk/news/articles/c8x23ekvp3ywo?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1b0b/live/e7951c20-c623-11f1-b048-6946f232cb95.png"
-    },
-    {
-      "id": "story-23",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "The Guardian",
-      "time": "Oct 12",
-      "headline": "Football Daily | Manchester City, Liverpool and the multibillion-pound mirage",
-      "excerpt": "<p><a href=\"https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up\"><strong>Sign up now! Sign up now! Sign up now? Sign up now!</strong></a></p><p>While it was…",
-      "link": "https://www.theguardian.com/football/2026/oct/12/football-daily-email-manchester-city-liverpool",
-      "image": "https://i.guim.co.uk/img/media/392a344a84b8595aaa3c1b71ad44b15bcab1a97d/256_0_2097_1677/master/2097.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=895bb5ab433f7696519672a252231769"
     }
   ],
   "scoreboard": [
