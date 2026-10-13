@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-12T23:21:28.002Z",
+  "updatedAt": "2026-10-13T03:39:37.843Z",
   "hero": {
     "id": "story-0",
     "league": "Football",
@@ -308,6 +308,16 @@
       "awayScore": 1
     },
     {
+      "id": "score-564705",
+      "league": "La Liga",
+      "dot": "#E3B4F5",
+      "time": "Oct 11",
+      "home": "Real Racing Club de Santander",
+      "away": "Valencia CF",
+      "homeScore": 2,
+      "awayScore": 2
+    },
+    {
       "id": "score-558584",
       "league": "Serie A",
       "dot": "#A9E6A0",
@@ -316,16 +326,6 @@
       "away": "Juventus FC",
       "homeScore": 1,
       "awayScore": 1
-    },
-    {
-      "id": "score-559671",
-      "league": "Ligue 1",
-      "dot": "#B8D4E8",
-      "time": "Oct 11",
-      "home": "ES Troyes AC",
-      "away": "Olympique de Marseille",
-      "homeScore": 0,
-      "awayScore": 2
     }
   ]
 }
