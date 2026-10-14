@@ -1,38 +1,38 @@
 {
-  "updatedAt": "2026-10-14T16:27:18.954Z",
+  "updatedAt": "2026-10-14T20:17:07.471Z",
   "hero": {
     "id": "story-0",
-    "league": "Football",
-    "dot": "#AFC4AC",
-    "source": "BBC Sport",
+    "league": "Premier League",
+    "dot": "#9CC0F0",
+    "source": "The Guardian",
     "time": "Oct 14",
-    "headline": "72+: The EFL Podcast",
-    "excerpt": "Former Watford midfielder Tom Ince discusses what's happening at Vicarage Road.",
-    "link": "https://www.bbc.co.uk/sounds/play/p0pgnjlf?at_medium=RSS&amp;at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0p3n9ks.jpg"
+    "headline": "Manchester City v Paris Saint-Germain: Champions League – live",
+    "excerpt": "<ul><li><p>Champions League news from the 8pm BST kick-off</p></li><li><p><a href=\"https://www.theguardian.com/football/live\">Live scoreboard</a> | <a href=\"https://www.theguardian.com/football/2026/oct/14/lisandro-martinez-manchester-united-football-daily-newsletter\">Today’s Football Daily</a>…",
+    "link": "https://www.theguardian.com/football/live/2026/oct/14/manchester-city-v-paris-saint-germain-champions-league-live-score-updates",
+    "image": "https://i.guim.co.uk/img/media/62f0fab9627ea42aed464ba43e269d3b43482236/275_0_2750_2200/master/2750.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=acd8f8ddae25a06e43da90e57b756f3a"
   },
   "topStories": [
     {
       "id": "story-1",
       "league": "Premier League",
       "dot": "#9CC0F0",
-      "source": "101 Great Goals",
+      "source": "BBC Sport",
       "time": "Oct 14",
-      "headline": "LIVE &#8211; LASK v Liverpool: Commentary, updates, goals and stats",
-      "excerpt": "Liverpool will look to rebound from the weekend defeat to Manchester City when they visit…",
-      "link": "https://www.101greatgoals.com/live/lask-v-liverpool-live-commentary-updates-goals-stream-stats-where-to-watch/",
-      "image": null
+      "headline": "Martinez's future at Man Utd in doubt - Thursday's gossip",
+      "excerpt": "Lisandro Martinez's future in doubt at Manchester United, Newcastle's Bazoumana Toure eyed by Manchester United…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c370pnz8d90wo?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f64d/live/aa2cb5f0-c803-11f1-bc2e-018d645d8d21.png"
     },
     {
       "id": "story-2",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "BBC Sport",
+      "league": "La Liga",
+      "dot": "#E3B4F5",
+      "source": "101 Great Goals",
       "time": "Oct 14",
-      "headline": "Fifa to offer extra £2.6bn for football development",
-      "excerpt": "Fifa is set to propose a $3.4bn increase in the amount of money it hands…",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c64g1ex2d7gvo?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/df77/live/a0001370-c7df-11f1-b712-6f93dfe07e87.jpg"
+      "headline": "WATCH: De Roon stunner gives Roma shock lead against Real Madrid before Mbappe equalises",
+      "excerpt": "It has been a fast start in Rome",
+      "link": "https://www.101greatgoals.com/football/champions-league/watch-de-roon-stunner-gives-roma-shock-lead-against-real-madrid-before-mbappe-equalises/",
+      "image": null
     },
     {
       "id": "story-3",
@@ -40,10 +40,10 @@
       "dot": "#9CC0F0",
       "source": "The Guardian",
       "time": "Oct 14",
-      "headline": "Lask v Liverpool: Champions League – live",
-      "excerpt": "<ul><li><p>Champions League news from the 5.45pm BST kick-off</p></li><li><p><a href=\"https://www.theguardian.com/football/live\">Live scoreboard</a> | <a href=\"https://www.theguardian.com/football/2026/oct/14/lisandro-martinez-manchester-united-football-daily-newsletter\">Today’s Football Daily</a>…",
-      "link": "https://www.theguardian.com/football/live/2026/oct/14/lask-v-liverpool-champions-league-live-score-updates",
-      "image": "https://i.guim.co.uk/img/media/969d988beee206a0726dea72db0c2b00e197cf2a/0_1155_5379_4303/master/5379.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=73ba88a5c2e8a905ff06a5c10ee76e13"
+      "headline": "‘I expect more’: the key questions from Martínez’s Manchester United broadside | Jamie Jackson",
+      "excerpt": "<p>From Jason Wilcox’s role to the views of the rest of the squad, we tackle…",
+      "link": "https://www.theguardian.com/football/2026/oct/14/key-questions-lisandro-martinez-manchester-united-michael-carrick",
+      "image": "https://i.guim.co.uk/img/media/e5c6c7515a13f1a8082e66fb55bd146d7de29f87/0_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f7bba961f2becf94c8cc3265e486613a"
     },
     {
       "id": "story-4",
@@ -51,10 +51,10 @@
       "dot": "#9CC0F0",
       "source": "The Guardian",
       "time": "Oct 14",
-      "headline": "Jason Wilcox: ‘best eyes’ at Manchester United or promoted too far and too fast?",
-      "excerpt": "<p>Director of football is tarnished by recruitment record and Amorim stint but has received glowing…",
-      "link": "https://www.theguardian.com/football/2026/oct/14/jason-wilcox-manchester-united-director-of-football-recruitment-ratcliffe",
-      "image": "https://i.guim.co.uk/img/media/1ec604cb6ba66bc69731fd21f6157b1b86d12ffb/249_0_2501_2001/master/2501.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e9e8f17d0b0d9fb5be767b9b222b961c"
+      "headline": "Bradley Barcola’s clinical hat-trick inspires Liverpool to 6-3 rout of Lask",
+      "excerpt": "<p>Liverpool cleansed themselves from the stains of defeat by Manchester City at the earliest opportunity.…",
+      "link": "https://www.theguardian.com/football/2026/oct/14/lask-liverpool-champions-league-league-stage-match-report",
+      "image": "https://i.guim.co.uk/img/media/4eecd5b5700fbcc1fc0019eb7b81a2fbedf9cfe2/743_0_4906_3927/master/4906.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=63ac44e7077fda56164528429e614b68"
     },
     {
       "id": "story-5",
@@ -62,79 +62,46 @@
       "dot": "#9CC0F0",
       "source": "BBC Sport",
       "time": "Oct 14",
-      "headline": "Wilcox the target again in another damaging Man Utd fallout",
-      "excerpt": "Lisandro Martinez's explosive comments after Manchester United's Champions League defeat by Atletico Madrid turn the…",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cvp8g57ne53xo?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6ac2/live/f663aa70-c7de-11f1-9a39-31b474234113.png"
+      "headline": "Wolves striker Jimenez to have knee surgery",
+      "excerpt": "Wolves' veteran striker Raul Jimenez is to have knee surgery - and is now expected…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cx24097p00j8o?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f030/live/c3e2bef0-c7f8-11f1-970c-196b57378f40.jpg"
     },
     {
       "id": "story-6",
-      "league": "Football",
-      "dot": "#AFC4AC",
+      "league": "La Liga",
+      "dot": "#E3B4F5",
       "source": "BBC Sport",
       "time": "Oct 14",
-      "headline": "Dionisi set to remain in charge of Watford",
-      "excerpt": "BBC Three Counties Radio report Watford are set to stick with head coach Alessio Dionisi…",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cmd7qv7l2530o?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8235/live/aa0e4d90-c7b8-11f1-b41f-d7a6cb474575.jpg"
+      "headline": "Vinicius Jr to miss Barcelona game because of ban",
+      "excerpt": "Real Madrid forward Vinicius Jr will miss El Clasico against Barcelona after being given a…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/ckd7qg5q87qvo?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3d69/live/901c4f60-c7f7-11f1-970c-196b57378f40.jpg"
     },
     {
       "id": "story-7",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "BBC Sport",
-      "time": "Oct 14",
-      "headline": "Semenyo 'froze' after alleged racist abuse, court told",
-      "excerpt": "A Liverpool fan denies racially aggravated behaviour during a match against Bournemouth in 2025.",
-      "link": "https://www.bbc.co.uk/news/articles/cvlyd3z1g8d8o?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7cd7/live/e16f7470-c7d7-11f1-9671-5b70c6e774ea.jpg"
-    },
-    {
-      "id": "story-8",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "The Guardian",
-      "time": "Oct 14",
-      "headline": "Football Daily | Martínez lets rip as United’s dirty laundry gets a very public airing",
-      "excerpt": "<p><a href=\"https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up\"><strong>Sign up now! Sign up now! Sign up now? Sign up now!</strong></a></p><p>As ringing endorsements…",
-      "link": "https://www.theguardian.com/football/2026/oct/14/lisandro-martinez-manchester-united-football-daily-newsletter",
-      "image": "https://i.guim.co.uk/img/media/ba94c5532e72df83476bcd2df86778e699cc237b/0_93_1799_1438/master/1799.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=141d3b30d57f62a78bfb105aa8209468"
-    },
-    {
-      "id": "story-9",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
       "time": "Oct 14",
-      "headline": "Big scorelines, one-sided games - are Women's World Cup play-offs working?",
-      "excerpt": "The ease in which England saw off Greece in round one of the Women's World…",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cq0k0x1l8gndo?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/82c7/live/eb28dd30-c7c3-11f1-993a-152cbb068da1.jpg"
+      "headline": "East Fife sack Campbell as Lennon steps in at Dumbarton",
+      "excerpt": "East Fife part ways with veteran manager Dick Campbell as Danny Lennon temporarily replaces Frank…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cwzd6y4vr2y4o?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6110/live/1106acb0-c7ee-11f1-9bb8-8794f734d112.jpg"
     },
     {
-      "id": "story-10",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "The Guardian",
-      "time": "Oct 14",
-      "headline": "Martínez mouths off as Manchester United miss the mark in Madrid | Football Weekly – video",
-      "excerpt": "<p><a href=\"https://bsky.app/profile/maxrushden.bsky.social\">Max Rushden</a> is joined by <a href=\"https://bsky.app/profile/barryglendenning.bsky.social\">Barry Glendenning</a>, Nedum Onuoha and <a href=\"https://bsky.app/profile/jonathanliew.bsky.social\">Jonathan Liew</a>…",
-      "link": "https://www.theguardian.com/football/video/2026/oct/14/martinez-mouths-off-as-manchester-united-miss-mark-in-madrid-football-weekly-video",
-      "image": "https://i.guim.co.uk/img/media/94ca933c982fed9fbb7c94f05f9a05112b30901e/95_0_2259_1806/master/2259.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=cadee4e4fbb0220faaa86f7356171258"
-    },
-    {
-      "id": "story-11",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
+      "id": "story-8",
+      "league": "Football",
+      "dot": "#AFC4AC",
       "source": "BBC Sport",
       "time": "Oct 14",
-      "headline": "Burnham had two hospitality dinners with Man City chairman, deleted records show",
-      "excerpt": "The prime minister has been under growing pressure since the club was found guilty of…",
-      "link": "https://www.bbc.co.uk/news/articles/c83vq9vpwwr1o?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/61e8/live/059e20b0-bdb7-11f1-bc2e-018d645d8d21.jpg"
+      "headline": "Millwall's Neil criticised over racial abuse stoppage comments",
+      "excerpt": "Anti-racism campaign group Kick It Out calls on managers to \"set the tone\" after Millwall…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c6rmykw391ljo?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/024c/live/a95276a0-c7c3-11f1-993a-152cbb068da1.jpg"
     },
     {
-      "id": "story-12",
+      "id": "story-9",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -145,7 +112,128 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0d9c/live/fe16e0c0-c7bb-11f1-ae81-f79bab61f11a.jpg"
     },
     {
+      "id": "story-10",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "The Guardian",
+      "time": "Oct 14",
+      "headline": "Manchester City staff invited on government trade trip to India",
+      "excerpt": "<p>Exclusive: Greater Manchester mayor Bev Craig invited City representative on trade trip organised by business…",
+      "link": "https://www.theguardian.com/football/2026/oct/14/bev-craig-manchester-city-trade-trip-india-to-promote-uk-tourism",
+      "image": "https://i.guim.co.uk/img/media/0a074ac93b973a6a3f08c2e3c221f6f37c6f9e0a/1133_528_5970_4776/master/5970.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=40148be457a3dc0ad094814dd5763136"
+    },
+    {
+      "id": "story-11",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "The Guardian",
+      "time": "Oct 14",
+      "headline": "Removing political speech from MLS fans is untenable – just ask Austin FC",
+      "excerpt": "<p>The protests around an anti-ICE T-shirt show that politics can never be separated from sports,…",
+      "link": "https://www.theguardian.com/football/2026/oct/14/austin-fc-ice-banner-mls-political-speech-policy",
+      "image": "https://i.guim.co.uk/img/media/1ae81a648e43f9cd0ce396ec0a323bf73d1b22e5/1046_0_6221_4977/master/6221.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=93412b51bbc999d6b05119ffa261667e"
+    },
+    {
+      "id": "story-12",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "BBC Sport",
+      "time": "Oct 14",
+      "headline": "72+: The EFL Podcast",
+      "excerpt": "Former Watford midfielder Tom Ince discusses what's happening at Vicarage Road.",
+      "link": "https://www.bbc.co.uk/sounds/play/p0pgnjlf?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0p3n9ks.jpg"
+    },
+    {
       "id": "story-13",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "BBC Sport",
+      "time": "Oct 14",
+      "headline": "Fifa to offer extra £2.6bn for football development",
+      "excerpt": "Fifa is set to propose a $3.4bn increase in the amount of money it hands…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c64g1ex2d7gvo?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/df77/live/a0001370-c7df-11f1-b712-6f93dfe07e87.jpg"
+    },
+    {
+      "id": "story-14",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "The Guardian",
+      "time": "Oct 14",
+      "headline": "Jason Wilcox: ‘best eyes’ at Manchester United or promoted too far and too fast?",
+      "excerpt": "<p>Director of football is tarnished by recruitment record and Amorim stint but has received glowing…",
+      "link": "https://www.theguardian.com/football/2026/oct/14/jason-wilcox-manchester-united-director-of-football-recruitment-ratcliffe",
+      "image": "https://i.guim.co.uk/img/media/1ec604cb6ba66bc69731fd21f6157b1b86d12ffb/249_0_2501_2001/master/2501.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e9e8f17d0b0d9fb5be767b9b222b961c"
+    },
+    {
+      "id": "story-15",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "BBC Sport",
+      "time": "Oct 14",
+      "headline": "Wilcox the target again in another damaging Man Utd fallout",
+      "excerpt": "Lisandro Martinez's explosive comments after Manchester United's Champions League defeat by Atletico Madrid turn the…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cvp8g57ne53xo?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6ac2/live/f663aa70-c7de-11f1-9a39-31b474234113.png"
+    },
+    {
+      "id": "story-16",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "BBC Sport",
+      "time": "Oct 14",
+      "headline": "Dionisi set to remain in charge of Watford",
+      "excerpt": "BBC Three Counties Radio report Watford are set to stick with head coach Alessio Dionisi…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cmd7qv7l2530o?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8235/live/aa0e4d90-c7b8-11f1-b41f-d7a6cb474575.jpg"
+    },
+    {
+      "id": "story-17",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "BBC Sport",
+      "time": "Oct 14",
+      "headline": "Semenyo 'froze' after alleged racist abuse, court told",
+      "excerpt": "A Liverpool fan denies racially aggravated behaviour during a match against Bournemouth in 2025.",
+      "link": "https://www.bbc.co.uk/news/articles/cvlyd3z1g8d8o?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7cd7/live/e16f7470-c7d7-11f1-9671-5b70c6e774ea.jpg"
+    },
+    {
+      "id": "story-18",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "BBC Sport",
+      "time": "Oct 14",
+      "headline": "Big scorelines, one-sided games - are Women's World Cup play-offs working?",
+      "excerpt": "The ease in which England saw off Greece in round one of the Women's World…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cq0k0x1l8gndo?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/82c7/live/eb28dd30-c7c3-11f1-993a-152cbb068da1.jpg"
+    },
+    {
+      "id": "story-19",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "The Guardian",
+      "time": "Oct 14",
+      "headline": "Martínez mouths off as Manchester United miss the mark in Madrid | Football Weekly – video",
+      "excerpt": "<p><a href=\"https://bsky.app/profile/maxrushden.bsky.social\">Max Rushden</a> is joined by <a href=\"https://bsky.app/profile/barryglendenning.bsky.social\">Barry Glendenning</a>, Nedum Onuoha and <a href=\"https://bsky.app/profile/jonathanliew.bsky.social\">Jonathan Liew</a>…",
+      "link": "https://www.theguardian.com/football/video/2026/oct/14/martinez-mouths-off-as-manchester-united-miss-mark-in-madrid-football-weekly-video",
+      "image": "https://i.guim.co.uk/img/media/94ca933c982fed9fbb7c94f05f9a05112b30901e/95_0_2259_1806/master/2259.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=cadee4e4fbb0220faaa86f7356171258"
+    },
+    {
+      "id": "story-20",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "BBC Sport",
+      "time": "Oct 14",
+      "headline": "Burnham had two hospitality dinners with Man City chairman, deleted records show",
+      "excerpt": "The prime minister has been under growing pressure since the club was found guilty of…",
+      "link": "https://www.bbc.co.uk/news/articles/c83vq9vpwwr1o?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/61e8/live/059e20b0-bdb7-11f1-bc2e-018d645d8d21.jpg"
+    },
+    {
+      "id": "story-21",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -156,7 +244,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b575/live/2cde58d0-c7c5-11f1-993a-152cbb068da1.jpg"
     },
     {
-      "id": "story-14",
+      "id": "story-22",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -167,7 +255,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2e4f/live/a02d3990-c7c1-11f1-9a39-31b474234113.png"
     },
     {
-      "id": "story-15",
+      "id": "story-23",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -176,97 +264,29 @@
       "excerpt": "Swansea City boss Vitor Matos says South Korean winger Ji-sung Eom was targeted by racist…",
       "link": "https://www.bbc.co.uk/sport/football/articles/cmdx3nk7kwwro?at_medium=RSS&amp;at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2917/live/2bdbfd10-c74e-11f1-b4d5-87f9c6c95a29.jpg"
-    },
-    {
-      "id": "story-16",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "The Guardian",
-      "time": "Oct 14",
-      "headline": "Gianni Infantino faces grilling at potentially ‘explosive’ Fifa council meeting",
-      "excerpt": "<ul><li><p>World Cup sell-off, Balogun and peace prize on agenda</p></li><li><p>Opponents will press home need for independent…",
-      "link": "https://www.theguardian.com/football/2026/oct/14/gianni-infantino-fifa-council-meeting-opponents-world-cup-balogun-peace-prize",
-      "image": "https://i.guim.co.uk/img/media/21adaffdd713db0e62e8ccd6493a8095674d2c1e/176_109_2550_2039/master/2550.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=67f3b273e3fd1cc9761b665c783032be"
-    },
-    {
-      "id": "story-17",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "The Guardian",
-      "time": "Oct 14",
-      "headline": "Sunderland hope to enjoy warmth in Portugal after 53 years away",
-      "excerpt": "<p>Black Cats can reboot season against Torreense in Europa League in break from tough start…",
-      "link": "https://www.theguardian.com/football/2026/oct/14/sunderland-53-years-away-europa-league-torreense",
-      "image": "https://i.guim.co.uk/img/media/d899878aaa6c4bacc332d4c95fe0c2f569352744/866_0_4808_3846/master/4808.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=9a61130e12a6f34233b512e8a3bf1737"
-    },
-    {
-      "id": "story-18",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "BBC Sport",
-      "time": "Oct 14",
-      "headline": "Why play-off win may not send Wales to World Cup",
-      "excerpt": "Wales face Norway in the Women's World Cup play-off final knowing even a famous victory…",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c90k0x61ej7mo?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5d22/live/35e0b780-c7ba-11f1-b41f-d7a6cb474575.jpg"
-    },
-    {
-      "id": "story-19",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "BBC Sport",
-      "time": "Oct 14",
-      "headline": "Set-piece sessions and finding fixes - how international break lifted Chelsea",
-      "excerpt": "The extended three-week break may have benefited Chelsea more than any other team in the…",
-      "link": "https://www.bbc.co.uk/sport/football/articles/ckwy4nj4842qo?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/85b6/live/53e3ca90-c74e-11f1-b4d5-87f9c6c95a29.jpg"
-    },
-    {
-      "id": "story-20",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "BBC Sport",
-      "time": "Oct 14",
-      "headline": "Could Danish model help Scotland solve talent crisis?",
-      "excerpt": "How Nordsjaelland have become a powerhouse of youth football development - and what Scottish clubs…",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c8y5639gdz75o?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1aa1/live/f6a67fa0-c7b9-11f1-b41f-d7a6cb474575.jpg"
-    },
-    {
-      "id": "story-21",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "BBC Sport",
-      "time": "Oct 14",
-      "headline": "Could Nordsjaelland model solve Scotland's talent crisis?",
-      "excerpt": "How Nordsjaelland have become a powerhouse of youth football development - and what Scottish clubs…",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c8y5639gdz75o?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1aa1/live/f6a67fa0-c7b9-11f1-b41f-d7a6cb474575.jpg"
-    },
-    {
-      "id": "story-22",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "BBC Sport",
-      "time": "Oct 14",
-      "headline": "Struijk red card shown after VAR intervention is overturned",
-      "excerpt": "The red card controversially shown to Brighton defender Pascal Struijk against Sunderland is overturned.",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cv4g18gk8xzgo?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/14a4/live/22dd9890-c7b2-11f1-bc2e-018d645d8d21.jpg"
-    },
-    {
-      "id": "story-23",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "The Guardian",
-      "time": "Oct 14",
-      "headline": "Hong Kong club hope David Silva can be their hero – but just for one day",
-      "excerpt": "<p>Former Manchester City player is coming out of retirement at 40 to play one match…",
-      "link": "https://www.theguardian.com/football/2026/oct/14/david-silva-hong-kong-supreme-sha-tin",
-      "image": "https://i.guim.co.uk/img/media/ed6f69a482563051fe9412555e2cb22ea1cc59ce/418_0_4164_3333/master/4164.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=0eb5ccdc89659aec764a13eda1e7afc8"
     }
   ],
   "scoreboard": [
+    {
+      "id": "score-575350",
+      "league": "Champions League",
+      "dot": "#F0C878",
+      "time": "Oct 14",
+      "home": "LASK Linz",
+      "away": "Liverpool FC",
+      "homeScore": 3,
+      "awayScore": 6
+    },
+    {
+      "id": "score-575351",
+      "league": "Champions League",
+      "dot": "#F0C878",
+      "time": "Oct 14",
+      "home": "Feyenoord Rotterdam",
+      "away": "Como 1907",
+      "homeScore": 3,
+      "awayScore": 2
+    },
     {
       "id": "score-575343",
       "league": "Champions League",
@@ -305,26 +325,6 @@
       "home": "Arsenal FC",
       "away": "Lille OSC",
       "homeScore": 3,
-      "awayScore": 0
-    },
-    {
-      "id": "score-575347",
-      "league": "Champions League",
-      "dot": "#F0C878",
-      "time": "Oct 13",
-      "home": "Viking FK",
-      "away": "FC Bayern München",
-      "homeScore": 3,
-      "awayScore": 3
-    },
-    {
-      "id": "score-575348",
-      "league": "Champions League",
-      "dot": "#F0C878",
-      "time": "Oct 13",
-      "home": "RB Leipzig",
-      "away": "PSV",
-      "homeScore": 1,
       "awayScore": 0
     }
   ]
