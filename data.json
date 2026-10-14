@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-14T01:23:28.965Z",
+  "updatedAt": "2026-10-14T06:16:36.225Z",
   "hero": {
     "id": "story-0",
     "league": "Ligue 1",
@@ -157,17 +157,6 @@
     },
     {
       "id": "story-14",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "101 Great Goals",
-      "time": "Oct 13",
-      "headline": "&#8216;I expect more from our technical director&#8217;: Lisandro Martinez launches scathing attack on Man Utd transfer strategy after Atletico loss",
-      "excerpt": "Martinez said the performance was 'a mirror of how our club is at the moment'",
-      "link": "https://www.101greatgoals.com/football/champions-league/lisandro-martinez-manchester-united-jason-wilcox/",
-      "image": null
-    },
-    {
-      "id": "story-15",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "The Guardian",
@@ -178,18 +167,7 @@
       "image": "https://i.guim.co.uk/img/media/22a91fcf5ca188bf3caf8034a86bfbf84576a27f/105_0_3316_2652/master/3316.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f4d01bf322333df6d43b66bfacf5e8cc"
     },
     {
-      "id": "story-16",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "101 Great Goals",
-      "time": "Oct 13",
-      "headline": "Manchester United Champions League fixtures, results, squad and standings",
-      "excerpt": "United's 2026/27 Champions League results and more",
-      "link": "https://www.101greatgoals.com/football/champions-league/manchester-united-champions-league-fixtures-games-results-squad-standings-schedule/",
-      "image": "https://www.101greatgoals.com/wp-content/uploads/2026/10/Mbeumo.jpg"
-    },
-    {
-      "id": "story-17",
+      "id": "story-15",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -200,29 +178,7 @@
       "image": "https://i.guim.co.uk/img/media/55d2e12f2ad5ce300096e439738abaca75528f4e/555_82_4245_3396/master/4245.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c76362b319f2aea9c1cc551bb7ffa1cf"
     },
     {
-      "id": "story-18",
-      "league": "Bundesliga",
-      "dot": "#FFC469",
-      "source": "101 Great Goals",
-      "time": "Oct 13",
-      "headline": "Champions League round-up: Kane scores twice but Bayern held",
-      "excerpt": "England captain cannot stop scoring but Bayern are held in thriller",
-      "link": "https://www.101greatgoals.com/news/champions-league-round-up-kane-scores-twice-but-bayern-held/",
-      "image": null
-    },
-    {
-      "id": "story-19",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "101 Great Goals",
-      "time": "Oct 13",
-      "headline": "Arsenal Champions League fixtures, results, squad and schedule 2026/27",
-      "excerpt": "Arsenal's 2026/27 Champions League results and more",
-      "link": "https://www.101greatgoals.com/football/champions-league/arsenal-champions-league-fixtures-results-squad-standings-games-schedule-2026-27/",
-      "image": null
-    },
-    {
-      "id": "story-20",
+      "id": "story-16",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -233,37 +189,81 @@
       "image": "https://i.guim.co.uk/img/media/0d1034afbb062cac9a4b41b071c14df91e61072a/410_382_1834_1468/master/1834.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=79b8ac2bf17468c70ee6568bbd47917a"
     },
     {
-      "id": "story-21",
-      "league": "La Liga",
-      "dot": "#E3B4F5",
-      "source": "101 Great Goals",
+      "id": "story-17",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "The Guardian",
       "time": "Oct 13",
-      "headline": "Barcelona Champions League fixtures, results, squad and standings 2026/27",
-      "excerpt": "Latest results from Barca's 2026/27 Champions League campaign",
-      "link": "https://www.101greatgoals.com/football/champions-league/barcelona-champions-league-fixtures-games-results-squad-standings-schedule/",
-      "image": "https://www.101greatgoals.com/wp-content/uploads/2026/07/shutterstock_2426374327-1-1.jpg"
+      "headline": "James and Russo lead rout of Greece as ruthless England set up Ukraine playoff",
+      "excerpt": "<ul><li><p>Playoff semi-final second leg: England 5-0 Greece (agg 8-1)</p></li><li><p>Goalscorers: Russo 3 75, James 16 34,…",
+      "link": "https://www.theguardian.com/football/2026/oct/13/england-greece-womens-world-cup-qualifying-playoff-match-report",
+      "image": "https://i.guim.co.uk/img/media/5e8284ab3ea12995209da9d3a93c0ce5e96b5323/1024_161_2356_1885/master/2356.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b021c3ee6eeb3877994368d0e0a1cefd"
+    },
+    {
+      "id": "story-18",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "BBC Sport",
+      "time": "Oct 13",
+      "headline": "Goal crisis & in drop zone - so why is Spurs' £60m striker stuck in U21s?",
+      "excerpt": "After being left out of Tottenham's Premier League squad last month, Richarlison has been left…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/ck9qzwp9ejgro?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0aff/live/b604c290-c737-11f1-9085-f95bdc648acc.jpg"
+    },
+    {
+      "id": "story-19",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "BBC Sport",
+      "time": "Oct 13",
+      "headline": "Watch: Scotland beat Czechs to set up Sweden play-off",
+      "excerpt": "Watch the goals as Scotland twice come from behind to beat the Czech Republic 3-2…",
+      "link": "https://www.bbc.co.uk/sport/videos/cmx235v7gqwro?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/663a/live/bde28a80-c744-11f1-bc2e-018d645d8d21.jpg"
+    },
+    {
+      "id": "story-20",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "BBC Sport",
+      "time": "Oct 13",
+      "headline": "Porro eyes La Liga return - Wednesday's gossip",
+      "excerpt": "Tottenham's Pedro Porro wants Barcelona move, multiple Premier League clubs chase Croatia striker Dion Beljo,…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cm62yxegwy41o?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/079b/live/2ab93150-c735-11f1-9a39-31b474234113.png"
+    },
+    {
+      "id": "story-21",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "BBC Sport",
+      "time": "Oct 13",
+      "headline": "PSG's Luis Enrique hopes Man City avoid sanctions",
+      "excerpt": "PSG boss Luis Enrique says he was surprised to learn Manchester City had been found…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/ck1wvd91v4pwo?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/34c8/live/dfa1bec0-c726-11f1-b881-4391ac746e04.png"
     },
     {
       "id": "story-22",
       "league": "Premier League",
       "dot": "#9CC0F0",
-      "source": "101 Great Goals",
+      "source": "The Guardian",
       "time": "Oct 13",
-      "headline": "Atletico Madrid 2-0 Manchester United: Carrick&#8217;s woes continue as Atleti dispatch 10-man Red Devils",
-      "excerpt": "Catch up on all the action from Atletico Madrid vs Manchester United",
-      "link": "https://www.101greatgoals.com/football/champions-league/atletico-madrid-manchester-united-report-result-goals/",
-      "image": null
+      "headline": "Iraola has ‘100% trust’ in Wirtz and Barcola but tells others to step up",
+      "excerpt": "<ul><li><p>‘We need other players to give us those numbers’</p></li><li><p>Liverpool face Lask in Austria without Isak…",
+      "link": "https://www.theguardian.com/football/2026/oct/13/andoni-iraola-trust-florian-wirtz-bradley-barcola-others-to-step-up-liverpool",
+      "image": "https://i.guim.co.uk/img/media/25765227f8d0231649ea03f8834316998c52059f/249_0_3441_2752/master/3441.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=dbd7fe1a00bab532bd95881ca4bb81b1"
     },
     {
       "id": "story-23",
-      "league": "La Liga",
-      "dot": "#E3B4F5",
-      "source": "101 Great Goals",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "BBC Sport",
       "time": "Oct 13",
-      "headline": "Galatasaray 1-4 Barcelona: Gordon on target as second-half blitz secures comeback win",
-      "excerpt": "Catch up on all the action and watch the goals from Galatasaray vs Barcelona",
-      "link": "https://www.101greatgoals.com/football/champions-league/galatasaray-barcelona-report-result-goals/",
-      "image": null
+      "headline": "Bournemouth open to selling Scott for £100m in January",
+      "excerpt": "Bournemouth are open to selling England midfielder Alex Scott in January under certain conditions.",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cqzjxn010r49o?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8504/live/b3973c70-c720-11f1-b881-4391ac746e04.jpg"
     }
   ],
   "scoreboard": [
