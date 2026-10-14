@@ -1,19 +1,74 @@
 {
-  "updatedAt": "2026-10-13T22:40:12.683Z",
+  "updatedAt": "2026-10-14T01:23:28.965Z",
   "hero": {
     "id": "story-0",
-    "league": "Football",
-    "dot": "#AFC4AC",
+    "league": "Ligue 1",
+    "dot": "#B8D4E8",
     "source": "BBC Sport",
     "time": "Oct 13",
-    "headline": "'Unplayable' Stanway a free-scoring warrior for Lionesses",
-    "excerpt": "Whatever the game, whatever the result, Georgia Stanway always seems to score for England.",
-    "link": "https://www.bbc.co.uk/sport/football/articles/cm2kev8w934do?at_medium=RSS&amp;at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7651/live/6f952e60-c743-11f1-b4d5-87f9c6c95a29.jpg"
+    "headline": "Saka responds to Arteta's challenge with 'huge impact'",
+    "excerpt": "Bukayo Saka responds to the challenge set by Mikel Arteta as he comes off the…",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cqrlyd1grwkko?at_medium=RSS&amp;at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b1cd/live/0cddb1d0-c751-11f1-b4d5-87f9c6c95a29.jpg"
   },
   "topStories": [
     {
       "id": "story-1",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "The Guardian",
+      "time": "Oct 13",
+      "headline": "‘I expect more’: Lisandro Martínez hits out at Manchester United hierarchy",
+      "excerpt": "<ul><li><p>Defeat to Atlético Madrid ‘reflects how our club is’</p></li><li><p>Argentinian says club has not invested enough…",
+      "link": "https://www.theguardian.com/football/2026/oct/13/lisandro-martinez-hits-out-at-united-hierarchy-after-defeat-at-atletico-madrid",
+      "image": "https://i.guim.co.uk/img/media/4cb74ff9d93db14569507e54cebb9823422bc5fe/250_0_2500_2000/master/2500.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=6b29f01c759fd742c74cc4fc94ce812f"
+    },
+    {
+      "id": "story-2",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "BBC Sport",
+      "time": "Oct 13",
+      "headline": "BBC Women's Football Weekly",
+      "excerpt": "After two standout displays, has Le Tissier made a case to start alongside Bronze?",
+      "link": "https://www.bbc.co.uk/sounds/play/p0pgjk3h?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0lz125l.jpg"
+    },
+    {
+      "id": "story-3",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "BBC Sport",
+      "time": "Oct 13",
+      "headline": "Swans' Eom the target of alleged racism at Millwall",
+      "excerpt": "Swansea City head coach Vitor Matos says the lengthy stoppage during their 1-0 win away…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cmdx3nk7kwwro?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2917/live/2bdbfd10-c74e-11f1-b4d5-87f9c6c95a29.jpg"
+    },
+    {
+      "id": "story-4",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "BBC Sport",
+      "time": "Oct 13",
+      "headline": "McArdle 'really encouraged' despite Portugal loss",
+      "excerpt": "Northern Ireland manager Michael McArdle says their play-off defeat by Portugal is \"the start of…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cmglwxd0d25xo?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0501/live/80b5add0-c74f-11f1-b4d5-87f9c6c95a29.jpg"
+    },
+    {
+      "id": "story-5",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "BBC Sport",
+      "time": "Oct 13",
+      "headline": "'Unplayable' Stanway a free-scoring warrior for Lionesses",
+      "excerpt": "Whatever the game, whatever the result, Georgia Stanway always seems to score for England.",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cm2kev8w934do?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7651/live/6f952e60-c743-11f1-b4d5-87f9c6c95a29.jpg"
+    },
+    {
+      "id": "story-6",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -24,18 +79,18 @@
       "image": "https://i.guim.co.uk/img/media/5e92b87cdc00b3e1b174aa848f446f947c657d4b/605_116_4496_3596/master/4496.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=82534a0948e189b195590586316929df"
     },
     {
-      "id": "story-2",
+      "id": "story-7",
       "league": "La Liga",
       "dot": "#E3B4F5",
       "source": "The Guardian",
       "time": "Oct 13",
-      "headline": "Champions League roundup: Tresoldi hat-trick stuns Inter for Club Brugge win",
-      "excerpt": "<ul><li><p>Inter 4-3 Club Brugge; Galatasaray 1-4 Barcelona</p></li><li><p>Olise sent off as Bayern held 3-3 at Viking…",
+      "headline": "Champions League roundup: Tresoldi treble stuns Inter in Club Brugge win",
+      "excerpt": "<ul><li><p>Inter 3-4 Club Brugge; Galatasaray 1-4 Barcelona</p></li><li><p>Olise sent off as Bayern held 3-3 at Viking…",
       "link": "https://www.theguardian.com/football/2026/oct/13/champions-league-lens-sporting-inter-barcelona-bayern-napoli",
       "image": "https://i.guim.co.uk/img/media/70a903653b5b71b494e347347edbd29203ba82e4/688_0_6880_5504/master/6880.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=bb7d70cb2b646dc0a81d877410c26fac"
     },
     {
-      "id": "story-3",
+      "id": "story-8",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "101 Great Goals",
@@ -46,7 +101,7 @@
       "image": null
     },
     {
-      "id": "story-4",
+      "id": "story-9",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "The Guardian",
@@ -57,7 +112,7 @@
       "image": "https://i.guim.co.uk/img/media/b0040b5c1d621a5e16e4f5622c3e69b44164e69d/209_0_2603_2082/master/2603.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=0d98e22707ee7e0d7ba5d3e4cf4ea865"
     },
     {
-      "id": "story-5",
+      "id": "story-10",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -68,18 +123,18 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c1f1/live/fcd38030-c74b-11f1-b4d5-87f9c6c95a29.jpg"
     },
     {
-      "id": "story-6",
+      "id": "story-11",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
       "time": "Oct 13",
-      "headline": "Martinez issues blistering criticism of Man Utd board after loss",
+      "headline": "Martinez issues scathing attack on Man Utd board - has he made things worse?",
       "excerpt": "Lisandro Martinez launches a blistering attack on Manchester United's hierarchy for not strengthening the squad…",
       "link": "https://www.bbc.co.uk/sport/football/articles/crlykw9eevx3o?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/05c2/live/ec0bb1a0-c74b-11f1-9a39-31b474234113.jpg"
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f810/live/6b054b60-c756-11f1-8157-e5961116a2ed.jpg"
     },
     {
-      "id": "story-7",
+      "id": "story-12",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -90,7 +145,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a699/live/8e085a30-c74c-11f1-b4d5-87f9c6c95a29.jpg"
     },
     {
-      "id": "story-8",
+      "id": "story-13",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -101,7 +156,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a99d/live/eb9b2870-c73e-11f1-9085-f95bdc648acc.jpg"
     },
     {
-      "id": "story-9",
+      "id": "story-14",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "101 Great Goals",
@@ -112,7 +167,7 @@
       "image": null
     },
     {
-      "id": "story-10",
+      "id": "story-15",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "The Guardian",
@@ -123,7 +178,7 @@
       "image": "https://i.guim.co.uk/img/media/22a91fcf5ca188bf3caf8034a86bfbf84576a27f/105_0_3316_2652/master/3316.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f4d01bf322333df6d43b66bfacf5e8cc"
     },
     {
-      "id": "story-11",
+      "id": "story-16",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "101 Great Goals",
@@ -134,7 +189,7 @@
       "image": "https://www.101greatgoals.com/wp-content/uploads/2026/10/Mbeumo.jpg"
     },
     {
-      "id": "story-12",
+      "id": "story-17",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -145,7 +200,7 @@
       "image": "https://i.guim.co.uk/img/media/55d2e12f2ad5ce300096e439738abaca75528f4e/555_82_4245_3396/master/4245.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c76362b319f2aea9c1cc551bb7ffa1cf"
     },
     {
-      "id": "story-13",
+      "id": "story-18",
       "league": "Bundesliga",
       "dot": "#FFC469",
       "source": "101 Great Goals",
@@ -156,7 +211,7 @@
       "image": null
     },
     {
-      "id": "story-14",
+      "id": "story-19",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "101 Great Goals",
@@ -167,7 +222,7 @@
       "image": null
     },
     {
-      "id": "story-15",
+      "id": "story-20",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -178,7 +233,7 @@
       "image": "https://i.guim.co.uk/img/media/0d1034afbb062cac9a4b41b071c14df91e61072a/410_382_1834_1468/master/1834.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=79b8ac2bf17468c70ee6568bbd47917a"
     },
     {
-      "id": "story-16",
+      "id": "story-21",
       "league": "La Liga",
       "dot": "#E3B4F5",
       "source": "101 Great Goals",
@@ -189,7 +244,7 @@
       "image": "https://www.101greatgoals.com/wp-content/uploads/2026/07/shutterstock_2426374327-1-1.jpg"
     },
     {
-      "id": "story-17",
+      "id": "story-22",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "101 Great Goals",
@@ -200,7 +255,7 @@
       "image": null
     },
     {
-      "id": "story-18",
+      "id": "story-23",
       "league": "La Liga",
       "dot": "#E3B4F5",
       "source": "101 Great Goals",
@@ -209,61 +264,6 @@
       "excerpt": "Catch up on all the action and watch the goals from Galatasaray vs Barcelona",
       "link": "https://www.101greatgoals.com/football/champions-league/galatasaray-barcelona-report-result-goals/",
       "image": null
-    },
-    {
-      "id": "story-19",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "101 Great Goals",
-      "time": "Oct 13",
-      "headline": "Arsenal 3-0 Lille: Second-half surge sees Gunners to Champions League win",
-      "excerpt": "Mikel Arteta's changes again prove crucial as the Gunners win at home.",
-      "link": "https://www.101greatgoals.com/match-reports/arsenal-3-0-lille-second-half-surge-sees-gunners-to-champions-league-win/",
-      "image": null
-    },
-    {
-      "id": "story-20",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "The Guardian",
-      "time": "Oct 13",
-      "headline": "James and Russo lead rout of Greece as ruthless England set up Ukraine playoff",
-      "excerpt": "<ul><li><p>Playoff semi-final second leg: England 5-0 Greece (agg 8-1)</p></li><li><p>Goalscorers: Russo 3 75, James 16 34,…",
-      "link": "https://www.theguardian.com/football/2026/oct/13/england-greece-womens-world-cup-qualifying-playoff-match-report",
-      "image": "https://i.guim.co.uk/img/media/5e8284ab3ea12995209da9d3a93c0ce5e96b5323/1024_161_2356_1885/master/2356.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b021c3ee6eeb3877994368d0e0a1cefd"
-    },
-    {
-      "id": "story-21",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "BBC Sport",
-      "time": "Oct 13",
-      "headline": "Goal crisis & in drop zone - so why is Spurs' £60m striker stuck in U21s?",
-      "excerpt": "After being left out of Tottenham's Premier League squad last month, Richarlison has been left…",
-      "link": "https://www.bbc.co.uk/sport/football/articles/ck9qzwp9ejgro?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0aff/live/b604c290-c737-11f1-9085-f95bdc648acc.jpg"
-    },
-    {
-      "id": "story-22",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "BBC Sport",
-      "time": "Oct 13",
-      "headline": "Watch: Scotland beat Czechs to set up Sweden play-off",
-      "excerpt": "Watch the goals as Scotland twice come from behind to beat the Czech Republic 3-2…",
-      "link": "https://www.bbc.co.uk/sport/videos/cmx235v7gqwro?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/663a/live/bde28a80-c744-11f1-bc2e-018d645d8d21.jpg"
-    },
-    {
-      "id": "story-23",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "BBC Sport",
-      "time": "Oct 13",
-      "headline": "Porro eyes La Liga return - Wednesday's gossip",
-      "excerpt": "Tottenham's Pedro Porro wants Barcelona move, multiple Premier League clubs chase Croatia striker Dion Beljo,…",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cm62yxegwy41o?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/079b/live/2ab93150-c735-11f1-9a39-31b474234113.png"
     }
   ],
   "scoreboard": [
