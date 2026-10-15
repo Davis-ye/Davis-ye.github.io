@@ -1,19 +1,63 @@
 {
-  "updatedAt": "2026-10-15T01:31:46.013Z",
+  "updatedAt": "2026-10-15T06:20:05.213Z",
   "hero": {
     "id": "story-0",
-    "league": "Premier League",
-    "dot": "#9CC0F0",
+    "league": "Football",
+    "dot": "#AFC4AC",
     "source": "BBC Sport",
     "time": "Oct 15",
-    "headline": "Burnham had two hospitality dinners with Man City chairman, deleted records show",
-    "excerpt": "The prime minister has been under growing pressure since the club was found guilty of…",
-    "link": "https://www.bbc.co.uk/news/articles/c83vq9vpwwr1o?at_medium=RSS&amp;at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/61e8/live/059e20b0-bdb7-11f1-bc2e-018d645d8d21.jpg"
+    "headline": "The Andorran club making history with a Pochettino in the team",
+    "excerpt": "Maurizio Pochettino and inter Club d'Escaldes are set to make European history for footballing minnows…",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cmwy4nyv3rqzo?at_medium=RSS&amp;at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/20ad/live/ed9a6fe0-c7b7-11f1-b41f-d7a6cb474575.jpg"
   },
   "topStories": [
     {
       "id": "story-1",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "BBC Sport",
+      "time": "Oct 15",
+      "headline": "Who am I? Plus today's other quizzes",
+      "excerpt": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c64g1rny3e01o?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fbf/live/38bd3c70-bda7-11f1-bc2e-018d645d8d21.png"
+    },
+    {
+      "id": "story-2",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "BBC Sport",
+      "time": "Oct 15",
+      "headline": "Southgate does not see return to Premier League management",
+      "excerpt": "Former England manager Gareth Southgate says he does not see himself returning to club management…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c9kgj41jgm5go?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6b62/live/61c45310-c7cf-11f1-9e10-4dcbd31d4273.jpg"
+    },
+    {
+      "id": "story-3",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "The Guardian",
+      "time": "Oct 15",
+      "headline": "Martínez has drawn back the curtain on Manchester United’s ruinous ownership | Jonathan Liew",
+      "excerpt": "<p>Defender may not be blameless in team’s struggles but his criticism goes to the heart…",
+      "link": "https://www.theguardian.com/football/2026/oct/15/lisandro-martinez-criticism-jason-wilcox-jim-ratcliffe-glazers",
+      "image": "https://i.guim.co.uk/img/media/dc8504df01a49ba93110a824bc04545c0341b98c/276_0_2500_2000/master/2500.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c6672946b7f2cfb197d4c8b92cf0965b"
+    },
+    {
+      "id": "story-4",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "BBC Sport",
+      "time": "Oct 15",
+      "headline": "Burnham had two hospitality dinners with Man City chairman, deleted records show",
+      "excerpt": "The prime minister has been under growing pressure since the club was found guilty of…",
+      "link": "https://www.bbc.co.uk/news/articles/c83vq9vpwwr1o?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/61e8/live/059e20b0-bdb7-11f1-bc2e-018d645d8d21.jpg"
+    },
+    {
+      "id": "story-5",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -24,7 +68,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c4f2/live/844a3dd0-c821-11f1-a64c-550be9e3c66b.jpg"
     },
     {
-      "id": "story-2",
+      "id": "story-6",
       "league": "La Liga",
       "dot": "#E3B4F5",
       "source": "BBC Sport",
@@ -35,7 +79,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3d69/live/901c4f60-c7f7-11f1-970c-196b57378f40.jpg"
     },
     {
-      "id": "story-3",
+      "id": "story-7",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -46,18 +90,18 @@
       "image": "https://i.guim.co.uk/img/media/b1caaef37707bc22aa7746f46cbe61bff51c005e/286_182_6599_5282/master/6599.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=1d6f9e647025e22c9c8f2b9968d06dee"
     },
     {
-      "id": "story-4",
+      "id": "story-8",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
       "time": "Oct 14",
       "headline": "Guardiola's return, Man City's defiance - and a game of glorious chaos",
-      "excerpt": "On their return to Etihad Stadium Manchester City put on a show of defiance -…",
+      "excerpt": "Manchester City put on a show of defiance on their return to Etihad Stadium -…",
       "link": "https://www.bbc.co.uk/sport/football/articles/cqp8gyv8le87o?at_medium=RSS&amp;at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6d25/live/6b97a6a0-c822-11f1-bc2e-018d645d8d21.jpg"
     },
     {
-      "id": "story-5",
+      "id": "story-9",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -68,18 +112,18 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4c8d/live/bc2e5020-c81b-11f1-9a39-31b474234113.jpg"
     },
     {
-      "id": "story-6",
+      "id": "story-10",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
       "time": "Oct 14",
-      "headline": "Martinez outburst came out of 'anger and frustration'",
+      "headline": "Outburst came out of 'anger and frustration' - Martinez",
       "excerpt": "Manchester United defender Lisandro Martinez says he \"spoke out of anger and frustration\" when launching…",
       "link": "https://www.bbc.co.uk/sport/football/articles/cqd09l278n15o?at_medium=RSS&amp;at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2594/live/36bd52e0-c81d-11f1-ba52-6f55b182b2fe.jpg"
     },
     {
-      "id": "story-7",
+      "id": "story-11",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "101 Great Goals",
@@ -90,7 +134,7 @@
       "image": null
     },
     {
-      "id": "story-8",
+      "id": "story-12",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -101,7 +145,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0231/live/1094d0e0-c816-11f1-82ac-736cd3146b70.jpg"
     },
     {
-      "id": "story-9",
+      "id": "story-13",
       "league": "La Liga",
       "dot": "#E3B4F5",
       "source": "BBC Sport",
@@ -112,7 +156,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/13f1/live/b04016c0-c813-11f1-a64c-550be9e3c66b.jpg"
     },
     {
-      "id": "story-10",
+      "id": "story-14",
       "league": "La Liga",
       "dot": "#E3B4F5",
       "source": "The Guardian",
@@ -123,7 +167,7 @@
       "image": "https://i.guim.co.uk/img/media/81348acd9de5dda79c01ec34af80d103ea2684ac/749_0_3586_2869/master/3586.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e3199cdec5ca357ceab4948713fc712c"
     },
     {
-      "id": "story-11",
+      "id": "story-15",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -134,7 +178,7 @@
       "image": "https://i.guim.co.uk/img/media/789b2b527e2ab20a821878f71216104421dd1f72/330_0_2290_1832/master/2290.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=111b92668550efd14173c2ea7a280f22"
     },
     {
-      "id": "story-12",
+      "id": "story-16",
       "league": "La Liga",
       "dot": "#E3B4F5",
       "source": "BBC Sport",
@@ -145,7 +189,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb61/live/24fee8f0-c815-11f1-9a39-31b474234113.jpg"
     },
     {
-      "id": "story-13",
+      "id": "story-17",
       "league": "Bundesliga",
       "dot": "#FFC469",
       "source": "BBC Sport",
@@ -156,7 +200,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/28ce/live/d12a4c20-c813-11f1-bc2e-018d645d8d21.jpg"
     },
     {
-      "id": "story-14",
+      "id": "story-18",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -167,7 +211,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f64d/live/aa2cb5f0-c803-11f1-bc2e-018d645d8d21.png"
     },
     {
-      "id": "story-15",
+      "id": "story-19",
       "league": "Bundesliga",
       "dot": "#FFC469",
       "source": "101 Great Goals",
@@ -178,7 +222,7 @@
       "image": null
     },
     {
-      "id": "story-16",
+      "id": "story-20",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -189,7 +233,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/897e/live/26cf2700-c813-11f1-a64c-550be9e3c66b.jpg"
     },
     {
-      "id": "story-17",
+      "id": "story-21",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -200,7 +244,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d91b/live/8bd7b720-c813-11f1-bc2e-018d645d8d21.jpg"
     },
     {
-      "id": "story-18",
+      "id": "story-22",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -211,7 +255,7 @@
       "image": "https://i.guim.co.uk/img/media/1cafab175cf3ff76ee74a8450a376c6766778130/257_176_1739_1391/master/1739.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=0e8ea4ed598e1054aad5b8517a0868fc"
     },
     {
-      "id": "story-19",
+      "id": "story-23",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "The Guardian",
@@ -220,50 +264,6 @@
       "excerpt": "<ul><li><p>Kick It Out statement: managers should ‘set the tone’</p></li><li><p>Head coach said delay in Swansea game…",
       "link": "https://www.theguardian.com/football/2026/oct/14/millwall-alex-neil-criticised-by-kick-it-out-statement",
       "image": "https://i.guim.co.uk/img/media/7e1755a8e49475c5b6a4546d1ea096e604bf280a/423_0_4871_3898/master/4871.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a80cad9b926e1dfd388c1a497f552c80"
-    },
-    {
-      "id": "story-20",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "101 Great Goals",
-      "time": "Oct 14",
-      "headline": "Manchester City 2-4 Paris Saint-Germain: Report, result and goals as Champions outclass Maresca&#8217;s men",
-      "excerpt": "Catch up with all the action from Manchester City vs Paris Saint-Germain in the Champions…",
-      "link": "https://www.101greatgoals.com/match-reports/manchester-city-2-4-paris-saint-germain-report-result-goals/",
-      "image": null
-    },
-    {
-      "id": "story-21",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "The Guardian",
-      "time": "Oct 14",
-      "headline": "Jackson and Barkley doubles sink feeble Fenerbahce in record Aston Villa win",
-      "excerpt": "<p>It may be a bit early for the pantomime season but the Holte End enjoyed…",
-      "link": "https://www.theguardian.com/football/2026/oct/14/aston-villa-fenerbahce-champions-league-league-stage-match-report",
-      "image": "https://i.guim.co.uk/img/media/14b0a15678035b7990304cd48954776394faaedf/141_0_2203_1762/master/2203.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f94aa3f338a703e59c66a91157db28f7"
-    },
-    {
-      "id": "story-22",
-      "league": "Champions League",
-      "dot": "#F0C878",
-      "source": "BBC Sport",
-      "time": "Oct 14",
-      "headline": "Feyenoord come from behind to beat Como",
-      "excerpt": "Feyenoord come from a goal to beat Como 3-2 in Rotterdam to secure their first…",
-      "link": "https://www.bbc.co.uk/sport/football/videos/c6wyr7v30wx9o?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d6a0/live/6092c000-c813-11f1-bc2e-018d645d8d21.jpg"
-    },
-    {
-      "id": "story-23",
-      "league": "Serie A",
-      "dot": "#A9E6A0",
-      "source": "BBC Sport",
-      "time": "Oct 14",
-      "headline": "Tresoldi hat-trick fires Club Brugge to victory over Inter in seven-goal thriller",
-      "excerpt": "Club Brugge's Nicolo Tresoldi scores a hat-trick as the Belgian side edge Inter Milan 4-3,…",
-      "link": "https://www.bbc.co.uk/sport/football/videos/cqly0gnk4xkgo?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/037b/live/53320650-c7c8-11f1-a64c-550be9e3c66b.jpg"
     }
   ],
   "scoreboard": [
