@@ -1,30 +1,63 @@
 {
-  "updatedAt": "2026-10-15T15:44:29.535Z",
+  "updatedAt": "2026-10-15T19:24:13.480Z",
   "hero": {
     "id": "story-0",
     "league": "Premier League",
     "dot": "#9CC0F0",
-    "source": "101 Great Goals",
+    "source": "The Guardian",
     "time": "Oct 15",
-    "headline": "Torreense v Sunderland: Confirmed team news and line-ups for Europa League clash",
-    "excerpt": "Catch up with all the team news ahead of Torrseense vs Sunderland in the Europa…",
-    "link": "https://www.101greatgoals.com/football/europa-league/torreense-v-sunderland-confirmed-team-news-line-ups/",
-    "image": null
+    "headline": "Bournemouth v Sturm Graz, Benfica v Celtic, and more: Europa League – live",
+    "excerpt": "<p>⚽ Europa League updates from the 8pm BST kick-offs<br>⚽ <a href=\"https://www.theguardian.com/football/live\">Live scoreboard</a> | <a href=\"https://www.theguardian.com/football/2026/oct/15/guardiola-returns-to-manchester-as-city-spin-into-dizzy-mess-against-psg\">Read…",
+    "link": "https://www.theguardian.com/football/live/2026/oct/15/bournemouth-v-sturm-graz-benfica-v-celtic-and-more-europa-league-live",
+    "image": "https://i.guim.co.uk/img/media/f9d95a6df8d6b718aed91feafb421ade32a2dfe0/397_0_3509_2808/master/3509.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a12edbd871d0bbf38833393f784e1b42"
   },
   "topStories": [
     {
       "id": "story-1",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "101 Great Goals",
+      "time": "Oct 15",
+      "headline": "Lyon 3-2 Crystal Palace: Sage makes unhappy return to former club",
+      "excerpt": "Pierre Sage endured an unhappy return to Lyon as his Crystal Palace side were beaten…",
+      "link": "https://www.101greatgoals.com/match-reports/lyon-palace-report-sage-return/",
+      "image": null
+    },
+    {
+      "id": "story-2",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "BBC Sport",
+      "time": "Oct 15",
+      "headline": "Martinez apologises for outburst and fined by Man Utd",
+      "excerpt": "Manchester United defender Lisandro Martinez issues an apology following his controversial remarks criticising the club's…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cw77p152jz64o?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/89af/live/f4ecd4f0-c8ba-11f1-bdfb-e3788aeae9ec.jpg"
+    },
+    {
+      "id": "story-3",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "BBC Sport",
+      "time": "Oct 15",
+      "headline": "Moore's Germany move inspired by Sancho and Bellingham",
+      "excerpt": "Tottenham loanee Mikey Moore says the success of Jadon Sancho and Jude Bellingham in the…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c65yneln8wp0o?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/726c/live/32741560-c8aa-11f1-9c75-6ff1271de385.jpg"
+    },
+    {
+      "id": "story-4",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
       "time": "Oct 15",
-      "headline": "Eom has strength to move on after alleged racist abuse",
+      "headline": "Eom has strength to move on after alleged racist abuse, says Swansea boss",
       "excerpt": "Vitor Matos says Eom Jisung has the strength to move on from the alleged racial…",
       "link": "https://www.bbc.co.uk/sport/football/articles/ck0e0qd0yllwo?at_medium=RSS&amp;at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e0e7/live/c1424910-c87d-11f1-8101-e3c2ed61ec71.jpg"
     },
     {
-      "id": "story-2",
+      "id": "story-5",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -35,18 +68,7 @@
       "image": "https://i.guim.co.uk/img/media/cda17ebc0b39a7e88cbcfc4b8f7a5809761f487d/516_64_3524_2820/master/3524.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=75c180ddc861bbe0506ed5a1a3ec6192"
     },
     {
-      "id": "story-3",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "The Guardian",
-      "time": "Oct 15",
-      "headline": "Lyon v Crystal Palace, Torreense v Sunderland, and more: Europa League – live",
-      "excerpt": "<p>⚽ Europa League updates from the 5.45pm BST kick-offs<br>⚽ <a href=\"https://www.theguardian.com/football/live\">Live scoreboard</a> | <a href=\"https://www.theguardian.com/football/2026/oct/15/guardiola-returns-to-manchester-as-city-spin-into-dizzy-mess-against-psg\">Read…",
-      "link": "https://www.theguardian.com/football/live/2026/oct/15/lyon-v-crystal-palace-torreense-v-sunderland-and-more-europa-league-live",
-      "image": "https://i.guim.co.uk/img/media/4317a8312621dd54b1c0d37f6512e3624ad93bb9/985_722_4834_3867/master/4834.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=61a25258217e12029561820e9b41b67d"
-    },
-    {
-      "id": "story-4",
+      "id": "story-6",
       "league": "La Liga",
       "dot": "#E3B4F5",
       "source": "BBC Sport",
@@ -57,7 +79,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3858/live/0eb7ab00-c89b-11f1-b0a4-81e564f1cfaa.jpg"
     },
     {
-      "id": "story-5",
+      "id": "story-7",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -68,7 +90,7 @@
       "image": "https://i.guim.co.uk/img/media/8caca373fa49ea83d241dd6d111a5387f0c2a69c/0_0_2208_1766/master/2208.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=451e3a057fe9cf146ee8a21471ccd06a"
     },
     {
-      "id": "story-6",
+      "id": "story-8",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -79,7 +101,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee34/live/a8a02240-c8a2-11f1-aad3-554074f65f72.jpg"
     },
     {
-      "id": "story-7",
+      "id": "story-9",
       "league": "Champions League",
       "dot": "#F0C878",
       "source": "The Guardian",
@@ -90,7 +112,7 @@
       "image": "https://i.guim.co.uk/img/media/62f1f7b8929017f0ce928dad773e88660266e363/0_474_3879_3102/master/3879.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=37908a1b6ba1ac8d970368ecf1e4c5d8"
     },
     {
-      "id": "story-8",
+      "id": "story-10",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -101,7 +123,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f384/live/cd09a210-c89c-11f1-b0a4-81e564f1cfaa.jpg"
     },
     {
-      "id": "story-9",
+      "id": "story-11",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -112,7 +134,7 @@
       "image": "https://i.guim.co.uk/img/media/87accd916ee90614d930d798707f291f794a4f37/283_93_2674_2139/master/2674.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=56f00f2f765fbc77401c2bf39750bd12"
     },
     {
-      "id": "story-10",
+      "id": "story-12",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "The Guardian",
@@ -123,7 +145,7 @@
       "image": "https://i.guim.co.uk/img/media/8d5358e4a150d5cb1fab413eccd388bf1db76ab5/1412_5221_1132_905/master/1132.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=50d790a6033db4e5527d0cc9521ab9c6"
     },
     {
-      "id": "story-11",
+      "id": "story-13",
       "league": "La Liga",
       "dot": "#E3B4F5",
       "source": "The Guardian",
@@ -134,7 +156,7 @@
       "image": "https://i.guim.co.uk/img/media/373a0aefc5a07294ad0fe25502c88dd1366d725a/118_0_2751_2201/master/2751.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f711979d2a4dfa09c38f5b9b7f995b28"
     },
     {
-      "id": "story-12",
+      "id": "story-14",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -145,7 +167,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fa2c/live/0e07d870-c89a-11f1-b0a4-81e564f1cfaa.jpg"
     },
     {
-      "id": "story-13",
+      "id": "story-15",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -156,7 +178,7 @@
       "image": "https://i.guim.co.uk/img/media/168f80dd0ffaecb2a422812a9fb494cbb9019ac6/0_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b40c2f9eeb8ec993fc328e8a529c1d79"
     },
     {
-      "id": "story-14",
+      "id": "story-16",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -167,7 +189,7 @@
       "image": "https://i.guim.co.uk/img/media/61fce0ac5cd3aea7782de6c71f4049fbd6b3e519/413_0_4126_3301/master/4126.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d76faf61c37eb56123f6004283a2f10f"
     },
     {
-      "id": "story-15",
+      "id": "story-17",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -178,7 +200,7 @@
       "image": "https://i.guim.co.uk/img/media/20378b358cbe1427c8c4012722e68bf29bb5251d/375_0_2356_1885/master/2356.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=281c1b056ffa7ea3205428f071c829d4"
     },
     {
-      "id": "story-16",
+      "id": "story-18",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -189,7 +211,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6783/live/034c8880-c88c-11f1-b0a4-81e564f1cfaa.jpg"
     },
     {
-      "id": "story-17",
+      "id": "story-19",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -200,7 +222,7 @@
       "image": "https://i.guim.co.uk/img/media/7dc207014538e0187d941ac2d5f7fe505148789d/384_95_4451_3560/master/4451.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f33a0fb2681df4d86126e08aa607de62"
     },
     {
-      "id": "story-18",
+      "id": "story-20",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -211,7 +233,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4577/live/324f91b0-c88f-11f1-b0a4-81e564f1cfaa.jpg"
     },
     {
-      "id": "story-19",
+      "id": "story-21",
       "league": "Serie A",
       "dot": "#A9E6A0",
       "source": "The Guardian",
@@ -222,7 +244,7 @@
       "image": "https://i.guim.co.uk/img/media/88fcc7160dee55e2d3099215740650256c2a3503/620_1449_4978_3983/master/4978.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ddc8bff5afeead09996d950c76a1e6a2"
     },
     {
-      "id": "story-20",
+      "id": "story-22",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -233,7 +255,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4964/live/e36c9e90-c888-11f1-bc2e-018d645d8d21.jpg"
     },
     {
-      "id": "story-21",
+      "id": "story-23",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -242,28 +264,6 @@
       "excerpt": "Hibernian ban their Block Seven supporter group from their next three matches after pictures showed…",
       "link": "https://www.bbc.co.uk/sport/football/articles/cmde8dx2263lo?at_medium=RSS&amp;at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b337/live/7f40fdc0-c884-11f1-a2e8-f71844f8002e.jpg"
-    },
-    {
-      "id": "story-22",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "The Guardian",
-      "time": "Oct 15",
-      "headline": "Southgate ‘hardly watches’ football and does not envisage Premier League return",
-      "excerpt": "<ul><li><p>Former England manager last went to game in May 2025</p></li><li><p>He says he got only brief…",
-      "link": "https://www.theguardian.com/football/2026/oct/15/gareth-southgate-premier-league-return-manager-hardly-watches-football",
-      "image": "https://i.guim.co.uk/img/media/9385d70545cbf67bb3edea02381d55c2e2ec4dd4/1207_129_3639_2913/master/3639.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=adcbce66156b0aaad535ce3228d183ac"
-    },
-    {
-      "id": "story-23",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "The Guardian",
-      "time": "Oct 15",
-      "headline": "Apologetic Infantino ‘not fit’ to lead Fifa, claim European FA heads after meeting",
-      "excerpt": "<ul><li><p>Infantino failed to provide answers to questions</p></li><li><p>European leaders expect someone will stand against him</p></li></ul><p>European football…",
-      "link": "https://www.theguardian.com/football/2026/oct/15/fifa-gianni-infantino-council",
-      "image": "https://i.guim.co.uk/img/media/2a6d997b90a1799bc135a7381e0bb2a4c0bf913b/958_0_4685_3749/master/4685.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b4ce7ca9f81a5624b48a1cc6611f96f4"
     }
   ],
   "scoreboard": [
