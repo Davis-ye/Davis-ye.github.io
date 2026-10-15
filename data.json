@@ -1,30 +1,85 @@
 {
-  "updatedAt": "2026-10-15T19:24:13.480Z",
+  "updatedAt": "2026-10-15T22:30:15.563Z",
   "hero": {
     "id": "story-0",
-    "league": "Premier League",
-    "dot": "#9CC0F0",
-    "source": "The Guardian",
+    "league": "Football",
+    "dot": "#AFC4AC",
+    "source": "101 Great Goals",
     "time": "Oct 15",
-    "headline": "Bournemouth v Sturm Graz, Benfica v Celtic, and more: Europa League – live",
-    "excerpt": "<p>⚽ Europa League updates from the 8pm BST kick-offs<br>⚽ <a href=\"https://www.theguardian.com/football/live\">Live scoreboard</a> | <a href=\"https://www.theguardian.com/football/2026/oct/15/guardiola-returns-to-manchester-as-city-spin-into-dizzy-mess-against-psg\">Read…",
-    "link": "https://www.theguardian.com/football/live/2026/oct/15/bournemouth-v-sturm-graz-benfica-v-celtic-and-more-europa-league-live",
-    "image": "https://i.guim.co.uk/img/media/f9d95a6df8d6b718aed91feafb421ade32a2dfe0/397_0_3509_2808/master/3509.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a12edbd871d0bbf38833393f784e1b42"
+    "headline": "Milan teenager Cisse makes history with hat-trick as Juve leave it late at Celta Vigo",
+    "excerpt": "Cisse made Italian football history for the Rossoneri.",
+    "link": "https://www.101greatgoals.com/football/europa-league/milan-teenager-cisse-makes-history-with-hat-trick-as-juve-leave-it-late-at-celta-vigo/",
+    "image": null
   },
   "topStories": [
     {
       "id": "story-1",
       "league": "Premier League",
       "dot": "#9CC0F0",
-      "source": "101 Great Goals",
+      "source": "The Guardian",
       "time": "Oct 15",
-      "headline": "Lyon 3-2 Crystal Palace: Sage makes unhappy return to former club",
-      "excerpt": "Pierre Sage endured an unhappy return to Lyon as his Crystal Palace side were beaten…",
-      "link": "https://www.101greatgoals.com/match-reports/lyon-palace-report-sage-return/",
-      "image": null
+      "headline": "Evanilson, Rayan and Rodríguez goals seal Bournemouth’s historic home win in Europe",
+      "excerpt": "<p>An impossible dream realised in the Vitality staging European football, and the Europa League is…",
+      "link": "https://www.theguardian.com/football/2026/oct/15/bournemouth-sturm-graz-europa-league-match-report",
+      "image": "https://i.guim.co.uk/img/media/f135a30e8add1ace9fbc5644db6e21d8443ae4c2/0_271_2850_2279/master/2850.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=4e404666c1f80b309631cbe7b9ed4301"
     },
     {
       "id": "story-2",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "BBC Sport",
+      "time": "Oct 15",
+      "headline": "Kane poised to extend Bayern stay - Friday's gossip",
+      "excerpt": "Harry Kane is close to signing a new deal at Bayern Munich, Arda Guler agrees…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c95ynkv552yvo?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2eb7/live/41935680-c8ca-11f1-bc2e-018d645d8d21.png"
+    },
+    {
+      "id": "story-3",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "BBC Sport",
+      "time": "Oct 15",
+      "headline": "Sutton's predictions v boxer & Ipswich fan Fabio Wardley",
+      "excerpt": "BBC Sport football expert Chris Sutton takes on boxer and Ipswich fan Fabio Wardley, plus…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/crgqwvnnyv30o?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/68ae/live/a4aca140-c73f-11f1-bc2e-018d645d8d21.png"
+    },
+    {
+      "id": "story-4",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "The Guardian",
+      "time": "Oct 15",
+      "headline": "Europa League: Lyon take down Crystal Palace as Benfica overwhelm Celtic",
+      "excerpt": "<ul><li><p>Sage loses 3-2 to former side; Benfica 4-1 Celtic</p></li><li><p>Juventus go top with 2-1 win over…",
+      "link": "https://www.theguardian.com/football/2026/oct/15/europa-league-lyon-crystal-palace-cisse-milan-salzburg-leverkusen-benfica-celtic",
+      "image": "https://i.guim.co.uk/img/media/09dd1947d9fe5a26c73294e9e88c1b507138e45b/7_16_3020_2417/master/3020.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=363060657dc2381ff1f797262536c79e"
+    },
+    {
+      "id": "story-5",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "The Guardian",
+      "time": "Oct 15",
+      "headline": "Noah Sadiki stunner earns Sunderland dramatic late win against Torreense",
+      "excerpt": "<p></p><p>Three minutes into stoppage time Noah Sadiki hurdled a set of advertising hoardings, sprinted across…",
+      "link": "https://www.theguardian.com/football/2026/oct/15/torreense-sunderland-europa-league-match-report",
+      "image": "https://i.guim.co.uk/img/media/0a8cfbe48ef9a55ca98243f31b3ff72648267271/542_0_5605_4484/master/5605.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b01024be7ad7335c526c73ea563cab72"
+    },
+    {
+      "id": "story-6",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "The Guardian",
+      "time": "Oct 15",
+      "headline": "Martínez apologises to Manchester United’s director of football Wilcox after outburst",
+      "excerpt": "<ul><li><p>Defender says sorry after talks with Michael Carrick</p></li><li><p>Any disciplinary action will not be made public…",
+      "link": "https://www.theguardian.com/football/2026/oct/15/lisandro-martinez-apologises-to-manchester-united-director-wilcox",
+      "image": "https://i.guim.co.uk/img/media/1b54294b46326b4f7f5da061b119835f12ee9957/325_0_4461_3568/master/4461.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=6bfe92d1a320bc9b7200e58abdb4d9ec"
+    },
+    {
+      "id": "story-7",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -35,7 +90,18 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/89af/live/f4ecd4f0-c8ba-11f1-bdfb-e3788aeae9ec.jpg"
     },
     {
-      "id": "story-3",
+      "id": "story-8",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "BBC Sport",
+      "time": "Oct 15",
+      "headline": "Football Daily",
+      "excerpt": "Rick & Lloyd are back! And by popular(ish) demand. They discuss Man City's defeat to…",
+      "link": "https://www.bbc.co.uk/sounds/play/p0pgvd87?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0pgvdbk.jpg"
+    },
+    {
+      "id": "story-9",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -46,7 +112,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/726c/live/32741560-c8aa-11f1-9c75-6ff1271de385.jpg"
     },
     {
-      "id": "story-4",
+      "id": "story-10",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -57,18 +123,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e0e7/live/c1424910-c87d-11f1-8101-e3c2ed61ec71.jpg"
     },
     {
-      "id": "story-5",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "The Guardian",
-      "time": "Oct 15",
-      "headline": "Chelsea are the Premier League’s most fun team but is it sustainable?",
-      "excerpt": "<p>Xabi Alonso’s side are scoring and conceding at a remarkable rate. It’s great for neutrals…",
-      "link": "https://www.theguardian.com/football/who-scored-blog/2026/oct/15/chelsea-premier-league-fun-team-sustainable-xabi-alonso-europe",
-      "image": "https://i.guim.co.uk/img/media/cda17ebc0b39a7e88cbcfc4b8f7a5809761f487d/516_64_3524_2820/master/3524.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=75c180ddc861bbe0506ed5a1a3ec6192"
-    },
-    {
-      "id": "story-6",
+      "id": "story-11",
       "league": "La Liga",
       "dot": "#E3B4F5",
       "source": "BBC Sport",
@@ -79,18 +134,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3858/live/0eb7ab00-c89b-11f1-b0a4-81e564f1cfaa.jpg"
     },
     {
-      "id": "story-7",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "The Guardian",
-      "time": "Oct 15",
-      "headline": "Giovanni Leoni’s return from injury delayed in fresh blow to Liverpool",
-      "excerpt": "<ul><li><p>Defender sustained ACL injury on debut for club</p></li><li><p>Iraola: ‘It is taking more time than we…",
-      "link": "https://www.theguardian.com/football/2026/oct/15/giovanni-leonis-return-from-injury-delayed-in-fresh-blow-to-liverpool",
-      "image": "https://i.guim.co.uk/img/media/8caca373fa49ea83d241dd6d111a5387f0c2a69c/0_0_2208_1766/master/2208.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=451e3a057fe9cf146ee8a21471ccd06a"
-    },
-    {
-      "id": "story-8",
+      "id": "story-12",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -101,7 +145,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee34/live/a8a02240-c8a2-11f1-aad3-554074f65f72.jpg"
     },
     {
-      "id": "story-9",
+      "id": "story-13",
       "league": "Champions League",
       "dot": "#F0C878",
       "source": "The Guardian",
@@ -112,7 +156,7 @@
       "image": "https://i.guim.co.uk/img/media/62f1f7b8929017f0ce928dad773e88660266e363/0_474_3879_3102/master/3879.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=37908a1b6ba1ac8d970368ecf1e4c5d8"
     },
     {
-      "id": "story-10",
+      "id": "story-14",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -123,7 +167,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f384/live/cd09a210-c89c-11f1-b0a4-81e564f1cfaa.jpg"
     },
     {
-      "id": "story-11",
+      "id": "story-15",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -134,7 +178,7 @@
       "image": "https://i.guim.co.uk/img/media/87accd916ee90614d930d798707f291f794a4f37/283_93_2674_2139/master/2674.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=56f00f2f765fbc77401c2bf39750bd12"
     },
     {
-      "id": "story-12",
+      "id": "story-16",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "The Guardian",
@@ -145,7 +189,7 @@
       "image": "https://i.guim.co.uk/img/media/8d5358e4a150d5cb1fab413eccd388bf1db76ab5/1412_5221_1132_905/master/1132.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=50d790a6033db4e5527d0cc9521ab9c6"
     },
     {
-      "id": "story-13",
+      "id": "story-17",
       "league": "La Liga",
       "dot": "#E3B4F5",
       "source": "The Guardian",
@@ -156,7 +200,7 @@
       "image": "https://i.guim.co.uk/img/media/373a0aefc5a07294ad0fe25502c88dd1366d725a/118_0_2751_2201/master/2751.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f711979d2a4dfa09c38f5b9b7f995b28"
     },
     {
-      "id": "story-14",
+      "id": "story-18",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -167,7 +211,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fa2c/live/0e07d870-c89a-11f1-b0a4-81e564f1cfaa.jpg"
     },
     {
-      "id": "story-15",
+      "id": "story-19",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -178,7 +222,7 @@
       "image": "https://i.guim.co.uk/img/media/168f80dd0ffaecb2a422812a9fb494cbb9019ac6/0_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b40c2f9eeb8ec993fc328e8a529c1d79"
     },
     {
-      "id": "story-16",
+      "id": "story-20",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -189,7 +233,7 @@
       "image": "https://i.guim.co.uk/img/media/61fce0ac5cd3aea7782de6c71f4049fbd6b3e519/413_0_4126_3301/master/4126.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d76faf61c37eb56123f6004283a2f10f"
     },
     {
-      "id": "story-17",
+      "id": "story-21",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -200,7 +244,7 @@
       "image": "https://i.guim.co.uk/img/media/20378b358cbe1427c8c4012722e68bf29bb5251d/375_0_2356_1885/master/2356.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=281c1b056ffa7ea3205428f071c829d4"
     },
     {
-      "id": "story-18",
+      "id": "story-22",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -211,7 +255,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6783/live/034c8880-c88c-11f1-b0a4-81e564f1cfaa.jpg"
     },
     {
-      "id": "story-19",
+      "id": "story-23",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -220,112 +264,7 @@
       "excerpt": "<ul><li><p>Expenditure rises to £564,000 in 2025-26 season</p></li><li><p>Cost of hosting FA Council meetings also almost doubles</p></li></ul><p>The…",
       "link": "https://www.theguardian.com/football/2026/oct/15/fa-spending-wembley-hospitality-free-tickets-fa-council-rises-25-percent",
       "image": "https://i.guim.co.uk/img/media/7dc207014538e0187d941ac2d5f7fe505148789d/384_95_4451_3560/master/4451.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f33a0fb2681df4d86126e08aa607de62"
-    },
-    {
-      "id": "story-20",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "BBC Sport",
-      "time": "Oct 15",
-      "headline": "Everton's Barry on the video he was scared to post",
-      "excerpt": "The Everton striker explains why he chose to post an emotional video from a training…",
-      "link": "https://www.bbc.co.uk/news/articles/cq8rzgry7dgko?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4577/live/324f91b0-c88f-11f1-b0a4-81e564f1cfaa.jpg"
-    },
-    {
-      "id": "story-21",
-      "league": "Serie A",
-      "dot": "#A9E6A0",
-      "source": "The Guardian",
-      "time": "Oct 15",
-      "headline": "FC Copenhagen Women have a ‘startup-like’ brand. Now they need results",
-      "excerpt": "<p>A famous name and record attendances have given FCK a platform but a difficult start…",
-      "link": "https://www.theguardian.com/football/2026/oct/15/fc-copenhagen-denmark-womens-football-moving-the-goalposts",
-      "image": "https://i.guim.co.uk/img/media/88fcc7160dee55e2d3099215740650256c2a3503/620_1449_4978_3983/master/4978.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ddc8bff5afeead09996d950c76a1e6a2"
-    },
-    {
-      "id": "story-22",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "BBC Sport",
-      "time": "Oct 15",
-      "headline": "Man Utd a circus after Martinez comments - Keane",
-      "excerpt": "Lisandro Martinez's outburst shows Manchester United are in \"chaos\", says former captain Roy Keane.",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c3n04gy12r91o?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4964/live/e36c9e90-c888-11f1-bc2e-018d645d8d21.jpg"
-    },
-    {
-      "id": "story-23",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "BBC Sport",
-      "time": "Oct 15",
-      "headline": "Hibs ban fans group for three games after disorder",
-      "excerpt": "Hibernian ban their Block Seven supporter group from their next three matches after pictures showed…",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cmde8dx2263lo?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b337/live/7f40fdc0-c884-11f1-a2e8-f71844f8002e.jpg"
     }
   ],
-  "scoreboard": [
-    {
-      "id": "score-575352",
-      "league": "Champions League",
-      "dot": "#F0C878",
-      "time": "Oct 14",
-      "home": "AS Roma",
-      "away": "Real Madrid CF",
-      "homeScore": 3,
-      "awayScore": 4
-    },
-    {
-      "id": "score-575353",
-      "league": "Champions League",
-      "dot": "#F0C878",
-      "time": "Oct 14",
-      "home": "Manchester City FC",
-      "away": "Paris Saint-Germain FC",
-      "homeScore": 2,
-      "awayScore": 4
-    },
-    {
-      "id": "score-575354",
-      "league": "Champions League",
-      "dot": "#F0C878",
-      "time": "Oct 14",
-      "home": "FK Bodø/Glimt",
-      "away": "Borussia Dortmund",
-      "homeScore": 1,
-      "awayScore": 0
-    },
-    {
-      "id": "score-575355",
-      "league": "Champions League",
-      "dot": "#F0C878",
-      "time": "Oct 14",
-      "home": "Aston Villa FC",
-      "away": "Fenerbahçe SK",
-      "homeScore": 6,
-      "awayScore": 0
-    },
-    {
-      "id": "score-575356",
-      "league": "Champions League",
-      "dot": "#F0C878",
-      "time": "Oct 14",
-      "home": "Real Betis Balompié",
-      "away": "FC Porto",
-      "homeScore": 3,
-      "awayScore": 2
-    },
-    {
-      "id": "score-575357",
-      "league": "Champions League",
-      "dot": "#F0C878",
-      "time": "Oct 14",
-      "home": "FK Shakhtar Donetsk",
-      "away": "PAE AEK",
-      "homeScore": 3,
-      "awayScore": 1
-    }
-  ]
+  "scoreboard": []
 }
