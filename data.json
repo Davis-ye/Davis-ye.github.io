@@ -1,19 +1,151 @@
 {
-  "updatedAt": "2026-10-15T06:20:05.213Z",
+  "updatedAt": "2026-10-15T11:42:58.856Z",
   "hero": {
     "id": "story-0",
-    "league": "Football",
-    "dot": "#AFC4AC",
+    "league": "Premier League",
+    "dot": "#9CC0F0",
     "source": "BBC Sport",
     "time": "Oct 15",
-    "headline": "The Andorran club making history with a Pochettino in the team",
-    "excerpt": "Maurizio Pochettino and inter Club d'Escaldes are set to make European history for footballing minnows…",
-    "link": "https://www.bbc.co.uk/sport/football/articles/cmwy4nyv3rqzo?at_medium=RSS&amp;at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/20ad/live/ed9a6fe0-c7b7-11f1-b41f-d7a6cb474575.jpg"
+    "headline": "Man Utd a circus after Martinez comments - Keane",
+    "excerpt": "Lisandro Martinez's outburst shows Manchester United are in \"chaos\", says former captain Roy Keane.",
+    "link": "https://www.bbc.co.uk/sport/football/articles/c3n04gy12r91o?at_medium=RSS&amp;at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4964/live/e36c9e90-c888-11f1-bc2e-018d645d8d21.jpg"
   },
   "topStories": [
     {
       "id": "story-1",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "BBC Sport",
+      "time": "Oct 15",
+      "headline": "Hibs ban fans group for three games after disorder",
+      "excerpt": "Hibernian ban their Block Seven supporter group from their next three matches after pictures showed…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cmde8dx2263lo?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b337/live/7f40fdc0-c884-11f1-a2e8-f71844f8002e.jpg"
+    },
+    {
+      "id": "story-2",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "The Guardian",
+      "time": "Oct 15",
+      "headline": "Southgate ‘hardly watches’ football and does not envisage Premier League return",
+      "excerpt": "<ul><li><p>Former England manager last went to game in May 2025</p></li><li><p>He says he got only brief…",
+      "link": "https://www.theguardian.com/football/2026/oct/15/gareth-southgate-premier-league-return-manager-hardly-watches-football",
+      "image": "https://i.guim.co.uk/img/media/9385d70545cbf67bb3edea02381d55c2e2ec4dd4/1207_129_3639_2913/master/3639.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=adcbce66156b0aaad535ce3228d183ac"
+    },
+    {
+      "id": "story-3",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "The Guardian",
+      "time": "Oct 15",
+      "headline": "European football leaders confident of finding candidate to stand against Infantino",
+      "excerpt": "<ul><li><p>Fifa president hoping to be re-elected in March</p></li><li><p>Opponent may declare hand at last minute</p></li></ul><p>European football…",
+      "link": "https://www.theguardian.com/football/2026/oct/15/fifa-gianni-infantino-council",
+      "image": "https://i.guim.co.uk/img/media/81880cf560cba4ce5384af0192b4b125de90e677/182_0_2809_2248/master/2809.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b3639ef9475249a612fa9138c87627a5"
+    },
+    {
+      "id": "story-4",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "The Guardian",
+      "time": "Oct 15",
+      "headline": "After struggles v Spain, the USWNT’s midfield puzzle won’t be easily solved",
+      "excerpt": "<p>The lack of cohesion in the center of the park is evident for the US,…",
+      "link": "https://www.theguardian.com/football/2026/oct/15/uswnt-midfield-spain-womens-world-cup",
+      "image": "https://i.guim.co.uk/img/media/244a3fa972a2205687404e39d89f79e242bae6f3/714_253_3218_2576/master/3218.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ad30b2fc6b3a04b4db8e100557274b0e"
+    },
+    {
+      "id": "story-5",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "101 Great Goals",
+      "time": "Oct 15",
+      "headline": "Lionel Messi and Inter Miami are good for each other, says Gonzalez, as champions secure play-off spot",
+      "excerpt": "Lionel Messi is heading to the MLS play-offs once again after Inter Miami enjoyed a…",
+      "link": "https://www.101greatgoals.com/football/mls/lionel-messi-inter-miami-kily-gonzalez-as-champions-secure-play-off-spot/",
+      "image": null
+    },
+    {
+      "id": "story-6",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "BBC Sport",
+      "time": "Oct 15",
+      "headline": "Why Souness rejected Barcelona when he left Liverpool",
+      "excerpt": "Liverpool legend Graeme Souness reveals he rejected the chance to sign for Barcelona when he…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cm0j07pdw95eo?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/22ff/live/26cf8080-c7e4-11f1-bc2e-018d645d8d21.jpg"
+    },
+    {
+      "id": "story-7",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "BBC Sport",
+      "time": "Oct 15",
+      "headline": "The Portuguese second-tier team hosting Sunderland in Europe",
+      "excerpt": "Portuguese second-tier side Torreense host Sunderland in the Europa League in what will be their…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cw99zxvyzj04o?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c5c7/live/e5a471f0-c2fd-11f1-b8c6-6d610e41a5d9.jpg"
+    },
+    {
+      "id": "story-8",
+      "league": "La Liga",
+      "dot": "#E3B4F5",
+      "source": "BBC Sport",
+      "time": "Oct 15",
+      "headline": "Napoli back McTominay to stay amid Real links - gossip",
+      "excerpt": "Napoli believe Scott McTominay wants to extend his contract despite reports of Real Madrid interest,…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/ckvgdnqmzdplo?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/07e6/live/c046f090-c866-11f1-a64c-550be9e3c66b.png"
+    },
+    {
+      "id": "story-9",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "The Guardian",
+      "time": "Oct 15",
+      "headline": "My old teammate Miroslav Klose is bucking a trend in German coaching | Philipp Lahm",
+      "excerpt": "<p>‘Miro’, now in charge at Nürnberg, knows the value of consistency and identity in an…",
+      "link": "https://www.theguardian.com/football/2026/oct/15/my-old-teammate-miroslav-klose-is-bucking-a-trend-in-german-coaching",
+      "image": "https://i.guim.co.uk/img/media/3a1c65bdabe3f171ce025f33884329bff57d5433/170_0_854_683/master/854.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=41e31cee7b8ba812026ffe91a9067216"
+    },
+    {
+      "id": "story-10",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "BBC Sport",
+      "time": "Oct 15",
+      "headline": "Listen: Will Celtic bounce back in Lisbon - and how will Hearts start?",
+      "excerpt": "Celtic face a huge European test at Benfica while Hearts have a Conference League opener.",
+      "link": "https://www.bbc.co.uk/sounds/play/p0pgrhkb?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0pgrhn1.jpg"
+    },
+    {
+      "id": "story-11",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "BBC Sport",
+      "time": "Oct 15",
+      "headline": "Could Wenger really take on Infantino and run for Fifa presidency?",
+      "excerpt": "Senior figures in European football tell BBC Sport they want former Arsenal manager Arsene Wenger…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cx30e8dqmnzgo?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/db17/live/f473e230-c7fb-11f1-970c-196b57378f40.jpg"
+    },
+    {
+      "id": "story-12",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "BBC Sport",
+      "time": "Oct 15",
+      "headline": "The Andorran club making history with a Pochettino in the team",
+      "excerpt": "Maurizio Pochettino and inter Club d'Escaldes are set to make European history for footballing minnows…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cmwy4nyv3rqzo?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/20ad/live/ed9a6fe0-c7b7-11f1-b41f-d7a6cb474575.jpg"
+    },
+    {
+      "id": "story-13",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -24,7 +156,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fbf/live/38bd3c70-bda7-11f1-bc2e-018d645d8d21.png"
     },
     {
-      "id": "story-2",
+      "id": "story-14",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -35,7 +167,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6b62/live/61c45310-c7cf-11f1-9e10-4dcbd31d4273.jpg"
     },
     {
-      "id": "story-3",
+      "id": "story-15",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -46,7 +178,7 @@
       "image": "https://i.guim.co.uk/img/media/dc8504df01a49ba93110a824bc04545c0341b98c/276_0_2500_2000/master/2500.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c6672946b7f2cfb197d4c8b92cf0965b"
     },
     {
-      "id": "story-4",
+      "id": "story-16",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -57,7 +189,18 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/61e8/live/059e20b0-bdb7-11f1-bc2e-018d645d8d21.jpg"
     },
     {
-      "id": "story-5",
+      "id": "story-17",
+      "league": "Champions League",
+      "dot": "#F0C878",
+      "source": "BBC Sport",
+      "time": "Oct 14",
+      "headline": "Football Daily",
+      "excerpt": "Alistair Bruce-Ball presents reaction to an eventful night in the Champions League.",
+      "link": "https://www.bbc.co.uk/sounds/play/p0pgqknb?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0pgrnp5.jpg"
+    },
+    {
+      "id": "story-18",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -68,7 +211,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c4f2/live/844a3dd0-c821-11f1-a64c-550be9e3c66b.jpg"
     },
     {
-      "id": "story-6",
+      "id": "story-19",
       "league": "La Liga",
       "dot": "#E3B4F5",
       "source": "BBC Sport",
@@ -79,7 +222,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3d69/live/901c4f60-c7f7-11f1-970c-196b57378f40.jpg"
     },
     {
-      "id": "story-7",
+      "id": "story-20",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -90,7 +233,7 @@
       "image": "https://i.guim.co.uk/img/media/b1caaef37707bc22aa7746f46cbe61bff51c005e/286_182_6599_5282/master/6599.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=1d6f9e647025e22c9c8f2b9968d06dee"
     },
     {
-      "id": "story-8",
+      "id": "story-21",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -101,7 +244,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6d25/live/6b97a6a0-c822-11f1-bc2e-018d645d8d21.jpg"
     },
     {
-      "id": "story-9",
+      "id": "story-22",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -112,7 +255,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4c8d/live/bc2e5020-c81b-11f1-9a39-31b474234113.jpg"
     },
     {
-      "id": "story-10",
+      "id": "story-23",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -121,149 +264,6 @@
       "excerpt": "Manchester United defender Lisandro Martinez says he \"spoke out of anger and frustration\" when launching…",
       "link": "https://www.bbc.co.uk/sport/football/articles/cqd09l278n15o?at_medium=RSS&amp;at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2594/live/36bd52e0-c81d-11f1-ba52-6f55b182b2fe.jpg"
-    },
-    {
-      "id": "story-11",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "101 Great Goals",
-      "time": "Oct 14",
-      "headline": "Enzo Maresca claims Manchester City &#8216;deserved more&#8217; against PSG as Luis Enrique makes &#8216;lucky&#8217; admission",
-      "excerpt": "Enzo Maresca has opened up on a frustrating night that saw Manchester City lose to…",
-      "link": "https://www.101greatgoals.com/football/champions-league/enzo-maresca-claims-manchester-city-deserved-more-psg/",
-      "image": null
-    },
-    {
-      "id": "story-12",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "BBC Sport",
-      "time": "Oct 14",
-      "headline": "PSG on 'different level' - are they building greatest European dynasty?",
-      "excerpt": "Paris St-Germain are eyeing a third successive Champions League crown after dismantling Manchester City, but…",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cmx2wegg2pw5o?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0231/live/1094d0e0-c816-11f1-82ac-736cd3146b70.jpg"
-    },
-    {
-      "id": "story-13",
-      "league": "La Liga",
-      "dot": "#E3B4F5",
-      "source": "BBC Sport",
-      "time": "Oct 14",
-      "headline": "Isco snatches late Betis win as they edge past Porto",
-      "excerpt": "Isco scores an 84th minute penalty to help Real Betis snatch a late 3-2 win…",
-      "link": "https://www.bbc.co.uk/sport/football/videos/cmn4e91e4dk7o?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/13f1/live/b04016c0-c813-11f1-a64c-550be9e3c66b.jpg"
-    },
-    {
-      "id": "story-14",
-      "league": "La Liga",
-      "dot": "#E3B4F5",
-      "source": "The Guardian",
-      "time": "Oct 14",
-      "headline": "Champions League: Mourinho’s Real Madrid stage wild comeback on Roma return",
-      "excerpt": "<ul><li><p>Mourinho’s side score three late goals from 3-1 deficit</p></li><li><p>Dortmund latest team beaten in Norway by…",
-      "link": "https://www.theguardian.com/football/2026/oct/14/champions-league-mourinhos-real-madrid-stage-crazy-comeback-on-roma-return",
-      "image": "https://i.guim.co.uk/img/media/81348acd9de5dda79c01ec34af80d103ea2684ac/749_0_3586_2869/master/3586.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e3199cdec5ca357ceab4948713fc712c"
-    },
-    {
-      "id": "story-15",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "The Guardian",
-      "time": "Oct 14",
-      "headline": "Championship roundup: Soucek doubles up as West Ham hit nine-man Lincoln for six",
-      "excerpt": "<ul><li><p>Tomas Soucek rounds off big victory after two reds</p></li><li><p>Portsmouth strike late to beat 10-man Sheffield…",
-      "link": "https://www.theguardian.com/football/2026/oct/14/championship-roundup-soucek-doubles-up-as-west-ham-hit-nine-man-lincoln-for-six",
-      "image": "https://i.guim.co.uk/img/media/789b2b527e2ab20a821878f71216104421dd1f72/330_0_2290_1832/master/2290.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=111b92668550efd14173c2ea7a280f22"
-    },
-    {
-      "id": "story-16",
-      "league": "La Liga",
-      "dot": "#E3B4F5",
-      "source": "BBC Sport",
-      "time": "Oct 14",
-      "headline": "Real Madrid stun Roma after dramatic late comeback",
-      "excerpt": "Real Madrid complete their latest dramatic Champions League comeback by scoring three goals in the…",
-      "link": "https://www.bbc.co.uk/sport/football/videos/cmx239x97ddvo?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/eb61/live/24fee8f0-c815-11f1-9a39-31b474234113.jpg"
-    },
-    {
-      "id": "story-17",
-      "league": "Bundesliga",
-      "dot": "#FFC469",
-      "source": "BBC Sport",
-      "time": "Oct 14",
-      "headline": "Bodo/Glimt impress in win over Dortmund",
-      "excerpt": "Bodo/Glimt bounce back from their thrashing at Bayern with a fine 1-0 win in the…",
-      "link": "https://www.bbc.co.uk/sport/football/videos/cqly0nd6xnp1o?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/28ce/live/d12a4c20-c813-11f1-bc2e-018d645d8d21.jpg"
-    },
-    {
-      "id": "story-18",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "BBC Sport",
-      "time": "Oct 14",
-      "headline": "Martinez's future at Man Utd in doubt - Thursday's gossip",
-      "excerpt": "Lisandro Martinez's future in doubt at Manchester United, Newcastle's Bazoumana Toure eyed by Manchester United…",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c370pnz8d90wo?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f64d/live/aa2cb5f0-c803-11f1-bc2e-018d645d8d21.png"
-    },
-    {
-      "id": "story-19",
-      "league": "Bundesliga",
-      "dot": "#FFC469",
-      "source": "101 Great Goals",
-      "time": "Oct 14",
-      "headline": "Champions League round-up: Dortmund stunned by Bodo/Glimt as Feyenoord edge past Como",
-      "excerpt": "Catch up on Wednesday night's Champions League action, including surprise results for Borussia Dortmund and…",
-      "link": "https://www.101greatgoals.com/football/champions-league/champions-league-round-up/",
-      "image": null
-    },
-    {
-      "id": "story-20",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "BBC Sport",
-      "time": "Oct 14",
-      "headline": "Villa rewrite the record books as they hit Fenerbahce for six",
-      "excerpt": "Aston Villa record their biggest ever win in a European competition as they thrash Turkish…",
-      "link": "https://www.bbc.co.uk/sport/football/videos/c65yn8d48ezeo?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/897e/live/26cf2700-c813-11f1-a64c-550be9e3c66b.jpg"
-    },
-    {
-      "id": "story-21",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "BBC Sport",
-      "time": "Oct 14",
-      "headline": "Man City show fight but fall short of fightback against slick PSG",
-      "excerpt": "Defending champions Paris Saint-Germain make it two wins from two in this season's Champions League,…",
-      "link": "https://www.bbc.co.uk/sport/football/videos/cqp8gn9x801po?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d91b/live/8bd7b720-c813-11f1-bc2e-018d645d8d21.jpg"
-    },
-    {
-      "id": "story-22",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "The Guardian",
-      "time": "Oct 14",
-      "headline": "Quickfire Doué and Dembélé inspire PSG to thrilling win at Manchester City",
-      "excerpt": "<p>A penny for Pep Guardiola’s thoughts. The legendary Manchester City manager was back at the…",
-      "link": "https://www.theguardian.com/football/2026/oct/14/manchester-city-psg-champions-league-league-stage-match-report",
-      "image": "https://i.guim.co.uk/img/media/1cafab175cf3ff76ee74a8450a376c6766778130/257_176_1739_1391/master/1739.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=0e8ea4ed598e1054aad5b8517a0868fc"
-    },
-    {
-      "id": "story-23",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "The Guardian",
-      "time": "Oct 14",
-      "headline": "Millwall’s Alex Neil criticised for his comments on stoppage for alleged racism",
-      "excerpt": "<ul><li><p>Kick It Out statement: managers should ‘set the tone’</p></li><li><p>Head coach said delay in Swansea game…",
-      "link": "https://www.theguardian.com/football/2026/oct/14/millwall-alex-neil-criticised-by-kick-it-out-statement",
-      "image": "https://i.guim.co.uk/img/media/7e1755a8e49475c5b6a4546d1ea096e604bf280a/423_0_4871_3898/master/4871.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a80cad9b926e1dfd388c1a497f552c80"
     }
   ],
   "scoreboard": [
