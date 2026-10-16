@@ -1,19 +1,151 @@
 {
-  "updatedAt": "2026-10-16T09:27:54.898Z",
+  "updatedAt": "2026-10-16T14:06:58.500Z",
   "hero": {
     "id": "story-0",
     "league": "Premier League",
     "dot": "#9CC0F0",
     "source": "BBC Sport",
     "time": "Oct 16",
-    "headline": "'I'm fortunate to be alive' - Merino relives bus attack",
-    "excerpt": "Arsenal and Spain midfielder Mikel Merino reflects on the attack on Dortmund's team bus in…",
-    "link": "https://www.bbc.co.uk/sport/football/articles/c8dx3l9r5lqlo?at_medium=RSS&amp;at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7e98/live/d5701d60-c92a-11f1-bcc7-a3638a736ce9.jpg"
+    "headline": "'I am telling you the truth' - Carrick on Martinez fallout",
+    "excerpt": "Manchester United boss Michael Carrick says he is telling the truth about the club moving…",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cm4g189leelno?at_medium=RSS&amp;at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1307/live/63565910-c961-11f1-a64c-550be9e3c66b.jpg"
   },
   "topStories": [
     {
       "id": "story-1",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "The Guardian",
+      "time": "Oct 16",
+      "headline": "Carrick includes Martínez in squad; Maresca feels ‘no stress’; Watford sacking reports ‘fake news’: football – live",
+      "excerpt": "<p>⚽ All the latest football news heading into the weekend<br>⚽ <a href=\"https://www.theguardian.com/football/2026/oct/16/premier-league-10-things-to-look-out-for-this-weekend\">Ten things to look…",
+      "link": "https://www.theguardian.com/football/live/2026/oct/16/martinez-sorry-outburst-european-reaction-premier-league-latest-football-news-live",
+      "image": "https://i.guim.co.uk/img/media/4eae66f1fae7b9080a5ca3f8884726cb952855c5/603_0_5483_4387/master/5483.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=5e0e650556821d2edb43a4e210a0ff2e"
+    },
+    {
+      "id": "story-2",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "BBC Sport",
+      "time": "Oct 16",
+      "headline": "Celtic-Hearts showdown tops weekend's Premiership bill",
+      "excerpt": "Celtic face Heart of Midlothian in the big game of the Scottish Premiership weekend on…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c6jrwn993y0lo?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3ba6/live/4c1d49e0-c95f-11f1-a64c-550be9e3c66b.png"
+    },
+    {
+      "id": "story-3",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "101 Great Goals",
+      "time": "Oct 16",
+      "headline": "Chelsea: Alonso offers no timeline for James return amid reports of three-month lay-off",
+      "excerpt": "Another long spell on the sidelines awaits the Chelsea skipper.",
+      "link": "https://www.101greatgoals.com/football/premier-league/chelsea-alonso-offers-no-timeline-for-james-return-amid-reports-of-three-month-lay-off/",
+      "image": null
+    },
+    {
+      "id": "story-4",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "BBC Sport",
+      "time": "Oct 16",
+      "headline": "Chelsea's James out for three months after knee surgery",
+      "excerpt": "Chelsea captain Reece James is set to miss three months of action after undergoing knee…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cq073d9l0ly9o?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9e9d/live/09e289c0-c93f-11f1-8c38-abe947e72d6d.jpg"
+    },
+    {
+      "id": "story-5",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "BBC Sport",
+      "time": "Oct 16",
+      "headline": "Harrogate boss Weaver becomes co-owner",
+      "excerpt": "Long-serving Harrogate Town manager Simon Weaver becomes co-owner of the National League club, ending his…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cwe9lx8jmv71o?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4f23/live/e0cc7630-c962-11f1-a6e6-417671ef62cb.jpg"
+    },
+    {
+      "id": "story-6",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "BBC Sport",
+      "time": "Oct 16",
+      "headline": "Spain handed partial stadium closure after discriminatory chants v Egypt",
+      "excerpt": "Spain must play their next international friendly with a partial stadium closure after supporters sang…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cr86zg3w2lg2o?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9776/live/b4fd1f80-32ab-11f1-a335-4b4a52c0a693.jpg"
+    },
+    {
+      "id": "story-7",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "BBC Sport",
+      "time": "Oct 16",
+      "headline": "Plymouth Parkway ready for their 'FA Cup final' in bid to reach first round",
+      "excerpt": "Plymouth's lesser known team, Plymouth Parkway, are bidding to reach round one of the FA…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cm8xzvpyd8qdo?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/30ec/live/214e8fd0-c941-11f1-8c38-abe947e72d6d.jpg"
+    },
+    {
+      "id": "story-8",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "BBC Sport",
+      "time": "Oct 16",
+      "headline": "'Not about me' - Arbeloa dismisses future questions",
+      "excerpt": "Fulham head coach Alvaro Arbeloa says the focus should not be on him as his…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c615jw414vypo?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/afa5/live/e831b9f0-c947-11f1-8566-4db41fa77717.jpg"
+    },
+    {
+      "id": "story-9",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "BBC Sport",
+      "time": "Oct 16",
+      "headline": "Arrest made after alleged racial abuse of Swansea's Eom",
+      "excerpt": "Police investigating a report of racial abuse during Millwall's Championship game against Swansea City have…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cmdx3nk7kwwro?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2917/live/2bdbfd10-c74e-11f1-b4d5-87f9c6c95a29.jpg"
+    },
+    {
+      "id": "story-10",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "The Guardian",
+      "time": "Oct 16",
+      "headline": "Álvaro Arbeloa’s push to make Fulham free-flowing is floundering already",
+      "excerpt": "<p>Spanish head coach will be under huge pressure if he comes unstuck again at home…",
+      "link": "https://www.theguardian.com/football/2026/oct/16/alvaro-arbeloas-push-to-make-fulham-free-flowing-is-floundering-already",
+      "image": "https://i.guim.co.uk/img/media/ac8d311a9dd669e9006b36a293c3e275998a0b09/462_0_4223_3378/master/4223.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=696d10d75f289238346ef66123a44f37"
+    },
+    {
+      "id": "story-11",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "BBC Sport",
+      "time": "Oct 16",
+      "headline": "How to follow the Premier League on the BBC this weekend",
+      "excerpt": "Our Ask Me Anything team explains how to follow matches from week seven of the…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cp30ggvqj0do?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/21af/live/b0d4c810-c944-11f1-9357-bdb8a3cad3e4.jpg"
+    },
+    {
+      "id": "story-12",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "BBC Sport",
+      "time": "Oct 16",
+      "headline": "'I'm fortunate to be alive' - Merino relives bus attack",
+      "excerpt": "Arsenal and Spain midfielder Mikel Merino reflects on the attack on Dortmund's team bus in…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c8dx3l9r5lqlo?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7e98/live/d5701d60-c92a-11f1-bcc7-a3638a736ce9.jpg"
+    },
+    {
+      "id": "story-13",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -24,29 +156,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b435/live/c14ea750-c88c-11f1-b0a4-81e564f1cfaa.jpg"
     },
     {
-      "id": "story-2",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "The Guardian",
-      "time": "Oct 16",
-      "headline": "Martínez sorry for outburst; Reece James undergoes surgery; Premier League news: football – live",
-      "excerpt": "<p>⚽ All the latest football news heading into the weekend<br>⚽ <a href=\"https://www.theguardian.com/football/2026/oct/16/premier-league-10-things-to-look-out-for-this-weekend\">Ten things to look…",
-      "link": "https://www.theguardian.com/football/live/2026/oct/16/martinez-sorry-outburst-european-reaction-premier-league-latest-football-news-live",
-      "image": "https://i.guim.co.uk/img/media/b2f9d42398f4f915691e356eaa46f36f297595cc/292_0_2917_2333/master/2917.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=43658295662642ac6b586b1eaa4cb295"
-    },
-    {
-      "id": "story-3",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "BBC Sport",
-      "time": "Oct 16",
-      "headline": "Chelsea's Reece James has surgery for knee issue",
-      "excerpt": "Chelsea announce captain Reece James has undergone successful surgery on a knee injury.",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cq073d9l0ly9o?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9e9d/live/09e289c0-c93f-11f1-8c38-abe947e72d6d.jpg"
-    },
-    {
-      "id": "story-4",
+      "id": "story-14",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -57,18 +167,18 @@
       "image": "https://i.guim.co.uk/img/media/cfa2fe56946e859094446ca07e9e6d72e005a008/286_0_3564_2853/master/3564.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=fd32f205eec7c22aaf90e2706350e398"
     },
     {
-      "id": "story-5",
+      "id": "story-15",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
       "time": "Oct 16",
-      "headline": "Under pressure Dionisi addresses sacking 'fake news'",
+      "headline": "Under-pressure Dionisi addresses sacking 'fake news'",
       "excerpt": "Under pressure Watford manager Alessio Dionisi says reports he would lose his job after Tuesday's…",
       "link": "https://www.bbc.co.uk/sport/football/articles/cvrly0n268xwo?at_medium=RSS&amp;at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a026/live/1273ef70-c93a-11f1-bc2e-018d645d8d21.jpg"
     },
     {
-      "id": "story-6",
+      "id": "story-16",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "The Guardian",
@@ -79,18 +189,7 @@
       "image": "https://i.guim.co.uk/img/media/0d6023d7370d0ddf1f4e6f347bfd488dde9127e0/536_0_4403_3523/master/4403.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=229b3808098a47626973812aee2d3129"
     },
     {
-      "id": "story-7",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "101 Great Goals",
-      "time": "Oct 16",
-      "headline": "&#8216;It&#8217;s B.S.&#8217; &#8211; Darnold refuses to sugarcoat performance after turnovers doom Seahawks to defeat in Denver",
-      "excerpt": "The defending champions dropped to 3-3.",
-      "link": "https://www.101greatgoals.com/nfl/darnold-turnovers-doom-seahawks-defeat/",
-      "image": null
-    },
-    {
-      "id": "story-8",
+      "id": "story-17",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -101,7 +200,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/24b3/live/545b9ea0-c93b-11f1-a64c-550be9e3c66b.jpg"
     },
     {
-      "id": "story-9",
+      "id": "story-18",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -112,7 +211,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/70ed/live/f2087120-c8a3-11f1-a64c-550be9e3c66b.jpg"
     },
     {
-      "id": "story-10",
+      "id": "story-19",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -123,7 +222,7 @@
       "image": "https://i.guim.co.uk/img/media/6ef743c21e77be71ac4bed34eef64c6054e2c164/298_0_6880_5504/master/6880.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=92b52830406592f6cd144118880f3bd2"
     },
     {
-      "id": "story-11",
+      "id": "story-20",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -134,7 +233,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7696/live/69414400-c8a5-11f1-a64c-550be9e3c66b.png"
     },
     {
-      "id": "story-12",
+      "id": "story-21",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -145,7 +244,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0e49/live/df252120-c899-11f1-9a39-31b474234113.png"
     },
     {
-      "id": "story-13",
+      "id": "story-22",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -156,7 +255,7 @@
       "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0ph0g7f.jpg"
     },
     {
-      "id": "story-14",
+      "id": "story-23",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -165,105 +264,6 @@
       "excerpt": "How Brighton's Fabian Hurzeler has gone from Germany's fifth tier to being reportedly of interest…",
       "link": "https://www.bbc.co.uk/sport/football/articles/cmde8l07569no?at_medium=RSS&amp;at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0837/live/9bbd98a0-c63b-11f1-b99d-0127a94fa1d0.png"
-    },
-    {
-      "id": "story-15",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "BBC Sport",
-      "time": "Oct 16",
-      "headline": "Who am I? Plus today's other quizzes",
-      "excerpt": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cqp8gymplmvdo?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fbf/live/38bd3c70-bda7-11f1-bc2e-018d645d8d21.png"
-    },
-    {
-      "id": "story-16",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "BBC Sport",
-      "time": "Oct 16",
-      "headline": "Balikwisha blames Celtic for World Cup axe - gossip",
-      "excerpt": "Michel-Ange Balikwisha blames Celtic for his failure to make DR Congo's World Cup squad, while…",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cm62y9yl2v66o?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d090/live/3bf8baa0-c927-11f1-bc2e-018d645d8d21.png"
-    },
-    {
-      "id": "story-17",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "BBC Sport",
-      "time": "Oct 16",
-      "headline": "Does the Premier League 'Big Six' still exist?",
-      "excerpt": "For years the Premier League has had a defined 'Big Six', comprised of Arsenal, Chelsea,…",
-      "link": "https://www.bbc.co.uk/sport/football/articles/ckj0lrjzjgqno?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0fa7/live/42928a00-c317-11f1-8f04-85217d686658.jpg"
-    },
-    {
-      "id": "story-18",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "BBC Sport",
-      "time": "Oct 15",
-      "headline": "O'Neill defiant in defeat, but Celtic's 'flat-track bullies' fail another big test",
-      "excerpt": "Celtic have now lost two Europa League group games, as well as two derbies -…",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cwm243rxn1pxo?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4ebf/live/9cc98cc0-c8e0-11f1-aed7-153a8dff3c2e.jpg"
-    },
-    {
-      "id": "story-19",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "The Guardian",
-      "time": "Oct 15",
-      "headline": "Premier League: 10 things to look out for this weekend",
-      "excerpt": "<p>Henderson back on Merseyside, Farke threatens more misery for Carrick and Forest are a threat…",
-      "link": "https://www.theguardian.com/football/2026/oct/16/premier-league-10-things-to-look-out-for-this-weekend",
-      "image": "https://i.guim.co.uk/img/media/9715176d9862ff937010b6d6e3a0093ce5eee2c8/0_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=bcddecdd531239a19d5f93291ba6ec21"
-    },
-    {
-      "id": "story-20",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "BBC Sport",
-      "time": "Oct 15",
-      "headline": "Minus 17 to European dreams as Bournemouth fairytale continues",
-      "excerpt": "It was a night 127 years in the making as Bournemouth added another chapter to…",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c6lyez88m1n2o?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f616/live/09406380-c8d5-11f1-95b2-9f12d414946d.jpg"
-    },
-    {
-      "id": "story-21",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "The Guardian",
-      "time": "Oct 15",
-      "headline": "Evanilson, Rayan and Rodríguez goals seal Bournemouth’s historic home win in Europe",
-      "excerpt": "<p>An impossible dream realised: the Vitality Stadium staging European football, where the Europa League is…",
-      "link": "https://www.theguardian.com/football/2026/oct/15/bournemouth-sturm-graz-europa-league-match-report",
-      "image": "https://i.guim.co.uk/img/media/f135a30e8add1ace9fbc5644db6e21d8443ae4c2/0_271_2850_2279/master/2850.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=4e404666c1f80b309631cbe7b9ed4301"
-    },
-    {
-      "id": "story-22",
-      "league": "La Liga",
-      "dot": "#E3B4F5",
-      "source": "BBC Sport",
-      "time": "Oct 15",
-      "headline": "Euro Leagues",
-      "excerpt": "Are Barcelona and PSG the teams to beat in the Champions League?",
-      "link": "https://www.bbc.co.uk/sounds/play/p0pgz2sp?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0p4zrww.jpg"
-    },
-    {
-      "id": "story-23",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "BBC Sport",
-      "time": "Oct 15",
-      "headline": "Kane poised to extend Bayern stay - Friday's gossip",
-      "excerpt": "Harry Kane is close to signing a new deal at Bayern Munich, Arda Guler agrees…",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c95ynkv552yvo?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2eb7/live/41935680-c8ca-11f1-bc2e-018d645d8d21.png"
     }
   ],
   "scoreboard": [
