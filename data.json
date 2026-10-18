@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-18T00:23:20.105Z",
+  "updatedAt": "2026-10-18T04:47:53.249Z",
   "hero": {
     "id": "story-0",
     "league": "Premier League",
@@ -278,14 +278,24 @@
       "awayScore": 0
     },
     {
-      "id": "score-558572",
-      "league": "Serie A",
-      "dot": "#A9E6A0",
+      "id": "score-559659",
+      "league": "Ligue 1",
+      "dot": "#B8D4E8",
       "time": "Oct 17",
-      "home": "AS Roma",
-      "away": "Genoa CFC",
-      "homeScore": 2,
-      "awayScore": 0
+      "home": "ES Troyes AC",
+      "away": "Racing Club de Lens",
+      "homeScore": 1,
+      "awayScore": 3
+    },
+    {
+      "id": "score-559660",
+      "league": "Ligue 1",
+      "dot": "#B8D4E8",
+      "time": "Oct 17",
+      "home": "Lille OSC",
+      "away": "Stade Brestois 29",
+      "homeScore": 1,
+      "awayScore": 1
     },
     {
       "id": "score-560607",
@@ -316,16 +326,6 @@
       "away": "RB Leipzig",
       "homeScore": 6,
       "awayScore": 1
-    },
-    {
-      "id": "score-558571",
-      "league": "Serie A",
-      "dot": "#A9E6A0",
-      "time": "Oct 17",
-      "home": "Bologna FC 1909",
-      "away": "FC Internazionale Milano",
-      "homeScore": 1,
-      "awayScore": 3
     }
   ]
 }
