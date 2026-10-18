@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-10-18T13:14:08.223Z",
+  "updatedAt": "2026-10-18T16:32:32.460Z",
   "hero": {
     "id": "story-0",
     "league": "Premier League",
     "dot": "#9CC0F0",
-    "source": "The Guardian",
+    "source": "101 Great Goals",
     "time": "Oct 18",
-    "headline": "Chelsea 6-2 Tottenham: Women’s Super League – live reaction",
-    "excerpt": "<p>⚽ WSL updates from the 12noon BST kick-off<br>⚽ <a href=\"https://www.theguardian.com/football/live\">Scores</a> | <a href=\"https://www.theguardian.com/football/womens-super-league/table\">Table</a> | <a…",
-    "link": "https://www.theguardian.com/football/live/2026/oct/18/chelsea-v-tottenham-womens-super-league-live",
-    "image": "https://i.guim.co.uk/img/media/ae6bbb57df5cc41db73492e6b0590f5e1ad51e69/541_0_2792_2233/master/2792.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=84e49d303a55969cbc447d3a3792adf2"
+    "headline": "Gabriel comes closest as Arsenal struggle to break down Nottingham Forest in turgid encounter",
+    "excerpt": "Nottingham Forest were keeping Arsenal at arm's length during the first half hour at the…",
+    "link": "https://www.101greatgoals.com/football/premier-league/gabriel-comes-closest-as-arsenal-struggle-to-break-down-nottingham-forest-in-turgid-encounter/",
+    "image": null
   },
   "topStories": [
     {
@@ -18,13 +18,101 @@
       "dot": "#9CC0F0",
       "source": "The Guardian",
       "time": "Oct 18",
-      "headline": "Leeds United v Manchester United: Premier League – live",
-      "excerpt": "<p>⚽ Updates from the 2pm BST kick-off at Elland Road<br>⚽ <a href=\"https://www.theguardian.com/sport/2021/aug/13/the-joy-of-six-leeds-united-v-manchester-united-matches\">The Joy of Six:…",
-      "link": "https://www.theguardian.com/football/live/2026/oct/18/leeds-v-manchester-united-premier-league-live",
-      "image": "https://i.guim.co.uk/img/media/b4bc2d51007c2ee79b57db63c360b8cb3928a01d/0_0_3531_2824/master/3531.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=9b73b8492b4c847cdd718688265933ca"
+      "headline": "Nottingham Forest v Arsenal: Premier League – live",
+      "excerpt": "<p>⚽ Updates from the City Ground; kick-off 4.30pm BST<br>⚽ <a href=\"https://www.theguardian.com/football/live\">Scores</a> | <a href=\"https://www.theguardian.com/football/tables\">Tables</a> |…",
+      "link": "https://www.theguardian.com/football/live/2026/oct/18/nottingham-forest-v-arsenal-premier-league-live",
+      "image": "https://i.guim.co.uk/img/media/cf64f34f8e7c8aa52490d332c681af087faff91f/523_187_3176_2542/master/3176.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=4901b57a63e8d32d8b9773a0798f10bb"
     },
     {
       "id": "story-2",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "BBC Sport",
+      "time": "Oct 18",
+      "headline": "Man Utd showed 'unity' in draw with Leeds - Carrick",
+      "excerpt": "Manchester United manager Michael Carrick says his side showed \"unity\" during their 1-1 draw with…",
+      "link": "https://www.bbc.co.uk/sport/football/videos/cmlyl8yyzryeo?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e579/live/c8a24d20-cb09-11f1-9a39-31b474234113.jpg"
+    },
+    {
+      "id": "story-3",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "BBC Sport",
+      "time": "Oct 18",
+      "headline": "My one feeling is shame - Sage on bruising Palace defeat",
+      "excerpt": "Crystal Palace head coach Pierre Sage says he feels \"shame\" after their 5-0 defeat by…",
+      "link": "https://www.bbc.co.uk/sport/football/videos/cq3dj1ddn83xo?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c9dc/live/42795c70-cb09-11f1-a64c-550be9e3c66b.jpg"
+    },
+    {
+      "id": "story-4",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "The Guardian",
+      "time": "Oct 18",
+      "headline": "Evanilson swivels his hips to seal Bournemouth win against 10-man Sunderland",
+      "excerpt": "<p>Bournemouth’s and Marco Rose’s wait for a Premier League win is over. Sunderland, locked in…",
+      "link": "https://www.theguardian.com/football/2026/oct/18/bournemouth-sunderland-premier-league-match-report",
+      "image": "https://i.guim.co.uk/img/media/42888225105c0a91a8fb048e4c39899295ceab8c/711_0_3750_3000/master/3750.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=1c681dac39d69b6343977230e4c9f820"
+    },
+    {
+      "id": "story-5",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "The Guardian",
+      "time": "Oct 18",
+      "headline": "Manchester United held as Calvert-Lewin’s Leeds leveller keeps pressure on Carrick",
+      "excerpt": "<p>What next for Michael Carrick and Manchester United? Game-wise the answer is Wednesday’s trip to…",
+      "link": "https://www.theguardian.com/football/2026/oct/18/leeds-manchester-united-premier-league-match-report",
+      "image": "https://i.guim.co.uk/img/media/7738dfe5af4d0a6b9c1f1c476d481a9a1df89ce6/167_91_1829_1463/master/1829.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=dd349be29917d69bdb9206d51e5968ce"
+    },
+    {
+      "id": "story-6",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "The Guardian",
+      "time": "Oct 18",
+      "headline": "Gómez halfway-line wondergoal sparks Brighton’s 5-0 thrashing of sorry Crystal Palace",
+      "excerpt": "<p>At last, Fabian Hürzeler has the scalp that matters most to all Brighton fans, and…",
+      "link": "https://www.theguardian.com/football/2026/oct/18/brighton-crystal-palace-premier-league-match-report",
+      "image": "https://i.guim.co.uk/img/media/84a7288ef086a56942b4250164cefff00f63da88/530_0_3769_3015/master/3769.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=1c1c4d68eb7e9c5f6c9476cc7baed6c9"
+    },
+    {
+      "id": "story-7",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "BBC Sport",
+      "time": "Oct 18",
+      "headline": "Everything a struggle for Fernandes - Leeds v Man Utd ratings",
+      "excerpt": "Dominic Calvert-Lewin's second-half equaliser means Manchester United have now gone six games without a win…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/ckvg7v43x1xyo?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/52da/live/cdec1700-cb06-11f1-a64c-550be9e3c66b.jpg"
+    },
+    {
+      "id": "story-8",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "BBC Sport",
+      "time": "Oct 18",
+      "headline": "What awaits Everton hero Ferguson in shock Glens role?",
+      "excerpt": "The expected appointment of former Scotland striker Duncan Ferguson at Glentoran will be one of…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cwdd832e7gqmo?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4cb0/live/cc06fcc0-cad9-11f1-bec8-affa112ccb73.jpg"
+    },
+    {
+      "id": "story-9",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "The Guardian",
+      "time": "Oct 18",
+      "headline": "James and Carpenter lead Chelsea surge as sorry Spurs hit for six in WSL again",
+      "excerpt": "<p>Two goals each from a rampant Lauren James and battling Ellie Carpenter helped Chelsea to…",
+      "link": "https://www.theguardian.com/football/2026/oct/18/chelsea-tottenham-wsl-match-report",
+      "image": "https://i.guim.co.uk/img/media/9d34ed0fb72d3d30094857904c19c34c5cc2adb3/393_1406_2716_2173/master/2716.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=9a0be1a66286cbfc3a06b96806b9ee1d"
+    },
+    {
+      "id": "story-10",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -35,7 +123,7 @@
       "image": "https://i.guim.co.uk/img/media/ce94f4ebda1b9e1f11e9cc3533f44f186acd672c/0_165_388_310/master/388.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=2f4c5ef8704717b97c534d92a171045c"
     },
     {
-      "id": "story-3",
+      "id": "story-11",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -46,7 +134,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ae43/live/de9a2760-cad7-11f1-806f-7338b2b9c1b1.jpg"
     },
     {
-      "id": "story-4",
+      "id": "story-12",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -57,7 +145,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c10b/live/960bec30-cad3-11f1-bc2e-018d645d8d21.png"
     },
     {
-      "id": "story-5",
+      "id": "story-13",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -68,29 +156,29 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/50a0/live/a54a9170-cacd-11f1-9a39-31b474234113.png"
     },
     {
-      "id": "story-6",
+      "id": "story-14",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
       "time": "Oct 18",
       "headline": "Wigan pine for FA Cup glory as not even victory can lift them off foot of League One",
-      "excerpt": "<p>Gary Caldwell, club captain in 2013 and now manager, needs much more than Saturday’s win…",
+      "excerpt": "<p>Gary Caldwell, club captain in 2013 and now manager, needs much more than the weekend…",
       "link": "https://www.theguardian.com/football/2026/oct/18/wigan-pine-for-fa-cup-glory-as-not-even-victory-can-lift-them-off-foot-of-league-one",
       "image": "https://i.guim.co.uk/img/media/25ced1d77cb1ad008ff3637db8ab275d9d529141/118_17_1197_957/master/1197.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c2ca74c3fb15faded629de013ff6b150"
     },
     {
-      "id": "story-7",
+      "id": "story-15",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
       "time": "Oct 18",
-      "headline": "‘I suffer a lot’: Villarreal owner Fernando Roig on not enjoying games and the prospect of Liverpool",
-      "excerpt": "<p>It will be a tense time for club’s president despite the Champions League game at…",
+      "headline": "‘I suffer a lot’: Villarreal owner Fernando Roig on not enjoying games and the prospect of Liverpool | Sid Lowe",
+      "excerpt": "<p>It will be a tense time for Europe’s longest serving president, despite the Champions League…",
       "link": "https://www.theguardian.com/football/2026/oct/18/fernando-roig-villarreal-liverpool-champions-league",
       "image": "https://i.guim.co.uk/img/media/fc34918b6beebf00eb5ce1989b3ca297e7f09219/459_309_1402_1122/master/1402.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=bfa0d4709a942abee92f504219c4ebad"
     },
     {
-      "id": "story-8",
+      "id": "story-16",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -101,7 +189,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee2f/live/cb7000d0-b9aa-11f1-8a1a-0176f978c211.jpg"
     },
     {
-      "id": "story-9",
+      "id": "story-17",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -112,7 +200,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/59d9/live/d4203540-9afd-11f1-aed2-8d6da8d75094.jpg"
     },
     {
-      "id": "story-10",
+      "id": "story-18",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -123,7 +211,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/87d7/live/5703fb40-c7db-11f1-9a39-31b474234113.jpg"
     },
     {
-      "id": "story-11",
+      "id": "story-19",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -134,18 +222,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fbf/live/38bd3c70-bda7-11f1-bc2e-018d645d8d21.png"
     },
     {
-      "id": "story-12",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "BBC Sport",
-      "time": "Oct 18",
-      "headline": "There's a crackdown on sports piracy - but is it already out of control?",
-      "excerpt": "The sports industry's lucrative business model is being undermined by dodgy TV sticks and illegal…",
-      "link": "https://www.bbc.co.uk/news/articles/cmx2375zqwwwo?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1b79/live/6d035b30-c94c-11f1-9a39-31b474234113.jpg"
-    },
-    {
-      "id": "story-13",
+      "id": "story-20",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -156,7 +233,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/438e/live/d1402670-ca76-11f1-a64c-550be9e3c66b.jpg"
     },
     {
-      "id": "story-14",
+      "id": "story-21",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -167,7 +244,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cb38/live/8bd4bcd0-ca77-11f1-bc2e-018d645d8d21.jpg"
     },
     {
-      "id": "story-15",
+      "id": "story-22",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -178,18 +255,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/045f/live/abcd2d40-ca79-11f1-8a8a-d934d437227c.jpg"
     },
     {
-      "id": "story-16",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "BBC Sport",
-      "time": "Oct 17",
-      "headline": "Will Hearts prove credentials at scene of title heartbreak?",
-      "excerpt": "Hearts' last trip to Parkhead ended with their title dream being crushed in the space…",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c6y93xw91dv3o?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1bcd/live/5987f290-ca42-11f1-bc2e-018d645d8d21.jpg"
-    },
-    {
-      "id": "story-17",
+      "id": "story-23",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -198,134 +264,68 @@
       "excerpt": "Two games in, no points gathered and a chorus of boos greeting him at full-time…",
       "link": "https://www.bbc.co.uk/sport/football/articles/cm4g1e15g76jo?at_medium=RSS&amp;at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3004/live/efaef830-ca4d-11f1-bc2e-018d645d8d21.png"
-    },
-    {
-      "id": "story-18",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "BBC Sport",
-      "time": "Oct 17",
-      "headline": "Reedijk has 'sick feeling in stomach' - are his Hibs team in relegation fight?",
-      "excerpt": "Two games in, no points gathered and a chorus of boos greeting him at full-time…",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cm4g1e15g76jo?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3004/live/efaef830-ca4d-11f1-bc2e-018d645d8d21.png"
-    },
-    {
-      "id": "story-19",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "The Guardian",
-      "time": "Oct 17",
-      "headline": "Scottish Premiership: Rangers miss chance to go top after pulsating draw with Dundee",
-      "excerpt": "<ul><li><p>Jones equaliser denies Rangers victory</p></li><li><p>Kilmarnock beat Motherwell 3-2 to move off bottom</p></li></ul><p><strong>Rangers</strong> passed up the…",
-      "link": "https://www.theguardian.com/football/2026/oct/17/scottish-premiership-kilmarnock-rangers-dundee-celtic-hearts",
-      "image": "https://i.guim.co.uk/img/media/edab71ff19109671a602804d5cb26b8e2866ba27/742_562_2242_1794/master/2242.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b44353b04c1672f3982a1c5aa6d990df"
-    },
-    {
-      "id": "story-20",
-      "league": "La Liga",
-      "dot": "#E3B4F5",
-      "source": "The Guardian",
-      "time": "Oct 17",
-      "headline": "European football: Barcelona thrash Real Betis to maintain 100% record",
-      "excerpt": "<ul><li><p>Lamine Yamal opens scoring in ninth straight win</p></li><li><p>Luis Díaz hat-trick helps Bayern thump RB Leipzig…",
-      "link": "https://www.theguardian.com/football/2026/oct/17/european-football-bayern-munich-barcelona-psg-inter",
-      "image": "https://i.guim.co.uk/img/media/b23d3d1139e6067f0554e0f63eec47a4e53ca105/688_0_6880_5504/master/6880.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=47ddbc31f2e8235578d592d99c42bf49"
-    },
-    {
-      "id": "story-21",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "BBC Sport",
-      "time": "Oct 17",
-      "headline": "Villa's Manzambi shows Newcastle what they missed out on",
-      "excerpt": "Aston Villa are a side back in form, with Johan Manzambi scoring the winner against…",
-      "link": "https://www.bbc.co.uk/sport/football/articles/ck054652mv07o?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e187/live/674bcbf0-ca6e-11f1-a64c-550be9e3c66b.jpg"
-    },
-    {
-      "id": "story-22",
-      "league": "Bundesliga",
-      "dot": "#FFC469",
-      "source": "BBC Sport",
-      "time": "Oct 17",
-      "headline": "Diaz hat-trick fires Bayern to win in Kane's 100th Bundesliga game",
-      "excerpt": "Harry Kane scored on his 100th Bundesliga appearance while Luis Diaz netted a hat-trick as…",
-      "link": "https://www.bbc.co.uk/sport/football/videos/cmj47e479xg5o?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/be94/live/32dd4770-ca6b-11f1-a64c-550be9e3c66b.jpg"
-    },
-    {
-      "id": "story-23",
-      "league": "La Liga",
-      "dot": "#E3B4F5",
-      "source": "BBC Sport",
-      "time": "Oct 17",
-      "headline": "Lamine Yamal opens scoring as Barcelona beat Real Betis",
-      "excerpt": "Lamine Yamal, Rodri, Gabriel Jesus, Eric Garcia and Dani Olmo all scored for Barcelona as…",
-      "link": "https://www.bbc.co.uk/sport/football/videos/cmewe0wq0wj1o?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/db77/live/766abec0-ca69-11f1-9a39-31b474234113.jpg"
     }
   ],
   "scoreboard": [
     {
-      "id": "score-558574",
-      "league": "Serie A",
-      "dot": "#A9E6A0",
-      "time": "Oct 18",
-      "home": "Udinese Calcio",
-      "away": "US Lecce",
-      "homeScore": 0,
-      "awayScore": 3
-    },
-    {
-      "id": "score-564711",
+      "id": "score-564712",
       "league": "La Liga",
       "dot": "#E3B4F5",
-      "time": "Oct 17",
-      "home": "Valencia CF",
-      "away": "Athletic Club",
-      "homeScore": 0,
-      "awayScore": 0
+      "time": "Oct 18",
+      "home": "RC Celta de Vigo",
+      "away": "Deportivo Alavés",
+      "homeScore": 2,
+      "awayScore": 1
     },
     {
-      "id": "score-558572",
-      "league": "Serie A",
-      "dot": "#A9E6A0",
-      "time": "Oct 17",
-      "home": "AS Roma",
-      "away": "Genoa CFC",
+      "id": "score-565827",
+      "league": "Bundesliga",
+      "dot": "#FFC469",
+      "time": "Oct 18",
+      "home": "Bayer 04 Leverkusen",
+      "away": "SC Freiburg",
+      "homeScore": 2,
+      "awayScore": 1
+    },
+    {
+      "id": "score-560604",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "time": "Oct 18",
+      "home": "AFC Bournemouth",
+      "away": "Sunderland AFC",
       "homeScore": 2,
       "awayScore": 0
     },
     {
-      "id": "score-559659",
-      "league": "Ligue 1",
-      "dot": "#B8D4E8",
-      "time": "Oct 17",
-      "home": "ES Troyes AC",
-      "away": "Racing Club de Lens",
-      "homeScore": 1,
-      "awayScore": 3
-    },
-    {
-      "id": "score-559660",
-      "league": "Ligue 1",
-      "dot": "#B8D4E8",
-      "time": "Oct 17",
-      "home": "Lille OSC",
-      "away": "Stade Brestois 29",
+      "id": "score-560605",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "time": "Oct 18",
+      "home": "Leeds United FC",
+      "away": "Manchester United FC",
       "homeScore": 1,
       "awayScore": 1
     },
     {
-      "id": "score-564713",
-      "league": "La Liga",
-      "dot": "#E3B4F5",
-      "time": "Oct 17",
-      "home": "Real Betis Balompié",
-      "away": "FC Barcelona",
-      "homeScore": 2,
-      "awayScore": 5
+      "id": "score-560609",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "time": "Oct 18",
+      "home": "Brighton & Hove Albion FC",
+      "away": "Crystal Palace FC",
+      "homeScore": 5,
+      "awayScore": 0
+    },
+    {
+      "id": "score-558577",
+      "league": "Serie A",
+      "dot": "#A9E6A0",
+      "time": "Oct 18",
+      "home": "ACF Fiorentina",
+      "away": "Como 1907",
+      "homeScore": 1,
+      "awayScore": 3
     }
   ]
 }
