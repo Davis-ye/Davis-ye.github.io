@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-10-18T23:03:02.639Z",
+  "updatedAt": "2026-10-19T01:04:01.776Z",
   "hero": {
     "id": "story-0",
     "league": "Premier League",
     "dot": "#9CC0F0",
     "source": "BBC Sport",
     "time": "Oct 18",
-    "headline": "'Why not?' - Are 'breathtaking' Brighton in title race?",
+    "headline": "'Why not?' - are 'breathtaking' Brighton in title race?",
     "excerpt": "Match of the Day pundits Shay Given and Dion Dublin analyse Brighton's emphatic 5-0 victory…",
     "link": "https://www.bbc.co.uk/sport/football/videos/c679plrx05q7o?at_medium=RSS&amp;at_campaign=rss",
     "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fd85/live/29f44ad0-cb3f-11f1-9a39-31b474234113.jpg"
@@ -288,6 +288,16 @@
       "awayScore": 3
     },
     {
+      "id": "score-559665",
+      "league": "Ligue 1",
+      "dot": "#B8D4E8",
+      "time": "Oct 18",
+      "home": "Olympique Lyonnais",
+      "away": "OGC Nice",
+      "homeScore": 2,
+      "awayScore": 1
+    },
+    {
       "id": "score-564714",
       "league": "La Liga",
       "dot": "#E3B4F5",
@@ -316,16 +326,6 @@
       "away": "Arsenal FC",
       "homeScore": 0,
       "awayScore": 1
-    },
-    {
-      "id": "score-565826",
-      "league": "Bundesliga",
-      "dot": "#FFC469",
-      "time": "Oct 18",
-      "home": "Borussia Mönchengladbach",
-      "away": "TSG 1899 Hoffenheim",
-      "homeScore": 1,
-      "awayScore": 2
     }
   ]
 }
