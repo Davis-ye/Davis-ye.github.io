@@ -1,19 +1,129 @@
 {
-  "updatedAt": "2026-10-20T11:24:03.522Z",
+  "updatedAt": "2026-10-20T15:42:23.778Z",
   "hero": {
     "id": "story-0",
     "league": "Football",
     "dot": "#AFC4AC",
-    "source": "BBC Sport",
+    "source": "The Guardian",
     "time": "Oct 20",
-    "headline": "The 'Teenage Dirtbags' sponsored by US rock band",
-    "excerpt": "The US frontman, responsible for Teenage Dirtbag, says the team could be treated to a…",
-    "link": "https://www.bbc.co.uk/news/articles/c6j9kwmkd7gwo?at_medium=RSS&amp;at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/795e/live/f507d8c0-cbb4-11f1-81ef-39e22b578b80.jpg"
+    "headline": "US under-17 women beat Samoa 17-0 for biggest win in World Cup history",
+    "excerpt": "<ul><li><p>Result is largest margin at any age level of a World Cup</p></li><li><p>DiMaria is first to…",
+    "link": "https://www.theguardian.com/football/2026/oct/20/uswnt-u-17-samoa-world-cup",
+    "image": "https://i.guim.co.uk/img/media/b258877357f68118e326d6fbac53b8d68552c038/1217_299_3460_2769/master/3460.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e4d116b1f2bac78f62229d1b2e6ec688"
   },
   "topStories": [
     {
       "id": "story-1",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "101 Great Goals",
+      "time": "Oct 20",
+      "headline": "Ex-Arsenal winger Gnabry eager to shine for Bayern Munich against former mentor Arteta",
+      "excerpt": "Bayern Munich host Arsenal in the Champions League on Wednesday night and there will be…",
+      "link": "https://www.101greatgoals.com/football/champions-league/arsenal-winger-serge-gnabry-bayern-munich-against-former-mentor-mikel-arteta/",
+      "image": null
+    },
+    {
+      "id": "story-2",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "The Guardian",
+      "time": "Oct 20",
+      "headline": "Football Daily | Kulusevski and Maddison return to form but are Tottenham also back?",
+      "excerpt": "<p>As Tottenham <a href=\"https://www.theguardian.com/football/2026/oct/19/tottenham-coventry-premier-league-match-report\">edged to victory over Coventry</a>, a familiar face among the post-match salutations.…",
+      "link": "https://www.theguardian.com/football/2026/oct/20/tottenham-hotspur-win-football-daily-newsletter",
+      "image": "https://i.guim.co.uk/img/media/4cd9448f9e4dc793581b766f100095433e191451/270_394_3442_2754/master/3442.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b38e26e8ff7fcf91af0d1c3539683923"
+    },
+    {
+      "id": "story-3",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "BBC Sport",
+      "time": "Oct 20",
+      "headline": "Former Norwich and Finland striker Pukki to retire",
+      "excerpt": "Former Norwich City and Finland striker Teemu Pukki announces his retirement from football at the…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cqvg0vjde20mo?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/84e9/live/8e332b60-cc89-11f1-bed8-c51b95c602ec.jpg"
+    },
+    {
+      "id": "story-4",
+      "league": "Champions League",
+      "dot": "#F0C878",
+      "source": "BBC Sport",
+      "time": "Oct 20",
+      "headline": "What are the yellow card suspension rules in Champions League?",
+      "excerpt": "BBC Sport's Ask Me Anything team explains what the rules are regarding yellow card suspensions…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c54g1vpypgw3o?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f26a/live/ded10400-cc86-11f1-bed8-c51b95c602ec.jpg"
+    },
+    {
+      "id": "story-5",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "The Guardian",
+      "time": "Oct 20",
+      "headline": "How Brazil’s election result could shape women’s football in the country",
+      "excerpt": "<p>Female players including Carlinha and Tayla Carolina have spoken out against the far-right, who they…",
+      "link": "https://www.theguardian.com/football/2026/oct/20/how-brazils-election-result-could-shape-womens-football-in-the-country",
+      "image": "https://i.guim.co.uk/img/media/5713a37adb5cc2888356f5072bc12327ae22be66/336_0_3497_2798/master/3497.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d8eb28f9d4c9bf1022b57289873e2cd8"
+    },
+    {
+      "id": "story-6",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "BBC Sport",
+      "time": "Oct 20",
+      "headline": "Ronaldo let Manchester United down - Ten Hag",
+      "excerpt": "Former Manchester United manager Erik ten Hag says Cristiano Ronaldo \"let the team and let…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c8dx32rn297wo?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7e6d/live/b98ab360-cc79-11f1-bed8-c51b95c602ec.jpg"
+    },
+    {
+      "id": "story-7",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "The Guardian",
+      "time": "Oct 20",
+      "headline": "Animal rights group urges Crystal Palace to retire bald eagle mascot",
+      "excerpt": "<ul><li><p>Peta calls on club to never again use a live animal mascot</p></li><li><p>‘There’s no reason to…",
+      "link": "https://www.theguardian.com/football/2026/oct/20/amimal-rights-group-peta-urges-crystal-palace-retire-bald-eagle-mascot-phoenix-selhurst-park",
+      "image": "https://i.guim.co.uk/img/media/093119a966e8f12385ca1cc013e27a84eb5555ab/740_0_5160_4128/master/5160.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=7d30c6fa659d9822dce6d58c486055b5"
+    },
+    {
+      "id": "story-8",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "BBC Sport",
+      "time": "Oct 20",
+      "headline": "What does Celtic's demolition of Hearts mean for Hogh?",
+      "excerpt": "BBC Scotland examines whether Celtic’s 7-1 win over Hearts proved they are better without their…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cmx23n4qvnzeo?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1240/live/3fcd5880-cc78-11f1-baeb-8d65d4bcd7ab.jpg"
+    },
+    {
+      "id": "story-9",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "BBC Sport",
+      "time": "Oct 20",
+      "headline": "Football On Trial: Sham City",
+      "excerpt": "The independent commission reaches its verdict: City are guilty on almost all charges.",
+      "link": "https://www.bbc.co.uk/sounds/play/p0phm65x?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0ks0x6f.jpg"
+    },
+    {
+      "id": "story-10",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "BBC Sport",
+      "time": "Oct 20",
+      "headline": "Why Teenage Dirtbag rockers sponsor U13 boys' team",
+      "excerpt": "The US frontman, responsible for Teenage Dirtbag, says the team could be treated to a…",
+      "link": "https://www.bbc.co.uk/news/articles/c6j9kwmkd7gwo?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/795e/live/f507d8c0-cbb4-11f1-81ef-39e22b578b80.jpg"
+    },
+    {
+      "id": "story-11",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -24,7 +134,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9ece/live/a85157f0-cc71-11f1-baeb-8d65d4bcd7ab.jpg"
     },
     {
-      "id": "story-2",
+      "id": "story-12",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -35,29 +145,18 @@
       "image": "https://i.guim.co.uk/img/media/bca316b352ae27aea0282a113f93b4ade9c91737/165_67_1558_1246/master/1558.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3b1bfdd8e43d0588554e01d7a32a1f9c"
     },
     {
-      "id": "story-3",
-      "league": "Champions League",
-      "dot": "#F0C878",
-      "source": "101 Great Goals",
+      "id": "story-13",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "The Guardian",
       "time": "Oct 20",
-      "headline": "Champions League predictions: Full guide to Matchday 3 2026/27",
-      "excerpt": "The lowdown on Champions League Matchday 3",
-      "link": "https://www.101greatgoals.com/football/champions-league/champions-league-predictions-schedule-standings-games/",
-      "image": "https://www.101greatgoals.com/wp-content/uploads/2026/09/3FDJCMH-1-1.jpg"
+      "headline": "Two more years for Sarina, six more goals against Spurs, and Arsenal boos – Women’s Football Weekly",
+      "excerpt": "<p><a href=\"https://bsky.app/profile/fayecarruthers.bsky.social\">Faye Carruthers</a> is joined by <a href=\"https://bsky.app/profile/suzywrack.bsky.social\">Suzanne Wrack</a>, <a href=\"https://www.theguardian.com/profile/sophie-downey\">Sophie Downey</a> and <a href=\"https://www.theguardian.com/profile/marva-kreel\">Marva…",
+      "link": "https://www.theguardian.com/football/audio/2026/oct/20/two-more-years-for-sarina-six-more-goals-against-spurs-and-arsenal-boos-womens-football-weekly",
+      "image": "https://i.guim.co.uk/img/media/76f52c5c929407edb0f6fa8689f4ca0ddf8b381d/324_0_4608_3688/master/4608.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f766be5ffe4f5a93da667cd29727b110"
     },
     {
-      "id": "story-4",
-      "league": "Champions League",
-      "dot": "#F0C878",
-      "source": "101 Great Goals",
-      "time": "Oct 20",
-      "headline": "Tip of the Day: Ignore the Champions League and bank on this League Two double",
-      "excerpt": "There are some big European games tonight but we've looked further down the pyramid for…",
-      "link": "https://www.101greatgoals.com/football/tip-of-the-day-league-two-double/",
-      "image": null
-    },
-    {
-      "id": "story-5",
+      "id": "story-14",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -68,18 +167,7 @@
       "image": "https://i.guim.co.uk/img/media/ebdc9bcf60339f3f65cdfc9f9bebe0398c4ee647/0_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e9e4025093ed18ae4dd300ff587acdb3"
     },
     {
-      "id": "story-6",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "101 Great Goals",
-      "time": "Oct 20",
-      "headline": "&#8216;He didn&#8217;t prepare himself&#8217; &#8211; Ten Hag says lazy Ronaldo was not fit during second stint at Manchester United",
-      "excerpt": "Erik ten Hag says Cristiano Ronaldo 'did not run in possession or out of possession'…",
-      "link": "https://www.101greatgoals.com/football/premier-league/cristiano-ronaldo-did-not-prepare-himself-former-man-united-boss-ten-hag-says-portugal-star-was-unfit-at-old-trafford/",
-      "image": null
-    },
-    {
-      "id": "story-7",
+      "id": "story-15",
       "league": "La Liga",
       "dot": "#E3B4F5",
       "source": "BBC Sport",
@@ -90,73 +178,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e053/live/2a307260-cba0-11f1-9ee2-f74dfb8e54e5.png"
     },
     {
-      "id": "story-8",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "101 Great Goals",
-      "time": "Oct 20",
-      "headline": "Liverpool v Villarreal: Preview, expected line-ups, stats and where to watch",
-      "excerpt": "Liverpool will hope to cap an excellent few days with victory over Villarreal at Anfield…",
-      "link": "https://www.101greatgoals.com/match-previews/champions-league-matches/liverpool-v-villarreal-preview-expected-line-ups-stats-stream-where-to-watch/",
-      "image": null
-    },
-    {
-      "id": "story-9",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "101 Great Goals",
-      "time": "Oct 20",
-      "headline": "San Francisco 49ers go 6-0 on record-breaking night for QB Brock Purdy but lose another wide receiver",
-      "excerpt": "San Francisco's 23-17 MNF win over the Washington Commanders came at a cost for both…",
-      "link": "https://www.101greatgoals.com/nfl/san-francisco-6-0-record-breaking-night-qb-brock-purdy-but-lose-another-wide-receiver/",
-      "image": null
-    },
-    {
-      "id": "story-10",
-      "league": "La Liga",
-      "dot": "#E3B4F5",
-      "source": "101 Great Goals",
-      "time": "Oct 20",
-      "headline": "PSG v Barcelona: Preview, expected line-ups, stats and where to watch",
-      "excerpt": "Arguably the best two teams in Europe clash on Tuesday night with PSG hosting Barcelona…",
-      "link": "https://www.101greatgoals.com/match-previews/champions-league-matches/psg-v-barcelona-preview-expected-line-ups-stats-stream-where-to-watch/",
-      "image": null
-    },
-    {
-      "id": "story-11",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "101 Great Goals",
-      "time": "Oct 20",
-      "headline": "Man City v AEK Athens: Preview, expected line-ups, stats and where to watch",
-      "excerpt": "Manchester City take on AEK Athens in the Champions League on Tuesday night. They will…",
-      "link": "https://www.101greatgoals.com/match-previews/champions-league-matches/man-city-v-aek-athens-preview-expected-line-ups-stats-stream-where-to-watch/",
-      "image": null
-    },
-    {
-      "id": "story-12",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "101 Great Goals",
-      "time": "Oct 20",
-      "headline": "Al Nassr v NEOM: Preview, expected line-ups, stats and where to watch as Ronaldo aims to stay on goal trail",
-      "excerpt": "Cristiano Ronaldo has scored in his last two appearances for Al-Nassr, who take on NEOM…",
-      "link": "https://www.101greatgoals.com/match-previews/al-nassr-v-neom-preview-expected-line-ups-stats-stream-where-to-watch-cristiano-ronaldo/",
-      "image": null
-    },
-    {
-      "id": "story-13",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "The Guardian",
-      "time": "Oct 20",
-      "headline": "Dwight Yorke: ‘I’m not a kid trying to get into management – I’m a manager’",
-      "excerpt": "<p>Ghana may soon come calling for Trinidad and Tobago’s former captain and manager, who is…",
-      "link": "https://www.theguardian.com/football/2026/oct/20/dwight-yorke-interview-manager-ghana-trinidad-and-tobago",
-      "image": "https://i.guim.co.uk/img/media/ec4ae3cdaab26b47620d5a9c17280095b5b89a80/1427_370_7377_5902/master/7377.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=57c9e62d0256ecc13d658198ff58bb35"
-    },
-    {
-      "id": "story-14",
+      "id": "story-16",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -167,7 +189,18 @@
       "image": "https://i.guim.co.uk/img/media/6c4bff171c37fdaaa54d4033dbe3d8b40317fd5d/0_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=2feed56aff231595d4316abcb7da067a"
     },
     {
-      "id": "story-15",
+      "id": "story-17",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "The Guardian",
+      "time": "Oct 20",
+      "headline": "Dwight Yorke: ‘I’m not a kid trying to get into management – I’m a manager’",
+      "excerpt": "<p>Ghana may soon come calling for Trinidad and Tobago’s former captain and manager, who is…",
+      "link": "https://www.theguardian.com/football/2026/oct/20/dwight-yorke-interview-manager-ghana-trinidad-and-tobago",
+      "image": "https://i.guim.co.uk/img/media/ec4ae3cdaab26b47620d5a9c17280095b5b89a80/1427_370_7377_5902/master/7377.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=57c9e62d0256ecc13d658198ff58bb35"
+    },
+    {
+      "id": "story-18",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -178,7 +211,7 @@
       "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0phljns.jpg"
     },
     {
-      "id": "story-16",
+      "id": "story-19",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -189,7 +222,18 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f557/live/c0c14750-c60e-11f1-bc2e-018d645d8d21.png"
     },
     {
-      "id": "story-17",
+      "id": "story-20",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "BBC Sport",
+      "time": "Oct 20",
+      "headline": "Steve Bracknall Podcast: Touchline Shouts",
+      "excerpt": "In the first of a series of BONUS episodes, Steve talks to Royal Oak FC…",
+      "link": "https://www.bbc.co.uk/sounds/play/p0phk1gv?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0phk1kp.jpg"
+    },
+    {
+      "id": "story-21",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -200,7 +244,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fbf/live/38bd3c70-bda7-11f1-bc2e-018d645d8d21.png"
     },
     {
-      "id": "story-18",
+      "id": "story-22",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "The Guardian",
@@ -211,7 +255,7 @@
       "image": "https://i.guim.co.uk/img/media/3deae4b96f96bb626bdb753000ddb7171a54c47d/171_0_1706_1365/master/1706.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=398046152542bfff7d097e5befcd0c71"
     },
     {
-      "id": "story-19",
+      "id": "story-23",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -220,50 +264,6 @@
       "excerpt": "After every round of Premier League matches this season, Troy Deeney gives us his team…",
       "link": "https://www.bbc.co.uk/sport/football/articles/cqgm0zy4d23po?at_medium=RSS&amp;at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fd0e/live/c9b89c40-cc13-11f1-bc2e-018d645d8d21.jpg"
-    },
-    {
-      "id": "story-20",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "BBC Sport",
-      "time": "Oct 19",
-      "headline": "Maddison's magic moment for Spurs - 18 months in the making",
-      "excerpt": "On his first start since May 2025, James Maddison provided the moment of magic Tottenham…",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cwz0v8le7y3eo?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/611a/live/fdd65490-cc09-11f1-838e-3908c706e890.jpg"
-    },
-    {
-      "id": "story-21",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "The Guardian",
-      "time": "Oct 19",
-      "headline": "‘Like a family’: De Zerbi credits players’ talk and bonding trip for improving Tottenham",
-      "excerpt": "<ul><li><p>Spurs off bottom after first win against Coventry</p></li><li><p>Lampard unhappy Marmoush goal stood</p></li></ul><p>Roberto De Zerbi said…",
-      "link": "https://www.theguardian.com/football/2026/oct/19/players-meeting-and-bonding-trip-have-boosted-tottenham-says-de-zerbi",
-      "image": "https://i.guim.co.uk/img/media/f690e7fe461b07a7672e7ed817b0bab1824891a7/283_0_4083_3266/master/4083.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f64160e528551efd39d44ea2ed6a0c47"
-    },
-    {
-      "id": "story-22",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "101 Great Goals",
-      "time": "Oct 19",
-      "headline": "De Zerbi hails Tottenham as &#8216;very good team&#8217; after Spurs end winless run",
-      "excerpt": "De Zerbi hailed the spirit of his side after they ended their winless run.",
-      "link": "https://www.101greatgoals.com/football/premier-league/de-zerbi-hails-tottenham-as-very-good-team-after-spurs-end-winless-run/",
-      "image": null
-    },
-    {
-      "id": "story-23",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "BBC Sport",
-      "time": "Oct 19",
-      "headline": "Liverpool and Man Utd eye Nmecha - Tuesday's gossip",
-      "excerpt": "Liverpool and Manchester United are interested in Borussia Dortmund midfielder Felix Nmecha, plus the rest…",
-      "link": "https://www.bbc.co.uk/sport/football/articles/crjwe6wyjeqwo?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/37af/live/f32f97b0-cbf3-11f1-9a39-31b474234113.png"
     }
   ],
   "scoreboard": [
