@@ -1,19 +1,85 @@
 {
-  "updatedAt": "2026-10-21T15:23:08.630Z",
+  "updatedAt": "2026-10-21T19:23:45.530Z",
   "hero": {
     "id": "story-0",
-    "league": "La Liga",
-    "dot": "#E3B4F5",
-    "source": "101 Great Goals",
+    "league": "Premier League",
+    "dot": "#9CC0F0",
+    "source": "The Guardian",
     "time": "Oct 21",
-    "headline": "Cristiano Ronaldo sends emotional message to Khvicha Kvaratskhelia after ACL injury vs Barcelona",
-    "excerpt": "Cristiano Ronaldo has sent his sympathies to Khvicha Kvaratskhelia after he tore his ACL in…",
-    "link": "https://www.101greatgoals.com/football/champions-league/cristiano-ronaldo-emotional-message-to-khvicha-kvaratskhelia/",
-    "image": null
+    "headline": "Como 4-1 Manchester United: Champions League – live reaction",
+    "excerpt": "<p>⚽️ Champions League updates from 5.45pm BST<br>⚽️ <a href=\"https://www.theguardian.com/football/live\">Live scoreboard</a> | <a href=\"https://www.theguardian.com/football/championsleague/table\">Champions League table</a>…",
+    "link": "https://www.theguardian.com/football/live/2026/oct/21/como-v-manchester-united-champions-league-live",
+    "image": "https://i.guim.co.uk/img/media/668a9925739db795b3c7732cd8af97130d9774ad/68_0_3164_2532/master/3164.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=695365821901650bfdc6f17caa234d00"
   },
   "topStories": [
     {
       "id": "story-1",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "The Guardian",
+      "time": "Oct 21",
+      "headline": "Bayern Munich v Arsenal: Champions League – live",
+      "excerpt": "<p>⚽️ Champions League updates | <a href=\"https://www.theguardian.com/football/2026/oct/21/como-manchester-united-champions-league-match-report\">Como 4-1 Man Utd</a><br>⚽️ <a href=\"https://www.theguardian.com/football/live/2026/oct/21/real-madrid-v-rb-leipzig-aston-villa-v-viking-and-more-champions-league-live\">Clockwatch</a> | <a href=\"https://www.theguardian.com/football/live\">Live…",
+      "link": "https://www.theguardian.com/football/live/2026/oct/21/bayern-munich-v-arsenal-champions-league-live",
+      "image": "https://i.guim.co.uk/img/media/2e1f7ab9232d56e07921db89efde08c380dd7402/215_0_2863_2290/master/2863.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=4c7d7f7992ec11cd656be39ecacc227c"
+    },
+    {
+      "id": "story-2",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "The Guardian",
+      "time": "Oct 21",
+      "headline": "Aston Villa v Viking, Real Madrid v RB Leipzig and more: Champions League – live",
+      "excerpt": "<p>⚽️ Champions League updates | <a href=\"https://www.theguardian.com/football/2026/oct/21/como-manchester-united-champions-league-match-report\">Como 4-1 Man Utd</a><br>⚽️ <a href=\"https://www.theguardian.com/football/live/2026/oct/21/bayern-munich-v-arsenal-champions-league-live\">Bayern v Arsenal</a> |…",
+      "link": "https://www.theguardian.com/football/live/2026/oct/21/real-madrid-v-rb-leipzig-aston-villa-v-viking-and-more-champions-league-live",
+      "image": "https://i.guim.co.uk/img/media/51dc88300c4c800e223a41c695a6ade1e7aeb77e/333_0_3888_3109/master/3888.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=efcabc7b1c645e90715f78acd4bbf08f"
+    },
+    {
+      "id": "story-3",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "101 Great Goals",
+      "time": "Oct 21",
+      "headline": "Como 4-1 Manchester United: Report, result and goals as pressure piles on Carrick",
+      "excerpt": "Catch up with all the action from Como vs Manchester United in the Champions League.",
+      "link": "https://www.101greatgoals.com/match-reports/como-4-1-manchester-united-report-result-goals/",
+      "image": null
+    },
+    {
+      "id": "story-4",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "BBC Sport",
+      "time": "Oct 21",
+      "headline": "Azaz confirms he will continue playing for Republic of Ireland",
+      "excerpt": "Forward Finn Azaz confirms he will continue to represent the Republic of Ireland.",
+      "link": "https://www.bbc.co.uk/sport/football/articles/ckq6nzyr9qdgo?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f612/live/0bcfada0-cd7a-11f1-a428-3f9d1bf6cc8b.jpg"
+    },
+    {
+      "id": "story-5",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "BBC Sport",
+      "time": "Oct 21",
+      "headline": "72+: The EFL Podcast",
+      "excerpt": "Aaron Paul and Jobi McAnuff are joined by Lyle Taylor to discuss the latest in…",
+      "link": "https://www.bbc.co.uk/sounds/play/p0phvgy3?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0p3n9ks.jpg"
+    },
+    {
+      "id": "story-6",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "BBC Sport",
+      "time": "Oct 21",
+      "headline": "Georgia and Dundee legend Nemsadze dies aged 54",
+      "excerpt": "Former Georgia captain and Dundee midfielder Giorgi Nemsadze dies at the age of 54 of…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/crpdg2x7v1l2o?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5bad/live/f2dbe960-cd67-11f1-a64c-550be9e3c66b.jpg"
+    },
+    {
+      "id": "story-7",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -24,7 +90,7 @@
       "image": "https://i.guim.co.uk/img/media/f6f3be5dbc73f38bcf13b107d5cdf99fda3c3f93/0_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=59a6d9831bd2e72f0de0dc24c15cafc1"
     },
     {
-      "id": "story-2",
+      "id": "story-8",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -35,7 +101,7 @@
       "image": "https://i.guim.co.uk/img/media/d1d0c2030381fd168a05b6bfe34876ff502eb5f6/450_0_4715_3772/master/4715.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=4cb599d9b6717315828f160a3c456048"
     },
     {
-      "id": "story-3",
+      "id": "story-9",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -46,7 +112,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f3a0/live/3c706da0-cd43-11f1-8177-0f8bd59b54c4.jpg"
     },
     {
-      "id": "story-4",
+      "id": "story-10",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -57,7 +123,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/de83/live/c86f2240-cd45-11f1-8177-0f8bd59b54c4.jpg"
     },
     {
-      "id": "story-5",
+      "id": "story-11",
       "league": "La Liga",
       "dot": "#E3B4F5",
       "source": "BBC Sport",
@@ -68,7 +134,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7fe3/live/c5571dc0-cd4e-11f1-8177-0f8bd59b54c4.jpg"
     },
     {
-      "id": "story-6",
+      "id": "story-12",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -79,7 +145,18 @@
       "image": "https://i.guim.co.uk/img/media/1874a8dec20628eae378c70826d90e0ee2135d90/696_0_4040_3232/master/4040.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=7063ca9c5ef8f7c341ef3180cac663c5"
     },
     {
-      "id": "story-7",
+      "id": "story-13",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "BBC Sport",
+      "time": "Oct 21",
+      "headline": "The keeper doing 'Premier League' things for EFL's last unbeaten side",
+      "excerpt": "Walsall goalkeeper Jed Ward is producing \"Premier League\" contributions with his hands and feet, say…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c98rz0d0l40vo?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1bcc/live/ab2708f0-cd3c-11f1-8177-0f8bd59b54c4.jpg"
+    },
+    {
+      "id": "story-14",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "The Guardian",
@@ -90,7 +167,7 @@
       "image": "https://i.guim.co.uk/img/media/15e6439f977f0f2959cdf2556b0d65fdf3885bbc/420_112_1808_1446/master/1808.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ef6e7717e7a2ca255bc70af40f2aaf9a"
     },
     {
-      "id": "story-8",
+      "id": "story-15",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -101,7 +178,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7231/live/4f153ff0-cd4b-11f1-8177-0f8bd59b54c4.jpg"
     },
     {
-      "id": "story-9",
+      "id": "story-16",
       "league": "La Liga",
       "dot": "#E3B4F5",
       "source": "BBC Sport",
@@ -112,7 +189,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6778/live/6bc68ff0-cd32-11f1-9be1-0ba032f367ac.jpg"
     },
     {
-      "id": "story-10",
+      "id": "story-17",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -123,7 +200,7 @@
       "image": "https://i.guim.co.uk/img/media/ab6585c4b1e2b8aa627f89bfb9df0d1d31543831/603_98_4083_3267/master/4083.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=2b12e52cc65a4fdfa3f91770ba5163e1"
     },
     {
-      "id": "story-11",
+      "id": "story-18",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -134,7 +211,7 @@
       "image": "https://i.guim.co.uk/img/media/e3291a2244a700715dd2419646e7512cb1e4cb12/324_0_4139_3312/master/4139.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=426f66a0d421daeb4bce32c007b34747"
     },
     {
-      "id": "story-12",
+      "id": "story-19",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -145,7 +222,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/27ed/live/9e6879f0-ccb5-11f1-9510-b3feea5bd9b1.jpg"
     },
     {
-      "id": "story-13",
+      "id": "story-20",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "The Guardian",
@@ -156,18 +233,7 @@
       "image": "https://i.guim.co.uk/img/media/16e67a3b15d828876561221c3302df1caf719547/0_0_2524_2019/master/2524.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=4d9047202b08aabe0245f94219f2b837"
     },
     {
-      "id": "story-14",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "BBC Sport",
-      "time": "Oct 21",
-      "headline": "Leicester to visit Oxford City in FA Cup first round - full draw",
-      "excerpt": "Leicester City will travel to National League North side Oxford City in the 2026-27 FA…",
-      "link": "https://www.bbc.co.uk/sport/football/articles/ckwyqdvedj32o?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/31e6/live/81429510-cbf0-11f1-bd6b-397ab98949f6.jpg"
-    },
-    {
-      "id": "story-15",
+      "id": "story-21",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -178,7 +244,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7b43/live/ce06e0b0-cd24-11f1-acea-8755f0f28c17.jpg"
     },
     {
-      "id": "story-16",
+      "id": "story-22",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -189,7 +255,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9f90/live/57aa7400-cd37-11f1-935f-b9c228680c6f.jpg"
     },
     {
-      "id": "story-17",
+      "id": "story-23",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -198,75 +264,29 @@
       "excerpt": "BBC Sport tracks all the manager ins and outs in the Premier League, Scottish Premiership,…",
       "link": "https://www.bbc.co.uk/sport/football/articles/cd94713djgyo?at_medium=RSS&amp;at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2a13/live/14109140-ab66-11f1-9647-01c7ddc5a2b1.jpg"
-    },
-    {
-      "id": "story-18",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "BBC Sport",
-      "time": "Oct 21",
-      "headline": "Animal rights group asks Crystal Palace to retire eagle mascot",
-      "excerpt": "Animal rights group Peta is urging Crystal Palace to retire their bald eagle mascot, saying…",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cmx2302r04r4o?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ed7a/live/a6650520-cd1d-11f1-acea-8755f0f28c17.jpg"
-    },
-    {
-      "id": "story-19",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "The Guardian",
-      "time": "Oct 21",
-      "headline": "Does anyone feature on more than two clubs' all-time top-10 scoring charts? | The Knowledge",
-      "excerpt": "<p>Plus: the longest kit supply partnerships, more own goals (part II) and consecutive goalless draws</p><ul><li><p><a…",
-      "link": "https://www.theguardian.com/football/2026/oct/21/anyone-more-than-two-clubs-all-time-top-10-goal-scoring-charts-the-knowledge",
-      "image": "https://i.guim.co.uk/img/media/62c70b3696a88cbe5b8f1c359ff2205b786c3d3a/6_0_4986_3988/master/4986.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f79624a39bb36c2922f97a659f52042a"
-    },
-    {
-      "id": "story-20",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "The Guardian",
-      "time": "Oct 21",
-      "headline": "Too much Overlap? Gary Neville’s podcast empire knows no bounds",
-      "excerpt": "<p>The Overlap has gone daily, with Steven Gerrard and Joe Hart among the latest additions…",
-      "link": "https://www.theguardian.com/football/2026/oct/21/the-overlap-gary-neville-podcast-empire-knows-no-bounds",
-      "image": "https://i.guim.co.uk/img/media/0aefba3045b8f33602e368dc9a1f34657d924030/1071_402_1772_1418/master/1772.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=aac736efaa93514f954b258ac88b0479"
-    },
-    {
-      "id": "story-21",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "The Guardian",
-      "time": "Oct 21",
-      "headline": "Mikel Arteta has mastered the art of making substitutions at Arsenal",
-      "excerpt": "<p>Arsenal have beaten Nottingham Forest, Sunderland and Leeds this season thanks to goals from players…",
-      "link": "https://www.theguardian.com/football/2026/oct/21/mikel-arteta-art-making-substitutions-arsenal-nottingham-forest-sunderland-leeds",
-      "image": "https://i.guim.co.uk/img/media/46cc67a660185d5345297d2378e4f1be038aa1e0/492_0_3213_2571/master/3213.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3ecd97557228ac32ab255cb121fe5c5f"
-    },
-    {
-      "id": "story-22",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "BBC Sport",
-      "time": "Oct 21",
-      "headline": "Hearts humbled & Hibs stumbling - what's going on in Edinburgh?",
-      "excerpt": "Can Hearts recover in Turkey as Hibs fans start fearing the worst?",
-      "link": "https://www.bbc.co.uk/sounds/play/p0phrdf0?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0phrdg7.jpg"
-    },
-    {
-      "id": "story-23",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "BBC Sport",
-      "time": "Oct 21",
-      "headline": "How England hopeful Acheampong is giving Chelsea a big decision to make",
-      "excerpt": "For the first time, Chelsea's actions match the rhetoric surrounding their desire to keep academy…",
-      "link": "https://www.bbc.co.uk/sport/football/articles/ck4g10n56jzqo?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2606/live/96260500-cbb1-11f1-81ef-39e22b578b80.jpg"
     }
   ],
   "scoreboard": [
+    {
+      "id": "score-575368",
+      "league": "Champions League",
+      "dot": "#F0C878",
+      "time": "Oct 21",
+      "home": "Como 1907",
+      "away": "Manchester United FC",
+      "homeScore": 4,
+      "awayScore": 1
+    },
+    {
+      "id": "score-575369",
+      "league": "Champions League",
+      "dot": "#F0C878",
+      "time": "Oct 21",
+      "home": "Lille OSC",
+      "away": "Galatasaray SK",
+      "homeScore": 2,
+      "awayScore": 4
+    },
     {
       "id": "score-575361",
       "league": "Champions League",
@@ -306,26 +326,6 @@
       "away": "ŠK Slovan Bratislava",
       "homeScore": 4,
       "awayScore": 0
-    },
-    {
-      "id": "score-575365",
-      "league": "Champions League",
-      "dot": "#F0C878",
-      "time": "Oct 20",
-      "home": "FC Porto",
-      "away": "PSV",
-      "homeScore": 0,
-      "awayScore": 1
-    },
-    {
-      "id": "score-575366",
-      "league": "Champions League",
-      "dot": "#F0C878",
-      "time": "Oct 20",
-      "home": "SSC Napoli",
-      "away": "FK Bodø/Glimt",
-      "homeScore": 4,
-      "awayScore": 3
     }
   ]
 }
