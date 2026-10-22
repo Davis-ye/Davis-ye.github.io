@@ -1,30 +1,74 @@
 {
-  "updatedAt": "2026-10-22T19:20:25.649Z",
+  "updatedAt": "2026-10-22T22:28:25.589Z",
   "hero": {
     "id": "story-0",
     "league": "Premier League",
     "dot": "#9CC0F0",
-    "source": "The Guardian",
+    "source": "BBC Sport",
     "time": "Oct 22",
-    "headline": "Bournemouth v Milan, Celtic v Celta Vigo, and more: Europa League – live",
-    "excerpt": "<p>⚽ Updates from 5.45pm BST kick-offs, then the 8pm games<br>⚽ <a href=\"https://www.theguardian.com/football/live\">Live scores</a> | <a…",
-    "link": "https://www.theguardian.com/football/live/2026/oct/22/lech-poznan-sunderland-juventus-rennes-bournemouth-milan-crystal-palace-celtic-europa-league-live",
-    "image": "https://i.guim.co.uk/img/media/645a32e2cb8b37a5946c3f23b57c0e319e1d0e44/585_1219_1548_1239/master/1548.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f4de1ac345077b1e467a6c67de230014"
+    "headline": "Superman at Como & is Conte right for Man Utd?",
+    "excerpt": "Como gets some love after that scoreline against Man United midweek",
+    "link": "https://www.bbc.co.uk/sounds/play/p0pj4zqk?at_medium=RSS&amp;at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0p4zrww.jpg"
   },
   "topStories": [
     {
       "id": "story-1",
       "league": "Premier League",
       "dot": "#9CC0F0",
-      "source": "101 Great Goals",
+      "source": "BBC Sport",
       "time": "Oct 22",
-      "headline": "Lech Poznan 1-1 Sunderland: Black Cats pegged back but unbeaten in the Europa League",
-      "excerpt": "Tymur Tutierov grabs his first goal for the club in Poland draw.",
-      "link": "https://www.101greatgoals.com/match-reports/lech-poznan-1-1-sunderland-black-cats-pegged-back-but-unbeaten-in-the-europa-league/",
-      "image": null
+      "headline": "Man Utd chief keen on Howe - Friday's gossip",
+      "excerpt": "Manchester United linked with Antonio Conte, Unai Emery, Eddie Howe and Julian Nagelsmann among others…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c63elp2kz4exo?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6fdd/live/971f29e0-ce55-11f1-bc2e-018d645d8d21.png"
     },
     {
       "id": "story-2",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "The Guardian",
+      "time": "Oct 22",
+      "headline": "Europa League: Celtic lose to Celta after leading, Mateta returns in Palace draw",
+      "excerpt": "<ul><li><p>Sunderland drop points in 1-1 draw but stay unbeaten</p></li><li><p>VAR rules out Juventus winner in draw…",
+      "link": "https://www.theguardian.com/football/2026/oct/22/europa-league-sunderland-held-in-poznan-as-juventus-denied-comeback-win",
+      "image": "https://i.guim.co.uk/img/media/ae0355b17ca2181d634d99f2355bfaf08978f858/277_0_2758_2207/master/2758.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=2bfdb39c6d92a2d46b5eb16695b1fbe6"
+    },
+    {
+      "id": "story-3",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "BBC Sport",
+      "time": "Oct 22",
+      "headline": "Dream night for Bournemouth - win over Milan a sign of Premier League power",
+      "excerpt": "Bournemouth's 3-0 win against AC Milan further illustrated the dominance of Premier League sides against…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c6z981p24q1eo?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/45c2/live/fcc4e790-ce59-11f1-a166-e30097724580.jpg"
+    },
+    {
+      "id": "story-4",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "101 Great Goals",
+      "time": "Oct 22",
+      "headline": "Europa League: Palace take point on the road while Celtic are beaten",
+      "excerpt": "Mateta's fine goal helps Eagles to much-needed point",
+      "link": "https://www.101greatgoals.com/football/europa-league-palace-take-point-on-the-road-while-celtic-are-beaten/",
+      "image": null
+    },
+    {
+      "id": "story-5",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "The Guardian",
+      "time": "Oct 22",
+      "headline": "Bournemouth enjoy night to remember as 10-man Milan fail to weather storm",
+      "excerpt": "<p>This was a momentous night in Bournemouth’s history, although the truth is they would have…",
+      "link": "https://www.theguardian.com/football/2026/oct/22/bournemouth-milan-europa-league-match-report",
+      "image": "https://i.guim.co.uk/img/media/2c5b2d365e9e5be31141a98cf4377e40d38e860c/110_0_1508_1206/master/1508.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a4bdd73e3605447ee721b8871d2cc77f"
+    },
+    {
+      "id": "story-6",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -35,7 +79,7 @@
       "image": "https://i.guim.co.uk/img/media/9308511d12b1914f056c87aaf376a0aadd1c7bbb/773_231_4351_3481/master/4351.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=829cd5841173e2c95455575192c86b41"
     },
     {
-      "id": "story-3",
+      "id": "story-7",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -46,7 +90,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b70/live/03f9d3e0-ce3c-11f1-a86f-f78305ec9987.jpg"
     },
     {
-      "id": "story-4",
+      "id": "story-8",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -57,7 +101,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5b69/live/4a4ccc70-ce3d-11f1-a86f-f78305ec9987.jpg"
     },
     {
-      "id": "story-5",
+      "id": "story-9",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "The Guardian",
@@ -68,7 +112,7 @@
       "image": "https://i.guim.co.uk/img/media/87151aa53e63f5f6489d72a4dd36d07235b22477/410_0_4086_3270/master/4086.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=906ff0acd7f050e11f023fb06fc53107"
     },
     {
-      "id": "story-6",
+      "id": "story-10",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -79,7 +123,7 @@
       "image": "https://i.guim.co.uk/img/media/18a7017c5d680afbad0079ffd263f1e12a344d08/627_347_1080_864/master/1080.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=4be1abecc6a46cf04a473dfd88ec4b1e"
     },
     {
-      "id": "story-7",
+      "id": "story-11",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "The Guardian",
@@ -90,7 +134,7 @@
       "image": "https://i.guim.co.uk/img/media/9ed6574d197d5ddb0c56d75225db022788ac92b3/225_0_3121_2497/master/3121.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3bd38f4b20c68307f11465e6eb60250d"
     },
     {
-      "id": "story-8",
+      "id": "story-12",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -101,7 +145,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1bdf/live/636f6f10-ce32-11f1-9f18-490cec60aa0f.jpg"
     },
     {
-      "id": "story-9",
+      "id": "story-13",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -112,7 +156,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7a31/live/4e4346b0-ce0b-11f1-9a39-31b474234113.png"
     },
     {
-      "id": "story-10",
+      "id": "story-14",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -123,7 +167,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cc26/live/27082d50-ce32-11f1-9f18-490cec60aa0f.jpg"
     },
     {
-      "id": "story-11",
+      "id": "story-15",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -134,7 +178,7 @@
       "image": "https://i.guim.co.uk/img/media/b301f74044f07fd68f8f818d6f4057bea7503067/694_226_4041_3233/master/4041.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=594c33186e1bead70ac2f0f6777e27b1"
     },
     {
-      "id": "story-12",
+      "id": "story-16",
       "league": "La Liga",
       "dot": "#E3B4F5",
       "source": "BBC Sport",
@@ -145,7 +189,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/84f5/live/caaefe10-ce1f-11f1-906e-e3128518d85d.png"
     },
     {
-      "id": "story-13",
+      "id": "story-17",
       "league": "Ligue 1",
       "dot": "#B8D4E8",
       "source": "The Guardian",
@@ -156,7 +200,7 @@
       "image": "https://i.guim.co.uk/img/media/4a5e8e5277f17a889b0c9861698645f5cf5a350c/795_0_6880_5504/master/6880.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e48b5a1bc46afc9dd4554bce52aae534"
     },
     {
-      "id": "story-14",
+      "id": "story-18",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -167,7 +211,7 @@
       "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0pgvdbk.jpg"
     },
     {
-      "id": "story-15",
+      "id": "story-19",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -178,7 +222,7 @@
       "image": "https://i.guim.co.uk/img/media/e99776495f609a7bf7bb52283c8af2b2232e1f65/299_0_2640_2112/master/2640.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=cc95f3d5410f33fdbe06193eb09025f9"
     },
     {
-      "id": "story-16",
+      "id": "story-20",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -189,7 +233,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/13b9/live/9d6ea160-cdf9-11f1-9a39-31b474234113.jpg"
     },
     {
-      "id": "story-17",
+      "id": "story-21",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -200,7 +244,7 @@
       "image": "https://i.guim.co.uk/img/media/84160ca0801e5aa3218ae64416822e55f263ee70/959_125_4282_3427/master/4282.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=0efba5233c67426bb3a0811b970281a0"
     },
     {
-      "id": "story-18",
+      "id": "story-22",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -211,7 +255,7 @@
       "image": "https://i.guim.co.uk/img/media/3e882385fdbbfa342980515fec8b1400a1c5b994/0_9_4988_3991/master/4988.png?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=53199c3e6dd74d3499e5b2300bffdb54"
     },
     {
-      "id": "story-19",
+      "id": "story-23",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -220,50 +264,6 @@
       "excerpt": "<p><a href=\"https://bsky.app/profile/maxrushden.bsky.social\">Max Rushden</a> is joined by <a href=\"https://bsky.app/profile/jonathanliew.bsky.social\">Jonathan Liew</a>, <a href=\"https://bsky.app/profile/paul-c-watson.bsky.social\">Paul Watson</a> and <a href=\"https://bsky.app/profile/archiert1.bsky.social\">Archie…",
       "link": "https://www.theguardian.com/football/video/2026/oct/22/manchester-united-bin-fire-keeps-blazing-and-arsenal-draw-at-bayern-football-weekly-extra-video",
       "image": "https://i.guim.co.uk/img/media/f9bc4e5342ca816ae09556969b3ef272c8a8700b/335_0_3149_2519/master/3149.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a1d05b0432701b8ac855c461423268a7"
-    },
-    {
-      "id": "story-20",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "The Guardian",
-      "time": "Oct 22",
-      "headline": "Manchester United bin-fire keeps blazing and Arsenal draw at Bayern: Football Weekly Extra – podcast",
-      "excerpt": "<p><a href=\"https://bsky.app/profile/maxrushden.bsky.social\">Max Rushden</a> is joined by <a href=\"https://bsky.app/profile/jonathanliew.bsky.social\">Jonathan Liew</a>, <a href=\"https://bsky.app/profile/paul-c-watson.bsky.social\">Paul Watson</a> and <a href=\"https://bsky.app/profile/archiert1.bsky.social\">Archie…",
-      "link": "https://www.theguardian.com/football/audio/2026/oct/22/manchester-united-bin-fire-and-arsenal-draw-in-munich-football-weekly-extra-podcast",
-      "image": "https://i.guim.co.uk/img/media/c5bbb8ee6826dd93e9de23dfc0c1c16b7dfa4641/194_0_2871_2297/master/2871.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ff403609ccb8396d708747f6ceebe6d3"
-    },
-    {
-      "id": "story-21",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "BBC Sport",
-      "time": "Oct 22",
-      "headline": "Breaking down Man Utd's tactics after Fernandes' criticism",
-      "excerpt": "Was Manchester United captain Bruno Fernandes correct in his analysis of his side's tactics in…",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cm3elpw7yd25o?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8273/live/7e814ea0-ce13-11f1-9f55-cdc56e9c248c.jpg"
-    },
-    {
-      "id": "story-22",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "The Guardian",
-      "time": "Oct 22",
-      "headline": "Enzo Maresca says honest talks have revitalised Foden’s Manchester City form",
-      "excerpt": "<ul><li><p>Player has scored four goals in last two games for City</p></li><li><p>Aston Villa the next test…",
-      "link": "https://www.theguardian.com/football/2026/oct/22/enzo-maresca-phil-foden-manchester-city-form",
-      "image": "https://i.guim.co.uk/img/media/3224814e2765b78adbca25078fdfcde05b6e0385/747_0_4007_3206/master/4007.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=03f00ad90abcae25b879e6364adbf930"
-    },
-    {
-      "id": "story-23",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "The Guardian",
-      "time": "Oct 22",
-      "headline": "Nottingham Forest’s false start places early focus on Glasner and Delap",
-      "excerpt": "<p>Austrian’s tactics need adapting to but Forest are in the bottom three and their owner…",
-      "link": "https://www.theguardian.com/football/2026/oct/22/nottingham-forest-oliver-glasner-time-evangelos-marinakis",
-      "image": "https://i.guim.co.uk/img/media/18952d56aefba4765dafd5b5d3ad5cebbb7883fd/1175_271_3147_2518/master/3147.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=460333438221f59bc14e6d0cc509b78a"
     }
   ],
   "scoreboard": [
