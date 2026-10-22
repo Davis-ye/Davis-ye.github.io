@@ -1,30 +1,173 @@
 {
-  "updatedAt": "2026-10-22T15:26:42.460Z",
+  "updatedAt": "2026-10-22T19:20:25.649Z",
   "hero": {
     "id": "story-0",
     "league": "Premier League",
     "dot": "#9CC0F0",
-    "source": "101 Great Goals",
+    "source": "The Guardian",
     "time": "Oct 22",
-    "headline": "Chelsea v Tottenham: Preview, expected line-ups, stats and where to watch",
-    "excerpt": "London rivals Chelsea and Tottenham clash at Stamford Bridge on Saturday evening. Read our preview…",
-    "link": "https://www.101greatgoals.com/match-previews/premier-league-matches/chelsea-v-tottenham-preview-expected-line-ups-stats-stream-where-to-watch/",
-    "image": null
+    "headline": "Bournemouth v Milan, Celtic v Celta Vigo, and more: Europa League – live",
+    "excerpt": "<p>⚽ Updates from 5.45pm BST kick-offs, then the 8pm games<br>⚽ <a href=\"https://www.theguardian.com/football/live\">Live scores</a> | <a…",
+    "link": "https://www.theguardian.com/football/live/2026/oct/22/lech-poznan-sunderland-juventus-rennes-bournemouth-milan-crystal-palace-celtic-europa-league-live",
+    "image": "https://i.guim.co.uk/img/media/645a32e2cb8b37a5946c3f23b57c0e319e1d0e44/585_1219_1548_1239/master/1548.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f4de1ac345077b1e467a6c67de230014"
   },
   "topStories": [
     {
       "id": "story-1",
       "league": "Premier League",
       "dot": "#9CC0F0",
-      "source": "The Guardian",
+      "source": "101 Great Goals",
       "time": "Oct 22",
-      "headline": "Lech Poznan v Sunderland, Juventus v Rennes, and more: Europa League – live",
-      "excerpt": "<p>⚽ Updates from 5.45pm BST kick-offs, then the 8pm games<br>⚽ <a href=\"https://www.theguardian.com/football/live\">Live scores</a> | <a…",
-      "link": "https://www.theguardian.com/football/live/2026/oct/22/lech-poznan-sunderland-juventus-rennes-bournemouth-milan-crystal-palace-celtic-europa-league-live",
-      "image": "https://i.guim.co.uk/img/media/b9644f60b459ef83120dcff43e34d36588e9b91f/285_188_2424_1939/master/2424.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f5c42a0ab79b30576ea21d6efe0612b5"
+      "headline": "Lech Poznan 1-1 Sunderland: Black Cats pegged back but unbeaten in the Europa League",
+      "excerpt": "Tymur Tutierov grabs his first goal for the club in Poland draw.",
+      "link": "https://www.101greatgoals.com/match-reports/lech-poznan-1-1-sunderland-black-cats-pegged-back-but-unbeaten-in-the-europa-league/",
+      "image": null
     },
     {
       "id": "story-2",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "The Guardian",
+      "time": "Oct 22",
+      "headline": "Next in line? Main contenders for the Manchester United hot seat",
+      "excerpt": "<p>With Michael Carrick’s future at Old Trafford a matter of some debate, we examine the…",
+      "link": "https://www.theguardian.com/football/2026/oct/22/contenders-manchester-united-next-manager-michael-carrick",
+      "image": "https://i.guim.co.uk/img/media/9308511d12b1914f056c87aaf376a0aadd1c7bbb/773_231_4351_3481/master/4351.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=829cd5841173e2c95455575192c86b41"
+    },
+    {
+      "id": "story-3",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "BBC Sport",
+      "time": "Oct 22",
+      "headline": "Fernandes has home burgled while in Italy with Man Utd",
+      "excerpt": "Manchester United captain Bruno Fernandes had his home burgled on Wednesday while he was in…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cq9vz19p41x8o?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2b70/live/03f9d3e0-ce3c-11f1-a86f-f78305ec9987.jpg"
+    },
+    {
+      "id": "story-4",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "BBC Sport",
+      "time": "Oct 22",
+      "headline": "US to host first Women's Club World Cup in 2028",
+      "excerpt": "Arsenal are named as one of the teams to compete at the inaugural Women's Club…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c6n9r7wgp9q0o?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5b69/live/4a4ccc70-ce3d-11f1-a86f-f78305ec9987.jpg"
+    },
+    {
+      "id": "story-5",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "The Guardian",
+      "time": "Oct 22",
+      "headline": "Fifa increases preparation money for Women’s World Cup to match men’s teams",
+      "excerpt": "<ul><li><p>Funds for 2027 will match men’s World Cup in 2026</p></li><li><p>Players given better flights and individual…",
+      "link": "https://www.theguardian.com/football/2026/oct/22/fifa-increase-funds-2027-womens-world-cup-teams",
+      "image": "https://i.guim.co.uk/img/media/87151aa53e63f5f6489d72a4dd36d07235b22477/410_0_4086_3270/master/4086.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=906ff0acd7f050e11f023fb06fc53107"
+    },
+    {
+      "id": "story-6",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "The Guardian",
+      "time": "Oct 22",
+      "headline": "Bruno’s betrayal? ‘Toxic’ Fernandes is symptom of United’s culture of entitlement | Jamie Jackson",
+      "excerpt": "<p>Michael Carrick must now deal with more dressing-room unrest after Lisandro Martínez’s attack on the…",
+      "link": "https://www.theguardian.com/football/2026/oct/22/bruno-fernandes-betrayal-manchester-united-michael-carrick-culture-of-entitlement",
+      "image": "https://i.guim.co.uk/img/media/18a7017c5d680afbad0079ffd263f1e12a344d08/627_347_1080_864/master/1080.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=4be1abecc6a46cf04a473dfd88ec4b1e"
+    },
+    {
+      "id": "story-7",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "The Guardian",
+      "time": "Oct 22",
+      "headline": "Haiti move Nations League home clash with USA to Miami amid gang violence crisis",
+      "excerpt": "<ul><li><p>Concacaf approves exceptional hosting arrangement</p></li><li><p>Haiti to face US at Nu Stadium on 14 November</p></li><li><p>Miami’s Haitian…",
+      "link": "https://www.theguardian.com/football/2026/oct/22/haiti-usa-concacaf-nations-league-miami-home-game-gang-violence",
+      "image": "https://i.guim.co.uk/img/media/9ed6574d197d5ddb0c56d75225db022788ac92b3/225_0_3121_2497/master/3121.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3bd38f4b20c68307f11465e6eb60250d"
+    },
+    {
+      "id": "story-8",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "BBC Sport",
+      "time": "Oct 22",
+      "headline": "BBC to show Cray Wanderers v Stockport & Altrincham v Notts County",
+      "excerpt": "Non-league clubs Altrincham and Cray Wanderers will stage the BBC's two chosen FA Cup first-round…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cked364q8jxjo?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1bdf/live/636f6f10-ce32-11f1-9f18-490cec60aa0f.jpg"
+    },
+    {
+      "id": "story-9",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "BBC Sport",
+      "time": "Oct 22",
+      "headline": "Sutton's predictions v Waffle the Wonder Dog and his owner, Simon",
+      "excerpt": "BBC Sport football expert Chris Sutton takes on Waffle the Wonder Dog and his owner…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c3y0eqkneze4o?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7a31/live/4e4346b0-ce0b-11f1-9a39-31b474234113.png"
+    },
+    {
+      "id": "story-10",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "BBC Sport",
+      "time": "Oct 22",
+      "headline": "Fernandes to stay captain as Rooney calls Man Utd players babies",
+      "excerpt": "Bruno Fernandes will remain as Manchester United captain and will not be disciplined for his…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cqe8rglz8p90o?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cc26/live/27082d50-ce32-11f1-9f18-490cec60aa0f.jpg"
+    },
+    {
+      "id": "story-11",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "The Guardian",
+      "time": "Oct 22",
+      "headline": "Football Daily | Post-Ferguson worn-out horror show continues at Manchester United",
+      "excerpt": "<p><a href=\"https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up\"><strong>Sign up now! Sign up now! Sign up now? Sign up now!</strong></a></p><p>We’re in the…",
+      "link": "https://www.theguardian.com/football/2026/oct/22/football-daily-email-manchester-united",
+      "image": "https://i.guim.co.uk/img/media/b301f74044f07fd68f8f818d6f4057bea7503067/694_226_4041_3233/master/4041.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=594c33186e1bead70ac2f0f6777e27b1"
+    },
+    {
+      "id": "story-12",
+      "league": "La Liga",
+      "dot": "#E3B4F5",
+      "source": "BBC Sport",
+      "time": "Oct 22",
+      "headline": "What are Real's attacking options during Vinicius Jr ban?",
+      "excerpt": "Real Madrid’s attacking options are expanding under Jose Mourinho, with Endrick, Yan Diomande and Carlos…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cq70pj7p0ep6o?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/84f5/live/caaefe10-ce1f-11f1-906e-e3128518d85d.png"
+    },
+    {
+      "id": "story-13",
+      "league": "Ligue 1",
+      "dot": "#B8D4E8",
+      "source": "The Guardian",
+      "time": "Oct 22",
+      "headline": "Trump’s Fifa peace prize was a sham. A reimagined award can still have meaning | Leander Schaerlaeckens",
+      "excerpt": "<p>The first awarding marked the apex of Gianni Infantino’s hubris. A new version could highlight…",
+      "link": "https://www.theguardian.com/football/2026/oct/22/fifa-peace-prize-infantino",
+      "image": "https://i.guim.co.uk/img/media/4a5e8e5277f17a889b0c9861698645f5cf5a350c/795_0_6880_5504/master/6880.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e48b5a1bc46afc9dd4554bce52aae534"
+    },
+    {
+      "id": "story-14",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "BBC Sport",
+      "time": "Oct 22",
+      "headline": "Football Daily",
+      "excerpt": "Andy Mitten & Jay Motty join Rick & Lloyd to dissect Man United's disastrous night.",
+      "link": "https://www.bbc.co.uk/sounds/play/m0033tlq?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0pgvdbk.jpg"
+    },
+    {
+      "id": "story-15",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -35,7 +178,7 @@
       "image": "https://i.guim.co.uk/img/media/e99776495f609a7bf7bb52283c8af2b2232e1f65/299_0_2640_2112/master/2640.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=cc95f3d5410f33fdbe06193eb09025f9"
     },
     {
-      "id": "story-3",
+      "id": "story-16",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -46,7 +189,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/13b9/live/9d6ea160-cdf9-11f1-9a39-31b474234113.jpg"
     },
     {
-      "id": "story-4",
+      "id": "story-17",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -57,7 +200,7 @@
       "image": "https://i.guim.co.uk/img/media/84160ca0801e5aa3218ae64416822e55f263ee70/959_125_4282_3427/master/4282.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=0efba5233c67426bb3a0811b970281a0"
     },
     {
-      "id": "story-5",
+      "id": "story-18",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -68,7 +211,7 @@
       "image": "https://i.guim.co.uk/img/media/3e882385fdbbfa342980515fec8b1400a1c5b994/0_9_4988_3991/master/4988.png?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=53199c3e6dd74d3499e5b2300bffdb54"
     },
     {
-      "id": "story-6",
+      "id": "story-19",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -79,7 +222,7 @@
       "image": "https://i.guim.co.uk/img/media/f9bc4e5342ca816ae09556969b3ef272c8a8700b/335_0_3149_2519/master/3149.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a1d05b0432701b8ac855c461423268a7"
     },
     {
-      "id": "story-7",
+      "id": "story-20",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -90,7 +233,7 @@
       "image": "https://i.guim.co.uk/img/media/c5bbb8ee6826dd93e9de23dfc0c1c16b7dfa4641/194_0_2871_2297/master/2871.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ff403609ccb8396d708747f6ceebe6d3"
     },
     {
-      "id": "story-8",
+      "id": "story-21",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -101,7 +244,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8273/live/7e814ea0-ce13-11f1-9f55-cdc56e9c248c.jpg"
     },
     {
-      "id": "story-9",
+      "id": "story-22",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -112,7 +255,7 @@
       "image": "https://i.guim.co.uk/img/media/3224814e2765b78adbca25078fdfcde05b6e0385/747_0_4007_3206/master/4007.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=03f00ad90abcae25b879e6364adbf930"
     },
     {
-      "id": "story-10",
+      "id": "story-23",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -121,149 +264,6 @@
       "excerpt": "<p>Austrian’s tactics need adapting to but Forest are in the bottom three and their owner…",
       "link": "https://www.theguardian.com/football/2026/oct/22/nottingham-forest-oliver-glasner-time-evangelos-marinakis",
       "image": "https://i.guim.co.uk/img/media/18952d56aefba4765dafd5b5d3ad5cebbb7883fd/1175_271_3147_2518/master/3147.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=460333438221f59bc14e6d0cc509b78a"
-    },
-    {
-      "id": "story-11",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "BBC Sport",
-      "time": "Oct 22",
-      "headline": "'Not what a captain should be' - the debate around Fernandes' outburst",
-      "excerpt": "Bruno Fernandes' comments after Manchester United's humbling by Como have got fans and pundits talking…",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cq5ynp67grjro?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3a15/live/7ce45bc0-cdf8-11f1-97f7-a7674fb562de.jpg"
-    },
-    {
-      "id": "story-12",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "The Guardian",
-      "time": "Oct 22",
-      "headline": "Cathinka Tandberg: ‘Spurs fans hate Arsenal. That’s how it is’",
-      "excerpt": "<p>Norwegian forward might look to Harry Kane for inspiration on the pitch, but when north…",
-      "link": "https://www.theguardian.com/football/2026/oct/22/cathinka-tandberg-interview-tottenham-arsenal-rivalry-moving-the-goalposts-you-now",
-      "image": "https://i.guim.co.uk/img/media/3df0df692b52bcf2cbbbe1aef09b7b362f060f40/500_206_3456_2765/master/3456.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=5ee78a94f89fac44b4bb42ee1f6549db"
-    },
-    {
-      "id": "story-13",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "BBC Sport",
-      "time": "Oct 22",
-      "headline": "Third-longest serving manager in top 92 clubs Woodman leaves Bromley",
-      "excerpt": "Bromley part company with manager Andy Woodman following a challenging start to the 2026-27 season.",
-      "link": "https://www.bbc.co.uk/sport/football/articles/ck0541dzqe04o?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7131/live/7cc5c120-ce01-11f1-8991-296181d7e3de.jpg"
-    },
-    {
-      "id": "story-14",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "BBC Sport",
-      "time": "Oct 22",
-      "headline": "Manager ins and outs - 2026-27",
-      "excerpt": "BBC Sport tracks all the manager ins and outs in the Premier League, Scottish Premiership,…",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cd94713djgyo?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2a13/live/14109140-ab66-11f1-9647-01c7ddc5a2b1.jpg"
-    },
-    {
-      "id": "story-15",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "The Guardian",
-      "time": "Oct 22",
-      "headline": "Harry Kane admits wait to learn if he has won Ballon d’Or is ‘very stressful’ for family",
-      "excerpt": "<ul><li><p>Bayern Munich and England striker is odds-on favourite</p></li><li><p>‘I try not to think about it. Obviously…",
-      "link": "https://www.theguardian.com/football/2026/oct/22/harry-kane-ballon-dor-wait-very-stressful-family",
-      "image": "https://i.guim.co.uk/img/media/318dc2558ebeb14f3d34e3a829d12388f04e63cd/446_0_5002_4001/master/5002.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=7dccebd2b63666ac451e9709a33f226c"
-    },
-    {
-      "id": "story-16",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "BBC Sport",
-      "time": "Oct 22",
-      "headline": "Sheff Wed forward Lowe racially abused on social media",
-      "excerpt": "Sheffield Wednesday forward Jamal Lowe has revealed his wife was sent a message racially abusing…",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cw23d18jry02o?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ece3/live/06fe5230-cdf8-11f1-97f7-a7674fb562de.jpg"
-    },
-    {
-      "id": "story-17",
-      "league": "Champions League",
-      "dot": "#F0C878",
-      "source": "BBC Sport",
-      "time": "Oct 22",
-      "headline": "Who is close to a yellow card suspension in Champions League?",
-      "excerpt": "BBC Sport's Ask Me Anything team explains what the rules are regarding yellow card suspensions…",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c54g1vpypgw3o?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f26a/live/ded10400-cc86-11f1-bed8-c51b95c602ec.jpg"
-    },
-    {
-      "id": "story-18",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "The Guardian",
-      "time": "Oct 22",
-      "headline": "Shola Ameobi: ‘I thought: how can I be most useful to Newcastle? Then the cog started turning’",
-      "excerpt": "<p>From experiencing racism growing up in Newcastle to becoming a derby hero and now a…",
-      "link": "https://www.theguardian.com/football/2026/oct/22/shola-ameobi-interview-newcastle-united-derby-hero",
-      "image": "https://i.guim.co.uk/img/media/6208acf651dc28b988f8a9f75f31b3fc6ce96b5d/1191_488_6220_4976/master/6220.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f73afcaa02b4cd8974ad18b035e092b2"
-    },
-    {
-      "id": "story-19",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "BBC Sport",
-      "time": "Oct 22",
-      "headline": "Podcast: Is Celta a must-win for Celtic? And what do fans want from new TV deal?",
-      "excerpt": "Celtic face a Europa League test in Celta Vigo - can they keep the momentum…",
-      "link": "https://www.bbc.co.uk/sounds/play/p0phyhpt?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0phyhq8.jpg"
-    },
-    {
-      "id": "story-20",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "BBC Sport",
-      "time": "Oct 22",
-      "headline": "Maloney undecided on being a manager - gossip",
-      "excerpt": "Celtic assistant unsure about return to management as Spanish club monitor Rangers midfielder.",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cqr7ymjr1dyno?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/81c6/live/306239d0-cde3-11f1-bc2e-018d645d8d21.png"
-    },
-    {
-      "id": "story-21",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "BBC Sport",
-      "time": "Oct 22",
-      "headline": "Is Leicester boss Martin turning the Foxes' fortunes?",
-      "excerpt": "Leicester are 10th in League One, 10 years after winning the Premier League. After hitting…",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cq073zrgv8vvo?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a01d/live/93104bb0-cd81-11f1-b1e7-39558e114359.jpg"
-    },
-    {
-      "id": "story-22",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "BBC Sport",
-      "time": "Oct 22",
-      "headline": "Who am I? Plus today's other quizzes",
-      "excerpt": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cq80zk12krmlo?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fbf/live/38bd3c70-bda7-11f1-bc2e-018d645d8d21.png"
-    },
-    {
-      "id": "story-23",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "BBC Sport",
-      "time": "Oct 22",
-      "headline": "From Bury to AC Milan: Bournemouth's journey to 'dreamland'",
-      "excerpt": "Fifteen years to the day after they lost at home to Bury in League One,…",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c6x2v8x7ry17o?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b062/live/7e1a54f0-cc9e-11f1-94e6-edd4c60b2e1d.png"
     }
   ],
   "scoreboard": [
