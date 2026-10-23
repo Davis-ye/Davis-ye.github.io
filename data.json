@@ -1,30 +1,118 @@
 {
-  "updatedAt": "2026-10-23T15:12:36.856Z",
+  "updatedAt": "2026-10-23T19:11:56.998Z",
   "hero": {
     "id": "story-0",
-    "league": "La Liga",
-    "dot": "#E3B4F5",
-    "source": "101 Great Goals",
+    "league": "Premier League",
+    "dot": "#9CC0F0",
+    "source": "The Guardian",
     "time": "Oct 23",
-    "headline": "Barcelona v Real Madrid: Preview, expected line-ups, stats and where to watch El Clasico",
-    "excerpt": "Jose Mourinho returns to Camp Nou on Sunday to lead Real Madrid against Barcelona. Read…",
-    "link": "https://www.101greatgoals.com/match-previews/la-liga-matches/barcelona-v-real-madrid-clasico-preview-expected-line-ups-stats-stream-where-to-watch/",
-    "image": null
+    "headline": "Ipswich v Nottingham Forest: Premier League – live",
+    "excerpt": "<p>⚽ Updates from the 8pm BST kick-off at Portman Road<br>⚽ Ten things to look out…",
+    "link": "https://www.theguardian.com/football/live/2026/oct/23/ipswich-v-nottingham-forest-premier-league-live",
+    "image": "https://i.guim.co.uk/img/media/0dfb6a640af01a06dde3a24701c2858d1dbd8615/0_0_3678_2943/master/3678.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=cd4dd87458b3334c97c965ced4e2971b"
   },
   "topStories": [
     {
       "id": "story-1",
       "league": "Premier League",
       "dot": "#9CC0F0",
-      "source": "The Guardian",
+      "source": "101 Great Goals",
       "time": "Oct 23",
-      "headline": "Carrick delivers extraordinary monologue defending United; Dortmund take on the influencers: football – live",
-      "excerpt": "<p>⚽ All the latest news going into the weekend’s action<br>⚽ <a href=\"https://www.theguardian.com/football/2026/oct/23/premier-league-10-things-to-look-out-for-this-weekend\">Premier League: weekend guide</a>…",
-      "link": "https://www.theguardian.com/football/live/2026/oct/23/manchester-united-latest-european-reaction-and-more-football-news-live",
-      "image": "https://i.guim.co.uk/img/media/abc753975ba75e29ead46e91cb095742c608739f/1218_0_6880_5504/master/6880.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=59642c602242c0a4cc15c4cf38250fb5"
+      "headline": "Ipswich v Nottingham Forest: Confirmed team news and line-ups",
+      "excerpt": "Catch up with all the team news ahead of Ipswich vs Nottingham Forest in the…",
+      "link": "https://www.101greatgoals.com/football/premier-league/ipswich-v-nottingham-forest-confirmed-team-news-and-line-ups/",
+      "image": null
     },
     {
       "id": "story-2",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "BBC Sport",
+      "time": "Oct 23",
+      "headline": "Spygate put me in difficult position - Southampton technical director",
+      "excerpt": "Southampton group technical director Johannes Spors says that the Spygate scandal put him in a…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cmjrwjl1j27do?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3b64/live/3ce164b0-cf00-11f1-accf-3309656ad0bb.jpg"
+    },
+    {
+      "id": "story-3",
+      "league": "Bundesliga",
+      "dot": "#FFC469",
+      "source": "The Guardian",
+      "time": "Oct 23",
+      "headline": "Vincent Kompany taken to hospital after collapsing at Bayern training",
+      "excerpt": "<ul><li><p>Bayern Munich coach had been nursing a virus</p></li><li><p>Coach ‘undergoing thorough examinations’, club say</p></li></ul><p>Vincent Kompany has…",
+      "link": "https://www.theguardian.com/football/2026/oct/23/vincent-kompany-hospital-collapsing-bayern-munich-training",
+      "image": "https://i.guim.co.uk/img/media/b89cc314f06a405679c345d1a0b4720523d30c34/217_129_1724_1378/master/1724.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=465938eac111ca3a61e6a019ce88c274"
+    },
+    {
+      "id": "story-4",
+      "league": "Bundesliga",
+      "dot": "#FFC469",
+      "source": "BBC Sport",
+      "time": "Oct 23",
+      "headline": "Kompany taken to hospital after collapsing at training",
+      "excerpt": "Bayern Munich manager Vincent Kompany is taken to hospital after collapsing as he watched the…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/ck3r5792en7go?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f178/live/0950f610-cefb-11f1-accf-3309656ad0bb.jpg"
+    },
+    {
+      "id": "story-5",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "The Guardian",
+      "time": "Oct 23",
+      "headline": "Premier League, Antonelli goes for F1 title, plus WSL and clásico action – follow with us",
+      "excerpt": "<p>Here’s how to follow along with our coverage – the finest writing and up-to-the-minute reports</p>…",
+      "link": "https://www.theguardian.com/sport/2026/oct/23/premier-league-antonelli-goes-for-f1-title-plus-wsl-and-clasico-action-follow-with-us",
+      "image": "https://i.guim.co.uk/img/media/3ebacdec30c4623f5b711993b60a35f23417505d/0_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=435293d8f027d02830191404cf277f3f"
+    },
+    {
+      "id": "story-6",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "BBC Sport",
+      "time": "Oct 23",
+      "headline": "AFC Wimbledon's Skiverton diagnosed with cancer",
+      "excerpt": "AFC Wimbledon assistant manager Terry Skiverton is scheduled to begin treatment in the coming weeks…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cve8r6z631lyo?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cdbe/live/88d28250-cef6-11f1-accf-3309656ad0bb.jpg"
+    },
+    {
+      "id": "story-7",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "BBC Sport",
+      "time": "Oct 23",
+      "headline": "Premiership preview: Form strikers in focus and will Rangers respond?",
+      "excerpt": "An analysis of the key Scottish Premiership questions before Saturday and Sunday's fixtures.",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cqn06r9pje93o?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f269/live/6fc6fce0-cecf-11f1-b441-2b33b063138f.png"
+    },
+    {
+      "id": "story-8",
+      "league": "La Liga",
+      "dot": "#E3B4F5",
+      "source": "The Guardian",
+      "time": "Oct 23",
+      "headline": "Football Daily | Mourinho is ready for his clásico return – stock up on popcorn, folks!",
+      "excerpt": "<p><a href=\"https://www.theguardian.com/info/2022/nov/14/football-daily-email-sign-up\"><strong>Sign up now! Sign up now! Sign up now? Sign up now!</strong></a></p><p>Football Daily has…",
+      "link": "https://www.theguardian.com/football/2026/oct/23/jose-mourinho-real-madrid-barcelona-clasico-football-daily-newsletter",
+      "image": "https://i.guim.co.uk/img/media/cae89023390bee211dba95c15a99e44dc45d8b92/0_0_1950_1560/master/1950.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=8bb97c8afe80ef0ac8f18d56338064b6"
+    },
+    {
+      "id": "story-9",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "The Guardian",
+      "time": "Oct 23",
+      "headline": "Carrick delivers 5min 27sec monologue and says he will hold brolly to keep everyone dry",
+      "excerpt": "<ul><li><p>Manchester United coach wants ‘humility’ and ‘resilience’</p></li><li><p>He does not rule out stripping Fernandes of captaincy</p></li></ul><p>Michael…",
+      "link": "https://www.theguardian.com/football/2026/oct/23/michael-carrick-monologue-manchester-united-umbrella-bruno-fernandes",
+      "image": "https://i.guim.co.uk/img/media/e34d72615df6107283cf98d8c531e3e10f43bfbb/984_0_6880_5504/master/6880.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=6fd47da7ddcd29980a90596d246bb33c"
+    },
+    {
+      "id": "story-10",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -35,7 +123,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8b82/live/9ccec700-ce3d-11f1-a64c-550be9e3c66b.jpg"
     },
     {
-      "id": "story-3",
+      "id": "story-11",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -46,7 +134,7 @@
       "image": "https://i.guim.co.uk/img/media/aab6e61ebd056475fe180ef9e10f31aeb623b470/103_0_1244_995/master/1244.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b21165487ec66ee71ba7900a2bd82243"
     },
     {
-      "id": "story-4",
+      "id": "story-12",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -57,7 +145,7 @@
       "image": "https://i.guim.co.uk/img/media/544c2db2962f3959c4d74037aec592fe4c7939f5/384_74_1778_1422/master/1778.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f16e7a629109b94cec35dbad7ace47c1"
     },
     {
-      "id": "story-5",
+      "id": "story-13",
       "league": "Ligue 1",
       "dot": "#B8D4E8",
       "source": "BBC Sport",
@@ -68,7 +156,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8e74/live/35aca470-cee7-11f1-bdca-23c64447299f.jpg"
     },
     {
-      "id": "story-6",
+      "id": "story-14",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -79,7 +167,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e392/live/de4c6120-ceeb-11f1-bdca-23c64447299f.jpg"
     },
     {
-      "id": "story-7",
+      "id": "story-15",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -90,7 +178,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e392/live/de4c6120-ceeb-11f1-bdca-23c64447299f.jpg"
     },
     {
-      "id": "story-8",
+      "id": "story-16",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -101,7 +189,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/64fd/live/22c475a0-cee1-11f1-bdca-23c64447299f.jpg"
     },
     {
-      "id": "story-9",
+      "id": "story-17",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -112,7 +200,7 @@
       "image": "https://i.guim.co.uk/img/media/a04daa49c84b47d9b17c1a76252054f94ff0b7ac/570_0_6076_4864/master/6076.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=808f28389df97749e486a26e535c3049"
     },
     {
-      "id": "story-10",
+      "id": "story-18",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -123,29 +211,18 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/73a2/live/6c9e6ab0-cee5-11f1-b441-2b33b063138f.jpg"
     },
     {
-      "id": "story-11",
+      "id": "story-19",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
       "time": "Oct 23",
       "headline": "Crystal Palace and Newcastle face off with both in search of season kickstart",
-      "excerpt": "<p>Pierre Sage and Matthias Jaissle were appointed this summer and good form has been elusive,…",
+      "excerpt": "<p>Pierre Sage and Matthias Jaissle face some key questions: both were appointed this summer yet…",
       "link": "https://www.theguardian.com/football/2026/oct/23/crystal-palace-and-newcastle-face-off-with-both-in-search-of-season-kickstart",
       "image": "https://i.guim.co.uk/img/media/5de7672785c91d2a93511c59dac9e4f2efd81fef/0_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=277aab6fbe38a16010b0bf30130f1e40"
     },
     {
-      "id": "story-12",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "BBC Sport",
-      "time": "Oct 23",
-      "headline": "Football Daily",
-      "excerpt": "John Murray, Ian Dennis & Ali Bruce-Ball lift the lid on life as 5 Live…",
-      "link": "https://www.bbc.co.uk/sounds/play/m003322l?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0m6ztjd.jpg"
-    },
-    {
-      "id": "story-13",
+      "id": "story-20",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -156,7 +233,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/153c/live/78760970-ceda-11f1-8507-45cb00a1c41c.jpg"
     },
     {
-      "id": "story-14",
+      "id": "story-21",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -167,7 +244,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0d09/live/8d65afc0-ceda-11f1-8507-45cb00a1c41c.jpg"
     },
     {
-      "id": "story-15",
+      "id": "story-22",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -178,7 +255,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6cfa/live/0badff10-cede-11f1-b90b-55df5472350e.jpg"
     },
     {
-      "id": "story-16",
+      "id": "story-23",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -187,83 +264,6 @@
       "excerpt": "<p>Gunners’ title hopes have seemingly evaporated and their under-pressure head coach faces her latest test…",
       "link": "https://www.theguardian.com/football/2026/oct/23/arsenal-women-renee-slegers-tottenham-north-london-derby-womens-super-league",
       "image": "https://i.guim.co.uk/img/media/6956c21e63eceb187d6fa971120449276c168aed/1024_687_3671_2937/master/3671.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3c4c81cdd10908e8074d2f65d451c7f1"
-    },
-    {
-      "id": "story-17",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "BBC Sport",
-      "time": "Oct 23",
-      "headline": "Emery's Villa 2.0 reboot restores optimism before Man City meeting",
-      "excerpt": "Unai Emery's impressive 2.0 reboot has Aston Villa's fans in buoyant mood on the fourth…",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cwg7xvz8e8dpo?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/840b/live/a0bc45b0-cebd-11f1-ae9c-0303957c36f8.jpg"
-    },
-    {
-      "id": "story-18",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "BBC Sport",
-      "time": "Oct 23",
-      "headline": "Former Man United chief Murtough joins Birmingham",
-      "excerpt": "Birmingham City appoint ex-Manchester United chief John Murtough as director of football.",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c9zrdkv775r1o?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3fbc/live/9c83aa70-ced0-11f1-8507-45cb00a1c41c.jpg"
-    },
-    {
-      "id": "story-19",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "The Guardian",
-      "time": "Oct 23",
-      "headline": "Pascal Gross: the obsessive runner keeping Brighton ‘one step ahead’ after fast start",
-      "excerpt": "<p>Midfielder ‘who can never stand still’ has brought renewed energy to Seagulls since return to…",
-      "link": "https://www.theguardian.com/football/2026/oct/23/fabian-gross-obsessive-runner-brighton-one-step-ahead",
-      "image": "https://i.guim.co.uk/img/media/f0bc3627643e85e8c86bb49775a3d2605a307d1c/19_0_3744_2995/master/3744.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=1bbbeeded01b8f5ba22332d39d5ece3c"
-    },
-    {
-      "id": "story-20",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "BBC Sport",
-      "time": "Oct 23",
-      "headline": "Ex-Arsenal director of football Edu to advise Northampton",
-      "excerpt": "Nottingham Forest's former global head of football Edu will serve as a senior advisor to…",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cqrky7n63l6po?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6a0e/live/a2175d50-cec7-11f1-b9e0-e5f0da03dc7f.jpg"
-    },
-    {
-      "id": "story-21",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "BBC Sport",
-      "time": "Oct 23",
-      "headline": "Failure on the field, unrest in stands - Burnley's horror 12 months",
-      "excerpt": "Burnley have failed to win a home league game in 12 months as they continue…",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c6qxnzyx77vqo?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d78c/live/ae5ffbd0-cc97-11f1-94e6-edd4c60b2e1d.jpg"
-    },
-    {
-      "id": "story-22",
-      "league": "La Liga",
-      "dot": "#E3B4F5",
-      "source": "The Guardian",
-      "time": "Oct 23",
-      "headline": "Is el clásico still the world’s biggest match? Three questions before Barcelona v Real Madrid",
-      "excerpt": "<p>The fixture’s relevance waned as the Messi-Ronaldo rivalry faded. Can Lamine Yamal and Mbappé lift…",
-      "link": "https://www.theguardian.com/football/2026/oct/23/el-clasico-real-madrid-barcelona-lamine-yamal-kylian-mbappe",
-      "image": "https://i.guim.co.uk/img/media/521f936beee71362840134226fb34a8bf55920fe/446_0_3885_3108/master/3885.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=7a38c464ac0f276b448428a69f817b2c"
-    },
-    {
-      "id": "story-23",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "BBC Sport",
-      "time": "Oct 23",
-      "headline": "Should Man Utd boss Carrick drop captain Fernandes?",
-      "excerpt": "Manchester United head coach Michael Carrick must decide whether to leave skipper Bruno Fernandes out…",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cked3x8452pdo?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/624e/live/1179f540-ceaf-11f1-a64c-550be9e3c66b.jpg"
     }
   ],
   "scoreboard": [
