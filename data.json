@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-10-24T09:18:14.703Z",
+  "updatedAt": "2026-10-24T13:23:26.050Z",
   "hero": {
     "id": "story-0",
-    "league": "La Liga",
-    "dot": "#E3B4F5",
+    "league": "Premier League",
+    "dot": "#9CC0F0",
     "source": "101 Great Goals",
     "time": "Oct 24",
-    "headline": "Barcelona vs Real Madrid combined XI: Which club has the stronger squad ahead of El Clasico?",
-    "excerpt": "Discover 101GreatGoals' El Clasico combined XI.",
-    "link": "https://www.101greatgoals.com/football/la-liga/barcelona-vs-real-madrid-combined-xi/",
+    "headline": "LIVE &#8211; Arsenal v Everton: Commentary, updates, goals and stats",
+    "excerpt": "Arsenal host Everton this afternoon looking to claim another three points in their quest to…",
+    "link": "https://www.101greatgoals.com/live/live-arsenal-v-everton-commentary-updates-goals-stream-stats-where-to-watch/",
     "image": null
   },
   "topStories": [
@@ -18,13 +18,101 @@
       "dot": "#9CC0F0",
       "source": "The Guardian",
       "time": "Oct 24",
-      "headline": "Aston Villa v Manchester City buildup, Premier League news, WSL, and more – matchday live",
-      "excerpt": "<p>⚽ All the latest as we build up to Saturday’s games<br>⚽ <a href=\"https://www.theguardian.com/football/2026/oct/23/premier-league-10-things-to-look-out-for-this-weekend\">Ten things to…",
-      "link": "https://www.theguardian.com/football/live/2026/oct/24/aston-villa-v-manchester-city-buildup-premier-league-news-wsl-and-more-matchday-live",
-      "image": "https://i.guim.co.uk/img/media/827dbb41f371b1d266c86f191f126b3b811bcf6c/0_1_5000_3998/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b98b7e1b04ab3f7190a0c571b82e1dbd"
+      "headline": "Tottenham host Arsenal in WSL, Premier League, EFL and more – football clockwatch live",
+      "excerpt": "<p>⚽ Updates from Saturday’s action around the grounds<br>⚽ <a href=\"https://www.theguardian.com/football/2026/oct/23/premier-league-10-things-to-look-out-for-this-weekend\">Ten things to look out for</a>…",
+      "link": "https://www.theguardian.com/football/live/2026/oct/24/tottenham-arsenal-wsl-premier-league-efl-football-clockwatch-live",
+      "image": "https://i.guim.co.uk/img/media/88d08f3d08d5bc75b534ab042ba250bb33ad8960/212_0_3121_2498/master/3121.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=4604d99ef88f74c7aab1372f50cd11fc"
     },
     {
       "id": "story-2",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "The Guardian",
+      "time": "Oct 24",
+      "headline": "Aston Villa v Manchester City: Premier League – live",
+      "excerpt": "<p>⚽ Premier League updates from the 12.30pm BST kick-off<br>⚽ <a href=\"https://www.theguardian.com/football/2026/oct/23/premier-league-10-things-to-look-out-for-this-weekend\">Ten things to look out…",
+      "link": "https://www.theguardian.com/football/live/2026/oct/24/aston-villa-v-manchester-city-premier-league-live",
+      "image": "https://i.guim.co.uk/img/media/08a0f6afd3ebbe76753204d2911375172e92929a/192_0_3642_2913/master/3642.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=2df6c33a48bbe2f99c915f4310bb42de"
+    },
+    {
+      "id": "story-3",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "BBC Sport",
+      "time": "Oct 24",
+      "headline": "Morton v Ayr United off due to waterlogged pitch",
+      "excerpt": "The Scottish Championship match between Greenock Morton and Ayr United has been postponed as Storm…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cwzd6g3g3lemo?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/153c/live/78760970-ceda-11f1-8507-45cb00a1c41c.jpg"
+    },
+    {
+      "id": "story-4",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "BBC Sport",
+      "time": "Oct 24",
+      "headline": "Barnsley legend Barry 'Spud' Murphy dies",
+      "excerpt": "Barnsley have announced the death of their all-time record appearance holder Barry Murphy at the…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cmwyqljyyg1lo?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/156c/live/9af0a3c0-cf93-11f1-878e-95f884e98e77.jpg"
+    },
+    {
+      "id": "story-5",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "BBC Sport",
+      "time": "Oct 24",
+      "headline": "Ferguson's first game as Glentoran boss postponed",
+      "excerpt": "Duncan Ferguson's first game as Glentoran manager against Ballymena United is off because of a…",
+      "link": "https://www.bbc.co.uk/sport/articles/cmy4x7zvv28ko?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8f31/live/663e1af0-cf9c-11f1-99e0-bfcc419a6039.jpg"
+    },
+    {
+      "id": "story-6",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "BBC Sport",
+      "time": "Oct 24",
+      "headline": "Infantino says he is backed by 'vast majority'",
+      "excerpt": "Fifa president Gianni Infantino laughs off questions about whether he considered resigning over the World…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c6q8nd9g9n72o?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cac2/live/51c70760-cf99-11f1-b441-2b33b063138f.png"
+    },
+    {
+      "id": "story-7",
+      "league": "Bundesliga",
+      "dot": "#FFC469",
+      "source": "BBC Sport",
+      "time": "Oct 24",
+      "headline": "Kompany recovery will take 'weeks' as tests continue",
+      "excerpt": "Vincent Kompany remains stable in hospital as doctors run tests following his collapse on Friday,…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cm2l4vq9k84yo?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fb52/live/7a368340-cf8c-11f1-bef0-7f8eb636c50b.jpg"
+    },
+    {
+      "id": "story-8",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "The Guardian",
+      "time": "Oct 24",
+      "headline": "Vincent Kompany to miss ‘weeks, not days’ with virus treatment, say Bayern Munich",
+      "excerpt": "<ul><li><p>Head coach in hospital after collapsing in training</p></li><li><p>Assistant coach Aaron Danks to take charge against…",
+      "link": "https://www.theguardian.com/football/2026/oct/24/vincent-kompany-recovery-virus-bayern-munich-bundesliga-football",
+      "image": "https://i.guim.co.uk/img/media/62d0ebc8306af8876bfcafe069b6079d9baddba6/54_0_3003_2402/master/3003.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=5bfd1b61a3894963aa71650932f4268f"
+    },
+    {
+      "id": "story-9",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "BBC Sport",
+      "time": "Oct 24",
+      "headline": "How a fan's dying wish led a Dutch football team to a tartan kit",
+      "excerpt": "FC Twente fans have made regular pilgrimages to Stranraer after a friendship formed by a…",
+      "link": "https://www.bbc.co.uk/news/articles/c60735zx137no?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a15c/live/7d7c80c0-cf2f-11f1-b441-2b33b063138f.png"
+    },
+    {
+      "id": "story-10",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -35,7 +123,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cdcb/live/3a960b90-cef4-11f1-accf-3309656ad0bb.jpg"
     },
     {
-      "id": "story-3",
+      "id": "story-11",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -46,18 +134,18 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d4d0/live/dce34020-cf2b-11f1-b441-2b33b063138f.png"
     },
     {
-      "id": "story-4",
+      "id": "story-12",
       "league": "La Liga",
       "dot": "#E3B4F5",
       "source": "The Guardian",
       "time": "Oct 24",
       "headline": "Older, calmer, but still playing the hits: Mourinho and Madrid primed for clásico",
-      "excerpt": "<p>Once Bobby Robson’s translator at the Camp Nou, Mourinho is tasked with bringing down Barcelona…",
+      "excerpt": "<p>Once Bobby Robson’s translator at the Camp Nou, José Mourinho is tasked with bringing down…",
       "link": "https://www.theguardian.com/football/2026/oct/24/la-liga-clasico-barcelona-real-madrid-jose-mourinho",
       "image": "https://i.guim.co.uk/img/media/4fd465399c5f947385744092f47f230cc0b1ab16/418_0_4768_3813/master/4768.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=7f7f72b3e4ccd9959e14994edd3c172d"
     },
     {
-      "id": "story-5",
+      "id": "story-13",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -68,7 +156,18 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/131f/live/f29e9740-cd30-11f1-bc2e-018d645d8d21.jpg"
     },
     {
-      "id": "story-6",
+      "id": "story-14",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "BBC Sport",
+      "time": "Oct 24",
+      "headline": "Why Tottenham v Arsenal could define their seasons",
+      "excerpt": "With Tottenham stuttering and Arsenal floundering, these fierce rivals both need a victory in Saturday's…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/ck240l3n774zo?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/131f/live/f29e9740-cd30-11f1-bc2e-018d645d8d21.jpg"
+    },
+    {
+      "id": "story-15",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -79,7 +178,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fbf/live/38bd3c70-bda7-11f1-bc2e-018d645d8d21.png"
     },
     {
-      "id": "story-7",
+      "id": "story-16",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -90,7 +189,7 @@
       "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0pj7y7q.jpg"
     },
     {
-      "id": "story-8",
+      "id": "story-17",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -101,7 +200,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8aeb/live/76e767a0-cf31-11f1-9f96-7f17b236547a.jpg"
     },
     {
-      "id": "story-9",
+      "id": "story-18",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -112,7 +211,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f9f1/live/0343bee0-cf2f-11f1-a701-fddedf244c16.jpg"
     },
     {
-      "id": "story-10",
+      "id": "story-19",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -123,7 +222,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ac3/live/c1c66a40-cf2d-11f1-93e1-3b657b665bcf.jpg"
     },
     {
-      "id": "story-11",
+      "id": "story-20",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -134,7 +233,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2ad5/live/def54220-cf29-11f1-a701-fddedf244c16.jpg"
     },
     {
-      "id": "story-12",
+      "id": "story-21",
       "league": "Bundesliga",
       "dot": "#FFC469",
       "source": "BBC Sport",
@@ -145,7 +244,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6791/live/a05284c0-cf28-11f1-b441-2b33b063138f.jpg"
     },
     {
-      "id": "story-13",
+      "id": "story-22",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -156,7 +255,7 @@
       "image": "https://i.guim.co.uk/img/media/aab6e61ebd056475fe180ef9e10f31aeb623b470/103_0_1244_995/master/1244.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b21165487ec66ee71ba7900a2bd82243"
     },
     {
-      "id": "story-14",
+      "id": "story-23",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -165,105 +264,6 @@
       "excerpt": "Aston Villa have doubts on making Alejandro Garnacho deal a permanent move, Brighton to stand…",
       "link": "https://www.bbc.co.uk/sport/football/articles/cwn73kzzr8veo?at_medium=RSS&amp;at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/03d9/live/a1de3530-cf25-11f1-a701-fddedf244c16.png"
-    },
-    {
-      "id": "story-15",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "The Guardian",
-      "time": "Oct 23",
-      "headline": "Premier League news: Spurs’ nine injuries ‘normal’, says De Zerbi; ‘emotional control’ keeps Blues red-free",
-      "excerpt": "<p>Tottenham manager insists medical team not to blame as more key players drop out while…",
-      "link": "https://www.theguardian.com/football/2026/oct/23/premier-league-news-spurs-nine-injuries-normal-says-de-zerbi-emotional-control-keeps-blues-red-free",
-      "image": "https://i.guim.co.uk/img/media/4df7d9a0bf46608efbd8f864c836197a40112dbd/368_57_1213_971/master/1213.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=2b807f54d02504a7ffedd6c1b1090b5e"
-    },
-    {
-      "id": "story-16",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "The Guardian",
-      "time": "Oct 23",
-      "headline": "Enciso rescues point in storm for Ipswich to deny Nottingham Forest",
-      "excerpt": "<p>Amid a Suffolk squall, winds whipping, a constant drum of rain, an encounter full of…",
-      "link": "https://www.theguardian.com/football/2026/oct/23/ipswich-nottingham-forest-premier-league-match-report",
-      "image": "https://i.guim.co.uk/img/media/c2ff33747a91c403f2f76f0fb351c7c3170f2f6d/350_0_3500_2800/master/3500.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=bd9d9cd19ff4cf12a482ad211ef2706b"
-    },
-    {
-      "id": "story-17",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "The Guardian",
-      "time": "Oct 23",
-      "headline": "NWSL drops controversial criteria around ‘Rodman Rule’ in settlement with NWSLPA",
-      "excerpt": "<ul><li><p>Any player will be eligible for High Impact Player status</p></li><li><p>Requirements had included top 100, marketability…",
-      "link": "https://www.theguardian.com/football/2026/oct/23/nwsl-rodman-rule-hip-rule-changes",
-      "image": "https://i.guim.co.uk/img/media/71117ad5d2bd240a1ac31249821c8f2dafd5f6ab/389_0_4283_3426/master/4283.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=da7ba76ca4061b25e54b9fc4540a3108"
-    },
-    {
-      "id": "story-18",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "The Guardian",
-      "time": "Oct 23",
-      "headline": "Change captain? Play the kids? How to solve the problems at Manchester United",
-      "excerpt": "<p>The beleaguered Michael Carrick’s job is on the line, but there are steps he can…",
-      "link": "https://www.theguardian.com/football/2026/oct/23/change-captain-play-the-kids-how-to-solve-the-problems-at-manchester-united",
-      "image": "https://i.guim.co.uk/img/media/3a1499ce8a3a9068317af04d0dbf31120da3031d/0_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e01fb4bb21a288b6c09693a73c419271"
-    },
-    {
-      "id": "story-19",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "BBC Sport",
-      "time": "Oct 23",
-      "headline": "Spygate put me in difficult position - Southampton technical director",
-      "excerpt": "Southampton group technical director Johannes Spors says that the Spygate scandal put him in a…",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cmjrwjl1j27do?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3b64/live/3ce164b0-cf00-11f1-accf-3309656ad0bb.jpg"
-    },
-    {
-      "id": "story-20",
-      "league": "Bundesliga",
-      "dot": "#FFC469",
-      "source": "The Guardian",
-      "time": "Oct 23",
-      "headline": "Vincent Kompany taken to hospital after collapsing at Bayern training",
-      "excerpt": "<ul><li><p>Bayern Munich head coach had been nursing a virus</p></li><li><p>Coach ‘undergoing thorough examinations’, club say</p></li></ul><p>Vincent Kompany…",
-      "link": "https://www.theguardian.com/football/2026/oct/23/vincent-kompany-hospital-collapsing-bayern-munich-training",
-      "image": "https://i.guim.co.uk/img/media/b89cc314f06a405679c345d1a0b4720523d30c34/217_129_1724_1378/master/1724.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=465938eac111ca3a61e6a019ce88c274"
-    },
-    {
-      "id": "story-21",
-      "league": "Bundesliga",
-      "dot": "#FFC469",
-      "source": "BBC Sport",
-      "time": "Oct 23",
-      "headline": "Kompany taken to hospital after collapsing at training",
-      "excerpt": "Bayern Munich manager Vincent Kompany is taken to hospital after collapsing as he watched the…",
-      "link": "https://www.bbc.co.uk/sport/football/articles/ck3r5792en7go?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f178/live/0950f610-cefb-11f1-accf-3309656ad0bb.jpg"
-    },
-    {
-      "id": "story-22",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "The Guardian",
-      "time": "Oct 23",
-      "headline": "Premier League, Antonelli goes for F1 title, plus WSL and clásico action – follow with us",
-      "excerpt": "<p>Here’s how to follow along with our coverage – the finest writing and up-to-the-minute reports</p>…",
-      "link": "https://www.theguardian.com/sport/2026/oct/23/premier-league-antonelli-goes-for-f1-title-plus-wsl-and-clasico-action-follow-with-us",
-      "image": "https://i.guim.co.uk/img/media/3ebacdec30c4623f5b711993b60a35f23417505d/0_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=435293d8f027d02830191404cf277f3f"
-    },
-    {
-      "id": "story-23",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "BBC Sport",
-      "time": "Oct 23",
-      "headline": "AFC Wimbledon's Skiverton diagnosed with cancer",
-      "excerpt": "AFC Wimbledon assistant manager Terry Skiverton is scheduled to begin treatment in the coming weeks…",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cve8r6z631lyo?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cdbe/live/88d28250-cef6-11f1-accf-3309656ad0bb.jpg"
     }
   ],
   "scoreboard": [
