@@ -1,19 +1,96 @@
 {
-  "updatedAt": "2026-10-24T21:29:00.194Z",
+  "updatedAt": "2026-10-24T23:31:58.864Z",
   "hero": {
     "id": "story-0",
     "league": "Premier League",
     "dot": "#9CC0F0",
     "source": "BBC Sport",
     "time": "Oct 24",
-    "headline": "Highest position since early January - are Spurs finally on way back?",
-    "excerpt": "Tottenham end Saturday's Premier League action in 12th place, their highest league position since 2…",
-    "link": "https://www.bbc.co.uk/sport/football/articles/cqev38dz34vxo?at_medium=RSS&amp;at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/92f3/live/2deade60-cfea-11f1-930c-2509b9d0398f.jpg"
+    "headline": "Should Palmer have been sent off earlier than he was?",
+    "excerpt": "Match of the Day pundit Martin Keown looks at the red card shown to Cole…",
+    "link": "https://www.bbc.co.uk/sport/football/videos/cmd93enq4z20o?at_medium=RSS&amp;at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/71aa/live/166b4090-cff9-11f1-a701-fddedf244c16.jpg"
   },
   "topStories": [
     {
       "id": "story-1",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "BBC Sport",
+      "time": "Oct 24",
+      "headline": "How 'special talent' Jackson inspired Villa to victory over Man City",
+      "excerpt": "Match of the Day pundits Martin Keown and Steph Houghton look at the impact Aston…",
+      "link": "https://www.bbc.co.uk/sport/football/videos/cmzxj1r8j7p2o?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/505c/live/4730faa0-cff7-11f1-a701-fddedf244c16.jpg"
+    },
+    {
+      "id": "story-2",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "BBC Sport",
+      "time": "Oct 24",
+      "headline": "Watch Match of the Day on iPlayer",
+      "excerpt": "With Chelsea v Spurs, Arsenal v Everton, Villa v Man City and Coventry v Fulham",
+      "link": "https://www.bbc.co.uk/iplayer/episode/m0033jlx?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0pj99mq.jpg"
+    },
+    {
+      "id": "story-3",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "BBC Sport",
+      "time": "Oct 24",
+      "headline": "Symonds scores screamer as Brighton beat West Ham",
+      "excerpt": "Maisie Symonds scores a 'goal of the season' contender to help Brighton beat West Ham…",
+      "link": "https://www.bbc.co.uk/sport/football/videos/cmjrwjlx5q3wo?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/baf9/live/fe815390-cfd8-11f1-b441-2b33b063138f.jpg"
+    },
+    {
+      "id": "story-4",
+      "league": "La Liga",
+      "dot": "#E3B4F5",
+      "source": "101 Great Goals",
+      "time": "Oct 24",
+      "headline": "Alvarez strike sees Atletico pile pressure on Barcelona ahead of Clasico",
+      "excerpt": "Alvarez scored for the second time in as many games.",
+      "link": "https://www.101greatgoals.com/football/bundesliga/alvarez-strike-sees-atletico-pile-pressure-on-barcelona-ahead-of-clasico/",
+      "image": "https://www.101greatgoals.com/wp-content/uploads/2026/08/3E6Y2PN-1-1.jpg"
+    },
+    {
+      "id": "story-5",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "BBC Sport",
+      "time": "Oct 24",
+      "headline": "Man Utd not an unmanageable club - Carrick",
+      "excerpt": "Michael Carrick says it is possible to manage Manchester United effectively as he clings on…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c9ly0dxxgp7lo?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/48e4/live/2d7fb690-cf94-11f1-878e-95f884e98e77.jpg"
+    },
+    {
+      "id": "story-6",
+      "league": "Serie A",
+      "dot": "#A9E6A0",
+      "source": "The Guardian",
+      "time": "Oct 24",
+      "headline": "European football: Lazio beat Parma to top Serie A; Dortmund lead Bundesliga",
+      "excerpt": "<ul><li><p>Lazio win 2-1 while Roma draw 3-3 with Napoli </p></li><li><p>Beier gives Dortmund win over Eintracht…",
+      "link": "https://www.theguardian.com/football/2026/oct/24/european-football-napoli-roma-borussia-dortmund-atletico-madrid-paris-fc",
+      "image": "https://i.guim.co.uk/img/media/702082a18e2a37b44d79e75eaf445850fdbcffba/219_0_2560_2048/master/2560.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=cfe818b6209f91b23dda71efa1847a9c"
+    },
+    {
+      "id": "story-7",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "BBC Sport",
+      "time": "Oct 24",
+      "headline": "The candid meeting that 'changed' Spurs - are they finally on way back?",
+      "excerpt": "Tottenham end Saturday's Premier League action in 12th place, their highest league position since 2…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cqev38dz34vxo?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dbe8/live/84b1c910-cfff-11f1-93e1-3b657b665bcf.jpg"
+    },
+    {
+      "id": "story-8",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "The Guardian",
@@ -24,29 +101,18 @@
       "image": "https://i.guim.co.uk/img/media/0578e74d4828dc5ed068cea3c66db1070bb85379/907_0_4519_3617/master/4519.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=8a3fcf03d1e51b6a268bc04fce072bbf"
     },
     {
-      "id": "story-2",
+      "id": "story-9",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
       "time": "Oct 24",
-      "headline": "Glitch in Chelsea’s coding costs Alonso as resurgent Spurs win set-piece battle | Barney Ronay",
+      "headline": "Glitch in Chelsea’s coding costs Alonso while resurgent Spurs are all systems go | Barney Ronay",
       "excerpt": "<p>Home side broke the game open with some unique corner routines, but a goalkeeping error…",
       "link": "https://www.theguardian.com/football/2026/oct/24/chelsea-tottenham-premier-league-austin-macphee-mike-penders-roberto-de-zerbi",
       "image": "https://i.guim.co.uk/img/media/b6b11938ec6e6ad3e0ad1420e4341b26a943c45b/435_0_3392_2713/master/3392.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a87821302d1140b67663991704e7ca7a"
     },
     {
-      "id": "story-3",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "101 Great Goals",
-      "time": "Oct 24",
-      "headline": "Burnley sack Hayen after Lincoln humiliation",
-      "excerpt": "Burnley's latest defeat left them third bottom of the Championship.",
-      "link": "https://www.101greatgoals.com/football/burnley-sack-hayen-after-lincoln-humiliation/",
-      "image": null
-    },
-    {
-      "id": "story-4",
+      "id": "story-10",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -57,7 +123,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0bf2/live/e83ed530-cfdd-11f1-a701-fddedf244c16.png"
     },
     {
-      "id": "story-5",
+      "id": "story-11",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -68,7 +134,7 @@
       "image": "https://i.guim.co.uk/img/media/af032b4eec6b3cbff136ed02f07b78b7ff4227b2/495_0_3263_2611/master/3263.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=95a77d3425612de19088cc69daef3a52"
     },
     {
-      "id": "story-6",
+      "id": "story-12",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -79,7 +145,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fa17/live/e2ff59a0-cfe2-11f1-aa62-a1cf89c34605.jpg"
     },
     {
-      "id": "story-7",
+      "id": "story-13",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -90,7 +156,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2a63/live/dd863070-cfe7-11f1-808d-1d32ac5cbb5b.jpg"
     },
     {
-      "id": "story-8",
+      "id": "story-14",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -101,18 +167,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2307/live/6e2edec0-cfe2-11f1-aa62-a1cf89c34605.jpg"
     },
     {
-      "id": "story-9",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "The Guardian",
-      "time": "Oct 24",
-      "headline": "European football: Roma snatch late draw in 3-3 thriller as Como win again",
-      "excerpt": "<ul><li><p>McTominay scores twice for Napoli against Roma</p></li><li><p>Dortmund top Bundesliga after Eintracht Frankfurt win</p></li></ul><p><strong>Roma</strong> missed the…",
-      "link": "https://www.theguardian.com/football/2026/oct/24/european-football-napoli-roma-borussia-dortmund-atletico-madrid-paris-fc",
-      "image": "https://i.guim.co.uk/img/media/a16a8e358a30bcadb3cb6fb3ab43e47701ed7b07/226_0_2560_2048/master/2560.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b9ff87fc62b93fe9b5cca6780d258062"
-    },
-    {
-      "id": "story-10",
+      "id": "story-15",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -123,7 +178,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b4b0/live/61137dc0-cfdf-11f1-93e1-3b657b665bcf.jpg"
     },
     {
-      "id": "story-11",
+      "id": "story-16",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -134,18 +189,18 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e38b/live/4a1a96c0-cfdb-11f1-93e1-3b657b665bcf.jpg"
     },
     {
-      "id": "story-12",
+      "id": "story-17",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
       "time": "Oct 24",
       "headline": "Watch: Sportscene - Saturday's Scottish Premiership highlights",
       "excerpt": "With Rangers v St Johnstone, St Mirren v Dundee and Dundee Utd v Aberdeen",
-      "link": "https://www.bbc.co.uk/iplayer/episode/m0033m71?at_medium=RSS&amp;at_campaign=rss",
+      "link": "https://www.bbc.co.uk/iplayer/live/bbcone?at_medium=RSS&amp;at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0pjg7jq.jpg"
     },
     {
-      "id": "story-13",
+      "id": "story-18",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -156,7 +211,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8e45/live/7e1f20c0-cfdc-11f1-93e1-3b657b665bcf.jpg"
     },
     {
-      "id": "story-14",
+      "id": "story-19",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -167,7 +222,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2dbc/live/07a857a0-cfd6-11f1-b951-f904363c9c32.jpg"
     },
     {
-      "id": "story-15",
+      "id": "story-20",
       "league": "Bundesliga",
       "dot": "#FFC469",
       "source": "The Guardian",
@@ -178,7 +233,7 @@
       "image": "https://i.guim.co.uk/img/media/813fd9e4ad982954d30698cc7ffe2c28e91f5621/402_365_5091_4073/master/5091.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=250c183e15d32c01ab416bdc8974dfdf"
     },
     {
-      "id": "story-16",
+      "id": "story-21",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -189,7 +244,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7a40/live/22bd59c0-cfde-11f1-93e1-3b657b665bcf.jpg"
     },
     {
-      "id": "story-17",
+      "id": "story-22",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -200,7 +255,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/de92/live/3f644120-cfd3-11f1-a701-fddedf244c16.jpg"
     },
     {
-      "id": "story-18",
+      "id": "story-23",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -209,61 +264,6 @@
       "excerpt": "Fulham's Oscar Bobb scores in the 80th minute against Coventry to earn back-to-back victories in…",
       "link": "https://www.bbc.co.uk/sport/football/videos/cx7vpmrzr04do?at_medium=RSS&amp;at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a280/live/a960f020-cfc7-11f1-b441-2b33b063138f.jpg"
-    },
-    {
-      "id": "story-19",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "BBC Sport",
-      "time": "Oct 24",
-      "headline": "Barnet condemn racial abuse of Noel-Williams",
-      "excerpt": "Barnet condemn racial abuse targeted at Isiah Noel-Williams after the midfielder was sent off in…",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cqm2dx312d98o?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e0b8/live/a4aaeee0-cfd7-11f1-b951-f904363c9c32.jpg"
-    },
-    {
-      "id": "story-20",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "BBC Sport",
-      "time": "Oct 24",
-      "headline": "Penders error & Palmer sees red - player ratings for Chelsea v Spurs",
-      "excerpt": "Goalkeeper Mike Penders endures a difficult first Premier League start, scoring an own goal in…",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cqwy7x6e672eo?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/74e0/live/793455e0-cfd6-11f1-b951-f904363c9c32.jpg"
-    },
-    {
-      "id": "story-21",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "BBC Sport",
-      "time": "Oct 24",
-      "headline": "Podcast: A stormy Saturday of Scottish football",
-      "excerpt": "Reaction to stormy Saturday of Scottish football across the country on and off the pitch!",
-      "link": "https://www.bbc.co.uk/sounds/play/p0pjgsxf?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0gf9mfx.jpg"
-    },
-    {
-      "id": "story-22",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "The Guardian",
-      "time": "Oct 24",
-      "headline": "Championship roundup: Southampton beat West Ham; QPR put five past Swansea",
-      "excerpt": "<ul><li><p>Hammers humbled at home; Swansea thrashed 5-0</p></li><li><p>Burnley sack manager Hayen after 4-1 loss at Lincoln</p></li></ul><p><strong>Southampton</strong>…",
-      "link": "https://www.theguardian.com/football/2026/oct/24/championship-roundup-sheffield-united-derby-west-ham-swansea",
-      "image": "https://i.guim.co.uk/img/media/67b47d0cdcc31ff004aceacff22c702a3ad4e332/947_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e8b0270924a069d1899f9b470dda9a30"
-    },
-    {
-      "id": "story-23",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "The Guardian",
-      "time": "Oct 24",
-      "headline": "Burnley sack Nicky Hayen after Lincoln rout leaves them in bottom three",
-      "excerpt": "<ul><li><p>Belgian won only one of his 14 games in charge</p></li><li><p>Relegated Burnley expected to challenge for…",
-      "link": "https://www.theguardian.com/football/2026/oct/24/burnley-sack-nicky-hayen-lincoln-rout-championship",
-      "image": "https://i.guim.co.uk/img/media/74f6b99400b845036ecb40f39016d7581ac5b071/275_0_2390_1913/master/2390.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=db277246ca841706ab400fe9c246237d"
     }
   ],
   "scoreboard": [
@@ -276,6 +276,26 @@
       "away": "Tottenham Hotspur FC",
       "homeScore": 0,
       "awayScore": 2
+    },
+    {
+      "id": "score-565837",
+      "league": "Bundesliga",
+      "dot": "#FFC469",
+      "time": "Oct 24",
+      "home": "Borussia Dortmund",
+      "away": "Eintracht Frankfurt",
+      "homeScore": 1,
+      "awayScore": 0
+    },
+    {
+      "id": "score-565834",
+      "league": "Bundesliga",
+      "dot": "#FFC469",
+      "time": "Oct 24",
+      "home": "SC Paderborn 07",
+      "away": "Hamburger SV",
+      "homeScore": 1,
+      "awayScore": 0
     },
     {
       "id": "score-560614",
@@ -306,26 +326,6 @@
       "away": "Málaga CF",
       "homeScore": 1,
       "awayScore": 1
-    },
-    {
-      "id": "score-558567",
-      "league": "Serie A",
-      "dot": "#A9E6A0",
-      "time": "Oct 23",
-      "home": "Torino FC",
-      "away": "AC Monza",
-      "homeScore": 3,
-      "awayScore": 2
-    },
-    {
-      "id": "score-559654",
-      "league": "Ligue 1",
-      "dot": "#B8D4E8",
-      "time": "Oct 23",
-      "home": "Stade Brestois 29",
-      "away": "OGC Nice",
-      "homeScore": 1,
-      "awayScore": 2
     }
   ]
 }
