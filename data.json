@@ -1,19 +1,173 @@
 {
-  "updatedAt": "2026-10-24T16:43:52.798Z",
+  "updatedAt": "2026-10-24T19:02:02.365Z",
   "hero": {
     "id": "story-0",
-    "league": "Premier League",
-    "dot": "#9CC0F0",
-    "source": "The Guardian",
+    "league": "Football",
+    "dot": "#AFC4AC",
+    "source": "BBC Sport",
     "time": "Oct 24",
-    "headline": "Chelsea v Tottenham: Premier League – live",
-    "excerpt": "<p>⚽ Premier League updates from the 5.30pm BST kick-off<br>⚽ <a href=\"https://www.theguardian.com/football/2026/oct/24/aston-villa-manchester-city-premier-league-match-report\">Aston Villa 2-1 Man City</a>…",
-    "link": "https://www.theguardian.com/football/live/2026/oct/24/chelsea-v-tottenham-premier-league-live",
-    "image": "https://i.guim.co.uk/img/media/60ea76af9f9008e1a95bc866db0acda9a171d6c2/0_0_3395_2716/master/3395.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=14b0464278a1368f3f61d83adaff2166"
+    "headline": "Watch: Sportscene - Saturday's Scottish Premiership highlights",
+    "excerpt": "All the day's Scottish Premiership highlights and reaction.",
+    "link": "https://www.bbc.co.uk/iplayer/live/bbcscotland?at_medium=RSS&amp;at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0pjg7jq.jpg"
   },
   "topStories": [
     {
       "id": "story-1",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "BBC Sport",
+      "time": "Oct 24",
+      "headline": "Barnet condemn racial abuse of Noel-Williams",
+      "excerpt": "Barnet condemn racial abuse targeted at Isiah Noel-Williams after the midfielder was sent off in…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cqm2dx312d98o?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e0b8/live/a4aaeee0-cfd7-11f1-b951-f904363c9c32.jpg"
+    },
+    {
+      "id": "story-2",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "The Guardian",
+      "time": "Oct 24",
+      "headline": "Tottenham stun Chelsea for second league win in a week as Cole Palmer is sent off",
+      "excerpt": "<p>There were times when Roberto De Zerbi’s frustration threatened to boil over. The Tottenham manager…",
+      "link": "https://www.theguardian.com/football/2026/oct/24/chelsea-tottenham-premier-league-match-report",
+      "image": "https://i.guim.co.uk/img/media/af032b4eec6b3cbff136ed02f07b78b7ff4227b2/326_0_3263_2611/master/3263.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a29a531e4213891a5297cbdef52bdd4e"
+    },
+    {
+      "id": "story-3",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "101 Great Goals",
+      "time": "Oct 24",
+      "headline": "Chelsea 0-2 Tottenham: Palmer sent off as Spurs claim rare Stamford Bridge victory",
+      "excerpt": "Tottenham prevailed at Stamford Bridge for the first time since 2018.",
+      "link": "https://www.101greatgoals.com/football/premier-league/chelsea-0-2-tottenham-palmer-sent-off-as-spurs-claim-rare-stamford-bridge-victory/",
+      "image": null
+    },
+    {
+      "id": "story-4",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "BBC Sport",
+      "time": "Oct 24",
+      "headline": "Penders error & Palmer sees red - player ratings for Chelsea v Spurs",
+      "excerpt": "Goalkeeper Mike Penders endures a difficult first Premier League start, scoring an own goal in…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cqwy7x6e672eo?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/74e0/live/793455e0-cfd6-11f1-b951-f904363c9c32.jpg"
+    },
+    {
+      "id": "story-5",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "BBC Sport",
+      "time": "Oct 24",
+      "headline": "Podcast: A stormy Saturday of Scottish football",
+      "excerpt": "Reaction to stormy Saturday of Scottish football across the country on and off the pitch!",
+      "link": "https://www.bbc.co.uk/sounds/play/p0pjgsxf?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0gf9mfx.jpg"
+    },
+    {
+      "id": "story-6",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "The Guardian",
+      "time": "Oct 24",
+      "headline": "Championship roundup: Southampton beat West Ham; QPR put five past Swansea",
+      "excerpt": "<ul><li><p>Hammers humbled at home; Swansea thrashed 5-0</p></li><li><p>Burnley sack manager Hayen after 4-1 loss at Lincoln</p></li></ul><p><strong>Southampton</strong>…",
+      "link": "https://www.theguardian.com/football/2026/oct/24/championship-roundup-sheffield-united-derby-west-ham-swansea",
+      "image": "https://i.guim.co.uk/img/media/67b47d0cdcc31ff004aceacff22c702a3ad4e332/947_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e8b0270924a069d1899f9b470dda9a30"
+    },
+    {
+      "id": "story-7",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "The Guardian",
+      "time": "Oct 24",
+      "headline": "Burnley sack Nicky Hayen after Lincoln rout leaves them in bottom three",
+      "excerpt": "<ul><li><p>Belgian won only one of his 14 games in charge</p></li><li><p>Relegated Burnley expected to challenge for…",
+      "link": "https://www.theguardian.com/football/2026/oct/24/burnley-sack-nicky-hayen-lincoln-rout-championship",
+      "image": "https://i.guim.co.uk/img/media/74f6b99400b845036ecb40f39016d7581ac5b071/275_0_2390_1913/master/2390.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=db277246ca841706ab400fe9c246237d"
+    },
+    {
+      "id": "story-8",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "BBC Sport",
+      "time": "Oct 24",
+      "headline": "'A massive storage of images': Arteta has 'technical area' receipts",
+      "excerpt": "Wandering Premier League managers beware, Arsenal's Mikel Arteta has compiled a dossier of bosses leaving…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cwgkv8yx4dg8o?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e9ed/live/74b64170-cfce-11f1-93e1-3b657b665bcf.jpg"
+    },
+    {
+      "id": "story-9",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "BBC Sport",
+      "time": "Oct 24",
+      "headline": "Manager ins and outs - 2026-27",
+      "excerpt": "BBC Sport tracks all the manager ins and outs in the Premier League, Scottish Premiership,…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cd94713djgyo?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2a13/live/14109140-ab66-11f1-9647-01c7ddc5a2b1.jpg"
+    },
+    {
+      "id": "story-10",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "BBC Sport",
+      "time": "Oct 24",
+      "headline": "Hayen sacked by Burnley after just 14 games",
+      "excerpt": "Nicky Hayen is sacked after just 14 games in charge at Burnley following a poor…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cm4gv830j73do?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2dbc/live/07a857a0-cfd6-11f1-b951-f904363c9c32.jpg"
+    },
+    {
+      "id": "story-11",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "BBC Sport",
+      "time": "Oct 24",
+      "headline": "Matos rues QPR display as Swansea suffer Yeo blow",
+      "excerpt": "Vitor Matos says Swansea City must \"listen to this performance\" after they slump to the…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c6g7xvk35p94o?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f9b5/live/6fff2200-cfce-11f1-9ecd-8be45051afbd.jpg"
+    },
+    {
+      "id": "story-12",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "BBC Sport",
+      "time": "Oct 24",
+      "headline": "Arteta 'delighted' with Arsenal win after 'tough week'",
+      "excerpt": "Arsenal manager Mikel Arteta is \"delighted\" with his sides performance after making five changes in…",
+      "link": "https://www.bbc.co.uk/sport/football/videos/ck05486e1l53o?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/74cb/live/65f3a070-cfc8-11f1-a701-fddedf244c16.jpg"
+    },
+    {
+      "id": "story-13",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "BBC Sport",
+      "time": "Oct 24",
+      "headline": "From Chelsea reject to Watkins 'upgrade' - Jackson makes fast Villa start",
+      "excerpt": "Nicolas Jackson continues an excellent start to his Aston Villa career with a match-winning double…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c6p9gkdzzpnro?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fa12/live/c9b08670-cfb7-11f1-b441-2b33b063138f.jpg"
+    },
+    {
+      "id": "story-14",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "The Guardian",
+      "time": "Oct 24",
+      "headline": "Scottish Premiership: Kelsy fires Rangers to emphatic win; Dundee United pip Aberdeen",
+      "excerpt": "<ul><li><p>Rangers 4-0 St Johnstone; Dundee United 3-2 Aberdeen</p></li><li><p>Kevin Kelsy scores two to sink 10-man Saints</p></li></ul><p>Derek…",
+      "link": "https://www.theguardian.com/football/2026/oct/24/scottish-premiership-rangers-dundee-celtic-hearts",
+      "image": "https://i.guim.co.uk/img/media/3dbdba43dcf69d3d2899b4059e75a487286ecd34/119_0_4830_3864/master/4830.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=b700bb43329980407b08257ec3854647"
+    },
+    {
+      "id": "story-15",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -24,7 +178,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/39f0/live/89c0f560-cfc4-11f1-9ecd-8be45051afbd.jpg"
     },
     {
-      "id": "story-2",
+      "id": "story-16",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -35,29 +189,18 @@
       "image": "https://i.guim.co.uk/img/media/086fd84d7177ae80eb3e38b6d3f8a943f7465846/377_89_3049_2440/master/3049.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=86d6461fef11918833d50fbf4f55fa48"
     },
     {
-      "id": "story-3",
+      "id": "story-17",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
       "time": "Oct 24",
       "headline": "Clinical Arsenal earn precious win against Everton thanks to Konsa and Gabriel",
-      "excerpt": "<p>The wait goes on for David Moyes. The Scot must have been hoping that, on…",
+      "excerpt": "<p>The wait goes on for David Moyes. The 63-year-old Scot must have been hoping that…",
       "link": "https://www.theguardian.com/football/2026/oct/24/arsenal-everton-premier-league-match-report",
       "image": "https://i.guim.co.uk/img/media/42459912380f56033f30c1b12a6094bb0c640894/116_0_2700_2160/master/2700.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=28e9f9588cc28a8d953aed1dcfa9aef9"
     },
     {
-      "id": "story-4",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "101 Great Goals",
-      "time": "Oct 24",
-      "headline": "Arsenal 2-0 Everton: Gunners close gap on City after routine home win over Toffees",
-      "excerpt": "Mikel Arteta's side capitalised on City's earlier slip-up.",
-      "link": "https://www.101greatgoals.com/football/premier-league/arsenal-everton-report-result-goals-premier-league/",
-      "image": null
-    },
-    {
-      "id": "story-5",
+      "id": "story-18",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -68,7 +211,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bd69/live/e4151260-cfc1-11f1-9ecd-8be45051afbd.jpg"
     },
     {
-      "id": "story-6",
+      "id": "story-19",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -79,7 +222,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8225/live/74131b10-cfb7-11f1-9012-0172b9f73a72.jpg"
     },
     {
-      "id": "story-7",
+      "id": "story-20",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -90,18 +233,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/766a/live/e5724020-cfbb-11f1-a701-fddedf244c16.jpg"
     },
     {
-      "id": "story-8",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "The Guardian",
-      "time": "Oct 24",
-      "headline": "Championship roundup: Portsmouth ride luck to beat Millwall; Norwich back to winning ways",
-      "excerpt": "<ul><li><p>Portsmouth 2-1 Millwall; Charton 1-3 Norwich</p></li><li><p>Waddingham scores fortunate late winner for Pompey</p></li></ul><p>Thomas Waddingham earned in-form…",
-      "link": "https://www.theguardian.com/football/2026/oct/24/championship-roundup-sheffield-united-derby-west-ham-swansea",
-      "image": "https://i.guim.co.uk/img/media/7ac270254646db629dccdef3d42748e543f7a8c0/462_0_3448_2758/master/3448.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=6a20901321f75d41e34c2afb0f4fbf74"
-    },
-    {
-      "id": "story-9",
+      "id": "story-21",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -112,7 +244,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/343d/live/e8eaacc0-cfb5-11f1-a701-fddedf244c16.jpg"
     },
     {
-      "id": "story-10",
+      "id": "story-22",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -123,7 +255,7 @@
       "image": "https://i.guim.co.uk/img/media/3e890dd5986749897da037a5f01a5c8290393528/314_0_3500_2800/master/3500.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=cf9068469c8c460fe72d24602437b565"
     },
     {
-      "id": "story-11",
+      "id": "story-23",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -132,181 +264,9 @@
       "excerpt": "<p>Manchester City added a loss in the Premier League to one to the Premier League,…",
       "link": "https://www.theguardian.com/football/2026/oct/24/aston-villa-manchester-city-premier-league-match-report",
       "image": "https://i.guim.co.uk/img/media/08a0f6afd3ebbe76753204d2911375172e92929a/288_0_3641_2913/master/3641.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=7df64ec5724957217f7793c4ee814fe7"
-    },
-    {
-      "id": "story-12",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "BBC Sport",
-      "time": "Oct 24",
-      "headline": "Jackson stars with two goals - player ratings for Aston Villa v Man City",
-      "excerpt": "How Aston Villa and Man City players rated following their Premier League match.",
-      "link": "https://www.bbc.co.uk/sport/football/articles/ck4g14j85y9xo?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5cad/live/842ed380-cfa9-11f1-aadb-297fd0a130b9.jpg"
-    },
-    {
-      "id": "story-13",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "BBC Sport",
-      "time": "Oct 24",
-      "headline": "Infantino says he is backed by 'vast majority'",
-      "excerpt": "Fifa president Gianni Infantino laughs off questions about whether he considered resigning over the World…",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c6q8nd9g9n72o?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cac2/live/51c70760-cf99-11f1-b441-2b33b063138f.png"
-    },
-    {
-      "id": "story-14",
-      "league": "Bundesliga",
-      "dot": "#FFC469",
-      "source": "BBC Sport",
-      "time": "Oct 24",
-      "headline": "Kompany recovery will take 'weeks' as tests continue",
-      "excerpt": "Vincent Kompany remains stable in hospital as doctors run tests following his collapse on Friday,…",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cm2l4vq9k84yo?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fb52/live/7a368340-cf8c-11f1-bef0-7f8eb636c50b.jpg"
-    },
-    {
-      "id": "story-15",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "The Guardian",
-      "time": "Oct 24",
-      "headline": "Vincent Kompany to miss ‘weeks, not days’ with virus treatment, say Bayern Munich",
-      "excerpt": "<ul><li><p>Head coach in hospital after collapsing in training</p></li><li><p>Assistant coach Aaron Danks to take charge against…",
-      "link": "https://www.theguardian.com/football/2026/oct/24/vincent-kompany-recovery-virus-bayern-munich-bundesliga-football",
-      "image": "https://i.guim.co.uk/img/media/62d0ebc8306af8876bfcafe069b6079d9baddba6/54_0_3003_2402/master/3003.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=5bfd1b61a3894963aa71650932f4268f"
-    },
-    {
-      "id": "story-16",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "BBC Sport",
-      "time": "Oct 24",
-      "headline": "Latte Lath's journey from street games and Carrick to new start in Germany",
-      "excerpt": "Emmanuel Latte Lath's journey took him from Ivory Coast to Italy as a child, now…",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cqrkyl1gp4leo?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cdcb/live/3a960b90-cef4-11f1-accf-3309656ad0bb.jpg"
-    },
-    {
-      "id": "story-17",
-      "league": "La Liga",
-      "dot": "#E3B4F5",
-      "source": "The Guardian",
-      "time": "Oct 24",
-      "headline": "Older, calmer, but still playing the hits: Mourinho and Madrid primed for clásico",
-      "excerpt": "<p>Once Bobby Robson’s translator at the Camp Nou, José Mourinho is tasked with bringing down…",
-      "link": "https://www.theguardian.com/football/2026/oct/24/la-liga-clasico-barcelona-real-madrid-jose-mourinho",
-      "image": "https://i.guim.co.uk/img/media/4fd465399c5f947385744092f47f230cc0b1ab16/418_0_4768_3813/master/4768.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=7f7f72b3e4ccd9959e14994edd3c172d"
-    },
-    {
-      "id": "story-18",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "BBC Sport",
-      "time": "Oct 24",
-      "headline": "Who am I? Plus today's other quizzes",
-      "excerpt": "Test your football knowledge against today's Who Am I?, Five in Five and Brainteaser.",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cknv01g9n27do?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fbf/live/38bd3c70-bda7-11f1-bc2e-018d645d8d21.png"
-    },
-    {
-      "id": "story-19",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "BBC Sport",
-      "time": "Oct 24",
-      "headline": "Football Daily",
-      "excerpt": "Kelly Somers speaks to Sean Dyche.",
-      "link": "https://www.bbc.co.uk/sounds/play/p0pj7y5v?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0pj7y7q.jpg"
-    },
-    {
-      "id": "story-20",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "BBC Sport",
-      "time": "Oct 23",
-      "headline": "'Best team in the Championship' - Boro lay down marker",
-      "excerpt": "Middlesbrough thrash Bolton 5-1 to go top of the Championship and confirm their place among…",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c65ynq95xdw5o?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8aeb/live/76e767a0-cf31-11f1-9f96-7f17b236547a.jpg"
-    },
-    {
-      "id": "story-21",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "BBC Sport",
-      "time": "Oct 23",
-      "headline": "'We had to scrap' - O'Neil praises Ipswich resilience after Forest draw",
-      "excerpt": "Ipswich manager Gary O'Neil praises his side's ability to \"dig in and fight\" as his…",
-      "link": "https://www.bbc.co.uk/sport/football/videos/ckrey3ndyyw0o?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f9f1/live/0343bee0-cf2f-11f1-a701-fddedf244c16.jpg"
-    },
-    {
-      "id": "story-22",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "BBC Sport",
-      "time": "Oct 23",
-      "headline": "'It doesn't make sense' - Glasner confused after Diop avoids red card",
-      "excerpt": "Nottingham Forest manager Oliver Glasner admits he was left confused by the decision to not…",
-      "link": "https://www.bbc.co.uk/sport/football/videos/c8ly03l6klzpo?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ac3/live/c1c66a40-cf2d-11f1-93e1-3b657b665bcf.jpg"
-    },
-    {
-      "id": "story-23",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "BBC Sport",
-      "time": "Oct 23",
-      "headline": "Forest left frustrated as winless run goes on after draw at Ipswich",
-      "excerpt": "Nottingham Forest ended a run of three successive league defeats but endured another night of…",
-      "link": "https://www.bbc.co.uk/sport/football/videos/c9ly0dgy2r2eo?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2ad5/live/def54220-cf29-11f1-a701-fddedf244c16.jpg"
     }
   ],
   "scoreboard": [
-    {
-      "id": "score-565832",
-      "league": "Bundesliga",
-      "dot": "#FFC469",
-      "time": "Oct 24",
-      "home": "RB Leipzig",
-      "away": "SV 07 Elversberg",
-      "homeScore": 4,
-      "awayScore": 0
-    },
-    {
-      "id": "score-565834",
-      "league": "Bundesliga",
-      "dot": "#FFC469",
-      "time": "Oct 24",
-      "home": "SC Paderborn 07",
-      "away": "Hamburger SV",
-      "homeScore": 1,
-      "awayScore": 0
-    },
-    {
-      "id": "score-558560",
-      "league": "Serie A",
-      "dot": "#A9E6A0",
-      "time": "Oct 24",
-      "home": "Cagliari Calcio",
-      "away": "Bologna FC 1909",
-      "homeScore": 0,
-      "awayScore": 2
-    },
-    {
-      "id": "score-560614",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "time": "Oct 24",
-      "home": "Aston Villa FC",
-      "away": "Manchester City FC",
-      "homeScore": 2,
-      "awayScore": 1
-    },
     {
       "id": "score-560620",
       "league": "Premier League",
@@ -326,6 +286,36 @@
       "away": "Málaga CF",
       "homeScore": 1,
       "awayScore": 1
+    },
+    {
+      "id": "score-558567",
+      "league": "Serie A",
+      "dot": "#A9E6A0",
+      "time": "Oct 23",
+      "home": "Torino FC",
+      "away": "AC Monza",
+      "homeScore": 3,
+      "awayScore": 2
+    },
+    {
+      "id": "score-559654",
+      "league": "Ligue 1",
+      "dot": "#B8D4E8",
+      "time": "Oct 23",
+      "home": "Stade Brestois 29",
+      "away": "OGC Nice",
+      "homeScore": 1,
+      "awayScore": 2
+    },
+    {
+      "id": "score-565833",
+      "league": "Bundesliga",
+      "dot": "#FFC469",
+      "time": "Oct 23",
+      "home": "VfB Stuttgart",
+      "away": "Borussia Mönchengladbach",
+      "homeScore": 2,
+      "awayScore": 3
     }
   ]
 }
