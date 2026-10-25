@@ -1,19 +1,30 @@
 {
-  "updatedAt": "2026-10-25T01:30:53.217Z",
+  "updatedAt": "2026-10-25T06:37:51.147Z",
   "hero": {
     "id": "story-0",
-    "league": "Football",
-    "dot": "#AFC4AC",
-    "source": "Sky Sports",
+    "league": "Premier League",
+    "dot": "#9CC0F0",
+    "source": "BBC Sport",
     "time": "Oct 25",
-    "headline": "'Dream come true!' - Britain's Palmowski becomes 2026 F1 Academy champion",
-    "excerpt": "Britain's Alisha Palmowski became the 2026 F1 Academy champion with three races to spare after…",
-    "link": "https://www.skysports.com/f1/news/12040/13603359/f1-academy-alisha-palmowski-becomes-2026-champion-with-three-races-of-season-to-spare-in-austin",
-    "image": null
+    "headline": "When is Premier League 'sacking season' - and who should be worried?",
+    "excerpt": "As pressure builds on Manchester United manager Michael Carrick, BBC Sport looks at when the…",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cmy83vg66zngo?at_medium=RSS&amp;at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fa99/live/4f6d2680-cda4-11f1-8dd1-5318c7608ec0.jpg"
   },
   "topStories": [
     {
       "id": "story-1",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "Sky Sports",
+      "time": "Oct 25",
+      "headline": "'Dream come true!' - Britain's Palmowski becomes 2026 F1 Academy champion",
+      "excerpt": "Britain's Alisha Palmowski became the 2026 F1 Academy champion with three races to spare after…",
+      "link": "https://www.skysports.com/f1/news/12040/13603359/f1-academy-alisha-palmowski-becomes-2026-champion-with-three-races-of-season-to-spare-in-austin",
+      "image": null
+    },
+    {
+      "id": "story-2",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "Sky Sports",
@@ -24,7 +35,7 @@
       "image": null
     },
     {
-      "id": "story-2",
+      "id": "story-3",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -35,7 +46,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/71aa/live/166b4090-cff9-11f1-a701-fddedf244c16.jpg"
     },
     {
-      "id": "story-3",
+      "id": "story-4",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -46,7 +57,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/505c/live/4730faa0-cff7-11f1-a701-fddedf244c16.jpg"
     },
     {
-      "id": "story-4",
+      "id": "story-5",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -57,7 +68,7 @@
       "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0pj99mq.jpg"
     },
     {
-      "id": "story-5",
+      "id": "story-6",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -68,7 +79,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/baf9/live/fe815390-cfd8-11f1-b441-2b33b063138f.jpg"
     },
     {
-      "id": "story-6",
+      "id": "story-7",
       "league": "La Liga",
       "dot": "#E3B4F5",
       "source": "101 Great Goals",
@@ -79,7 +90,7 @@
       "image": "https://www.101greatgoals.com/wp-content/uploads/2026/08/3E6Y2PN-1-1.jpg"
     },
     {
-      "id": "story-7",
+      "id": "story-8",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -90,7 +101,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/48e4/live/2d7fb690-cf94-11f1-878e-95f884e98e77.jpg"
     },
     {
-      "id": "story-8",
+      "id": "story-9",
       "league": "Serie A",
       "dot": "#A9E6A0",
       "source": "The Guardian",
@@ -101,7 +112,7 @@
       "image": "https://i.guim.co.uk/img/media/702082a18e2a37b44d79e75eaf445850fdbcffba/219_0_2560_2048/master/2560.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=cfe818b6209f91b23dda71efa1847a9c"
     },
     {
-      "id": "story-9",
+      "id": "story-10",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -112,7 +123,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dbe8/live/84b1c910-cfff-11f1-93e1-3b657b665bcf.jpg"
     },
     {
-      "id": "story-10",
+      "id": "story-11",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "The Guardian",
@@ -123,7 +134,7 @@
       "image": "https://i.guim.co.uk/img/media/0578e74d4828dc5ed068cea3c66db1070bb85379/907_0_4519_3617/master/4519.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=8a3fcf03d1e51b6a268bc04fce072bbf"
     },
     {
-      "id": "story-11",
+      "id": "story-12",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -134,7 +145,7 @@
       "image": "https://i.guim.co.uk/img/media/b6b11938ec6e6ad3e0ad1420e4341b26a943c45b/435_0_3392_2713/master/3392.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a87821302d1140b67663991704e7ca7a"
     },
     {
-      "id": "story-12",
+      "id": "story-13",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -145,7 +156,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0bf2/live/e83ed530-cfdd-11f1-a701-fddedf244c16.png"
     },
     {
-      "id": "story-13",
+      "id": "story-14",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -156,7 +167,7 @@
       "image": "https://i.guim.co.uk/img/media/af032b4eec6b3cbff136ed02f07b78b7ff4227b2/495_0_3263_2611/master/3263.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=95a77d3425612de19088cc69daef3a52"
     },
     {
-      "id": "story-14",
+      "id": "story-15",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -167,7 +178,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fa17/live/e2ff59a0-cfe2-11f1-aa62-a1cf89c34605.jpg"
     },
     {
-      "id": "story-15",
+      "id": "story-16",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -178,7 +189,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2a63/live/dd863070-cfe7-11f1-808d-1d32ac5cbb5b.jpg"
     },
     {
-      "id": "story-16",
+      "id": "story-17",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -189,7 +200,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2307/live/6e2edec0-cfe2-11f1-aa62-a1cf89c34605.jpg"
     },
     {
-      "id": "story-17",
+      "id": "story-18",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -200,7 +211,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b4b0/live/61137dc0-cfdf-11f1-93e1-3b657b665bcf.jpg"
     },
     {
-      "id": "story-18",
+      "id": "story-19",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -211,7 +222,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e38b/live/4a1a96c0-cfdb-11f1-93e1-3b657b665bcf.jpg"
     },
     {
-      "id": "story-19",
+      "id": "story-20",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -222,7 +233,7 @@
       "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0pjg7jq.jpg"
     },
     {
-      "id": "story-20",
+      "id": "story-21",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -233,7 +244,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8e45/live/7e1f20c0-cfdc-11f1-93e1-3b657b665bcf.jpg"
     },
     {
-      "id": "story-21",
+      "id": "story-22",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -244,7 +255,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2dbc/live/07a857a0-cfd6-11f1-b951-f904363c9c32.jpg"
     },
     {
-      "id": "story-22",
+      "id": "story-23",
       "league": "Bundesliga",
       "dot": "#FFC469",
       "source": "The Guardian",
@@ -253,69 +264,68 @@
       "excerpt": "<p>In 1956, the Blackpool great was recognised for his force of individual will, the very…",
       "link": "https://www.theguardian.com/football/2026/oct/24/why-stanley-matthews-ballon-dor-triumph-echoes-for-harry-kane",
       "image": "https://i.guim.co.uk/img/media/813fd9e4ad982954d30698cc7ffe2c28e91f5621/402_365_5091_4073/master/5091.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=250c183e15d32c01ab416bdc8974dfdf"
-    },
-    {
-      "id": "story-23",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "BBC Sport",
-      "time": "Oct 24",
-      "headline": "Arsenal beat Everton to go level on points with leaders Man City",
-      "excerpt": "Goals from Ezri Konsa, his first for the club, and Gabriel Magalhaes helped Arsenal beat…",
-      "link": "https://www.bbc.co.uk/sport/football/videos/cm79pxqdlwelo?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7a40/live/22bd59c0-cfde-11f1-93e1-3b657b665bcf.jpg"
     }
   ],
   "scoreboard": [
     {
-      "id": "score-560620",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "time": "Oct 23",
-      "home": "Ipswich Town FC",
-      "away": "Nottingham Forest FC",
-      "homeScore": 1,
-      "awayScore": 1
-    },
-    {
-      "id": "score-564719",
+      "id": "score-564724",
       "league": "La Liga",
       "dot": "#E3B4F5",
-      "time": "Oct 23",
-      "home": "Deportivo Alavés",
-      "away": "Málaga CF",
+      "time": "Oct 24",
+      "home": "Club Atlético de Madrid",
+      "away": "RC Deportivo La Coruña",
       "homeScore": 1,
+      "awayScore": 0
+    },
+    {
+      "id": "score-558565",
+      "league": "Serie A",
+      "dot": "#A9E6A0",
+      "time": "Oct 24",
+      "home": "SS Lazio",
+      "away": "Parma Calcio 1913",
+      "homeScore": 2,
       "awayScore": 1
     },
     {
-      "id": "score-558567",
-      "league": "Serie A",
-      "dot": "#A9E6A0",
-      "time": "Oct 23",
-      "home": "Torino FC",
-      "away": "AC Monza",
-      "homeScore": 3,
-      "awayScore": 2
-    },
-    {
-      "id": "score-559654",
-      "league": "Ligue 1",
-      "dot": "#B8D4E8",
-      "time": "Oct 23",
-      "home": "Stade Brestois 29",
-      "away": "OGC Nice",
+      "id": "score-564722",
+      "league": "La Liga",
+      "dot": "#E3B4F5",
+      "time": "Oct 24",
+      "home": "Valencia CF",
+      "away": "Villarreal CF",
       "homeScore": 1,
       "awayScore": 2
     },
     {
-      "id": "score-565833",
+      "id": "score-565837",
       "league": "Bundesliga",
       "dot": "#FFC469",
-      "time": "Oct 23",
-      "home": "VfB Stuttgart",
-      "away": "Borussia Mönchengladbach",
-      "homeScore": 2,
+      "time": "Oct 24",
+      "home": "Borussia Dortmund",
+      "away": "Eintracht Frankfurt",
+      "homeScore": 1,
+      "awayScore": 0
+    },
+    {
+      "id": "score-558564",
+      "league": "Serie A",
+      "dot": "#A9E6A0",
+      "time": "Oct 24",
+      "home": "SSC Napoli",
+      "away": "AS Roma",
+      "homeScore": 3,
       "awayScore": 3
+    },
+    {
+      "id": "score-564727",
+      "league": "La Liga",
+      "dot": "#E3B4F5",
+      "time": "Oct 24",
+      "home": "Real Racing Club de Santander",
+      "away": "RCD Espanyol de Barcelona",
+      "homeScore": 2,
+      "awayScore": 1
     }
   ]
 }
