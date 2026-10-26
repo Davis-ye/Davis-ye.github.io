@@ -1,19 +1,206 @@
 {
-  "updatedAt": "2026-10-26T18:53:40.363Z",
+  "updatedAt": "2026-10-26T22:55:20.054Z",
   "hero": {
     "id": "story-0",
-    "league": "Football",
-    "dot": "#AFC4AC",
+    "league": "La Liga",
+    "dot": "#E3B4F5",
     "source": "BBC Sport",
     "time": "Oct 26",
-    "headline": "Donovan backed for big future on signing new Celtic deal",
-    "excerpt": "Manager Martin O'Neill is sure Colby Donovan is destined for \"very big future\" as the…",
-    "link": "https://www.bbc.co.uk/sport/football/articles/cm93zjlywe20o?at_medium=RSS&amp;at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b24a/live/3270f1b0-d169-11f1-87df-afb7a168a1f2.jpg"
+    "headline": "Putellas wins record-equalling third Ballon d'Or to extend Spanish dominance",
+    "excerpt": "Barcelona and Spain midfielder Alexia Putellas wins the Ballon d'Or Feminin for a record-equalling third…",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cqp9gky38lj3o?at_medium=RSS&amp;at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d858/live/0bd98bd0-cef2-11f1-b06d-c73dff29919e.jpg"
   },
   "topStories": [
     {
       "id": "story-1",
+      "league": "La Liga",
+      "dot": "#E3B4F5",
+      "source": "BBC Sport",
+      "time": "Oct 26",
+      "headline": "Putellas wins record-equalling third Ballon d'Or",
+      "excerpt": "Barcelona and Spain midfielder Alexia Putellas wins the Ballon d'Or Feminin for a record-equalling third…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cqp9gky38lj3o?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d858/live/0bd98bd0-cef2-11f1-b06d-c73dff29919e.jpg"
+    },
+    {
+      "id": "story-2",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "101 Great Goals",
+      "time": "Oct 26",
+      "headline": "Ballon d&#8217;Or 2026: Follow the results live from London",
+      "excerpt": "The latest updates from the Ballon d'Or 2026",
+      "link": "https://www.101greatgoals.com/football/ballon-dor-live-latest-results-ceremony-who-won-ranking-ceremony/",
+      "image": "https://www.101greatgoals.com/wp-content/uploads/2026/10/3FT2P8J.jpg"
+    },
+    {
+      "id": "story-3",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "The Guardian",
+      "time": "Oct 26",
+      "headline": "Ballon d’Or 2026: Updates from awards ceremony in London – live",
+      "excerpt": "<p>⚽️ Ballon d’Or updates from 8.45pm GMT/4.45pm ET<br>⚽️ <a href=\"https://www.theguardian.com/football/2026/oct/25/ballon-dor-ceremony-returns-to-england-in-nod-to-revolutionary-stanley-matthews\">Ceremony returns to England in nod…",
+      "link": "https://www.theguardian.com/football/live/2026/oct/26/ballon-dor-2026-updates-from-70th-edition-in-london-live",
+      "image": "https://i.guim.co.uk/img/media/5cdc5ccbd789c75c5372590815ff5741c9823822/210_175_4719_3776/master/4719.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e16cb799853b8e65632cd63422742929"
+    },
+    {
+      "id": "story-4",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "Sky Sports",
+      "time": "Oct 26",
+      "headline": "Putellas wins third Ballon d'Or - why her success is great for the WSL",
+      "excerpt": "London City Lionesses star Alexia Putellas claimed a record-equalling third women's Ballon d'Or.",
+      "link": "https://www.skysports.com/football/news/12040/13601952/alexia-putellas-wins-ballon-dor-how-the-womens-super-league-has-benefitted-from-the-midfielders-immense-influence",
+      "image": null
+    },
+    {
+      "id": "story-5",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "talkSPORT",
+      "time": "Oct 26",
+      "headline": "Man United owner Sir Jim Ratcliffe puts other club up for sale as Red Devils fans turn on INEOS",
+      "excerpt": "",
+      "link": "https://talksport.com/football/4669779/man-utd-sir-jim-ratcliffe-ineos-lausanne-sport-sale/",
+      "image": null
+    },
+    {
+      "id": "story-6",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "BBC Sport",
+      "time": "Oct 26",
+      "headline": "Arsenal eye Monza striker Varela - Tuesday's gossip",
+      "excerpt": "Portuguese striker Gustavo Varela is on Arsenal's radar, Crystal Palace want to keep winger Ismaila…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cj3vq7l22yk9o?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c907/live/d1790900-d182-11f1-8d7e-c9ff4ede405b.png"
+    },
+    {
+      "id": "story-7",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "talkSPORT",
+      "time": "Oct 26",
+      "headline": "Eddie Howe told to take Man United job on one huge condition",
+      "excerpt": "",
+      "link": "https://talksport.com/football/4669738/eddie-howe-man-united-manager-job/",
+      "image": null
+    },
+    {
+      "id": "story-8",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "BBC Sport",
+      "time": "Oct 26",
+      "headline": "Football Daily",
+      "excerpt": "Mark Chapman is joined by Chris Sutton, Andros Townsend and Adam Crafton.",
+      "link": "https://www.bbc.co.uk/sounds/play/p0pjqwyh?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0phk7wy.jpg"
+    },
+    {
+      "id": "story-9",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "Sky Sports",
+      "time": "Oct 26",
+      "headline": "'Cubarsi should've won it' - Lamine Yamal on claiming Young Talent award again",
+      "excerpt": "",
+      "link": "https://www.skysports.com/football/live-blog/12040/13575723/european-football-news-and-transfers-barcelona-real-madrid-psg-bayern-munich-latest-and-more",
+      "image": null
+    },
+    {
+      "id": "story-10",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "talkSPORT",
+      "time": "Oct 26",
+      "headline": "Martin Keown and Alex Crook in heated clash live on air over Man United crisis",
+      "excerpt": "",
+      "link": "https://talksport.com/football/4669599/martin-keown-alex-crook-man-utd/",
+      "image": null
+    },
+    {
+      "id": "story-11",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "Sky Sports",
+      "time": "Oct 26",
+      "headline": "Man Utd players set to return to training with Carrick's future still uncertain",
+      "excerpt": "Manchester United's players are set to return to training at Carrington on Tuesday - but…",
+      "link": "https://www.skysports.com/football/news/12040/13602156/manchester-united-players-to-return-to-training-on-tuesday-but-uncertain-if-michael-carrick-will-be-in-charge",
+      "image": null
+    },
+    {
+      "id": "story-12",
+      "league": "Bundesliga",
+      "dot": "#FFC469",
+      "source": "BBC Sport",
+      "time": "Oct 26",
+      "headline": "Ballon d'Or winner? Kane's best Bundesliga goals",
+      "excerpt": "With the 2026 Ballon d'Or just around the corner, BBC Sport looks back at some…",
+      "link": "https://www.bbc.co.uk/sport/football/videos/cmd93gqn8119o?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6ef7/live/513170a0-d166-11f1-93e1-3b657b665bcf.jpg"
+    },
+    {
+      "id": "story-13",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "The Guardian",
+      "time": "Oct 26",
+      "headline": "England Under-15s walk off pitch against Ireland in World Cup after racism allegation",
+      "excerpt": "<ul><li><p>Match in new Fifa competition abandoned</p></li><li><p>England players refuse to resume match</p></li></ul><p>England abandoned their Under-15 World…",
+      "link": "https://www.theguardian.com/football/2026/oct/26/england-under-15-walk-off-pitch-ireland-world-cup-racism-allegation",
+      "image": "https://i.guim.co.uk/img/media/e0605b193f68751fe7088489812b26b6fa464889/0_0_813_650/master/813.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=eef00f2faba35961659a21470ec793d1"
+    },
+    {
+      "id": "story-14",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "The Guardian",
+      "time": "Oct 26",
+      "headline": "Damning data: stats that show Michael Carrick’s luck was bound to run out | Andrew Beasley",
+      "excerpt": "<p>Favourable conditions and the rub of the green were behind Manchester United’s successful finish to…",
+      "link": "https://www.theguardian.com/football/2026/oct/26/damning-data-michael-carrick-manchester-united-head-coach",
+      "image": "https://i.guim.co.uk/img/media/23136b373c6197d6561991f6691b547634dbdc4f/3_0_1903_1522/master/1903.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=77f98adb9bc7ddde052d139ea24adc0c"
+    },
+    {
+      "id": "story-15",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "Sky Sports",
+      "time": "Oct 26",
+      "headline": "Carney: England have it all to do to avoid Rugby League World Cup exit",
+      "excerpt": "Brian Carney says England &#8216;have it all to do&#8217; to reach the Rugby League World…",
+      "link": "https://www.skysports.com/rugby-league/news/12040/13604136/rugby-league-world-cup-brian-carney-warns-england-have-it-all-to-do-to-avoid-group-stage-exit",
+      "image": null
+    },
+    {
+      "id": "story-16",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "BBC Sport",
+      "time": "Oct 26",
+      "headline": "Donovan backed for big future on signing new Celtic deal",
+      "excerpt": "Manager Martin O'Neill is sure Colby Donovan is destined for \"very big future\" as the…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cm93zjlywe20o?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b24a/live/3270f1b0-d169-11f1-87df-afb7a168a1f2.jpg"
+    },
+    {
+      "id": "story-17",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "talkSPORT",
+      "time": "Oct 26",
+      "headline": "England Under-15s walk off pitch during World Cup match after racism allegation",
+      "excerpt": "",
+      "link": "https://talksport.com/football/4669332/england-under-15s-match-abandoned-racism-ireland/",
+      "image": null
+    },
+    {
+      "id": "story-18",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -24,7 +211,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/70db/live/4cd23300-d157-11f1-9f24-99bf1cc18b1d.png"
     },
     {
-      "id": "story-2",
+      "id": "story-19",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -35,7 +222,29 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9beb/live/3c6000b0-d166-11f1-87df-afb7a168a1f2.jpg"
     },
     {
-      "id": "story-3",
+      "id": "story-20",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "talkSPORT",
+      "time": "Oct 26",
+      "headline": "Spectator ejected by referee during Northern Ireland Open final",
+      "excerpt": "",
+      "link": "https://talksport.com/sport/4668763/spectator-ejected-northern-ireland-open/",
+      "image": null
+    },
+    {
+      "id": "story-21",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "Sky Sports",
+      "time": "Oct 26",
+      "headline": "McDowell latest player to confirm LIV Golf exit",
+      "excerpt": "Graeme McDowell has confirmed he will follow the lead of Jon Rahm, Tyrrell Hatton and…",
+      "link": "https://www.skysports.com/golf/news/12040/13604118/liv-golf-graeme-mcdowell-becomes-latest-player-to-confirm-exit-from-breakaway-tour",
+      "image": null
+    },
+    {
+      "id": "story-22",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "Sky Sports",
@@ -46,7 +255,7 @@
       "image": null
     },
     {
-      "id": "story-4",
+      "id": "story-23",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -55,218 +264,29 @@
       "excerpt": "Arsenal have relieved the pressure with a north London derby win - can they kick…",
       "link": "https://www.bbc.co.uk/sounds/play/p0pjq3nz?at_medium=RSS&amp;at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0lz125l.jpg"
-    },
-    {
-      "id": "story-5",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "BBC Sport",
-      "time": "Oct 26",
-      "headline": "Celtic & Rangers wait for stadium closures ruling",
-      "excerpt": "Rangers and Celtic submit appeals against a ruling that they must play their next home…",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c9y7ljknj2p5o?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a66e/live/81ba8920-d15f-11f1-87df-afb7a168a1f2.jpg"
-    },
-    {
-      "id": "story-6",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "Sky Sports",
-      "time": "Oct 26",
-      "headline": "Makin wants to be Liverpool's next great champion",
-      "excerpt": "Middleweight Callum Makin has excelled for the GB boxing team, but his Olympic future rests…",
-      "link": "https://www.skysports.com/boxing/news/12040/13604029/callum-makin-wants-to-be-liverpools-next-great-champion-my-dream-is-to-follow-in-their-footsteps-and-create-a-story-for-myself",
-      "image": null
-    },
-    {
-      "id": "story-7",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "BBC Sport",
-      "time": "Oct 26",
-      "headline": "Weir 25th in Ballon d'Or and joins Olid & Cuthbert in award shortlist",
-      "excerpt": "Caroline Weir is ranked the 25th best women footballer in the world on the day…",
-      "link": "https://www.bbc.co.uk/sport/football/articles/ckd6dzv7w85go?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7107/live/c99908e0-d14e-11f1-93e1-3b657b665bcf.png"
-    },
-    {
-      "id": "story-8",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "BBC Sport",
-      "time": "Oct 26",
-      "headline": "FAW sets ambitious 10-year plan but seeks more money",
-      "excerpt": "The Football Association of Wales has called for greater funding for Welsh football after setting…",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c933xjdzv3j8o?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1161/live/97799c20-d159-11f1-9f24-99bf1cc18b1d.jpg"
-    },
-    {
-      "id": "story-9",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "The Guardian",
-      "time": "Oct 26",
-      "headline": "Michael Carrick attends Manchester United training ground as club discuss his fate",
-      "excerpt": "<ul><li><p>Head coach arrives to watch under-21s play</p></li><li><p>Bruno Fernandes likes Instagram post about loyalty</p></li></ul><p>Michael Carrick was…",
-      "link": "https://www.theguardian.com/football/2026/oct/26/michael-carrick-manchester-united-training-ground-club-discuss-sacking",
-      "image": "https://i.guim.co.uk/img/media/22b04052d6b219383d41e68fc7f55be255153fde/248_47_1558_1246/master/1558.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=de35388440ab0d56381aa73d41221b42"
-    },
-    {
-      "id": "story-10",
-      "league": "La Liga",
-      "dot": "#E3B4F5",
-      "source": "The Guardian",
-      "time": "Oct 26",
-      "headline": "Mourinho’s plan comes together as Real Madrid relaunch with clásico statement | Sid Lowe",
-      "excerpt": "<p>It was just like old times as José Mourinho ended a night at Camp Nou…",
-      "link": "https://www.theguardian.com/football/2026/oct/26/mourinhos-plan-comes-together-as-real-madrid-relaunch-with-clasico-statement",
-      "image": "https://i.guim.co.uk/img/media/e5dcf6afaf4a38c6fe32b2a1d837afcd500b369b/0_0_4782_3826/master/4782.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e7b962abd67c8a9d84b6e1dd87a8cbab"
-    },
-    {
-      "id": "story-11",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "BBC Sport",
-      "time": "Oct 26",
-      "headline": "Howe and Nagelsmann high on Man Utd's list if Carrick sacked",
-      "excerpt": "BBC Sport takes a look at who could replace Michael Carrick at Manchester United if…",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cqdr8zv5dg42o?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b578/live/a7efc940-d14e-11f1-9eb5-811878e0f07d.png"
-    },
-    {
-      "id": "story-12",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "BBC Sport",
-      "time": "Oct 26",
-      "headline": "Why is Wilcox in line of fire from Man Utd fans?",
-      "excerpt": "With Michael Carrick's position as Man Utd boss under scrutiny, focus has also turned to…",
-      "link": "https://www.bbc.co.uk/sport/football/articles/ck5yn5j37en0o?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cedb/live/3c7b5a40-d14d-11f1-9eb5-811878e0f07d.jpg"
-    },
-    {
-      "id": "story-13",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "The Guardian",
-      "time": "Oct 26",
-      "headline": "The horse that ushered in Manchester United’s tragic arc | Jonathan Wilson",
-      "excerpt": "<p>There’s plenty of blame to go around at Old Trafford. Like all downfalls it started…",
-      "link": "https://www.theguardian.com/football/2026/oct/26/the-horse-that-brought-down-manchester-united",
-      "image": "https://i.guim.co.uk/img/media/9803813048e42e063069defb1f03763d7ce10108/0_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=df72c9aa3de1ea082fa8c751e6e04003"
-    },
-    {
-      "id": "story-14",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "The Guardian",
-      "time": "Oct 26",
-      "headline": "Carrick on the brink, Jackson ends City’s run, and Spurs singe the Blues | Football Weekly – video",
-      "excerpt": "<p><a href=\"https://www.theguardian.com/profile/max-rushden\">Max Rushden</a> is joined by<a href=\"https://www.theguardian.com/profile/barneyronay\"> Barney Ronay</a>, John Brewin and <a href=\"https://www.theguardian.com/profile/philippe-auclair\">Philippe Auclair</a>…",
-      "link": "https://www.theguardian.com/football/video/2026/oct/26/carrick-on-the-brink-jackson-ends-citys-run-and-spurs-singe-the-blues-football-weekly-video",
-      "image": "https://i.guim.co.uk/img/media/23136b373c6197d6561991f6691b547634dbdc4f/3_0_1903_1522/master/1903.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=77f98adb9bc7ddde052d139ea24adc0c"
-    },
-    {
-      "id": "story-15",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "BBC Sport",
-      "time": "Oct 26",
-      "headline": "Which game will Chelsea's Palmer miss after red card?",
-      "excerpt": "BBC Sport's Ask Me Anything team explains why Cole Palmer's red card suspension will not…",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cm4g1q54pj20o?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2d21/live/aaf3d7f0-d142-11f1-8d4e-ef1672a07d66.jpg"
-    },
-    {
-      "id": "story-16",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "BBC Sport",
-      "time": "Oct 26",
-      "headline": "Fans assist Penicuik clear-up for Clyde cup tie",
-      "excerpt": "Penicuik Athletic are sure Tuesday's Scottish Cup tie with Clyde will go ahead in as…",
-      "link": "https://www.bbc.co.uk/sport/football/articles/crq8ngxp5e88o?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e0c4/live/c9bad7d0-d145-11f1-9eb5-811878e0f07d.jpg"
-    },
-    {
-      "id": "story-17",
-      "league": "Ligue 1",
-      "dot": "#B8D4E8",
-      "source": "The Guardian",
-      "time": "Oct 26",
-      "headline": "Davide Ancelotti wants to make a name for himself – will he do it at Lille?",
-      "excerpt": "<p>Lille’s results under Carlo’s son in Ligue 1 are encouraging but they have been exposed…",
-      "link": "https://www.theguardian.com/football/2026/oct/26/davide-ancelotti-lille-champions-league-ligue-1",
-      "image": "https://i.guim.co.uk/img/media/b77d7c993caf54147ae4ff59a41637aa8519e7ec/0_193_1732_1386/master/1732.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=43f771d6449127f01978d974fda32d7e"
-    },
-    {
-      "id": "story-18",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "Sky Sports",
-      "time": "Oct 26",
-      "headline": "Careers on the line for Australia in deciding South Africa Test?",
-      "excerpt": "Australia are about to play a Test match in Cape Town for the first time…",
-      "link": "https://www.skysports.com/cricket/news/12040/13603987/south-africa-meet-australia-in-third-test-series-decider-at-cape-town-with-careers-on-the-line-for-tourists",
-      "image": null
-    },
-    {
-      "id": "story-19",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "Sky Sports",
-      "time": "Oct 26",
-      "headline": "Bournemouth latest: We're in 'good spot' ahead of Villa cup tie, says Rose",
-      "excerpt": "",
-      "link": "https://www.skysports.com/football/live-blog/12040/13279286/bournemouth-transfers-latest-news-rumours-and-gossip-live-updates-goals-and-highlights",
-      "image": null
-    },
-    {
-      "id": "story-20",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "BBC Sport",
-      "time": "Oct 26",
-      "headline": "All the goals from the Women's Super League - matchweek seven",
-      "excerpt": "Watch every goal from matchweek seven of the Women's Super League 2026-27 season.",
-      "link": "https://www.bbc.co.uk/sport/football/videos/c6073jevmk3go?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ac37/live/d7641860-d131-11f1-a701-fddedf244c16.jpg"
-    },
-    {
-      "id": "story-21",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "The Guardian",
-      "time": "Oct 26",
-      "headline": "WSL talking points: Russo to Arsenal’s rescue and Olid makes Manchester United progress",
-      "excerpt": "<p>Gunners edged north London derby while new United manager put the brakes on Manchester City’s…",
-      "link": "https://www.theguardian.com/football/2026/oct/26/wsl-talking-points-alessia-russo-arsenal-tottenham-manchester-united-city",
-      "image": "https://i.guim.co.uk/img/media/100a2bd792886a678d994fc1b1c19158b8f530c3/0_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=9cdd2928914c90b38a71044f15846d8e"
-    },
-    {
-      "id": "story-22",
-      "league": "Bundesliga",
-      "dot": "#FFC469",
-      "source": "BBC Sport",
-      "time": "Oct 26",
-      "headline": "Bayern continue unbeaten start in Kompany's absence",
-      "excerpt": "Bayern Munich beat Freiburg to return to the top of the Bundesliga, as the German…",
-      "link": "https://www.bbc.co.uk/sport/football/videos/cqx284yk4mk0o?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a964/live/275858a0-d131-11f1-b441-2b33b063138f.jpg"
-    },
-    {
-      "id": "story-23",
-      "league": "Serie A",
-      "dot": "#A9E6A0",
-      "source": "The Guardian",
-      "time": "Oct 26",
-      "headline": "McTominay stars in Napoli draw that leaves Allegri ‘not lucid enough’ to talk | Nicky Bandini",
-      "excerpt": "<p><em>Gli Azzurri</em> show positive signs of improvement in seesaw 3-3 draw against a Roma side…",
-      "link": "https://www.theguardian.com/football/2026/oct/26/scott-mctominay-napoli-roma-serie-a-massimiliano-allegri-not-lucid-enough",
-      "image": "https://i.guim.co.uk/img/media/ef4e1223a0fb1aebff9a577a57f2c2b4a723c926/909_391_4511_3609/master/4511.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=baa838c59c0d82754f7cca1a47950688"
     }
   ],
   "scoreboard": [
+    {
+      "id": "score-564721",
+      "league": "La Liga",
+      "dot": "#E3B4F5",
+      "time": "Oct 26",
+      "home": "Sevilla FC",
+      "away": "CA Osasuna",
+      "homeScore": 2,
+      "awayScore": 0
+    },
+    {
+      "id": "score-559648",
+      "league": "Ligue 1",
+      "dot": "#B8D4E8",
+      "time": "Oct 26",
+      "home": "Paris Saint-Germain FC",
+      "away": "Olympique Lyonnais",
+      "homeScore": 2,
+      "awayScore": 0
+    },
     {
       "id": "score-564723",
       "league": "La Liga",
@@ -306,26 +326,6 @@
       "away": "Juventus FC",
       "homeScore": 0,
       "awayScore": 2
-    },
-    {
-      "id": "score-560621",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "time": "Oct 25",
-      "home": "Sunderland AFC",
-      "away": "Leeds United FC",
-      "homeScore": 0,
-      "awayScore": 0
-    },
-    {
-      "id": "score-565836",
-      "league": "Bundesliga",
-      "dot": "#FFC469",
-      "time": "Oct 25",
-      "home": "SC Freiburg",
-      "away": "FC Bayern München",
-      "homeScore": 1,
-      "awayScore": 3
     }
   ]
 }
