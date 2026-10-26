@@ -1,19 +1,85 @@
 {
-  "updatedAt": "2026-10-25T23:13:01.357Z",
+  "updatedAt": "2026-10-26T01:09:08.908Z",
   "hero": {
     "id": "story-0",
-    "league": "Premier League",
-    "dot": "#9CC0F0",
-    "source": "BBC Sport",
-    "time": "Oct 25",
-    "headline": "Watch: Match of the Day",
-    "excerpt": "A busy Premier League Sunday, with five matches, including Liverpool against Brighton.",
-    "link": "https://www.bbc.co.uk/iplayer/live/bbcone?at_medium=RSS&amp;at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0pj9cdr.jpg"
+    "league": "Football",
+    "dot": "#AFC4AC",
+    "source": "101 Great Goals",
+    "time": "Oct 26",
+    "headline": "NFL scores today: Week 7 results, highlights and standings",
+    "excerpt": "Watch highlights from NFL Week 7",
+    "link": "https://www.101greatgoals.com/nfl/scores-today-games-week-schedule-standings-san-francisco-49ers-vs-atlanta-falcons-minnesota-vikings-indianapolis-colts-new-york-giants-houston-texans/",
+    "image": null
   },
   "topStories": [
     {
       "id": "story-1",
+      "league": "La Liga",
+      "dot": "#E3B4F5",
+      "source": "BBC Sport",
+      "time": "Oct 26",
+      "headline": "Mourinho keeps Clasico midas touch 13 years on as La Liga heats up",
+      "excerpt": "Kylian Mbappe's two goals at Barcelona have opened up La Liga, as Jose Mourinho's Real…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cr3wvz20pglqo?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9581/live/b729bb60-d0cb-11f1-b86a-c167c5eb76b4.jpg"
+    },
+    {
+      "id": "story-2",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "BBC Sport",
+      "time": "Oct 25",
+      "headline": "Man City's perfect start over after draw at rivals Man Utd",
+      "excerpt": "Manchester City's perfect record in the Women's Super League is ended by rivals Manchester United…",
+      "link": "https://www.bbc.co.uk/sport/football/videos/cj3vq1ggw247o?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2942/live/b4d98470-d0b8-11f1-a701-fddedf244c16.jpg"
+    },
+    {
+      "id": "story-3",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "BBC Sport",
+      "time": "Oct 25",
+      "headline": "Man Utd lacked intensity & fight - Alderweireld",
+      "excerpt": "Match of the Day pundits Toby Alderweireld and Ashley Williams analyse Manchester United's 3-0 defeat…",
+      "link": "https://www.bbc.co.uk/sport/football/videos/c6wyrg2vwjmgo?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a573/live/0a17eca0-d0c9-11f1-93e1-3b657b665bcf.jpg"
+    },
+    {
+      "id": "story-4",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "BBC Sport",
+      "time": "Oct 25",
+      "headline": "How Liverpool's attack impressed against Brighton",
+      "excerpt": "Match of the Day pundits Toby Alderweireld and Ashley Williams analyse Liverpool's impressive attacking display…",
+      "link": "https://www.bbc.co.uk/sport/football/videos/ckq6nvp2ldz5o?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/af60/live/89141810-d0cb-11f1-b441-2b33b063138f.jpg"
+    },
+    {
+      "id": "story-5",
+      "league": "La Liga",
+      "dot": "#E3B4F5",
+      "source": "101 Great Goals",
+      "time": "Oct 25",
+      "headline": "Barcelona 1-2 Madrid: Report, result, goals as Mbappe double settles el clasico",
+      "excerpt": "Kylian Mbappe scored twice in Barca vs Madrid in el clasico",
+      "link": "https://www.101greatgoals.com/football/la-liga/barcelona-real-madrid-report-result-goals-kylian-mbappe-raphinha/",
+      "image": "https://www.101greatgoals.com/wp-content/uploads/2026/09/3FFGXN1-1.jpg"
+    },
+    {
+      "id": "story-6",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "101 Great Goals",
+      "time": "Oct 25",
+      "headline": "Jose Mourinho gives Lamine Yamal verdict: &#8216;He tried everything&#8217;",
+      "excerpt": "Jose Mourinho called the referee in Barca vs Madrid 'great'",
+      "link": "https://www.101greatgoals.com/football/la-liga/barcelona-vs-madrid-jose-mourinho-referee-lamine-yamal/",
+      "image": "https://www.101greatgoals.com/wp-content/uploads/2026/08/3F4EM6M-1-1.jpg"
+    },
+    {
+      "id": "story-7",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "talkSPORT",
@@ -24,18 +90,7 @@
       "image": null
     },
     {
-      "id": "story-2",
-      "league": "La Liga",
-      "dot": "#E3B4F5",
-      "source": "101 Great Goals",
-      "time": "Oct 25",
-      "headline": "Barcelona 1-2 Madrid: Report, result, goals as Mbappe double settles el clasico",
-      "excerpt": "Kylian Mbappe scored twice in Barca vs Madrid in el clasico",
-      "link": "https://www.101greatgoals.com/football/la-liga/barcelona-real-madrid-report-result-goals-kylian-mbappe-raphinha/",
-      "image": null
-    },
-    {
-      "id": "story-3",
+      "id": "story-8",
       "league": "La Liga",
       "dot": "#E3B4F5",
       "source": "101 Great Goals",
@@ -46,7 +101,18 @@
       "image": null
     },
     {
-      "id": "story-4",
+      "id": "story-9",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "Sky Sports",
+      "time": "Oct 25",
+      "headline": "'The pace was rubbish' - Russell in blunt admission after Austin struggle",
+      "excerpt": "George Russell admitted his pace in the United States Grand Prix was \"rubbish\", with the…",
+      "link": "https://www.skysports.com/f1/news/12040/13603617/george-russell-mercedes-driver-admits-to-rubbish-pace-in-united-states-gp-after-finishing-almost-one-minute-behind-kimi-antonelli",
+      "image": null
+    },
+    {
+      "id": "story-10",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "Sky Sports",
@@ -57,7 +123,7 @@
       "image": null
     },
     {
-      "id": "story-5",
+      "id": "story-11",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -68,7 +134,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1b3e/live/b4b3c870-d0c2-11f1-a701-fddedf244c16.png"
     },
     {
-      "id": "story-6",
+      "id": "story-12",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "talkSPORT",
@@ -79,18 +145,18 @@
       "image": null
     },
     {
-      "id": "story-7",
+      "id": "story-13",
       "league": "La Liga",
       "dot": "#E3B4F5",
       "source": "The Guardian",
       "time": "Oct 25",
       "headline": "Mbappé double secures Real Madrid late victory at Barcelona after Raphinha leveller",
-      "excerpt": "<p>Thirteen years later, José Mourinho led Real Madrid into the Camp Nou, and he led…",
+      "excerpt": "<p>Thirteen years later, José Mourinho led Real Madrid into the Camp Nou as one team…",
       "link": "https://www.theguardian.com/football/2026/oct/25/barcelona-real-madrid-el-clasico-la-liga-match-report",
       "image": "https://i.guim.co.uk/img/media/7ab50aaf13eaeedad2fb923095289385e370af72/925_0_3082_2466/master/3082.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3a253093ac7671a641db7eecb292afd9"
     },
     {
-      "id": "story-8",
+      "id": "story-14",
       "league": "Bundesliga",
       "dot": "#FFC469",
       "source": "Sky Sports",
@@ -101,7 +167,7 @@
       "image": null
     },
     {
-      "id": "story-9",
+      "id": "story-15",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "Sky Sports",
@@ -112,7 +178,7 @@
       "image": null
     },
     {
-      "id": "story-10",
+      "id": "story-16",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "Sky Sports",
@@ -123,7 +189,7 @@
       "image": null
     },
     {
-      "id": "story-11",
+      "id": "story-17",
       "league": "La Liga",
       "dot": "#E3B4F5",
       "source": "Sky Sports",
@@ -134,7 +200,7 @@
       "image": null
     },
     {
-      "id": "story-12",
+      "id": "story-18",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "talkSPORT",
@@ -145,7 +211,7 @@
       "image": null
     },
     {
-      "id": "story-13",
+      "id": "story-19",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -153,10 +219,10 @@
       "headline": "What have Man Utd changed to turn around WSL form?",
       "excerpt": "It is a different picture at Manchester United now than it was last month -…",
       "link": "https://www.bbc.co.uk/sport/football/articles/cm5ynpjx170zo?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/54f9/live/6c41bd40-d0bd-11f1-8fea-7b0d9193acdd.jpg"
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/685a/live/32d096c0-d0cd-11f1-b441-2b33b063138f.jpg"
     },
     {
-      "id": "story-14",
+      "id": "story-20",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "Sky Sports",
@@ -167,7 +233,7 @@
       "image": null
     },
     {
-      "id": "story-15",
+      "id": "story-21",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -178,7 +244,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a6b1/live/b4ad99d0-d0b5-11f1-960c-a30ffadcd9ea.jpg"
     },
     {
-      "id": "story-16",
+      "id": "story-22",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "Sky Sports",
@@ -189,7 +255,7 @@
       "image": null
     },
     {
-      "id": "story-17",
+      "id": "story-23",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "talkSPORT",
@@ -198,72 +264,6 @@
       "excerpt": "",
       "link": "https://talksport.com/football/4666804/michael-carrick-sack-plan-man-utd-next-manager/",
       "image": null
-    },
-    {
-      "id": "story-18",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "BBC Sport",
-      "time": "Oct 25",
-      "headline": "Howe open to Man Utd talks - Monday's gossip",
-      "excerpt": "Eddie Howe is open to holding talks with Manchester United if they part ways with…",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cq1j3e889rg8o?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/17b5/live/5102a540-d0b2-11f1-93e1-3b657b665bcf.png"
-    },
-    {
-      "id": "story-19",
-      "league": "La Liga",
-      "dot": "#E3B4F5",
-      "source": "101 Great Goals",
-      "time": "Oct 25",
-      "headline": "Barcelona vs Madrid live: Mbappe scores before Yamal spurns sitter",
-      "excerpt": "Kylian Mbappe scored the opener in Barca vs Madrid in el clasico",
-      "link": "https://www.101greatgoals.com/football/la-liga/barcelona-vs-real-madrid-live-watch-kylian-mbappe-goal-video-lamine-yamal-el-clasico/",
-      "image": null
-    },
-    {
-      "id": "story-20",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "Sky Sports",
-      "time": "Oct 25",
-      "headline": "NFL results: 49ers suffer first loss of season as Giants stun Texans in OT",
-      "excerpt": "",
-      "link": "https://www.skysports.com/nfl/live-blog/12040/13603746/nfl-2026-results-and-highlights-san-francisco-49ers-suffer-first-loss-of-season-and-new-york-giants-stun-houston-texans-in-overtime",
-      "image": null
-    },
-    {
-      "id": "story-21",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "The Guardian",
-      "time": "Oct 25",
-      "headline": "Terland strikes late as United end Manchester City’s winning start in WSL",
-      "excerpt": "<p>At long last, a weakness has been spotted. Finally, the 100% winning start ends for…",
-      "link": "https://www.theguardian.com/football/2026/oct/25/manchester-united-manchester-city-wsl-match-report",
-      "image": "https://i.guim.co.uk/img/media/600add96510c55489ed617ff7db45fc701ba13a9/1195_615_1809_1448/master/1809.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=606d67a344eebc0f6977cd479d31557c"
-    },
-    {
-      "id": "story-22",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "Sky Sports",
-      "time": "Oct 25",
-      "headline": "Power, Smotherman set for Monday play-off at Bermuda Championship",
-      "excerpt": "Seamus Power and Austin Smotherman are set to go head-to-head in a Monday play-off after…",
-      "link": "https://www.skysports.com/golf/news/12040/13603786/bermuda-championship-seamus-power-set-for-monday-play-off-against-austin-smotherman-as-final-round-is-scrapped-due-to-bad-weather",
-      "image": null
-    },
-    {
-      "id": "story-23",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "101 Great Goals",
-      "time": "Oct 25",
-      "headline": "Manchester United 0-3 Bournemouth: Nightmare for Carrick as Fernandes move backfires",
-      "excerpt": "Cherries run riot as Michael Carrick is pushed closer to the edge",
-      "link": "https://www.101greatgoals.com/match-reports/manchester-united-0-3-bournemouth-nightmare-for-carrick-as-fernandes-move-backfires/",
-      "image": "https://www.101greatgoals.com/wp-content/uploads/2026/10/3FY29G7-1.jpg"
     }
   ],
   "scoreboard": [
