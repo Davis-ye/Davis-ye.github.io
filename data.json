@@ -1,41 +1,228 @@
 {
-  "updatedAt": "2026-10-29T20:33:01.623Z",
+  "updatedAt": "2026-10-30T00:12:43.126Z",
   "hero": {
     "id": "story-0",
-    "league": "Football",
-    "dot": "#AFC4AC",
-    "source": "talkSPORT",
-    "time": "Oct 29",
-    "headline": "Jude Bellingham&#8217;s dad receives special England call-up",
-    "excerpt": "",
-    "link": "https://talksport.com/football/4676661/jude-bellingham-dad-mark-england-call-up/",
-    "image": null
+    "league": "Premier League",
+    "dot": "#9CC0F0",
+    "source": "The Guardian",
+    "time": "Oct 30",
+    "headline": "Premier League: 10 things to look out for this weekend",
+    "excerpt": "<p>Bruno Fernandes owes Manchester United a performance, Mathys Tel has arrived at Spurs and Liverpool…",
+    "link": "https://www.theguardian.com/football/2026/oct/30/premier-league-10-things-to-look-out-for-this-weekend",
+    "image": "https://i.guim.co.uk/img/media/b8f48f90b734894366e84eef746d93389ccd150a/0_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=0e57dd8e7307537d43f9424e87d6c0a3"
   },
   "topStories": [
     {
       "id": "story-1",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "The Guardian",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "Sky Sports",
       "time": "Oct 29",
-      "headline": "Manchester City v Paris Saint-Germain: Women’s Champions League – live",
-      "excerpt": "<p>⚽ Women’s Champions League updates; kick-off 8pm GMT<br>⚽ <a href=\"https://www.theguardian.com/football/live\">Live scores</a> | <a href=\"https://www.theguardian.com/football/2022/mar/22/sign-up-for-our-new-womens-football-newsletter-moving-the-goalposts\">Read Moving…",
-      "link": "https://www.theguardian.com/football/live/2026/oct/29/manchester-city-v-paris-saint-germain-womens-champions-league-live",
-      "image": "https://i.guim.co.uk/img/media/97428a0947c48993b4e4d075ba139e36cff75426/1075_0_4331_3466/master/4331.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=97ce72d64e06d25d7b68190ed75a433c"
+      "headline": "'I'm built differently' - Hamilton defiant over extending F1 career into 2030s",
+      "excerpt": "Lewis Hamilton insisted he \"is built differently\" as he continued to rule out extending his…",
+      "link": "https://www.skysports.com/f1/news/12040/13605468/lewis-hamilton-ferrari-driver-says-he-is-built-differently-amid-defiance-over-extending-his-f1-career-into-2030s",
+      "image": null
     },
     {
       "id": "story-2",
+      "league": "Serie A",
+      "dot": "#A9E6A0",
+      "source": "talkSPORT",
+      "time": "Oct 29",
+      "headline": "AC Milan and Inter unveil stunning images and name of new 71,500 stadium to replace San Siro",
+      "excerpt": "",
+      "link": "https://talksport.com/football/4677015/ac-milan-inter-unveil-generali-stadium-images-san-siro/",
+      "image": null
+    },
+    {
+      "id": "story-3",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "Sky Sports",
+      "time": "Oct 29",
+      "headline": "Mexico City GP: UK schedule and how to watch on Sky Sports",
+      "excerpt": "Formula 1 heads to Mexico City for a weekend where Kimi Antonelli could become the…",
+      "link": "https://www.skysports.com/f1/news/12040/13603629/mexico-city-gp-2026-dates-schedule-weather-uk-start-time-and-how-to-watch-or-stream-f1-race-at-autodromo-hermanos-rodriguez-live-on-sky-sports",
+      "image": null
+    },
+    {
+      "id": "story-4",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
       "time": "Oct 29",
-      "headline": "Everton v Newcastle: Carabao Cup fourth round – live",
-      "excerpt": "<p>⚽ <a href=\"https://www.theguardian.com/football/2026/oct/29/jack-grealish-axed-everton-breach-club-discipline-newcastle-caraboao-cup\">Grealish misses last-16 tie over ‘breach of discipline’</a><br>⚽ <a href=\"https://www.theguardian.com/football/live\">Scores</a> | <a href=\"https://www.theguardian.com/football/2026/oct/29/liverpool-chelsea-football-daily-newsletter\">Football…",
-      "link": "https://www.theguardian.com/football/live/2026/oct/29/everton-v-newcastle-carabao-cup-fourth-round-live",
-      "image": "https://i.guim.co.uk/img/media/b78872a3be03d9b3ebb73c6d8eb5d3bf174377a6/287_0_4192_3354/master/4192.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=506f542288a9a56436f244c6b8ef7c47"
+      "headline": "Everton drop Jack Grealish from Carabao Cup tie over ‘breach of club discipline’",
+      "excerpt": "<ul><li><p>England player left out of squad to face Newcastle</p></li><li><p>Moyes confirms he ‘supports’ the club decision</p></li></ul><p>Jack…",
+      "link": "https://www.theguardian.com/football/2026/oct/29/jack-grealish-axed-everton-breach-club-discipline-newcastle-caraboao-cup",
+      "image": "https://i.guim.co.uk/img/media/ea5a35cb1ef5c4fce921f4b4d82c95e188bab3f0/509_0_3172_2539/master/3172.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=4f6a63f150172a269264c201f6583996"
     },
     {
-      "id": "story-3",
+      "id": "story-5",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "talkSPORT",
+      "time": "Oct 29",
+      "headline": "Arnold Allen gives verdict on meaningless UFC ranking amid cancelled Aaron Pico fight",
+      "excerpt": "",
+      "link": "https://talksport.com/mma/4676882/arnold-allen-ufc-rankings-aaron-pico-fight-featherweight/",
+      "image": null
+    },
+    {
+      "id": "story-6",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "BBC Sport",
+      "time": "Oct 29",
+      "headline": "PSG score late to hold struggling Man City",
+      "excerpt": "Manchester City concede late to a draw 1-1 with Paris St-Germain, as their wait for…",
+      "link": "https://www.bbc.co.uk/sport/football/videos/ckeq3v1wgxy4o?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2032/live/17c3a580-d3e7-11f1-a701-fddedf244c16.jpg"
+    },
+    {
+      "id": "story-7",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "Sky Sports",
+      "time": "Oct 29",
+      "headline": "Papers: Chelsea, Arsenal and Man Utd eye Como defender",
+      "excerpt": "The top stories and transfer rumours from Friday's newspapers...",
+      "link": "https://www.skysports.com/football/news/12040/13605595/chelsea-arsenal-and-man-utd-eye-como-defender-paper-talk",
+      "image": null
+    },
+    {
+      "id": "story-8",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "Sky Sports",
+      "time": "Oct 29",
+      "headline": "Russell: 2026 F1 season won't break me",
+      "excerpt": "George Russell insists this year's Formula 1 season \"won't break me\" as Kimi Antonelli is…",
+      "link": "https://www.skysports.com/f1/news/12040/13605424/george-russell-mercedes-driver-insists-2026-formula-1-season-wont-break-me-as-he-looks-set-to-lose-title-to-kimi-antonelli",
+      "image": null
+    },
+    {
+      "id": "story-9",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "The Guardian",
+      "time": "Oct 29",
+      "headline": "Everton ease past Newcastle to set up Fleetwood trip after Grealish is dropped",
+      "excerpt": "<p>The biggest night in Everton’s season started with a big call from David Moyes and…",
+      "link": "https://www.theguardian.com/football/2026/oct/29/everton-newcastle-carabao-cup-fourth-round-match-report",
+      "image": "https://i.guim.co.uk/img/media/7672daf0a53065aab3d83268e9a8ee77cd11127a/231_0_2218_1775/master/2218.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e276f21bfca645833049474bfb47ba89"
+    },
+    {
+      "id": "story-10",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "The Guardian",
+      "time": "Oct 29",
+      "headline": "PSG claim late point after Shaw penalty to hit Manchester City’s WCL top-four hopes",
+      "excerpt": "<p>You cannot miss half a dozen big chances at Women’s Champions League level and expect…",
+      "link": "https://www.theguardian.com/football/2026/oct/29/manchester-city-paris-saint-germain-womens-champions-league-match-report",
+      "image": "https://i.guim.co.uk/img/media/d7c0e299086deb6d1ee6be4835ffc086f5a775c4/302_0_2397_1918/master/2397.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f39b101e4723b522e983ea2968941c66"
+    },
+    {
+      "id": "story-11",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "Sky Sports",
+      "time": "Oct 29",
+      "headline": "Everton beat Newcastle to book place in Carabao Cup quarter-finals",
+      "excerpt": "Highlights of the fourth-round Carabao Cup match between Everton and Newcastle United.",
+      "link": "https://www.skysports.com/watch/video/13605603/everton-3-1-newcastle-united-carabao-cup-highlights",
+      "image": null
+    },
+    {
+      "id": "story-12",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "talkSPORT",
+      "time": "Oct 29",
+      "headline": "Non league manager Marc White goes viral as he swears 38 times in out of control rant at players",
+      "excerpt": "",
+      "link": "https://talksport.com/football/4676883/marc-white-viral-rant-swears-38-times-non-league/",
+      "image": null
+    },
+    {
+      "id": "story-13",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "The Guardian",
+      "time": "Oct 29",
+      "headline": "Inter and Milan unveil plans for new shared stadium to replace San Siro",
+      "excerpt": "<ul><li><p>Generali Stadium will have 71,500-seat capacity</p></li><li><p>Inter fans protest the plans outside gala event</p></li></ul><p>Internazionale and Milan…",
+      "link": "https://www.theguardian.com/football/2026/oct/29/inter-milan-generali-stadium-new-venue-san-siro-protests",
+      "image": "https://i.guim.co.uk/img/media/761992491fd571f8e86d77998fce9bc1c7276cc0/371_0_1250_1000/master/1250.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a2cbe83f5536435421b7185202174b07"
+    },
+    {
+      "id": "story-14",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "BBC Sport",
+      "time": "Oct 29",
+      "headline": "Fleetwood to face Everton in EFL Cup quarters",
+      "excerpt": "League Two Fleetwood Town will face Everton at Highbury in the quarter-finals of the EFL…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cmp3glnle0wdo?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1292/live/876ff670-d367-11f1-8799-171d5bd36a81.jpg"
+    },
+    {
+      "id": "story-15",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "BBC Sport",
+      "time": "Oct 29",
+      "headline": "Chelsea linked with Alexander-Arnold - Friday's gossip",
+      "excerpt": "Trent Alexander-Arnold may become a target for Chelsea, Bournemouth's Alex Scott could also be heading…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/ck1l396jqv4zo?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/14eb/live/d3634440-d3dc-11f1-b441-2b33b063138f.png"
+    },
+    {
+      "id": "story-16",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "Sky Sports",
+      "time": "Oct 29",
+      "headline": "Ronaldo scores perfect hat-trick!",
+      "excerpt": "Cristiano Ronaldo scored a hat-trick to leads Al-Nassr to a win over Al-Khuloud, with Joao…",
+      "link": "https://www.skysports.com/watch/video/13605582/cristiano-ronaldo-hat-trick-leads-al-nassr-to-win-over-al-khuloud",
+      "image": null
+    },
+    {
+      "id": "story-17",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "Sky Sports",
+      "time": "Oct 29",
+      "headline": "'Lack of talent' - Alonso doubles down on Albon criticism",
+      "excerpt": "Aston Martin's Fernando Alonso has doubled down on his criticism of \"low level\" Formula 1…",
+      "link": "https://www.skysports.com/f1/news/12040/13605423/fernando-alonso-doubles-down-on-alex-albon-and-f1-field-criticism-ahead-of-mexico-city-grand-prix",
+      "image": null
+    },
+    {
+      "id": "story-18",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "BBC Sport",
+      "time": "Oct 29",
+      "headline": "What have we learned from first round of Premiership?",
+      "excerpt": "With every team having now faced one another in the Scottish Premiership, BBC Sport Scotland…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cwvgd4yegyepo?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4f0b/live/460c42b0-d3c6-11f1-867c-77016fb236d7.jpg"
+    },
+    {
+      "id": "story-19",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "talkSPORT",
+      "time": "Oct 29",
+      "headline": "Jude Bellingham&#8217;s dad receives special England call-up",
+      "excerpt": "",
+      "link": "https://talksport.com/football/4676661/jude-bellingham-dad-mark-england-call-up/",
+      "image": null
+    },
+    {
+      "id": "story-20",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "talkSPORT",
@@ -46,18 +233,7 @@
       "image": null
     },
     {
-      "id": "story-4",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "101 Great Goals",
-      "time": "Oct 29",
-      "headline": "Al-Nassr 5-3 Al Kholood: Ronaldo moves closer to 1,000 goals with late hat-trick",
-      "excerpt": "Portugal legend has scored 985 times in his storied career",
-      "link": "https://www.101greatgoals.com/match-reports/al-nassr-5-3-al-kholood-ronaldo-moves-closer-to-1000-goals-with-late-hat-trick/",
-      "image": null
-    },
-    {
-      "id": "story-5",
+      "id": "story-21",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -68,205 +244,39 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/089f/live/2e6abec0-d245-11f1-a701-fddedf244c16.png"
     },
     {
-      "id": "story-6",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "BBC Sport",
-      "time": "Oct 29",
-      "headline": "Grealish dropped by Everton after 'breach of club discipline'",
-      "excerpt": "Jack Grealish is left out of Everton's Carabao Cup tie with Newcastle United on Thursday…",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cmwy4vyl9nplo?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6ff6/live/0d5fec70-d3ce-11f1-9c32-1532a6164171.png"
-    },
-    {
-      "id": "story-7",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "talkSPORT",
-      "time": "Oct 29",
-      "headline": "Conor McGregor’s coach doubles down on dry ice theory causing horror ACL injury at UFC 329",
-      "excerpt": "",
-      "link": "https://talksport.com/mma/4672066/conor-mcgregor-coach-dry-ice-acl-injury-ufc-329/",
-      "image": null
-    },
-    {
-      "id": "story-8",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "The Guardian",
-      "time": "Oct 29",
-      "headline": "Everton drop Jack Grealish from Carabao Cup tie over ‘breach of club discipline’",
-      "excerpt": "<ul><li><p>England player left out of squad to face Newcastle</p></li><li><p>Grealish is understood to have missed training</p></li></ul><p>Jack…",
-      "link": "https://www.theguardian.com/football/2026/oct/29/jack-grealish-axed-everton-breach-club-discipline-newcastle-caraboao-cup",
-      "image": "https://i.guim.co.uk/img/media/ea5a35cb1ef5c4fce921f4b4d82c95e188bab3f0/509_0_3172_2539/master/3172.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=4f6a63f150172a269264c201f6583996"
-    },
-    {
-      "id": "story-9",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "talkSPORT",
-      "time": "Oct 29",
-      "headline": "Jack Grealish left out of Everton squad over shock club discipline breach",
-      "excerpt": "",
-      "link": "https://talksport.com/football/4676710/jack-grealish-out-everton-squad-club-discipline-breach/",
-      "image": null
-    },
-    {
-      "id": "story-10",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "Sky Sports",
-      "time": "Oct 29",
-      "headline": "Grealish dropped by Everton after breaching club discipline",
-      "excerpt": "Everton said Jack Grealish was unavailable for their Carabao Cup fourth-round tie against Newcastle 'due…",
-      "link": "https://www.skysports.com/football/news/12040/13605512/jack-grealish-dropped-by-everton-after-breaching-club-discipline-ahead-of-newcastle-carabao-cup-tie",
-      "image": null
-    },
-    {
-      "id": "story-11",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "The Guardian",
-      "time": "Oct 29",
-      "headline": "Uefa close to selecting candidate to run against Infantino in Fifa election",
-      "excerpt": "<ul><li><p>Challenger’s identity could be approved by next week</p></li><li><p>Arsène Wenger not thought to have entered reckoning</p></li></ul><p>Uefa…",
-      "link": "https://www.theguardian.com/football/2026/oct/29/uefa-close-to-identifying-candidate-gianni-infantino-in-fifa-election",
-      "image": "https://i.guim.co.uk/img/media/0b7728112428d6f431df4efff43a5e1adecab416/253_0_3308_2646/master/3308.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=0d61ff0e24be76f498354e1917ab022e"
-    },
-    {
-      "id": "story-12",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "101 Great Goals",
-      "time": "Oct 29",
-      "headline": "Everton vs Newcastle: Confirmed teams, full line ups in EFL Cup",
-      "excerpt": "Team news as Everton and Newcastle meet in the EFL Cup",
-      "link": "https://www.101greatgoals.com/news/everton-vs-newcastle-live-team-news-line-ups-efl-carabao-cup-tv-channel-online-stream-jack-grealish/",
-      "image": null
-    },
-    {
-      "id": "story-13",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "talkSPORT",
-      "time": "Oct 29",
-      "headline": "Chelsea have broken Estevao promise and &#8216;next Neymar&#8217; will want out",
-      "excerpt": "",
-      "link": "https://talksport.com/football/4676234/chelsea-estevao-broken-promise-leave-transfer/",
-      "image": null
-    },
-    {
-      "id": "story-14",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "101 Great Goals",
-      "time": "Oct 29",
-      "headline": "Al Nassr vs Al Kholood: Confirmed line ups and teams",
-      "excerpt": "Team news as Al Nassr host Al Kholood in the Saudi Pro League",
-      "link": "https://www.101greatgoals.com/football/al-nassr-vs-al-kholood-live-cristiano-ronaldo-line-ups-saudi-pro-league-teams-where-to-watch-tv-channel-online-stream/",
-      "image": null
-    },
-    {
-      "id": "story-15",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "Sky Sports",
-      "time": "Oct 29",
-      "headline": "Spain's Torres leads after day one of Grand Final",
-      "excerpt": "Highlights of the first round of the Grand Final in Spain.",
-      "link": "https://www.skysports.com/watch/video/13605502/grand-final-day-one-highlights",
-      "image": null
-    },
-    {
-      "id": "story-16",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "Sky Sports",
-      "time": "Oct 29",
-      "headline": "Alexander shines with brilliant 64 to lead at end of day one",
-      "excerpt": "Highlights of the first round of the Wistron Ladies Open in Taiwan.",
-      "link": "https://www.skysports.com/watch/video/13605492/wistron-ladies-open-day-one-highlights",
-      "image": null
-    },
-    {
-      "id": "story-17",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "Sky Sports",
-      "time": "Oct 29",
-      "headline": "WCL: Man City pushing for opener vs PSG LIVE!",
-      "excerpt": "",
-      "link": "https://www.skysports.com/football/manchester-city-women-vs-paris-saint-germain-women/live/578257",
-      "image": null
-    },
-    {
-      "id": "story-18",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "The Guardian",
-      "time": "Oct 29",
-      "headline": "MLS announces ‘sprint season’ schedule, with accommodations for cold-weather locales",
-      "excerpt": "<ul><li><p>Season will begin on 19 February in Miami</p></li><li><p>MLS Cup due to be played on Memorial…",
-      "link": "https://www.theguardian.com/football/2026/oct/29/mls-sprint-season-schedule",
-      "image": "https://i.guim.co.uk/img/media/ff725a9064dfb0072f7dfba25b98616909ead384/685_0_4856_3885/master/4856.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f6c8c4fe13249400ea69bfe0cc0350c8"
-    },
-    {
-      "id": "story-19",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "Sky Sports",
-      "time": "Oct 29",
-      "headline": "England's Hull two shots off leader Roussin-Bouchard after opening round",
-      "excerpt": "Highlights of round one of the LPGA Maybank Championship in Kuala Lumpur.",
-      "link": "https://www.skysports.com/watch/video/13605486/maybank-championship-day-one-highlights",
-      "image": null
-    },
-    {
-      "id": "story-20",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "Sky Sports",
-      "time": "Oct 29",
-      "headline": "McCullum: Brook one of best tactical captains I've come across",
-      "excerpt": "Brendon McCullum called Harry Brook \"one of the best tactical captains I've ever come across\"…",
-      "link": "https://www.skysports.com/cricket/news/12040/13605472/england-head-coach-brendon-mccullum-hails-captain-harry-brook-after-tourists-end-odi-tri-series-with-consolation-win",
-      "image": null
-    },
-    {
-      "id": "story-21",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "talkSPORT",
-      "time": "Oct 29",
-      "headline": "Man United explore shock move for 14-cap England international amid Benjamin Sesko injury blow",
-      "excerpt": "",
-      "link": "https://talksport.com/football/4676595/man-utd-dominic-calvert-lewin-leeds-united-transfer-news/",
-      "image": null
-    },
-    {
       "id": "story-22",
       "league": "Premier League",
       "dot": "#9CC0F0",
-      "source": "The Guardian",
+      "source": "Sky Sports",
       "time": "Oct 29",
-      "headline": "Max Dowman to miss three games after Arsenal’s red card appeal rejected",
-      "excerpt": "<ul><li><p>Teenager was sent off for lashing out in Fleetwood defeat</p></li><li><p>Club’s claims over card and ban…",
-      "link": "https://www.theguardian.com/football/2026/oct/29/max-dowman-to-miss-three-arsenal-matches-fa-rejects-red-card-appeal-fleetwood",
-      "image": "https://i.guim.co.uk/img/media/13284df7773e91907684d56e2b620ae8f0386d04/57_0_3420_2736/master/3420.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e3a257cc7325aa755b80d1e611c8e46d"
+      "headline": "Everton see off Newcastle to reach Carabao Cup quarter-finals",
+      "excerpt": "Everton are through to the quarter-finals of the Carabao Cup after seeing off Newcastle 3-1.",
+      "link": "https://www.skysports.com/football/everton-vs-newcastle-united/report/578609",
+      "image": null
     },
     {
       "id": "story-23",
-      "league": "Football",
-      "dot": "#AFC4AC",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
       "source": "BBC Sport",
       "time": "Oct 29",
-      "headline": "Scottish football could pave way for 3pm TV blackout to end",
-      "excerpt": "The first tentative steps to end the 3pm television blackout in the UK have been…",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cmgr8l87edyjo?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/24e1/live/b4fef970-d3bb-11f1-8c27-87a7c72809db.jpg"
+      "headline": "Grealish dropped over 'breach of club discipline' - what now?",
+      "excerpt": "Jack Grealish is left out of Everton's EFL Cup win over Newcastle United on Thursday…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cmwy4vyl9nplo?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8012/live/29492fb0-d3f0-11f1-93e1-3b657b665bcf.jpg"
     }
   ],
   "scoreboard": [
+    {
+      "id": "score-558551",
+      "league": "Serie A",
+      "dot": "#A9E6A0",
+      "time": "Oct 29",
+      "home": "ACF Fiorentina",
+      "away": "Atalanta BC",
+      "homeScore": 2,
+      "awayScore": 2
+    },
     {
       "id": "score-558558",
       "league": "Serie A",
@@ -316,16 +326,6 @@
       "away": "FC Internazionale Milano",
       "homeScore": 0,
       "awayScore": 2
-    },
-    {
-      "id": "score-558553",
-      "league": "Serie A",
-      "dot": "#A9E6A0",
-      "time": "Oct 28",
-      "home": "Parma Calcio 1913",
-      "away": "Udinese Calcio",
-      "homeScore": 0,
-      "awayScore": 0
     }
   ]
 }
