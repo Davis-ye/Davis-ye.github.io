@@ -1,19 +1,52 @@
 {
-  "updatedAt": "2026-10-31T00:57:18.236Z",
+  "updatedAt": "2026-10-31T06:34:19.265Z",
   "hero": {
     "id": "story-0",
     "league": "Premier League",
     "dot": "#9CC0F0",
-    "source": "The Guardian",
-    "time": "Oct 30",
-    "headline": "Aston Villa to take legal action against Jamie Carragher for ‘unacceptable insults’",
-    "excerpt": "<ul><li><p>Villa chair announces plan on social media</p></li><li><p>Carragher said club will ‘never be Man United’</p></li></ul><p>Aston Villa…",
-    "link": "https://www.theguardian.com/football/2026/oct/30/aston-villa-to-take-legal-action-against-jamie-carragher-for-unacceptable-insults",
-    "image": "https://i.guim.co.uk/img/media/93796d90e817142baa022c5ad68a0db951a3e3be/148_0_3541_2833/master/3541.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e70777eb60c1c4b40aa02b6eaeb7a0c7"
+    "source": "BBC Sport",
+    "time": "Oct 31",
+    "headline": "Shearer discusses scoring record, MOTD & a brush with Cardiff",
+    "excerpt": "Alan Shearer discusses his love of Newcastle, almost continuing his managerial career and swapping the…",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cwkg5l822k3no?at_medium=RSS&amp;at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d003/live/d915ccd0-d2ee-11f1-8d86-83eebc838351.jpg"
   },
   "topStories": [
     {
       "id": "story-1",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "Sky Sports",
+      "time": "Oct 31",
+      "headline": "Hadjar summoned to stewards for alleged 'misconduct' paddock incident",
+      "excerpt": "",
+      "link": "https://www.skysports.com/f1/live-blog/12040/12466779/f1-news-rumours-and-gossip-formula-1-latest-updates-on-teams-driver-transfer-market-and-contracts",
+      "image": null
+    },
+    {
+      "id": "story-2",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "Sky Sports",
+      "time": "Oct 31",
+      "headline": "Verstappen, Lawson receive grid penalties after 'unacceptable' practice collision",
+      "excerpt": "Max Verstappen and Liam Lawson have both received one-grid place penalties for an \"unacceptable\" collision…",
+      "link": "https://www.skysports.com/f1/news/12040/13605836/max-verstappen-liam-lawson-receive-grid-penalties-for-unacceptable-practice-collision-at-mexico-city-grand-prix",
+      "image": null
+    },
+    {
+      "id": "story-3",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "The Guardian",
+      "time": "Oct 30",
+      "headline": "Aston Villa to take legal action against Jamie Carragher for ‘unacceptable insults’",
+      "excerpt": "<ul><li><p>Villa chair announces plan on social media</p></li><li><p>Carragher said club will ‘never be Man United’</p></li></ul><p>Aston Villa…",
+      "link": "https://www.theguardian.com/football/2026/oct/30/aston-villa-to-take-legal-action-against-jamie-carragher-for-unacceptable-insults",
+      "image": "https://i.guim.co.uk/img/media/93796d90e817142baa022c5ad68a0db951a3e3be/148_0_3541_2833/master/3541.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e70777eb60c1c4b40aa02b6eaeb7a0c7"
+    },
+    {
+      "id": "story-4",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "Sky Sports",
@@ -24,7 +57,18 @@
       "image": null
     },
     {
-      "id": "story-2",
+      "id": "story-5",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "Sky Sports",
+      "time": "Oct 30",
+      "headline": "Mexico City Grand Prix | Practice highlights",
+      "excerpt": "Highlights from Friday's practice sessions at the Mexico City Grand Prix.",
+      "link": "https://www.skysports.com/watch/video/13606000/mexico-city-gp-max-verstappen-collides-with-liam-lawson-as-lewis-hamilton-suffers-failure-during-practice",
+      "image": null
+    },
+    {
+      "id": "story-6",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "Sky Sports",
@@ -35,7 +79,7 @@
       "image": null
     },
     {
-      "id": "story-3",
+      "id": "story-7",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -46,7 +90,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fb46/live/8e4a93d0-d4b4-11f1-a58c-6d26609b0a57.png"
     },
     {
-      "id": "story-4",
+      "id": "story-8",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "Sky Sports",
@@ -57,7 +101,7 @@
       "image": null
     },
     {
-      "id": "story-5",
+      "id": "story-9",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -68,7 +112,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b461/live/128fc5d0-d4b4-11f1-a58c-6d26609b0a57.jpg"
     },
     {
-      "id": "story-6",
+      "id": "story-10",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "101 Great Goals",
@@ -79,7 +123,7 @@
       "image": null
     },
     {
-      "id": "story-7",
+      "id": "story-11",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -90,7 +134,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5d4c/live/e763c300-d4b5-11f1-a58c-6d26609b0a57.jpg"
     },
     {
-      "id": "story-8",
+      "id": "story-12",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "talkSPORT",
@@ -101,7 +145,7 @@
       "image": null
     },
     {
-      "id": "story-9",
+      "id": "story-13",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "Sky Sports",
@@ -112,7 +156,7 @@
       "image": null
     },
     {
-      "id": "story-10",
+      "id": "story-14",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "talkSPORT",
@@ -123,7 +167,7 @@
       "image": null
     },
     {
-      "id": "story-11",
+      "id": "story-15",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -134,7 +178,7 @@
       "image": "https://i.guim.co.uk/img/media/5f75b619214b0557f8451f33b249af74dd5ae117/452_154_3188_2550/master/3188.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=563e82254bea907000eea816fee95e05"
     },
     {
-      "id": "story-12",
+      "id": "story-16",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -145,7 +189,7 @@
       "image": "https://i.guim.co.uk/img/media/90150af6e88813194c219b93c24581b1f3ab3d9e/452_78_1570_1257/master/1570.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=acfa8c8b1161b90ca1044fd849e798e7"
     },
     {
-      "id": "story-13",
+      "id": "story-17",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "talkSPORT",
@@ -156,7 +200,7 @@
       "image": null
     },
     {
-      "id": "story-14",
+      "id": "story-18",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "101 Great Goals",
@@ -167,7 +211,18 @@
       "image": null
     },
     {
-      "id": "story-15",
+      "id": "story-19",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "Sky Sports",
+      "time": "Oct 30",
+      "headline": "'Every weekend!' - Lawson fumes at Verstappen as pair clash during P2!",
+      "excerpt": "Racing Bulls' Liam Lawson and Red Bull's Max Verstappen make contact during FP2 at the…",
+      "link": "https://www.skysports.com/watch/video/13605977/mexico-city-gp-liam-lawson-fumes-at-max-verstappen-as-pair-tussle-during-p2",
+      "image": null
+    },
+    {
+      "id": "story-20",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "Sky Sports",
@@ -178,7 +233,7 @@
       "image": null
     },
     {
-      "id": "story-16",
+      "id": "story-21",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "Sky Sports",
@@ -189,7 +244,7 @@
       "image": null
     },
     {
-      "id": "story-17",
+      "id": "story-22",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "Sky Sports",
@@ -200,7 +255,7 @@
       "image": null
     },
     {
-      "id": "story-18",
+      "id": "story-23",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "talkSPORT",
@@ -209,61 +264,6 @@
       "excerpt": "",
       "link": "https://talksport.com/darts/4679370/fallon-sherrock-beats-luke-littler-501000-jackpot-netflix/",
       "image": null
-    },
-    {
-      "id": "story-19",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "Sky Sports",
-      "time": "Oct 30",
-      "headline": "Sherrock wins leg to beat Littler and claim £501,000 prize",
-      "excerpt": "Fallon Sherrock did indeed beat Luke Littler at the live 'Beat Luke Littler' event in…",
-      "link": "https://www.skysports.com/darts/news/12040/13605916/beat-luke-littler-fallon-sherrock-wins-one-off-leg-to-defeat-the-nuke-and-take-501000-prize",
-      "image": null
-    },
-    {
-      "id": "story-20",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "101 Great Goals",
-      "time": "Oct 30",
-      "headline": "Chicago Bears @ Seattle Seahawks: Preview, prediction and odds",
-      "excerpt": "The Seattle Seahawks host the Chicago Bears on Tuesday Night Football. Read our in-depth preview.",
-      "link": "https://www.101greatgoals.com/nfl/chicago-bears-seattle-seahawks-preview-prediction-and-odds/",
-      "image": null
-    },
-    {
-      "id": "story-21",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "Sky Sports",
-      "time": "Oct 30",
-      "headline": "Mexico City GP: Verstappen, Lawson summoned by stewards after collision LIVE!",
-      "excerpt": "",
-      "link": "https://www.skysports.com/f1/live-blog/12040/13605426/f1-mexico-city-gp-live-friday-practice-updates-results-stream-highlights-from-formula-1-race-weekend",
-      "image": null
-    },
-    {
-      "id": "story-22",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "Sky Sports",
-      "time": "Oct 30",
-      "headline": "Furious Komatsu dismisses 'nonsense' reports of Bearman demanding £5m salary",
-      "excerpt": "Haas boss Ayao Komatsu has furiously dismissed reports claiming that contract extension talks with Oliver…",
-      "link": "https://www.skysports.com/f1/news/12040/13605833/oliver-bearman-haas-boss-ayao-komatsu-furiously-dismisses-reports-claiming-british-driver-is-demanding-5m-annual-salary",
-      "image": null
-    },
-    {
-      "id": "story-23",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "BBC Sport",
-      "time": "Oct 30",
-      "headline": "Can Robinson work Hampden magic against McInnes' Rangers?",
-      "excerpt": "Under-pressure Aberdeen manager Stephen Robinson has an excellent record in Hampden semi-finals. But is Saturday's…",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cwx281x2p28do?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5275/live/903e59e0-d47a-11f1-8edb-d9fce66588c6.jpg"
     }
   ],
   "scoreboard": [
