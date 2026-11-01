@@ -1,19 +1,96 @@
 {
-  "updatedAt": "2026-10-31T23:43:10.072Z",
+  "updatedAt": "2026-11-01T02:35:46.931Z",
   "hero": {
     "id": "story-0",
-    "league": "Bundesliga",
-    "dot": "#FFC469",
-    "source": "101 Great Goals",
-    "time": "Oct 31",
-    "headline": "Bayern held in Klassiker after Kane penalty miss as Milan cruise to derby win over Inter",
-    "excerpt": "The Ballon d'Or winner was unusually profligate.",
-    "link": "https://www.101greatgoals.com/football/bundesliga/bayern-held-in-klassiker-after-kane-penalty-miss-as-milan-cruise-to-derby-win-over-inter/",
-    "image": "https://www.101greatgoals.com/wp-content/uploads/2026/10/3G0F0T0-2.jpg"
+    "league": "Football",
+    "dot": "#AFC4AC",
+    "source": "Sky Sports",
+    "time": "Nov 1",
+    "headline": "Antonelli feeling 'tense' amid effort to seal F1 title",
+    "excerpt": "Kimi Antonelli has admitted to feeling \"more tense than usual\" ahead of attempting to seal…",
+    "link": "https://www.skysports.com/f1/news/12040/13606017/kimi-antonelli-mercedes-driver-admits-to-feeling-tense-amid-effort-to-seal-f1-title-at-mexico-city-grand-prix",
+    "image": null
   },
   "topStories": [
     {
       "id": "story-1",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "Sky Sports",
+      "time": "Nov 1",
+      "headline": "Hamilton: A 'dream' to emulate Schumacher with first Ferrari pole",
+      "excerpt": "Lewis Hamilton said he had achieved his \"dream\" of emulating Michael Schumacher after claiming his…",
+      "link": "https://www.skysports.com/f1/news/12040/13606018/lewis-hamilton-says-its-a-dream-to-emulate-michael-schumacher-after-claiming-his-first-ferrari-pole-at-the-mexico-city-gp",
+      "image": null
+    },
+    {
+      "id": "story-2",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "Sky Sports",
+      "time": "Nov 1",
+      "headline": "Hamilton joins Karun at SkyPad to analyse first Ferrari pole lap!",
+      "excerpt": "Lewis Hamilton joins Sky Sports F1's Karun Chandhok to look back on his first pole-setting…",
+      "link": "https://www.skysports.com/watch/video/13606552/mexico-city-gp-lewis-hamilton-joins-karun-chandhok-at-skypad-to-analyse-first-ferrari-pole-lap",
+      "image": null
+    },
+    {
+      "id": "story-3",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "BBC Sport",
+      "time": "Oct 31",
+      "headline": "How 'brave & balanced' Brighton beat Man City",
+      "excerpt": "Match of the Day pundits Danny Murphy and Stephan Warnock analyse Brighton's impressive 1-0 victory…",
+      "link": "https://www.bbc.co.uk/sport/football/videos/cmx23wyk769eo?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7688/live/aebb6ee0-d582-11f1-a701-fddedf244c16.jpg"
+    },
+    {
+      "id": "story-4",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "BBC Sport",
+      "time": "Oct 31",
+      "headline": "Has Martinez become a liability for Man Utd?",
+      "excerpt": "Match of the Day pundits Danny Murphy and Stephan Warnock analyse Lisandro Martinez's performance in…",
+      "link": "https://www.bbc.co.uk/sport/football/videos/c9vgrjej28dvo?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/541c/live/8561b7e0-d580-11f1-a701-fddedf244c16.jpg"
+    },
+    {
+      "id": "story-5",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "talkSPORT",
+      "time": "Oct 31",
+      "headline": "Jake Paul responds to Canelo Alvarez comeback world title win with brave take",
+      "excerpt": "",
+      "link": "https://talksport.com/boxing/4680670/jake-paul-canelo-alvarez-win/",
+      "image": null
+    },
+    {
+      "id": "story-6",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "BBC Sport",
+      "time": "Oct 31",
+      "headline": "Are Manchester United really at risk of a relegation scrap?",
+      "excerpt": "Manchester United's current tally of nine points from seven games would not even get them…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c8g47wl06vkqo?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c471/live/62195190-d55c-11f1-b937-61b94454a4cf.jpg"
+    },
+    {
+      "id": "story-7",
+      "league": "Bundesliga",
+      "dot": "#FFC469",
+      "source": "101 Great Goals",
+      "time": "Oct 31",
+      "headline": "Bayern held in Klassiker after Kane penalty miss as Milan cruise to derby win over Inter",
+      "excerpt": "The Ballon d'Or winner was unusually profligate.",
+      "link": "https://www.101greatgoals.com/football/bundesliga/bayern-held-in-klassiker-after-kane-penalty-miss-as-milan-cruise-to-derby-win-over-inter/",
+      "image": "https://www.101greatgoals.com/wp-content/uploads/2026/10/3G0F0T0-2.jpg"
+    },
+    {
+      "id": "story-8",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -24,7 +101,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ba92/live/63ab8750-d57d-11f1-a701-fddedf244c16.png"
     },
     {
-      "id": "story-2",
+      "id": "story-9",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "talkSPORT",
@@ -35,7 +112,7 @@
       "image": null
     },
     {
-      "id": "story-3",
+      "id": "story-10",
       "league": "Bundesliga",
       "dot": "#FFC469",
       "source": "BBC Sport",
@@ -46,7 +123,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f367/live/6d027830-d57e-11f1-b441-2b33b063138f.jpg"
     },
     {
-      "id": "story-4",
+      "id": "story-11",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "Sky Sports",
@@ -57,7 +134,7 @@
       "image": null
     },
     {
-      "id": "story-5",
+      "id": "story-12",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "Sky Sports",
@@ -68,7 +145,7 @@
       "image": null
     },
     {
-      "id": "story-6",
+      "id": "story-13",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "talkSPORT",
@@ -79,7 +156,7 @@
       "image": null
     },
     {
-      "id": "story-7",
+      "id": "story-14",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "Sky Sports",
@@ -90,7 +167,7 @@
       "image": null
     },
     {
-      "id": "story-8",
+      "id": "story-15",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "talkSPORT",
@@ -101,7 +178,7 @@
       "image": null
     },
     {
-      "id": "story-9",
+      "id": "story-16",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "Sky Sports",
@@ -112,7 +189,7 @@
       "image": null
     },
     {
-      "id": "story-10",
+      "id": "story-17",
       "league": "La Liga",
       "dot": "#E3B4F5",
       "source": "The Guardian",
@@ -123,7 +200,7 @@
       "image": "https://i.guim.co.uk/img/media/3cedcd0052d5d77e40de99a6c47f875727959bb1/0_109_2455_1964/master/2455.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3b0fd863dc034b2992586da9ea75743b"
     },
     {
-      "id": "story-11",
+      "id": "story-18",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -134,7 +211,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/42c1/live/ce1cbe80-d57b-11f1-ab63-077ce6c8a12a.jpg"
     },
     {
-      "id": "story-12",
+      "id": "story-19",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -145,7 +222,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d3d7/live/c15e4960-d55e-11f1-a701-fddedf244c16.jpg"
     },
     {
-      "id": "story-13",
+      "id": "story-20",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -156,7 +233,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3234/live/ef24d060-d560-11f1-b441-2b33b063138f.jpg"
     },
     {
-      "id": "story-14",
+      "id": "story-21",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -167,7 +244,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6971/live/776ab830-d562-11f1-b441-2b33b063138f.jpg"
     },
     {
-      "id": "story-15",
+      "id": "story-22",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -178,7 +255,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a4cb/live/4de6b580-d563-11f1-a701-fddedf244c16.jpg"
     },
     {
-      "id": "story-16",
+      "id": "story-23",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -187,83 +264,6 @@
       "excerpt": "Jean-Philippe Mateta was shown an early red card as Crystal Palace lose 2-0 at Tottenham…",
       "link": "https://www.bbc.co.uk/sport/football/videos/cxvgdrg33m72o?at_medium=RSS&amp;at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9230/live/038f60d0-d564-11f1-93e1-3b657b665bcf.jpg"
-    },
-    {
-      "id": "story-17",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "BBC Sport",
-      "time": "Oct 31",
-      "headline": "Evanilson scores again as Bournemouth beat Leeds",
-      "excerpt": "Forward Evanilson continues his fine goalscoring form by netting in a fourth Premier League match…",
-      "link": "https://www.bbc.co.uk/sport/football/videos/c6zxj1vzwx1xo?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8ae1/live/c3c33b70-d55e-11f1-b441-2b33b063138f.jpg"
-    },
-    {
-      "id": "story-18",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "BBC Sport",
-      "time": "Oct 31",
-      "headline": "Thiago on target as Brentford beat Forest",
-      "excerpt": "Igor Thiago's second-half goal helps Brentford to their first win in five as they beat…",
-      "link": "https://www.bbc.co.uk/sport/football/videos/ck1l3z063n8vo?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0170/live/c24a4850-d564-11f1-b441-2b33b063138f.jpg"
-    },
-    {
-      "id": "story-19",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "BBC Sport",
-      "time": "Oct 31",
-      "headline": "Suzuki mistake gifts Fulham point at Villa",
-      "excerpt": "Aston Villa goalkeeper Zion Suzuki's second-half mistake sees Fulham secure a 1-1 draw at Villa…",
-      "link": "https://www.bbc.co.uk/sport/football/videos/cmwy9rylr0e6o?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/00d7/live/efbcddc0-d578-11f1-a701-fddedf244c16.jpg"
-    },
-    {
-      "id": "story-20",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "101 Great Goals",
-      "time": "Oct 31",
-      "headline": "Aston Villa 1-1 Fulham: Rare Suzuki error gives Cottagers deserved point",
-      "excerpt": "Suzuki's error marred an otherwise superb showing from the Villa goalkeeper.",
-      "link": "https://www.101greatgoals.com/match-reports/aston-villa-1-1-fulham-rare-suzuki-error-gives-cottagers-deserved-point/",
-      "image": null
-    },
-    {
-      "id": "story-21",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "Sky Sports",
-      "time": "Oct 31",
-      "headline": "Mexico City Grand Prix - Qualifying Highlights",
-      "excerpt": "Highlights from qualifying for the 2026 Mexico City Grand Prix.",
-      "link": "https://www.skysports.com/watch/video/13606516/mexico-city-grand-prix-qualifying-highlights",
-      "image": null
-    },
-    {
-      "id": "story-22",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "Sky Sports",
-      "time": "Oct 31",
-      "headline": "Hamilton pips Russell to become oldest pole sitter in 44 years!",
-      "excerpt": "Lewis Hamilton edged out George Russell to become the oldest person to claim pole position…",
-      "link": "https://www.skysports.com/watch/video/13606514/mexico-city-gp-lewis-hamilton-pips-george-russell-to-become-oldest-pole-sitter-in-44-years",
-      "image": null
-    },
-    {
-      "id": "story-23",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "The Guardian",
-      "time": "Oct 31",
-      "headline": "Zion Suzuki horror own goal haunts Aston Villa to hand Fulham a point",
-      "excerpt": "<p>Fulham helped cement Jamie Carragher’s argument that Aston Villa will never be Manchester United. No,…",
-      "link": "https://www.theguardian.com/football/2026/oct/31/aston-villa-fulham-premier-league-match-report",
-      "image": "https://i.guim.co.uk/img/media/d6a54a91281b767c21eacf65894a4437d950c118/244_0_3008_2407/master/3008.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ee9de89abea47cb623f879fc9188f413"
     }
   ],
   "scoreboard": [
