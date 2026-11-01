@@ -1,30 +1,239 @@
 {
-  "updatedAt": "2026-11-01T20:37:44.648Z",
+  "updatedAt": "2026-11-01T23:52:33.276Z",
   "hero": {
     "id": "story-0",
     "league": "Premier League",
     "dot": "#9CC0F0",
-    "source": "BBC Sport",
+    "source": "talkSPORT",
     "time": "Nov 1",
-    "headline": "Warnock hid seizures from Liverpool as a youngster",
-    "excerpt": "Former Premier League footballer Stephen Warnock says he hid seizures from Liverpool as a youngster…",
-    "link": "https://www.bbc.co.uk/sport/football/articles/c6rry8pxwkdpo?at_medium=RSS&amp;at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/849b/live/b532dde0-d630-11f1-b862-ff7106b70f88.jpg"
+    "headline": "Arsenal&#8217;s statement win over Liverpool is massive, it&#8217;s a one-horse title race",
+    "excerpt": "",
+    "link": "https://talksport.com/football/4681454/arsenal-liverpool-premier-league-title-race/",
+    "image": null
   },
   "topStories": [
     {
       "id": "story-1",
-      "league": "Bundesliga",
-      "dot": "#FFC469",
-      "source": "BBC Sport",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "Sky Sports",
       "time": "Nov 1",
-      "headline": "Watch: Bundesliga highlights - matchday eight",
-      "excerpt": "Watch highlights from matchday eight in the Bundesliga.",
-      "link": "https://www.bbc.co.uk/iplayer/episode/l00590gw?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0p8slj9.jpg"
+      "headline": "'This is just the beginning' - Antonelli looking to emulate greats with more world titles",
+      "excerpt": "Kimi Antonelli was in buoyant mood after becoming the youngest ever Formula One world champion.",
+      "link": "https://www.skysports.com/watch/video/13606868/mexico-city-gp-kimi-antonelli-looking-to-emulate-greats-with-more-world-titles",
+      "image": null
     },
     {
       "id": "story-2",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "BBC Sport",
+      "time": "Nov 1",
+      "headline": "Man Utd eye Barcelona's Balde - Monday's gossip",
+      "excerpt": "Alejandro Balde could leave Barcelona, sparking interest from Manchester United, Liverpool shortlist want Murillo and…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cqkgk0l3zpnyo?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/97eb/live/0cb45b70-d645-11f1-be49-c7d51bdcf05a.png"
+    },
+    {
+      "id": "story-3",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "Sky Sports",
+      "time": "Nov 1",
+      "headline": "Defensive 'masterclass' and elite Rice - how Arsenal ended Anfield torment",
+      "excerpt": "Not since 2012 - when current boss Mikel Arteta was commanding Arsenal's midfield on the…",
+      "link": "https://www.skysports.com/football/news/12040/13606815/arsenals-defensive-masterclass-praised-in-liverpool-win-as-jamie-carragher-salutes-world-class-declan-rice",
+      "image": null
+    },
+    {
+      "id": "story-4",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "101 Great Goals",
+      "time": "Nov 1",
+      "headline": "Newcastle v Everton: Preview, expected line-ups, stats and where to watch",
+      "excerpt": "Newcastle have an immediate opportunity for revenge.",
+      "link": "https://www.101greatgoals.com/match-previews/premier-league-matches/newcastle-v-everton-preview-expected-line-ups-stats-and-where-to-watch/",
+      "image": null
+    },
+    {
+      "id": "story-5",
+      "league": "Serie A",
+      "dot": "#A9E6A0",
+      "source": "101 Great Goals",
+      "time": "Nov 1",
+      "headline": "Lazio go three clear in Serie A as Athletic win Basque derby",
+      "excerpt": "Lazio made the most of Inter's slip-up.",
+      "link": "https://www.101greatgoals.com/football/serie-a/lazio-go-three-clear-in-serie-a-as-athletic-win-basque-derby/",
+      "image": null
+    },
+    {
+      "id": "story-6",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "BBC Sport",
+      "time": "Nov 1",
+      "headline": "Rice relishing title race 'anxiety' after win at Liverpool",
+      "excerpt": "Declan Rice joins BBC Sport's Kelly Cates, Danny Murphy and Micah Richards to analyse how…",
+      "link": "https://www.bbc.co.uk/sport/football/videos/cxly47pyy8j6o?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4707/live/d5373530-d632-11f1-b441-2b33b063138f.jpg"
+    },
+    {
+      "id": "story-7",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "Sky Sports",
+      "time": "Nov 1",
+      "headline": "How Antonelli has rewritten Formula 1's record books",
+      "excerpt": "Formula 1 has its 36th world champion after Kimi Antonelli clinched his maiden title by…",
+      "link": "https://www.skysports.com/f1/news/12040/13601049/kimi-antonelli-how-formula-1s-newest-world-champion-has-rewritten-the-record-books-at-barely-20-years-of-age",
+      "image": null
+    },
+    {
+      "id": "story-8",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "talkSPORT",
+      "time": "Nov 1",
+      "headline": "Kimi Antonelli breaks down in tears as he seals record-breaking F1 title",
+      "excerpt": "",
+      "link": "https://talksport.com/motorsport/4681479/kimi-antonelli-tears-record-breaking-f1-title/",
+      "image": null
+    },
+    {
+      "id": "story-9",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "Sky Sports",
+      "time": "Nov 1",
+      "headline": "Antonelli crowned world champion as Verstappen wins wild Mexico City GP",
+      "excerpt": "Kimi Antonelli became the youngest Formula 1 world champion in history as Max Verstappen held…",
+      "link": "https://www.skysports.com/f1/news/12040/13606682/kimi-antonelli-crowned-2026-f1-world-champion-as-max-verstappen-wins-wild-mexico-city-grand-prix-from-lewis-hamilton",
+      "image": null
+    },
+    {
+      "id": "story-10",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "Sky Sports",
+      "time": "Nov 1",
+      "headline": "Mexico City Grand Prix - Race highlights",
+      "excerpt": "Highlights from the 2026 Mexico City Grand Prix.",
+      "link": "https://www.skysports.com/watch/video/13606860/mexico-city-gp-grand-prix-race-highlights",
+      "image": null
+    },
+    {
+      "id": "story-11",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "Sky Sports",
+      "time": "Nov 1",
+      "headline": "History made! Antonelli crowned youngest F1 world champion",
+      "excerpt": "Kimi Antonelli became the youngest ever Formula One world champion after finishing third at the…",
+      "link": "https://www.skysports.com/watch/video/13606855/mexico-city-gp-kimi-antonelli-becomes-youngest-ever-world-champion-as-max-verstappen-wins-race",
+      "image": null
+    },
+    {
+      "id": "story-12",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "101 Great Goals",
+      "time": "Nov 1",
+      "headline": "Lamar Jackson to go on IR after Ravens lose to Bills, Vikings dealt first loss as Bucs make bizarre history",
+      "excerpt": "The Ravens' playoff hopes suffered a massive blow.",
+      "link": "https://www.101greatgoals.com/nfl/lamar-jackson-to-go-on-ir-after-ravens-lose-to-bills-vikings-dealt-first-loss-as-bucs-make-bizarre-history/",
+      "image": null
+    },
+    {
+      "id": "story-13",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "Sky Sports",
+      "time": "Nov 1",
+      "headline": "Ravens QB Jackson to undergo surgery in new injury setback",
+      "excerpt": "Lamar Jackson will undergo surgery on his right thumb and miss at least the next…",
+      "link": "https://www.skysports.com/nfl/news/12040/13606843/lamar-jackson-baltimore-ravens-quarterback-to-undergo-thumb-surgery-in-fresh-injury-setback",
+      "image": null
+    },
+    {
+      "id": "story-14",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "Sky Sports",
+      "time": "Nov 1",
+      "headline": "Hamilton collides with Verstappen in DRAMATIC race restart!",
+      "excerpt": "Lewis Hamilton overtook Ferrari team-mate Charles Leclerc before colliding with Max Verstappen as they battled…",
+      "link": "https://www.skysports.com/watch/video/13606842/mexico-city-gp-lewis-hamilton-collides-with-max-verstappen-in-dramatic-race-restart",
+      "image": null
+    },
+    {
+      "id": "story-15",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "talkSPORT",
+      "time": "Nov 1",
+      "headline": "Floyd Mayweather announces surprise ‘tune up’ fight before Ryan Garcia showdown",
+      "excerpt": "",
+      "link": "https://talksport.com/boxing/4681424/floyd-mayweather-fight-announcement-ryan-garcia/",
+      "image": null
+    },
+    {
+      "id": "story-16",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "The Guardian",
+      "time": "Nov 1",
+      "headline": "‘We have to tell them to go down’: Iraola responds to Isak penalty denial for Liverpool",
+      "excerpt": "<ul><li><p>Manager rues two dismissed penalty claims by referee</p></li><li><p>Iraola complains ‘if you don’t go down, you…",
+      "link": "https://www.theguardian.com/football/2026/nov/01/andoni-iraola-responds-liverpool-penalty-denial-arsenal-premier-league",
+      "image": "https://i.guim.co.uk/img/media/07786fdd562259c981fdcc0c5435978dee703bd7/546_0_4200_3360/master/4200.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3262c50888fb56a7d7f001bab322eb54"
+    },
+    {
+      "id": "story-17",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "The Guardian",
+      "time": "Nov 1",
+      "headline": "Liverpool’s work in progress fizzles out in the face of streetwise champions | Andy Hunter",
+      "excerpt": "<p>Afternoon began with talk of a title bid, but Arsenal looked more and more comfortable…",
+      "link": "https://www.theguardian.com/football/2026/nov/01/liverpool-work-in-progress-fizzles-out-arsenal-premier-league",
+      "image": "https://i.guim.co.uk/img/media/e038274b58225b8bf76c939759dcc867b7ebab9e/412_106_2528_2023/master/2528.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ede9ed4073021e960426585bef98085a"
+    },
+    {
+      "id": "story-18",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "Sky Sports",
+      "time": "Nov 1",
+      "headline": "'That is a hefty impact!' - Bottas has huge crash after suspension failure",
+      "excerpt": "Valtteri Bottas suffered a suspension failure in his Cadillac as he crashed heavily into the…",
+      "link": "https://www.skysports.com/watch/video/13606826/mexico-city-gp-valtteri-bottas-has-huge-crash-after-suspension-failure",
+      "image": null
+    },
+    {
+      "id": "story-19",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "BBC Sport",
+      "time": "Nov 1",
+      "headline": "I'll tell my players to dive in future - Iraola",
+      "excerpt": "Andoni Iraola says that he will tell his players to go down in future after…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cvp8grpjk4leo?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/afa9/live/8fe2aac0-d63a-11f1-8c46-b5027fa7bde9.jpg"
+    },
+    {
+      "id": "story-20",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "BBC Sport",
+      "time": "Nov 1",
+      "headline": "Warnock hid seizures from Liverpool as a youngster",
+      "excerpt": "Former Premier League footballer Stephen Warnock says he hid seizures from Liverpool as a youngster…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c6rry8pxwkdpo?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/849b/live/b532dde0-d630-11f1-b862-ff7106b70f88.jpg"
+    },
+    {
+      "id": "story-21",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -35,7 +244,7 @@
       "image": "https://i.guim.co.uk/img/media/ce342d2b9a48ac5bc6381edc59e4ab91878e7da6/671_284_2235_1788/master/2235.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e38d14cb278424e0016e4e6b57e8bdae"
     },
     {
-      "id": "story-3",
+      "id": "story-22",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -46,227 +255,48 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fbd8/live/473d6620-d62b-11f1-b085-b9e65bc8bfff.jpg"
     },
     {
-      "id": "story-4",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "BBC Sport",
-      "time": "Nov 1",
-      "headline": "Boy, 14, hands himself into police over Bradley Lowery video",
-      "excerpt": "A 14-year-old has handed himself into West Midlands Police after Coventry City said they were…",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c6z7x52w0r0zo?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9407/live/2d7783d0-d624-11f1-8c22-ab38856653ce.jpg"
-    },
-    {
-      "id": "story-5",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "Sky Sports",
-      "time": "Nov 1",
-      "headline": "CHAOS on opening lap as Leclerc gets five-second penalty after overtaking Hamilton for lead",
-      "excerpt": "Relive a dramatic opening lap as Ferrari's Charles Leclerc was given a five-second penalty after…",
-      "link": "https://www.skysports.com/watch/video/13606813/mexico-city-gp-chaos-on-opening-lap-as-charles-leclerc-battles-past-team-mate-lewis-hamilton-to-lead",
-      "image": null
-    },
-    {
-      "id": "story-6",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "talkSPORT",
-      "time": "Nov 1",
-      "headline": "Lisandro Martinez red card was &#8216;mutinous&#8217; as call made for him to never play for Man United again",
-      "excerpt": "",
-      "link": "https://talksport.com/football/4681112/lisandro-martinez-red-card-man-utd-chelsea-premier-league/",
-      "image": null
-    },
-    {
-      "id": "story-7",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "Sky Sports",
-      "time": "Nov 1",
-      "headline": "Isak non-penalty and Madueke-Mac Allister 'headbutt' show good and bad of VAR",
-      "excerpt": "There were two big flashpoints points during Arsenal's 1-0 win over Liverpool, demonstrating the good…",
-      "link": "https://www.skysports.com/football/news/12040/13606793/liverpool-0-1-arsenal-alexander-isak-jurrien-timber-shirt-pull-and-noni-madueke-alexis-mac-allister-headbutt-show-good-and-bad-sides-of-var",
-      "image": null
-    },
-    {
-      "id": "story-8",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "BBC Sport",
-      "time": "Nov 1",
-      "headline": "Arsenal move clear at the top with a rare win at Liverpool",
-      "excerpt": "Arsenal win at Anfield for the first time since 2012 to earn a three-point lead…",
-      "link": "https://www.bbc.co.uk/sport/football/videos/cmly09yv9xl6o?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/035d/live/adb0c650-d62a-11f1-a701-fddedf244c16.jpg"
-    },
-    {
-      "id": "story-9",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "talkSPORT",
-      "time": "Nov 1",
-      "headline": "14-year-old hands himself into police over sickening Bradley Lowery taunt",
-      "excerpt": "",
-      "link": "https://talksport.com/football/4681324/bradley-lowery-taunt-sunderland-coventry-premier-league-police/",
-      "image": null
-    },
-    {
-      "id": "story-10",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "BBC Sport",
-      "time": "Nov 1",
-      "headline": "Watch: Falkirk v Celtic highlights on Sportscene",
-      "excerpt": "Extended highlights of Falkirk v Celtic, and a look back at Saturday's action.",
-      "link": "https://www.bbc.co.uk/iplayer/episode/m0033wbj?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0pkrcp5.jpg"
-    },
-    {
-      "id": "story-11",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "Sky Sports",
-      "time": "Nov 1",
-      "headline": "Falkirk shock Celtic to earn first win over Hoops in 19 years",
-      "excerpt": "Highlights of the Scottish Premiership match between Falkirk and Celtic.",
-      "link": "https://www.skysports.com/watch/video/13606683/falkirk-2-0-celtic-scottish-premiership-highlights",
-      "image": null
-    },
-    {
-      "id": "story-12",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "101 Great Goals",
-      "time": "Nov 1",
-      "headline": "Rice hails Arsenal&#8217;s &#8216;undefeated togetherness&#8217; as Liverpool fume over penalty claims",
-      "excerpt": "Arsenal's first win at Anfield since 2012 came with some controversy.",
-      "link": "https://www.101greatgoals.com/football/premier-league/rice-hails-arsenal-undefeated-togetherness-as-liverpool-fume-over-penalty-claims/",
-      "image": null
-    },
-    {
-      "id": "story-13",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "talkSPORT",
-      "time": "Nov 1",
-      "headline": "Ole Gunnar Solskjaer coaching at fifth division club after missing out on Man United job",
-      "excerpt": "",
-      "link": "https://talksport.com/football/4681241/ole-gunnar-solskjaer-coaching-job-man-utd/",
-      "image": null
-    },
-    {
-      "id": "story-14",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "BBC Sport",
-      "time": "Nov 1",
-      "headline": "'Everyone saw it' - Iraola confused by Isak penalty decision",
-      "excerpt": "Liverpool manager Andoni Iraola reacts to his side's defeat at home to league leaders Arsenal,…",
-      "link": "https://www.bbc.co.uk/sport/football/videos/cjdx3dpvevngo?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f434/live/50cc1ac0-d62a-11f1-93e1-3b657b665bcf.jpg"
-    },
-    {
-      "id": "story-15",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "BBC Sport",
-      "time": "Nov 1",
-      "headline": "Arteta credits Fleetwood loss for spirited win at Anfield",
-      "excerpt": "Arsenal manager Mikel Arteta believes their loss in the League Cup by Fleetwood spurred his…",
-      "link": "https://www.bbc.co.uk/sport/football/videos/cx2d2yxv84zo?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/469c/live/6fee0580-d625-11f1-93e1-3b657b665bcf.jpg"
-    },
-    {
-      "id": "story-16",
-      "league": "Champions League",
-      "dot": "#F0C878",
-      "source": "101 Great Goals",
-      "time": "Nov 1",
-      "headline": "Pakhtakor v Al-Nassr: Preview, expected line-ups and stats as Ronaldo sits out AFC Champions League clash",
-      "excerpt": "Ronaldo is being rested amid Al-Nassr's busy schedule.",
-      "link": "https://www.101greatgoals.com/match-previews/pakhtakor-v-al-nassr-line-ups-stats/",
-      "image": null
-    },
-    {
-      "id": "story-17",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "Sky Sports",
-      "time": "Nov 1",
-      "headline": "Sale secures Grand Final title and Brown crowned Road to Mallorca No 1",
-      "excerpt": "Julien Sale produced a dominant final round to secure victory at the HotelPlanner Tour&#8217;s Grand…",
-      "link": "https://www.skysports.com/golf/news/12040/13606705/hotelplanner-tour-grand-final-julien-sale-secures-title-hamish-brown-crowned-road-to-mallorca-no-1-and-dp-world-tour-cards-confirmed",
-      "image": null
-    },
-    {
-      "id": "story-18",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "BBC Sport",
-      "time": "Nov 1",
-      "headline": "Giant curiosity Hibs finally liberated from Hearts sucker punch",
-      "excerpt": "Hibernian, for once, avoid late heartbreak to set up League Cup final with Rangers, writes…",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cxr5yjpnd31eo?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/70d1/live/12fd5df0-d623-11f1-8b43-9d133992838c.jpg"
-    },
-    {
-      "id": "story-19",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "BBC Sport",
-      "time": "Nov 1",
-      "headline": "Giant curiosity Hibs finally liberated from the sucker punch",
-      "excerpt": "Hibernian, for once, avoid late heartbreak to set up League Cup final with Rangers, writes…",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cxr5yjpnd31eo?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/70d1/live/12fd5df0-d623-11f1-8b43-9d133992838c.jpg"
-    },
-    {
-      "id": "story-20",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "The Guardian",
-      "time": "Nov 1",
-      "headline": "Arsenal hold on for first league win at Liverpool since 2012 after Kai Havertz pounces early",
-      "excerpt": "<p>It was a game when Arsenal showed their ruthless side and all of the champion…",
-      "link": "https://www.theguardian.com/football/2026/nov/01/liverpool-arsenal-premier-league-match-report",
-      "image": "https://i.guim.co.uk/img/media/d102428e00591513f6c600276e6bb4d298a610bb/638_0_4247_3398/master/4247.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=136312d5accd482da3a93915e700b8a9"
-    },
-    {
-      "id": "story-21",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "BBC Sport",
-      "time": "Nov 1",
-      "headline": "Rice rewarded, Wirtz must do more - Liverpool and Arsenal player ratings",
-      "excerpt": "How Liverpool and Arsenal's players rated in their Premier League match at Anfield, as the…",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cqj9kgyww478o?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6ebf/live/c61a5450-d62e-11f1-b441-2b33b063138f.png"
-    },
-    {
-      "id": "story-22",
-      "league": "La Liga",
-      "dot": "#E3B4F5",
-      "source": "BBC Sport",
-      "time": "Nov 1",
-      "headline": "Bellingham & Mbappe score as Real Madrid earn statement win",
-      "excerpt": "Kylian Mbappe, Jude Bellingham and Yan Diomande score as Real Madrid cruise to a 3-0…",
-      "link": "https://www.bbc.co.uk/sport/football/videos/cv0ldye7k4g3o?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9010/live/2011c5a0-d61c-11f1-a701-fddedf244c16.jpg"
-    },
-    {
       "id": "story-23",
       "league": "Premier League",
       "dot": "#9CC0F0",
-      "source": "Sky Sports",
+      "source": "BBC Sport",
       "time": "Nov 1",
-      "headline": "Arsenal triumphant in long-awaited Anfield victory",
-      "excerpt": "FREE TO WATCH: Highlights from the Premier League match between Liverpool and Arsenal.",
-      "link": "https://www.skysports.com/watch/video/13606781/liverpool-0-1-arsenal-premier-league-highlights",
-      "image": null
+      "headline": "Boy, 14, hands himself in to police over Bradley Lowery video",
+      "excerpt": "A 14-year-old has handed himself into West Midlands Police after Coventry City said they were…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c6z7x52w0r0zo?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9407/live/2d7783d0-d624-11f1-8c22-ab38856653ce.jpg"
     }
   ],
   "scoreboard": [
+    {
+      "id": "score-564729",
+      "league": "La Liga",
+      "dot": "#E3B4F5",
+      "time": "Nov 1",
+      "home": "Athletic Club",
+      "away": "Real Sociedad de Fútbol",
+      "homeScore": 2,
+      "awayScore": 1
+    },
+    {
+      "id": "score-558547",
+      "league": "Serie A",
+      "dot": "#A9E6A0",
+      "time": "Nov 1",
+      "home": "Juventus FC",
+      "away": "SSC Napoli",
+      "homeScore": 2,
+      "awayScore": 0
+    },
+    {
+      "id": "score-559645",
+      "league": "Ligue 1",
+      "dot": "#B8D4E8",
+      "time": "Nov 1",
+      "home": "Olympique de Marseille",
+      "away": "Toulouse FC",
+      "homeScore": 2,
+      "awayScore": 0
+    },
     {
       "id": "score-564728",
       "league": "La Liga",
@@ -295,36 +325,6 @@
       "home": "Liverpool FC",
       "away": "Arsenal FC",
       "homeScore": 0,
-      "awayScore": 1
-    },
-    {
-      "id": "score-565844",
-      "league": "Bundesliga",
-      "dot": "#FFC469",
-      "time": "Nov 1",
-      "home": "Eintracht Frankfurt",
-      "away": "Hamburger SV",
-      "homeScore": 3,
-      "awayScore": 1
-    },
-    {
-      "id": "score-559640",
-      "league": "Ligue 1",
-      "dot": "#B8D4E8",
-      "time": "Nov 1",
-      "home": "Olympique Lyonnais",
-      "away": "Angers SCO",
-      "homeScore": 2,
-      "awayScore": 0
-    },
-    {
-      "id": "score-559642",
-      "league": "Ligue 1",
-      "dot": "#B8D4E8",
-      "time": "Nov 1",
-      "home": "Paris FC",
-      "away": "AS Monaco FC",
-      "homeScore": 3,
       "awayScore": 1
     }
   ]
