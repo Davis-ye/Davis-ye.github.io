@@ -1,19 +1,63 @@
 {
-  "updatedAt": "2026-11-01T23:52:33.276Z",
+  "updatedAt": "2026-11-02T02:49:17.399Z",
   "hero": {
     "id": "story-0",
     "league": "Premier League",
     "dot": "#9CC0F0",
-    "source": "talkSPORT",
-    "time": "Nov 1",
-    "headline": "Arsenal&#8217;s statement win over Liverpool is massive, it&#8217;s a one-horse title race",
-    "excerpt": "",
-    "link": "https://talksport.com/football/4681454/arsenal-liverpool-premier-league-title-race/",
-    "image": null
+    "source": "BBC Sport",
+    "time": "Nov 2",
+    "headline": "Rice is a rounded midfielder, but could be more selfish - Murphy",
+    "excerpt": "BBC Sport's Kelly Cates and Micah Richards discuss how rounded Declan Rice has become in…",
+    "link": "https://www.bbc.co.uk/sport/football/videos/ck9dz227v751o?at_medium=RSS&amp;at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0f15/live/59dd6000-d63f-11f1-93e1-3b657b665bcf.jpg"
   },
   "topStories": [
     {
       "id": "story-1",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "BBC Sport",
+      "time": "Nov 2",
+      "headline": "'He's been fantastic' - how Konsa has fitted in seamlessly at Arsenal",
+      "excerpt": "BBC Sport's Kelly Cates, Danny Murphy and Micah Richards analyse how good Ezri Konsa has…",
+      "link": "https://www.bbc.co.uk/sport/football/videos/cmwy4000q97ro?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3de5/live/bf9d3990-d63c-11f1-93e1-3b657b665bcf.jpg"
+    },
+    {
+      "id": "story-2",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "BBC Sport",
+      "time": "Nov 2",
+      "headline": "Were Arsenal 'lucky' not to concede penalty at Liverpool?",
+      "excerpt": "BBC Sport's Kelly Cates, Danny Murphy and Micah Richards discuss Liverpool's denied penalty claim for…",
+      "link": "https://www.bbc.co.uk/sport/football/videos/cw7vpy99y606o?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6cdf/live/7301a9f0-d62c-11f1-a701-fddedf244c16.jpg"
+    },
+    {
+      "id": "story-3",
+      "league": "La Liga",
+      "dot": "#E3B4F5",
+      "source": "The Guardian",
+      "time": "Nov 1",
+      "headline": "European football: Mbappé penalty helps Real Madrid stroll to sixth straight win",
+      "excerpt": "<ul><li><p>Bellingham and Diomandé complete 3-0 win over Racing</p></li><li><p>Lazio top Serie A after fighting back to…",
+      "link": "https://www.theguardian.com/football/2026/nov/01/european-football-real-madrid-lazio-juventus-napoli-kylian-mbappe",
+      "image": "https://i.guim.co.uk/img/media/67ed78edc563a3512b694f044f0b7a319dd546eb/450_0_3541_2834/master/3541.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f54a5699402db1a8b4012fd4749e84b5"
+    },
+    {
+      "id": "story-4",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "talkSPORT",
+      "time": "Nov 1",
+      "headline": "Arsenal&#8217;s statement win over Liverpool is massive, it&#8217;s a one-horse title race",
+      "excerpt": "",
+      "link": "https://talksport.com/football/4681454/arsenal-liverpool-premier-league-title-race/",
+      "image": null
+    },
+    {
+      "id": "story-5",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "Sky Sports",
@@ -24,7 +68,7 @@
       "image": null
     },
     {
-      "id": "story-2",
+      "id": "story-6",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -35,7 +79,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/97eb/live/0cb45b70-d645-11f1-be49-c7d51bdcf05a.png"
     },
     {
-      "id": "story-3",
+      "id": "story-7",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "Sky Sports",
@@ -46,7 +90,7 @@
       "image": null
     },
     {
-      "id": "story-4",
+      "id": "story-8",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "101 Great Goals",
@@ -57,7 +101,7 @@
       "image": null
     },
     {
-      "id": "story-5",
+      "id": "story-9",
       "league": "Serie A",
       "dot": "#A9E6A0",
       "source": "101 Great Goals",
@@ -68,7 +112,7 @@
       "image": null
     },
     {
-      "id": "story-6",
+      "id": "story-10",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -79,7 +123,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4707/live/d5373530-d632-11f1-b441-2b33b063138f.jpg"
     },
     {
-      "id": "story-7",
+      "id": "story-11",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "Sky Sports",
@@ -90,7 +134,7 @@
       "image": null
     },
     {
-      "id": "story-8",
+      "id": "story-12",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "talkSPORT",
@@ -101,7 +145,7 @@
       "image": null
     },
     {
-      "id": "story-9",
+      "id": "story-13",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "Sky Sports",
@@ -112,7 +156,7 @@
       "image": null
     },
     {
-      "id": "story-10",
+      "id": "story-14",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "Sky Sports",
@@ -123,7 +167,7 @@
       "image": null
     },
     {
-      "id": "story-11",
+      "id": "story-15",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "Sky Sports",
@@ -134,7 +178,7 @@
       "image": null
     },
     {
-      "id": "story-12",
+      "id": "story-16",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "101 Great Goals",
@@ -145,7 +189,7 @@
       "image": null
     },
     {
-      "id": "story-13",
+      "id": "story-17",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "Sky Sports",
@@ -156,7 +200,7 @@
       "image": null
     },
     {
-      "id": "story-14",
+      "id": "story-18",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "Sky Sports",
@@ -167,7 +211,7 @@
       "image": null
     },
     {
-      "id": "story-15",
+      "id": "story-19",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "talkSPORT",
@@ -178,7 +222,7 @@
       "image": null
     },
     {
-      "id": "story-16",
+      "id": "story-20",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -189,7 +233,7 @@
       "image": "https://i.guim.co.uk/img/media/07786fdd562259c981fdcc0c5435978dee703bd7/546_0_4200_3360/master/4200.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3262c50888fb56a7d7f001bab322eb54"
     },
     {
-      "id": "story-17",
+      "id": "story-21",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -200,7 +244,7 @@
       "image": "https://i.guim.co.uk/img/media/e038274b58225b8bf76c939759dcc867b7ebab9e/412_106_2528_2023/master/2528.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ede9ed4073021e960426585bef98085a"
     },
     {
-      "id": "story-18",
+      "id": "story-22",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "Sky Sports",
@@ -211,7 +255,7 @@
       "image": null
     },
     {
-      "id": "story-19",
+      "id": "story-23",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -220,50 +264,6 @@
       "excerpt": "Andoni Iraola says that he will tell his players to go down in future after…",
       "link": "https://www.bbc.co.uk/sport/football/articles/cvp8grpjk4leo?at_medium=RSS&amp;at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/afa9/live/8fe2aac0-d63a-11f1-8c46-b5027fa7bde9.jpg"
-    },
-    {
-      "id": "story-20",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "BBC Sport",
-      "time": "Nov 1",
-      "headline": "Warnock hid seizures from Liverpool as a youngster",
-      "excerpt": "Former Premier League footballer Stephen Warnock says he hid seizures from Liverpool as a youngster…",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c6rry8pxwkdpo?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/849b/live/b532dde0-d630-11f1-b862-ff7106b70f88.jpg"
-    },
-    {
-      "id": "story-21",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "The Guardian",
-      "time": "Nov 1",
-      "headline": "WSL roundup: Arsenal stall despite Russo strike; Chelsea’s James suffers injury",
-      "excerpt": "<ul><li><p>Arsenal salvage late 1-1 draw at home against Aston Villa</p></li><li><p>Chelsea beat Charlton 6-0 but England…",
-      "link": "https://www.theguardian.com/football/2026/nov/01/wsl-roundup-arsenal-aston-villa-alessia-russo-renee-slegers",
-      "image": "https://i.guim.co.uk/img/media/ce342d2b9a48ac5bc6381edc59e4ab91878e7da6/671_284_2235_1788/master/2235.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e38d14cb278424e0016e4e6b57e8bdae"
-    },
-    {
-      "id": "story-22",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "BBC Sport",
-      "time": "Nov 1",
-      "headline": "From Fleetwood embarrassment to 'magical' Anfield win 14 years in making",
-      "excerpt": "Arsenal bounce back from the low of defeat at League Two Fleetwood to secure their…",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c39wz2epven4o?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/fbd8/live/473d6620-d62b-11f1-b085-b9e65bc8bfff.jpg"
-    },
-    {
-      "id": "story-23",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "BBC Sport",
-      "time": "Nov 1",
-      "headline": "Boy, 14, hands himself in to police over Bradley Lowery video",
-      "excerpt": "A 14-year-old has handed himself into West Midlands Police after Coventry City said they were…",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c6z7x52w0r0zo?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9407/live/2d7783d0-d624-11f1-8c22-ab38856653ce.jpg"
     }
   ],
   "scoreboard": [
