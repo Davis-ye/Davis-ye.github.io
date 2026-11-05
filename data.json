@@ -1,19 +1,96 @@
 {
-  "updatedAt": "2026-11-04T22:47:26.623Z",
+  "updatedAt": "2026-11-05T02:51:35.638Z",
   "hero": {
     "id": "story-0",
-    "league": "Premier League",
-    "dot": "#9CC0F0",
-    "source": "BBC Sport",
+    "league": "Champions League",
+    "dot": "#F0C878",
+    "source": "101 Great Goals",
     "time": "Nov 4",
-    "headline": "Another 'miracle' in Istanbul - but this one hurt Liverpool",
-    "excerpt": "Liverpool conceded \"cheap\" and \"messy\" goals in their defeat by Fenerbahce, says boss Andoni Iraola,…",
-    "link": "https://www.bbc.co.uk/sport/football/articles/cwx28z712rd8o?at_medium=RSS&amp;at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0e28/live/96dc9ad0-d896-11f1-bffe-b94c467713ac.jpg"
+    "headline": "Como make Champions League history with remarkable Lens rout",
+    "excerpt": "Cesc Fabregas' men became only the second team to score nine in a Champions League…",
+    "link": "https://www.101greatgoals.com/football/champions-league/como-make-champions-league-history-with-remarkable-lens-rout/",
+    "image": "https://www.101greatgoals.com/wp-content/uploads/2026/11/3G1DDJC-2.jpg"
   },
   "topStories": [
     {
       "id": "story-1",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "BBC Sport",
+      "time": "Nov 4",
+      "headline": "World record 51 red cards shown in Brazilian youth game",
+      "excerpt": "A world record of 43 players and eight members of staff were sent off during…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cmy0rz7741ywo?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2ba3/live/0108aa50-d8a3-11f1-9765-23c244b34f98.png"
+    },
+    {
+      "id": "story-2",
+      "league": "Champions League",
+      "dot": "#F0C878",
+      "source": "talkSPORT",
+      "time": "Nov 4",
+      "headline": "Como make Champions League era history with incredible nine-goal mauling",
+      "excerpt": "",
+      "link": "https://talksport.com/football/4688683/como-champions-league-history-nine-goals/",
+      "image": null
+    },
+    {
+      "id": "story-3",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "BBC Sport",
+      "time": "Nov 4",
+      "headline": "Scotland U21 boss hails Donovan, Miller and Wilson attitude",
+      "excerpt": "Under-21s head coach Tony Docherty is delighted with the buy-in from the three players who…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/ckyvrzgl9dqgo?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/448d/live/a1e6d8a0-d8a5-11f1-93e1-3b657b665bcf.png"
+    },
+    {
+      "id": "story-4",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "talkSPORT",
+      "time": "Nov 4",
+      "headline": "Gianluigi Donnarumma is a Poundland James Trafford and Man City&#8217;s dynasty will end unless they fix these problems",
+      "excerpt": "",
+      "link": "https://talksport.com/football/4688700/man-city-gianluigi-donnarumma-poundland-end-dynasty-problems/",
+      "image": null
+    },
+    {
+      "id": "story-5",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "The Guardian",
+      "time": "Nov 4",
+      "headline": "Champions League: Como clobber Lens 9-1 after Real Madrid roar back to deny AEK Athens",
+      "excerpt": "<ul><li><p>Valverde hits late winner as Madrid win 3-2 in Athens</p></li><li><p>Napoli thrashed by Porto, Club Brugge…",
+      "link": "https://www.theguardian.com/football/2026/nov/04/champions-league-roundup-aek-athens-real-madrid-borussia-dortmund-napoli",
+      "image": "https://i.guim.co.uk/img/media/027d21edc7a52d5cde03b57e8ae12d8c5ed98b92/190_0_3579_2863/master/3579.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=91e01abd8ee77b1ac125144401e3f922"
+    },
+    {
+      "id": "story-6",
+      "league": "Champions League",
+      "dot": "#F0C878",
+      "source": "BBC Sport",
+      "time": "Nov 4",
+      "headline": "Como score nine to make Champions League history",
+      "excerpt": "Anastasios Douvikas scores a hat-trick as Como produce a stunning 9-1 away win over Lens…",
+      "link": "https://www.bbc.co.uk/sport/football/videos/c6wyr8gzzr1zo?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e11f/live/fb34e230-d8a0-11f1-93e1-3b657b665bcf.jpg"
+    },
+    {
+      "id": "story-7",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "BBC Sport",
+      "time": "Nov 4",
+      "headline": "Another 'miracle' in Istanbul - but this one hurt Liverpool",
+      "excerpt": "Liverpool conceded \"cheap\" and \"messy\" goals in their defeat by Fenerbahce, says boss Andoni Iraola,…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cwx28z712rd8o?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0e28/live/96dc9ad0-d896-11f1-bffe-b94c467713ac.jpg"
+    },
+    {
+      "id": "story-8",
       "league": "La Liga",
       "dot": "#E3B4F5",
       "source": "BBC Sport",
@@ -24,7 +101,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/02a4/live/798d45d0-d89e-11f1-b441-2b33b063138f.jpg"
     },
     {
-      "id": "story-2",
+      "id": "story-9",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -35,7 +112,7 @@
       "image": "https://i.guim.co.uk/img/media/7eb9c49fcd7ea4b6441295d1fd73c69dd9cb004c/471_0_4872_3898/master/4872.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3d1dde05ddbe88cd576e0af8aa96a9e9"
     },
     {
-      "id": "story-3",
+      "id": "story-10",
       "league": "Serie A",
       "dot": "#A9E6A0",
       "source": "BBC Sport",
@@ -46,7 +123,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/bdbc/live/899dbd30-d89c-11f1-b441-2b33b063138f.jpg"
     },
     {
-      "id": "story-4",
+      "id": "story-11",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -57,7 +134,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f703/live/769378b0-d89c-11f1-b441-2b33b063138f.jpg"
     },
     {
-      "id": "story-5",
+      "id": "story-12",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "101 Great Goals",
@@ -68,7 +145,7 @@
       "image": null
     },
     {
-      "id": "story-6",
+      "id": "story-13",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -79,29 +156,29 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7297/live/bfc6bfc0-d89b-11f1-b441-2b33b063138f.jpg"
     },
     {
-      "id": "story-7",
+      "id": "story-14",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
       "time": "Nov 4",
       "headline": "Viktor Gyökeres the difference as Arsenal claim nervy win against Slavia Prague",
-      "excerpt": "<p>Another away day, another victory for Arsenal. This time, the much-maligned Viktor Gyökeres stole the…",
+      "excerpt": "<p>Another European away day, another victory for Arsenal: albeit only just. This time, Viktor Gyökeres…",
       "link": "https://www.theguardian.com/football/2026/nov/04/slavia-prague-arsenal-champions-league-match-report",
       "image": "https://i.guim.co.uk/img/media/c3aab73d6830365fdfe8bda9844fd83484bf6002/243_0_2845_2276/master/2845.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=d41f301b351c181e8ce762c0346d1e77"
     },
     {
-      "id": "story-8",
+      "id": "story-15",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
       "time": "Nov 4",
       "headline": "Erling Haaland settles thriller for Manchester City to end RB Leipzig resistance",
-      "excerpt": "<p>Feed Erling Haaland and Manchester City’s totemic No 9 will score. The problem, recently has…",
+      "excerpt": "<p>Feed Erling Haaland and Manchester City’s totemic No 9 will score. The problem, recently, has…",
       "link": "https://www.theguardian.com/football/2026/nov/04/rb-leipzig-manchester-city-champions-league-match-report",
       "image": "https://i.guim.co.uk/img/media/40954e5df83e41e26fe7e44a562612ee3d27e3cc/262_0_2717_2175/master/2717.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=4123db1f8b5c657399df6c97241554b4"
     },
     {
-      "id": "story-9",
+      "id": "story-16",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -112,7 +189,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/42bc/live/f62b49e0-d888-11f1-b441-2b33b063138f.jpg"
     },
     {
-      "id": "story-10",
+      "id": "story-17",
       "league": "La Liga",
       "dot": "#E3B4F5",
       "source": "BBC Sport",
@@ -123,7 +200,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/59d7/live/94a0f1c0-d88d-11f1-a701-fddedf244c16.jpg"
     },
     {
-      "id": "story-11",
+      "id": "story-18",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -134,7 +211,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f345/live/60f9ebf0-d7da-11f1-b441-2b33b063138f.jpg"
     },
     {
-      "id": "story-12",
+      "id": "story-19",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -145,7 +222,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1c3f/live/88cfd0d0-d7d6-11f1-b441-2b33b063138f.jpg"
     },
     {
-      "id": "story-13",
+      "id": "story-20",
       "league": "La Liga",
       "dot": "#E3B4F5",
       "source": "BBC Sport",
@@ -156,7 +233,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/b194/live/26e1d1b0-d7d7-11f1-a701-fddedf244c16.jpg"
     },
     {
-      "id": "story-14",
+      "id": "story-21",
       "league": "Serie A",
       "dot": "#A9E6A0",
       "source": "BBC Sport",
@@ -167,18 +244,18 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/af89/live/c5028650-d7dc-11f1-a701-fddedf244c16.jpg"
     },
     {
-      "id": "story-15",
+      "id": "story-22",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "Sky Sports",
       "time": "Nov 4",
-      "headline": "Arsenal survive second-half scare to beat Slavia Prague",
-      "excerpt": "Arsenal held off a second-half fightback from Slavia Prague to win 2-1 at the Fortuna…",
+      "headline": "'Sloppy' Arsenal survive second-half scare to beat Slavia Prague",
+      "excerpt": "Arsenal survived a second-half fightback from Slavia Prague to win 2-1 at the Fortuna Arena…",
       "link": "https://www.skysports.com/football/slavia-prague-vs-arsenal/report/577667",
       "image": null
     },
     {
-      "id": "story-16",
+      "id": "story-23",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "Sky Sports",
@@ -186,83 +263,6 @@
       "headline": "Haaland nets Man City winner to haunt RB Leipzig again",
       "excerpt": "Erling Haaland haunted RB Leipzig again to earn Manchester City a thrilling 3-2 victory in…",
       "link": "https://www.skysports.com/football/rb-leipzig-vs-manchester-city/report/577666",
-      "image": null
-    },
-    {
-      "id": "story-17",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "101 Great Goals",
-      "time": "Nov 4",
-      "headline": "Slavia Prague 1-2 Arsenal: Madueke and Gyokeres fire Gunners to routine win",
-      "excerpt": "The Gunners remain unbeaten in the league phase.",
-      "link": "https://www.101greatgoals.com/football/champions-league/slavia-prague-arsenal-madueke-gyokeres/",
-      "image": null
-    },
-    {
-      "id": "story-18",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "talkSPORT",
-      "time": "Nov 4",
-      "headline": "West Ham produce heroic comeback after Scott Parker&#8217;s ruthless decision on £21m star",
-      "excerpt": "",
-      "link": "https://talksport.com/football/4688568/west-ham-comeback-scott-parker-ruthless-decision/",
-      "image": null
-    },
-    {
-      "id": "story-19",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "talkSPORT",
-      "time": "Nov 4",
-      "headline": "LIV Golf on the brink of total collapse as $300m investor abandons rescue bid",
-      "excerpt": "",
-      "link": "https://talksport.com/golf/4688590/liv-golf-collapse-liquidation-bc-partners-withdraw-bid/",
-      "image": null
-    },
-    {
-      "id": "story-20",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "BBC Sport",
-      "time": "Nov 4",
-      "headline": "Emery in line for new Villa deal - Thursday's gossip",
-      "excerpt": "Manager Unai Emery is in line for a new contract with Aston Villa, Trey Nyoni…",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cwkgjv582vj0o?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9208/live/3a26e3f0-d895-11f1-bffe-b94c467713ac.png"
-    },
-    {
-      "id": "story-21",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "Sky Sports",
-      "time": "Nov 4",
-      "headline": "Wolves hit back to beat Bristol City after late Neave double",
-      "excerpt": "Substitute Sean Neave scored a late brace as Wolves came from behind to secure a…",
-      "link": "https://www.skysports.com/football/bristol-city-vs-wolverhampton-wanderers/report/560662",
-      "image": null
-    },
-    {
-      "id": "story-22",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "Sky Sports",
-      "time": "Nov 4",
-      "headline": "Boro struggle without Lankshear as Wrexham beat Championship leaders",
-      "excerpt": "Championship leaders Middlesbrough suffered only their second league defeat of the season as Wrexham eased…",
-      "link": "https://www.skysports.com/football/wrexham-vs-middlesbrough/report/560665",
-      "image": null
-    },
-    {
-      "id": "story-23",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "Sky Sports",
-      "time": "Nov 4",
-      "headline": "Oxford Utd 2-0 Reading",
-      "excerpt": "Substitutes Gatlin O'Donkor and Mo Missanga struck twice in eight minutes to earn Oxford a…",
-      "link": "https://www.skysports.com/football/oxford-united-vs-reading/report/561633",
       "image": null
     }
   ],
