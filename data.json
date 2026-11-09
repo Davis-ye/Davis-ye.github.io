@@ -1,19 +1,85 @@
 {
-  "updatedAt": "2026-11-08T22:59:23.017Z",
+  "updatedAt": "2026-11-09T02:24:59.308Z",
   "hero": {
     "id": "story-0",
-    "league": "Premier League",
-    "dot": "#9CC0F0",
-    "source": "talkSPORT",
-    "time": "Nov 8",
-    "headline": "Michael Carrick in frosty interview exchange as Manchester United boss questioned on future",
-    "excerpt": "",
-    "link": "https://talksport.com/football/4694142/michael-carrick-man-utd-future-interview/",
-    "image": null
+    "league": "Serie A",
+    "dot": "#A9E6A0",
+    "source": "101 Great Goals",
+    "time": "Nov 9",
+    "headline": "Lazio lead cut to a point as Inter bounce back from derby defeat",
+    "excerpt": "An intriguing Serie A title race took another early swing.",
+    "link": "https://www.101greatgoals.com/football/serie-a/lazio-lead-cut-to-a-point-as-inter-bounce-back-from-derby-defeat/",
+    "image": "https://www.101greatgoals.com/wp-content/uploads/2026/11/3G2AG7T-2.jpg"
   },
   "topStories": [
     {
       "id": "story-1",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "101 Great Goals",
+      "time": "Nov 9",
+      "headline": "Packers make statement by crushing Patriots, 49ers improve to 7-1 as Chiefs win after Mahomes scare",
+      "excerpt": "The Packers produced a performance that should send a message to the rest of the…",
+      "link": "https://www.101greatgoals.com/nfl/packers-make-statement-by-crushing-patriots-49ers-improve-to-7-1-as-chiefs-win-after-mahomes-scare/",
+      "image": null
+    },
+    {
+      "id": "story-2",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "BBC Sport",
+      "time": "Nov 8",
+      "headline": "Four 'huge mistakes' that show Man Utd's defensive problems",
+      "excerpt": "After Manchester United consed four preventable goal against Aston Villa in the Premier League Dion…",
+      "link": "https://www.bbc.co.uk/sport/football/videos/c64g1n1wezvyo?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a524/live/05c078e0-dbcb-11f1-93e1-3b657b665bcf.jpg"
+    },
+    {
+      "id": "story-3",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "BBC Sport",
+      "time": "Nov 8",
+      "headline": "Why defenders hate playing against brilliant Brobbey",
+      "excerpt": "Match of the Day's Dion Dublin breaks down the physical performance of Sunderland striker Brian…",
+      "link": "https://www.bbc.co.uk/sport/football/videos/c69qz8z2d3yqo?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/467d/live/c9a93670-dbcb-11f1-93e1-3b657b665bcf.jpg"
+    },
+    {
+      "id": "story-4",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "BBC Sport",
+      "time": "Nov 8",
+      "headline": "'A horrible place to be' - What's gone wrong for Palace?",
+      "excerpt": "Match of the Day's Dion Dublin and Leon Osman discuss the problems that have led…",
+      "link": "https://www.bbc.co.uk/sport/football/videos/cm62ypyydqg4o?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/3ede/live/d9895230-dbcd-11f1-b441-2b33b063138f.jpg"
+    },
+    {
+      "id": "story-5",
+      "league": "La Liga",
+      "dot": "#E3B4F5",
+      "source": "BBC Sport",
+      "time": "Nov 8",
+      "headline": "Barcelona fight back to beat Atleti as Fermin scores twice",
+      "excerpt": "Fermin Lopez scores twice as Barcelona come from behind to claim a gritty win over…",
+      "link": "https://www.bbc.co.uk/sport/football/videos/cx1l30319580o?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d549/live/c3231170-dbcd-11f1-93e1-3b657b665bcf.jpg"
+    },
+    {
+      "id": "story-6",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "talkSPORT",
+      "time": "Nov 8",
+      "headline": "Michael Carrick in frosty interview exchange as Manchester United boss questioned on future",
+      "excerpt": "",
+      "link": "https://talksport.com/football/4694142/michael-carrick-man-utd-future-interview/",
+      "image": null
+    },
+    {
+      "id": "story-7",
       "league": "La Liga",
       "dot": "#E3B4F5",
       "source": "The Guardian",
@@ -24,7 +90,7 @@
       "image": "https://i.guim.co.uk/img/media/baa4d23fb4d378861528148dfff1250ee9347c72/363_0_3430_2745/master/3430.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=493b128b63b176589bf333eb289dba85"
     },
     {
-      "id": "story-2",
+      "id": "story-8",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "Sky Sports",
@@ -35,7 +101,7 @@
       "image": null
     },
     {
-      "id": "story-3",
+      "id": "story-9",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "talkSPORT",
@@ -46,7 +112,7 @@
       "image": null
     },
     {
-      "id": "story-4",
+      "id": "story-10",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -57,7 +123,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/29a2/live/9f6069b0-dbb7-11f1-be74-51c499abf6a8.jpg"
     },
     {
-      "id": "story-5",
+      "id": "story-11",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -68,7 +134,7 @@
       "image": "https://i.guim.co.uk/img/media/1b38025050d4189522a619410f97e42dd75d68dd/706_319_6688_5351/master/6688.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=bd4018395e4475bb13701404ab9c038e"
     },
     {
-      "id": "story-6",
+      "id": "story-12",
       "league": "La Liga",
       "dot": "#E3B4F5",
       "source": "101 Great Goals",
@@ -79,7 +145,7 @@
       "image": null
     },
     {
-      "id": "story-7",
+      "id": "story-13",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -90,7 +156,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ae7f/live/bf7f5970-dbaf-11f1-b441-2b33b063138f.jpg"
     },
     {
-      "id": "story-8",
+      "id": "story-14",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "talkSPORT",
@@ -101,7 +167,7 @@
       "image": null
     },
     {
-      "id": "story-9",
+      "id": "story-15",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "Sky Sports",
@@ -112,7 +178,7 @@
       "image": null
     },
     {
-      "id": "story-10",
+      "id": "story-16",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "Sky Sports",
@@ -123,18 +189,18 @@
       "image": null
     },
     {
-      "id": "story-11",
+      "id": "story-17",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
       "time": "Nov 8",
-      "headline": "Bizarre & thrilling theatre as Carrick's Man Utd future still in limbo",
+      "headline": "Bizarre & thrilling theatre as Carrick in limbo with Man Utd in drop zone",
       "excerpt": "It was a Premier League classic at Old Trafford but what has Manchester United's 4-4…",
       "link": "https://www.bbc.co.uk/sport/football/articles/cked3qjw1q4xo?at_medium=RSS&amp;at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/dbf2/live/f5d8ac10-dbb4-11f1-b35d-8ff000e4934a.jpg"
     },
     {
-      "id": "story-12",
+      "id": "story-18",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "talkSPORT",
@@ -145,7 +211,18 @@
       "image": null
     },
     {
-      "id": "story-13",
+      "id": "story-19",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "The Guardian",
+      "time": "Nov 8",
+      "headline": "‘I expect to move forward’: Carrick denies risk of Manchester United sack",
+      "excerpt": "<ul><li><p>‘Is there?’ manager retorts when told of talk over position</p></li><li><p>Bizarre 4-4 draw with Villa leaves…",
+      "link": "https://www.theguardian.com/football/2026/nov/08/michael-carrick-denies-risk-manchester-united-sack-aston-villa-premier-league-draw",
+      "image": "https://i.guim.co.uk/img/media/c27dd1f07cfe7cfb51020df328157956b401d894/1172_0_2063_1651/master/2063.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=8032559e39280c9e006d5fed0132aa2d"
+    },
+    {
+      "id": "story-20",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "Sky Sports",
@@ -156,7 +233,7 @@
       "image": null
     },
     {
-      "id": "story-14",
+      "id": "story-21",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -167,7 +244,7 @@
       "image": "https://i.guim.co.uk/img/media/2f3976dfc936c6990baa1fe139ca8d0122187446/785_101_1063_850/master/1063.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f2ad0a1e0ad22139c01b55dae914c830"
     },
     {
-      "id": "story-15",
+      "id": "story-22",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "talkSPORT",
@@ -178,7 +255,7 @@
       "image": null
     },
     {
-      "id": "story-16",
+      "id": "story-23",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -187,83 +264,6 @@
       "excerpt": "Aston Villa midfielder Boubacar Kamara is on Chelsea's watchlist, Manchester United could make an offer…",
       "link": "https://www.bbc.co.uk/sport/football/articles/c8qlnqggwge0o?at_medium=RSS&amp;at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5ca1/live/18cc3840-dbb0-11f1-9047-0dde0754755b.png"
-    },
-    {
-      "id": "story-17",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "talkSPORT",
-      "time": "Nov 8",
-      "headline": "Unai Emery furiously stares down reporter in explosive chat after Aston Villa collapse",
-      "excerpt": "",
-      "link": "https://talksport.com/football/4693938/unai-emery-interview-aston-villa-man-utd/",
-      "image": null
-    },
-    {
-      "id": "story-18",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "Sky Sports",
-      "time": "Nov 8",
-      "headline": "Frank leading candidate for Palace job with Sage likely to be sacked",
-      "excerpt": "Thomas Frank has emerged as a leading candidate to take over as Crystal Palace manager…",
-      "link": "https://www.skysports.com/football/news/12040/13609990/thomas-frank-former-spurs-and-brentford-boss-leading-contender-to-take-over-at-crystal-palace-if-pierre-sage-is-sacked",
-      "image": null
-    },
-    {
-      "id": "story-19",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "BBC Sport",
-      "time": "Nov 8",
-      "headline": "Palace consider replacing Sage, with Frank among contenders",
-      "excerpt": "Crystal Palace manager Pierre Sage is in serious danger of losing his job, with Thomas…",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c623dpeey3e4o?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/82df/live/76bb35a0-dbb5-11f1-93e1-3b657b665bcf.jpg"
-    },
-    {
-      "id": "story-20",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "talkSPORT",
-      "time": "Nov 8",
-      "headline": "Derby game called off just an hour before kick-off as fans block team bus",
-      "excerpt": "",
-      "link": "https://talksport.com/football/4693412/vitesse-arnhem-de-graafschap-called-off-fans-chain-gates-block-bus/",
-      "image": null
-    },
-    {
-      "id": "story-21",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "BBC Sport",
-      "time": "Nov 8",
-      "headline": "Who has made Troy's Premier League team of the week?",
-      "excerpt": "After every round of Premier League matches this season, Troy Deeney gives us his team…",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cw98z7vdg546o?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8b69/live/01cb00f0-dbb9-11f1-86cb-c1d83392da32.png"
-    },
-    {
-      "id": "story-22",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "The Guardian",
-      "time": "Nov 8",
-      "headline": "FA Cup roundup: Seventh-tier Wimborne shock Crawley to reach second round",
-      "excerpt": "<ul><li><p>Grimsby and Stockport survive scares but Wednesday out</p></li><li><p>Exeter upset League One leaders Huddersfield</p></li></ul><p>Seventh-tier <strong>Wimborne</strong> heaped…",
-      "link": "https://www.theguardian.com/football/2026/nov/07/fa-cup-roundup-non-league-kidderminster-doncaster-exeter-huddersfield",
-      "image": "https://i.guim.co.uk/img/media/2c990ebb871871e96a08404f81431493fda8ea94/450_0_3614_2891/master/3614.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ad2b948bc69612f848dc8337ba240951"
-    },
-    {
-      "id": "story-23",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "Sky Sports",
-      "time": "Nov 8",
-      "headline": "NFL round-up: Mahomes overcomes injury to lead Chiefs to victory",
-      "excerpt": "",
-      "link": "https://www.skysports.com/nfl/live-blog/12040/13609973/nfl-2026-results-and-highlights-patrick-mahomes-overcomes-injury-to-lead-kansas-city-chiefs-to-victory",
-      "image": null
     }
   ],
   "scoreboard": [
