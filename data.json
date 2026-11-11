@@ -1,19 +1,52 @@
 {
-  "updatedAt": "2026-11-10T23:12:44.570Z",
+  "updatedAt": "2026-11-11T02:46:55.014Z",
   "hero": {
     "id": "story-0",
-    "league": "Premier League",
-    "dot": "#9CC0F0",
-    "source": "BBC Sport",
-    "time": "Nov 10",
-    "headline": "Arsenal eye Real's Endrick - Wednesday's gossip",
-    "excerpt": "Real Madrid forward Endrick is on Arsenal's radar, Liverpool right-back Jeremie Frimpong is not headed…",
-    "link": "https://www.bbc.co.uk/sport/football/articles/cq8jzjz9x23jo?at_medium=RSS&amp;at_campaign=rss",
-    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ad9/live/ac0a3550-dd48-11f1-aeb2-6bd34b8670af.png"
+    "league": "Football",
+    "dot": "#AFC4AC",
+    "source": "Sky Sports",
+    "time": "Nov 11",
+    "headline": "Noskova dismantles Gauff to reach WTA Finals last four",
+    "excerpt": "Linda Noskova became the first player to reach the WTA Finals semi-finals after securing a…",
+    "link": "https://www.skysports.com/tennis/news/12040/13610698/wta-finals-linda-noskova-dismantles-coco-gauff-to-reach-semi-finals-as-jessica-pegula-keeps-hopes-alive-with-victory",
+    "image": null
   },
   "topStories": [
     {
       "id": "story-1",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "talkSPORT",
+      "time": "Nov 10",
+      "headline": "Wayne Rooney confirmed on I&#8217;m a Celebrity line-up as fans stunned by reported fee",
+      "excerpt": "",
+      "link": "https://talksport.com/football/4700629/wayne-rooney-im-a-celebrity-line-up-fee/",
+      "image": null
+    },
+    {
+      "id": "story-2",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "BBC Sport",
+      "time": "Nov 10",
+      "headline": "Arsenal eye Real's Endrick - Wednesday's gossip",
+      "excerpt": "Real Madrid forward Endrick is on Arsenal's radar, Liverpool right-back Jeremie Frimpong is not headed…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cq8jzjz9x23jo?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ad9/live/ac0a3550-dd48-11f1-aeb2-6bd34b8670af.png"
+    },
+    {
+      "id": "story-3",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "Sky Sports",
+      "time": "Nov 10",
+      "headline": "Papers: Berrada and Wilcox set to remain at Old Trafford",
+      "excerpt": "The top stories and transfer rumours from Wednesday's newspapers...",
+      "link": "https://www.skysports.com/football/news/12040/13610742/omar-berrada-and-jason-wilcox-set-to-remain-at-man-utd-with-michael-carricks-future-in-doubt-paper-talk",
+      "image": null
+    },
+    {
+      "id": "story-4",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -24,29 +57,29 @@
       "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0p3n9ks.jpg"
     },
     {
-      "id": "story-2",
+      "id": "story-5",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
       "time": "Nov 10",
-      "headline": "Leicester and Brentford U21 into EFL Trophy knockout stage",
+      "headline": "Leicester and Brentford U21 into EFL Trophy knockout stages",
       "excerpt": "Brentford U21 and League One side Leicester City move into the knockout stages of the…",
       "link": "https://www.bbc.co.uk/sport/football/articles/cjqlnllkyzd5o?at_medium=RSS&amp;at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/71ec/live/48ff4c20-dd57-11f1-acd1-a78ce9f5fae0.jpg"
     },
     {
-      "id": "story-3",
+      "id": "story-6",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
       "time": "Nov 10",
       "headline": "Fujino’s double sparks WCL comeback win for Manchester City against Inter",
-      "excerpt": "<p>Manchester City’s European campaign finally came roaring into life as they put four goals past…",
+      "excerpt": "<p>On a very satisfying night for Manchester City, perhaps the most pleasing element was that…",
       "link": "https://www.theguardian.com/football/2026/nov/10/inter-manchester-city-womens-champions-league-match-report",
       "image": "https://i.guim.co.uk/img/media/7000df5b2963b6ae848e08ba69ff3a22fba7b2ab/908_394_5774_4619/master/5774.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=6b134fa779c198816409f404ad66d100"
     },
     {
-      "id": "story-4",
+      "id": "story-7",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -57,7 +90,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1ee5/live/a807f7e0-dd51-11f1-b441-2b33b063138f.jpg"
     },
     {
-      "id": "story-5",
+      "id": "story-8",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "talkSPORT",
@@ -68,7 +101,7 @@
       "image": null
     },
     {
-      "id": "story-6",
+      "id": "story-9",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "Sky Sports",
@@ -79,7 +112,7 @@
       "image": null
     },
     {
-      "id": "story-7",
+      "id": "story-10",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "talkSPORT",
@@ -90,7 +123,7 @@
       "image": null
     },
     {
-      "id": "story-8",
+      "id": "story-11",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "talkSPORT",
@@ -101,7 +134,7 @@
       "image": null
     },
     {
-      "id": "story-9",
+      "id": "story-12",
       "league": "Serie A",
       "dot": "#A9E6A0",
       "source": "BBC Sport",
@@ -112,7 +145,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/24a3/live/94ca09f0-dd35-11f1-ab86-698de9f28d28.jpg"
     },
     {
-      "id": "story-10",
+      "id": "story-13",
       "league": "Serie A",
       "dot": "#A9E6A0",
       "source": "Sky Sports",
@@ -123,7 +156,7 @@
       "image": null
     },
     {
-      "id": "story-11",
+      "id": "story-14",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "Sky Sports",
@@ -134,7 +167,7 @@
       "image": null
     },
     {
-      "id": "story-12",
+      "id": "story-15",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -145,7 +178,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2945/live/0373f810-dd50-11f1-a701-fddedf244c16.jpg"
     },
     {
-      "id": "story-13",
+      "id": "story-16",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "talkSPORT",
@@ -156,7 +189,7 @@
       "image": null
     },
     {
-      "id": "story-14",
+      "id": "story-17",
       "league": "Serie A",
       "dot": "#A9E6A0",
       "source": "The Guardian",
@@ -167,7 +200,7 @@
       "image": "https://i.guim.co.uk/img/media/e9685665919ccffa3ac3c626e25909ba4672d0cc/186_0_3467_2773/master/3467.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=2ea786c0bfd131e45d6af0e962cbb513"
     },
     {
-      "id": "story-15",
+      "id": "story-18",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "talkSPORT",
@@ -178,7 +211,7 @@
       "image": null
     },
     {
-      "id": "story-16",
+      "id": "story-19",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -189,7 +222,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4ad2/live/eb58f280-dd3b-11f1-9ac0-6b8f7fc58221.jpg"
     },
     {
-      "id": "story-17",
+      "id": "story-20",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "talkSPORT",
@@ -200,7 +233,7 @@
       "image": null
     },
     {
-      "id": "story-18",
+      "id": "story-21",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -211,7 +244,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/a2b5/live/d9f18dc0-dd29-11f1-ab46-9fae224bbf6f.jpg"
     },
     {
-      "id": "story-19",
+      "id": "story-22",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "The Guardian",
@@ -222,7 +255,7 @@
       "image": "https://i.guim.co.uk/img/media/f5fc5e216788663c63a4855eae3efd684e3f1755/205_0_1435_1148/master/1435.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=472682f084253969868dfa7463a1c7bc"
     },
     {
-      "id": "story-20",
+      "id": "story-23",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -231,101 +264,7 @@
       "excerpt": "<p>Fearless winger has forced his way into Thomas Tuchel’s plans and believes he can become…",
       "link": "https://www.theguardian.com/football/2026/nov/10/rio-ngumoha-ready-to-make-england-splash-as-he-spells-out-ballon-dor-ambition",
       "image": "https://i.guim.co.uk/img/media/674bd01f3b2b9ae7552b22d6ae6c80ca18aa9673/408_0_4410_3528/master/4410.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a6f6763895e99c4fd56bf2dbb9cf2455"
-    },
-    {
-      "id": "story-21",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "Sky Sports",
-      "time": "Nov 10",
-      "headline": "Chelsea frustrated at Hacken in WCL",
-      "excerpt": "Chelsea remain unbeaten in the Women&#8217;s Champions League but they were frustrated in a goalless…",
-      "link": "https://www.skysports.com/football/bk-hcken-women-vs-chelsea-women/report/578259",
-      "image": null
-    },
-    {
-      "id": "story-22",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "talkSPORT",
-      "time": "Nov 10",
-      "headline": "Jake Paul makes X-rated jibe at hostile Paris crowd during fiery Cedric Doumbe press conference",
-      "excerpt": "",
-      "link": "https://talksport.com/boxing/4700114/jake-paul-x-rated-jibe-paris-crowd-cedric-doumbe-press-conference/",
-      "image": null
-    },
-    {
-      "id": "story-23",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "talkSPORT",
-      "time": "Nov 10",
-      "headline": "Djed Spence getting rave reviews for Inter Milan as Premier League legend pays huge compliment",
-      "excerpt": "",
-      "link": "https://talksport.com/football/4699734/djed-spence-rave-reviews-inter-milan-premier-league/",
-      "image": null
     }
   ],
-  "scoreboard": [
-    {
-      "id": "score-564746",
-      "league": "La Liga",
-      "dot": "#E3B4F5",
-      "time": "Nov 8",
-      "home": "Club Atlético de Madrid",
-      "away": "FC Barcelona",
-      "homeScore": 1,
-      "awayScore": 2
-    },
-    {
-      "id": "score-558529",
-      "league": "Serie A",
-      "dot": "#A9E6A0",
-      "time": "Nov 8",
-      "home": "ACF Fiorentina",
-      "away": "Juventus FC",
-      "homeScore": 2,
-      "awayScore": 2
-    },
-    {
-      "id": "score-559630",
-      "league": "Ligue 1",
-      "dot": "#B8D4E8",
-      "time": "Nov 8",
-      "home": "Racing Club de Lens",
-      "away": "Olympique de Marseille",
-      "homeScore": 1,
-      "awayScore": 2
-    },
-    {
-      "id": "score-565856",
-      "league": "Bundesliga",
-      "dot": "#FFC469",
-      "time": "Nov 8",
-      "home": "TSG 1899 Hoffenheim",
-      "away": "FC Schalke 04",
-      "homeScore": 2,
-      "awayScore": 1
-    },
-    {
-      "id": "score-564742",
-      "league": "La Liga",
-      "dot": "#E3B4F5",
-      "time": "Nov 8",
-      "home": "RC Celta de Vigo",
-      "away": "Levante UD",
-      "homeScore": 0,
-      "awayScore": 0
-    },
-    {
-      "id": "score-564747",
-      "league": "La Liga",
-      "dot": "#E3B4F5",
-      "time": "Nov 8",
-      "home": "Villarreal CF",
-      "away": "Getafe CF",
-      "homeScore": 2,
-      "awayScore": 0
-    }
-  ]
+  "scoreboard": []
 }
