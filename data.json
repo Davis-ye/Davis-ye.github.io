@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-11-13T01:14:17.532Z",
+  "updatedAt": "2026-11-13T07:58:16.800Z",
   "hero": {
     "id": "story-0",
     "league": "Football",
     "dot": "#AFC4AC",
-    "source": "The Guardian",
+    "source": "BBC Sport",
     "time": "Nov 13",
-    "headline": "It’s Happy Harry Kane day as England’s finest seizes his moment in style | Barney Ronay",
-    "excerpt": "<p>The Ballon d’Or validated the forward’s career and he extended his incredible record for England…",
-    "link": "https://www.theguardian.com/football/2026/nov/13/happy-harry-kane-day-englands-finest-seizes-his-moment-croatia-nations-league",
-    "image": "https://i.guim.co.uk/img/media/535fa0f97ceb074b92b97697e979c349f7e88f4f/687_0_4801_3841/master/4801.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=0624e5f1f6fe4ee21a05eaff9f487230"
+    "headline": "Pocognoli courts potential new Scotland players - gossip",
+    "excerpt": "Scotland head coach Sebastien Pocognoli attempts to increase player pool as former Aberdeen player hints…",
+    "link": "https://www.bbc.co.uk/sport/football/articles/cmglrknl3j5no?at_medium=RSS&amp;at_campaign=rss",
+    "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6e45/live/cbc93d20-df35-11f1-b441-2b33b063138f.png"
   },
   "topStories": [
     {
@@ -17,14 +17,179 @@
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "Sky Sports",
+      "time": "Nov 13",
+      "headline": "McIlroy out to capitalise on fast start, as Luiten leads in Dubai LIVE!",
+      "excerpt": "",
+      "link": "https://www.skysports.com/golf/live-blog/12040/13611568/dp-world-tour-championship-second-round-live-latest-scores-highlights-as-rory-mcilroy-hunts-eighth-race-to-dubai-title",
+      "image": null
+    },
+    {
+      "id": "story-2",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "BBC Sport",
+      "time": "Nov 13",
+      "headline": "How big a problem is central defence for Pocognoli?",
+      "excerpt": "Amy Canavan assesses Scotland's central defensive dilemmas before Friday evening's must-win match against North Macedonia.",
+      "link": "https://www.bbc.co.uk/sport/football/articles/ckwy9jyd2wq5o?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1721/live/73ca9230-ded2-11f1-a701-fddedf244c16.jpg"
+    },
+    {
+      "id": "story-3",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "Sky Sports",
+      "time": "Nov 13",
+      "headline": "'It's the match people wanted' - Pegula to face Andreeva at WTA Finals",
+      "excerpt": "Jessica Pegula saved a match &#8204;point en route to a gritty 7-6 (7-2) 4-6 7-5…",
+      "link": "https://www.skysports.com/tennis/news/12040/13611773/wta-finals-jessica-pegula-saves-match-8204point-in-stunning-win-over-linda-noskova-to-send-coco-gauff-out-and-set-up-mirra-andreeva-clash",
+      "image": null
+    },
+    {
+      "id": "story-4",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "The Guardian",
+      "time": "Nov 13",
+      "headline": "Pochettino’s Chelsea maelstrom the best yardstick for what lies ahead at United",
+      "excerpt": "<p>Argentinian oversaw high-scoring games in his one Chelsea season and Opta predicts his Manchester United…",
+      "link": "https://www.theguardian.com/football/2026/nov/13/pochettino-chelsea-maelstrom-yardstick-what-lies-ahead-manchester-united",
+      "image": "https://i.guim.co.uk/img/media/20870a5fe499e872c54989430f12c8e18e6f1eda/371_0_3871_3096/master/3871.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f92738b61e8e2f478b456783384682f8"
+    },
+    {
+      "id": "story-5",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "Sky Sports",
+      "time": "Nov 13",
+      "headline": "Royal Champion out to defend his Bahrain crown",
+      "excerpt": "We have a busy day&#8217;s racing on Friday with action from Bahrain, Sedgefield and Southwell,…",
+      "link": "https://www.skysports.com/racing/news/12040/13611165/today-on-sky-sports-racing-bahrain-sedgefield-and-southwell",
+      "image": null
+    },
+    {
+      "id": "story-6",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "talkSPORT",
+      "time": "Nov 13",
+      "headline": "Scotland vs North Macedonia: Get 20% back on net losses up to £250 with Smarkets",
+      "excerpt": "",
+      "link": "https://talksport.com/betting/4701057/scotland-north-macedonia-nations-league-money-back-smarkets/",
+      "image": null
+    },
+    {
+      "id": "story-7",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "talkSPORT",
+      "time": "Nov 13",
+      "headline": "Scotland vs North Macedonia betting tips and predictions: McTominay to inspire Scots to victory?",
+      "excerpt": "",
+      "link": "https://talksport.com/betting/4700938/scotland-north-macedonia-betting-tips-predictions/",
+      "image": null
+    },
+    {
+      "id": "story-8",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "talkSPORT",
+      "time": "Nov 13",
+      "headline": "BetMGM bonus code: Bet £10, get £40 ahead of Scotland vs North Macedonia",
+      "excerpt": "",
+      "link": "https://talksport.com/betting/4695188/scotland-vs-north-macedonia-betmgm-offers/",
+      "image": null
+    },
+    {
+      "id": "story-9",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "BBC Sport",
+      "time": "Nov 13",
+      "headline": "Liverpool and Van Dijk have a decision to make",
+      "excerpt": "Virgil van Dijk says he is in no panic about his contract situation at Liverpool…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/ck4gnd2pgd06o?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/87f4/live/e4ed5c50-ddeb-11f1-9204-cdcddf7d901c.jpg"
+    },
+    {
+      "id": "story-10",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "BBC Sport",
+      "time": "Nov 13",
+      "headline": "Who am I? Plus today's other quizzes",
+      "excerpt": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
+      "link": "https://www.bbc.co.uk/sport/football/articles/c6x298z10lg1o?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fbf/live/38bd3c70-bda7-11f1-bc2e-018d645d8d21.png"
+    },
+    {
+      "id": "story-11",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "Sky Sports",
+      "time": "Nov 13",
+      "headline": "Las Vegas GP: UK schedule and how to watch on Sky Sports",
+      "excerpt": "Formula 1 heads for the bright lights of Las Vegas with both 2026 titles settled,…",
+      "link": "https://www.skysports.com/f1/news/12040/13611077/las-vegas-gp-2026-dates-schedule-weather-uk-start-time-and-how-to-watch-or-stream-f1-race-in-united-states-live-on-sky-sports",
+      "image": null
+    },
+    {
+      "id": "story-12",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "Sky Sports",
+      "time": "Nov 13",
+      "headline": "England and Ireland's points battle, the return of Jones and France's Springboks clash",
+      "excerpt": "The second weekend of Nations Championship Tests brings an England-Ireland points battle, Eddie Jones&#8217; return…",
+      "link": "https://www.skysports.com/rugby-union/news/12040/13611539/nations-championship-england-ireland-in-points-race-return-of-eddie-jones-to-twickenham-injury-hit-france-face-springboks",
+      "image": null
+    },
+    {
+      "id": "story-13",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "Sky Sports",
+      "time": "Nov 13",
+      "headline": "Scorecard: Australia vs England, first ODI, Perth",
+      "excerpt": "Latest score from Optus Stadium as England face Australia in the first of three one-day…",
+      "link": "https://www.skysports.com/cricket/australia-v-england/scorecard/e054c300-a10a-5762-b7a3-44e22f41180e",
+      "image": null
+    },
+    {
+      "id": "story-14",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "Sky Sports",
+      "time": "Nov 13",
+      "headline": "Marsh slams 29-ball fifty as Australia chase 132 to beat England in first ODI LIVE!",
+      "excerpt": "",
+      "link": "https://www.skysports.com/cricket/live-blog/12040/13611517/australia-vs-england-first-odi-live-latest-cricket-score-and-updates-from-series-opener-in-perth",
+      "image": null
+    },
+    {
+      "id": "story-15",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "The Guardian",
+      "time": "Nov 13",
+      "headline": "It’s Happy Harry Kane day as England’s finest seizes his moment in style | Barney Ronay",
+      "excerpt": "<p>The Ballon d’Or validated the forward’s career and he extended his incredible record for England…",
+      "link": "https://www.theguardian.com/football/2026/nov/13/happy-harry-kane-day-englands-finest-seizes-his-moment-croatia-nations-league",
+      "image": "https://i.guim.co.uk/img/media/535fa0f97ceb074b92b97697e979c349f7e88f4f/687_0_4801_3841/master/4801.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=0624e5f1f6fe4ee21a05eaff9f487230"
+    },
+    {
+      "id": "story-16",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "Sky Sports",
       "time": "Nov 12",
-      "headline": "Cummins dismisses Khawaja's sandpaper claims as 'utter nonsense'",
+      "headline": "Cummins dismisses Khawaja's claims as 'utter nonsense'",
       "excerpt": "Australia Test captain Pat Cummins dismissed his former team-mate Usman Khawaja's claims as \"utter nonsense\"…",
       "link": "https://www.skysports.com/cricket/news/12040/13611646/sandpapergate-australia-test-captain-pat-cummins-dismisses-usman-khawajas-claims-over-ball-tampering-scandal-as-utter-nonsense",
       "image": null
     },
     {
-      "id": "story-2",
+      "id": "story-17",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "Sky Sports",
@@ -35,7 +200,7 @@
       "image": null
     },
     {
-      "id": "story-3",
+      "id": "story-18",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -46,7 +211,7 @@
       "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0m6ztjd.jpg"
     },
     {
-      "id": "story-4",
+      "id": "story-19",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -57,7 +222,7 @@
       "image": "https://i.guim.co.uk/img/media/341d5262b98afe2d4759e05dfd101cd17678b06b/91_1181_2759_2207/master/2759.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=4c83e7f0fb505e181cb3e1449a33ec84"
     },
     {
-      "id": "story-5",
+      "id": "story-20",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "talkSPORT",
@@ -68,7 +233,7 @@
       "image": null
     },
     {
-      "id": "story-6",
+      "id": "story-21",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -79,7 +244,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/8b18/live/725b0530-dee9-11f1-8111-290450ddba8c.jpg"
     },
     {
-      "id": "story-7",
+      "id": "story-22",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "talkSPORT",
@@ -90,7 +255,7 @@
       "image": null
     },
     {
-      "id": "story-8",
+      "id": "story-23",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "Sky Sports",
@@ -99,171 +264,6 @@
       "excerpt": "World No 1 Nelly Korda made an impressive return to LPGA Tour action after a…",
       "link": "https://www.skysports.com/golf/news/12040/13611643/the-annika-nelly-korda-makes-impressive-return-to-lpga-tour-action-to-trail-minami-katsu-and-hye-jin-choi-by-two-shots",
       "image": null
-    },
-    {
-      "id": "story-9",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "Sky Sports",
-      "time": "Nov 12",
-      "headline": "Pochettino agrees two-and-a-half-year deal to become Man Utd boss",
-      "excerpt": "Manchester United and Mauricio Pochettino have agreed a deal for him to become the club's…",
-      "link": "https://www.skysports.com/football/news/12040/13611745/mauricio-pochettino-manchester-united-agree-two-and-a-half-year-deal-with-usa-manager-to-replace-michael-carrick",
-      "image": null
-    },
-    {
-      "id": "story-10",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "The Guardian",
-      "time": "Nov 12",
-      "headline": "Nations League: Italy roar back to beat France despite Donnarumma’s early howler",
-      "excerpt": "<ul><li><p>Loss is Zinedine Zidane’s first as France head coach</p></li><li><p>Spain beat Czechia 2-0 to maintain 100%…",
-      "link": "https://www.theguardian.com/football/2026/nov/12/nations-league-italy-france-spain-czechia",
-      "image": "https://i.guim.co.uk/img/media/c383c8cbd033340ae1748689f545ed72e3b44160/358_191_2558_2046/master/2558.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=cef73d375bed89d81e3ac9dc23e9077a"
-    },
-    {
-      "id": "story-11",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "101 Great Goals",
-      "time": "Nov 12",
-      "headline": "Harry Kane sends Spain warning as England captain vows to &#8216;prove ourselves&#8217; in Nations League showdown",
-      "excerpt": "Harry Kane insists England have the 'perfect opportunity' to prove themselves against Spain on Sunday…",
-      "link": "https://www.101greatgoals.com/football/internationals/harry-kane-england-spain-nations-league-warning-penalty/",
-      "image": null
-    },
-    {
-      "id": "story-12",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "BBC Sport",
-      "time": "Nov 12",
-      "headline": "Grealish apologises for absence after breach of discipline",
-      "excerpt": "Jack Grealish issues an apology to Everton fans for his recent absence due to a…",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cr3wgp8e2ljxo?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6ba4/live/6d670f60-dedf-11f1-a75a-dbf83836672c.jpg"
-    },
-    {
-      "id": "story-13",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "BBC Sport",
-      "time": "Nov 12",
-      "headline": "Where does Kane rank among all-time England greats?",
-      "excerpt": "Harry Kane is England's all-time top scorer and record appearance maker, but where does he…",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cxj0lvqpn94qo?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5525/live/60ecddc0-de97-11f1-a701-fddedf244c16.png"
-    },
-    {
-      "id": "story-14",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "101 Great Goals",
-      "time": "Nov 12",
-      "headline": "Nations League round-up: Spain beat Czech Republic as Belgium edge Turkey and Albania see off Finland",
-      "excerpt": "Catch up on Thursday night's UEFA Nations League action, including Spain's trip to Czech Republic,…",
-      "link": "https://www.101greatgoals.com/news/nations-league-round-up-spain-england-france/",
-      "image": null
-    },
-    {
-      "id": "story-15",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "The Guardian",
-      "time": "Nov 12",
-      "headline": "Harry Kane spot on to seal England win over Croatia on his record-breaking night",
-      "excerpt": "<p>It was an historic occasion for Harry Kane, the one when he made his 126th…",
-      "link": "https://www.theguardian.com/football/2026/nov/12/england-croatia-nations-league-match-report",
-      "image": "https://i.guim.co.uk/img/media/c44bfd8b33945e48111834cffbbb8c102988bbca/46_301_2600_2081/master/2600.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=51d1429f17fab9716769b13cb50836a9"
-    },
-    {
-      "id": "story-16",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "101 Great Goals",
-      "time": "Nov 12",
-      "headline": "Italy 3-1 France: Report, result and goals as Esposito scores twice to stun Zidane&#8217;s side in Nations League",
-      "excerpt": "Catch up with all the action from Italy vs France in the Nations League.",
-      "link": "https://www.101greatgoals.com/match-reports/italy-3-1-france-report-result-goals/",
-      "image": null
-    },
-    {
-      "id": "story-17",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "talkSPORT",
-      "time": "Nov 12",
-      "headline": "2/10 Jarell Quansah leaves talkSPORT host dumbfounded as four England players get 3/10 on stale night",
-      "excerpt": "",
-      "link": "https://talksport.com/football/4704904/england-player-ratings-kane-quansah-rogers-durham/",
-      "image": null
-    },
-    {
-      "id": "story-18",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "BBC Sport",
-      "time": "Nov 12",
-      "headline": "Gritty Arsenal show different side in Barcelona draw",
-      "excerpt": "Could a resilient draw against European champions Barcelona be a turning point in Arsenal's season?",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cqe85vym242jo?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/6057/live/b497a8a0-dede-11f1-a75a-dbf83836672c.jpg"
-    },
-    {
-      "id": "story-19",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "talkSPORT",
-      "time": "Nov 12",
-      "headline": "Jack Grealish issues apology as he makes comeback from ban in behind-closed-doors game",
-      "excerpt": "",
-      "link": "https://talksport.com/football/4704979/jack-grealish-apology-everton-disciplinary-issues/",
-      "image": null
-    },
-    {
-      "id": "story-20",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "BBC Sport",
-      "time": "Nov 12",
-      "headline": "Kane scores winner but who else made an impression? England player ratings",
-      "excerpt": "How did England's players fare in the Nations League match against Croatia? Senior football correspondent…",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c64gnd7vd912o?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/5fbd/live/589bbd20-dee3-11f1-93e1-3b657b665bcf.jpg"
-    },
-    {
-      "id": "story-21",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "101 Great Goals",
-      "time": "Nov 12",
-      "headline": "England 2-1 Croatia: Report, result and goals Kane marks record-breaking appearance with winner as Three Lions reach Nations League quarter-finals",
-      "excerpt": "Catch up with all the action from England vs Croatia in the Nations League.",
-      "link": "https://www.101greatgoals.com/match-reports/england-2-1-croatia-report-result-goals/",
-      "image": null
-    },
-    {
-      "id": "story-22",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "talkSPORT",
-      "time": "Nov 12",
-      "headline": "‘Few problems’ &#8211; Key Chelsea star sparks new concern amid injury-hit season",
-      "excerpt": "",
-      "link": "https://talksport.com/football/4704925/moises-caicedo-injury-update-return-chelsea-ecuador/",
-      "image": null
-    },
-    {
-      "id": "story-23",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "BBC Sport",
-      "time": "Nov 12",
-      "headline": "Ghana kick-start Afcon 2027 bid despite Ayew penalty miss",
-      "excerpt": "Ghana kick-start their Afcon 2027 qualifying campaign despite Jordan Ayew having a penalty saved, while…",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c61md0mldvdgo?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/4161/live/c73c90e0-deb8-11f1-8fb5-a771a656a227.jpg"
     }
   ],
   "scoreboard": []
