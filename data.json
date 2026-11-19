@@ -1,19 +1,30 @@
 {
-  "updatedAt": "2026-11-18T23:29:23.509Z",
+  "updatedAt": "2026-11-19T04:24:17.462Z",
   "hero": {
     "id": "story-0",
     "league": "Football",
     "dot": "#AFC4AC",
     "source": "Sky Sports",
     "time": "Nov 18",
-    "headline": "Wattimena wins hearts with win vs Littler: 'Beat him, the crowd loves you'",
-    "excerpt": "Jermaine Wattimena was visibly emotional following his massive 10-8 win over Luke Littler in the…",
-    "link": "https://www.skysports.com/darts/news/12040/13613686/jermaine-wattimena-wins-wolverhampton-hearts-with-victory-over-luke-littler-you-beat-him-the-crowd-loves-you",
+    "headline": "Van Gerwen: I need my A-game to beat Wade at Grand Slam",
+    "excerpt": "Michael van Gerwen believes James Wade is \"in some of the best form of his…",
+    "link": "https://www.skysports.com/darts/news/12040/13613671/michael-van-gerwen-targets-a-game-for-james-wade-meeting-in-last-16-clash-of-grand-slam-of-darts",
     "image": null
   },
   "topStories": [
     {
       "id": "story-1",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "Sky Sports",
+      "time": "Nov 18",
+      "headline": "Wattimena wins hearts with win vs Littler: 'Beat him, the crowd loves you'",
+      "excerpt": "Jermaine Wattimena was visibly emotional following his massive 10-8 win over Luke Littler in the…",
+      "link": "https://www.skysports.com/darts/news/12040/13613686/jermaine-wattimena-wins-wolverhampton-hearts-with-victory-over-luke-littler-you-beat-him-the-crowd-loves-you",
+      "image": null
+    },
+    {
+      "id": "story-2",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "Sky Sports",
@@ -24,7 +35,7 @@
       "image": null
     },
     {
-      "id": "story-2",
+      "id": "story-3",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "talkSPORT",
@@ -35,7 +46,7 @@
       "image": null
     },
     {
-      "id": "story-3",
+      "id": "story-4",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -46,7 +57,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/e07c/live/092861f0-e3a0-11f1-8c43-131df4a2c89f.png"
     },
     {
-      "id": "story-4",
+      "id": "story-5",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -57,7 +68,7 @@
       "image": "https://i.guim.co.uk/img/media/e972d5919ff64a850d1ffe239a15b17f2d35a20f/247_0_3413_2731/master/3413.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=00dafb7dfaec630f9e4edae478d8703d"
     },
     {
-      "id": "story-5",
+      "id": "story-6",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "talkSPORT",
@@ -68,7 +79,7 @@
       "image": null
     },
     {
-      "id": "story-6",
+      "id": "story-7",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -79,7 +90,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/7393/live/0b748390-e39a-11f1-99a1-253766e7ad8b.jpg"
     },
     {
-      "id": "story-7",
+      "id": "story-8",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "Sky Sports",
@@ -90,7 +101,7 @@
       "image": null
     },
     {
-      "id": "story-8",
+      "id": "story-9",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "talkSPORT",
@@ -101,7 +112,7 @@
       "image": null
     },
     {
-      "id": "story-9",
+      "id": "story-10",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -112,7 +123,7 @@
       "image": "https://i.guim.co.uk/img/media/e6a874dbf4bddc966b34b0697e0af97e877130b0/523_0_3954_3164/master/3954.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=fb6fc4ff9b3a4106ea3b775756da5da4"
     },
     {
-      "id": "story-10",
+      "id": "story-11",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -123,7 +134,7 @@
       "image": "https://ichef.bbci.co.uk/images/ic/240x135/p0p4zrww.jpg"
     },
     {
-      "id": "story-11",
+      "id": "story-12",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "Sky Sports",
@@ -134,7 +145,7 @@
       "image": null
     },
     {
-      "id": "story-12",
+      "id": "story-13",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "Sky Sports",
@@ -145,7 +156,7 @@
       "image": null
     },
     {
-      "id": "story-13",
+      "id": "story-14",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -156,7 +167,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/000a/live/86e56660-e391-11f1-b4f3-9f0685d52a1f.jpg"
     },
     {
-      "id": "story-14",
+      "id": "story-15",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -167,7 +178,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2514/live/7b839f70-e392-11f1-b4f3-9f0685d52a1f.jpg"
     },
     {
-      "id": "story-15",
+      "id": "story-16",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -178,7 +189,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d3f2/live/25bf9080-e356-11f1-acd4-25eaaa5def63.jpg"
     },
     {
-      "id": "story-16",
+      "id": "story-17",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -189,7 +200,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/c8c1/live/e7141200-e37f-11f1-b879-03485a55c082.jpg"
     },
     {
-      "id": "story-17",
+      "id": "story-18",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -200,7 +211,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/9911/live/b9f39560-e385-11f1-a094-5fdc692f3e33.jpg"
     },
     {
-      "id": "story-18",
+      "id": "story-19",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "talkSPORT",
@@ -211,7 +222,7 @@
       "image": null
     },
     {
-      "id": "story-19",
+      "id": "story-20",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "talkSPORT",
@@ -222,7 +233,7 @@
       "image": null
     },
     {
-      "id": "story-20",
+      "id": "story-21",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "Sky Sports",
@@ -233,7 +244,7 @@
       "image": null
     },
     {
-      "id": "story-21",
+      "id": "story-22",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -244,7 +255,7 @@
       "image": "https://i.guim.co.uk/img/media/c606b47d86e425730d31a6354ae735dcb57ef48b/450_186_3988_3190/master/3988.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ca5b136efb71d8a64a62ff36451d562f"
     },
     {
-      "id": "story-22",
+      "id": "story-23",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "Sky Sports",
@@ -252,17 +263,6 @@
       "headline": "Hemp stars as Man City beat Hacken in Champions League",
       "excerpt": "Lauren Hemp scored one and assisted another as Manchester City beat BK Hacken 2-0 in…",
       "link": "https://www.skysports.com/football/bk-hcken-women-vs-manchester-city-women/report/578269",
-      "image": null
-    },
-    {
-      "id": "story-23",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "Sky Sports",
-      "time": "Nov 18",
-      "headline": "Koepka 'disappointed' with PGA Tour season but 'beyond happy' to be back",
-      "excerpt": "Brooks Koepka has dubbed his 2026 season a \"a disappointment\" but insists he is hungry…",
-      "link": "https://www.skysports.com/golf/news/12040/13613712/brooks-koepka-american-labels-his-2026-pga-tour-season-a-disappointment-and-targets-2027-ryder-cup-spot",
       "image": null
     }
   ],
