@@ -1,15 +1,15 @@
 {
-  "updatedAt": "2026-11-19T21:45:51.084Z",
+  "updatedAt": "2026-11-20T02:39:23.808Z",
   "hero": {
     "id": "story-0",
-    "league": "Premier League",
-    "dot": "#9CC0F0",
-    "source": "talkSPORT",
-    "time": "Nov 19",
-    "headline": "Mauricio Pochettino told to drop £71m Man United star and make statement for Liverpool clash",
-    "excerpt": "",
-    "link": "https://talksport.com/football/4721074/mauricio-pochettino-drop-bryan-mbeumo-statement-liverpool/",
-    "image": null
+    "league": "Football",
+    "dot": "#AFC4AC",
+    "source": "The Guardian",
+    "time": "Nov 20",
+    "headline": "Socceroos’ future looks bright as Australia stun Argentina in U17 World Cup",
+    "excerpt": "<ul><li><p>Akol Akon sealed a 2-0 win over football powerhouse in Qatar</p></li><li><p>Joeys mark return to tournament…",
+    "link": "https://www.theguardian.com/football/2026/nov/20/joeys-australia-stun-argentina-in-u17-world-cup",
+    "image": "https://i.guim.co.uk/img/media/0f5e6421f76f7aa9bb952e40d678dddd2333c60e/656_233_3822_3057/master/3822.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=69b4a07bffe9a433ee07baa08d28ad8c"
   },
   "topStories": [
     {
@@ -17,14 +17,168 @@
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
-      "time": "Nov 19",
-      "headline": "Arsenal v OL Lyonnes: Women’s Champions League – live",
-      "excerpt": "<p>⚽ Champions League updates from the 8pm GMT kick-off<br>⚽ <a href=\"https://www.theguardian.com/football/live\">Live scores</a> | <a href=\"https://www.theguardian.com/football/women-s-champions-league/table\">Table</a>…",
-      "link": "https://www.theguardian.com/football/live/2026/nov/19/arsenal-v-ol-lyonnes-womens-champions-league-live",
-      "image": "https://i.guim.co.uk/img/media/48600714027a82b3575eebc0020028ebefd7cba4/257_93_4522_3619/master/4522.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=a27361878760dcfb661192321b92d58c"
+      "time": "Nov 20",
+      "headline": "Premier League: 10 things to look out for this weekend",
+      "excerpt": "<p>Bruno Guimarães to feel the heat on Tyneside, Alex Scott’s return further cheers Cherries and…",
+      "link": "https://www.theguardian.com/football/2026/nov/20/premier-league-10-things-to-look-out-for-this-weekend",
+      "image": "https://i.guim.co.uk/img/media/697a5b5e6adf5ec4ae93d2b6aa2ddcbf11b935ce/0_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=de767372805865151ec7e49f74f96e68"
     },
     {
       "id": "story-2",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "BBC Sport",
+      "time": "Nov 19",
+      "headline": "Arsenal 'have ingredients' but Europe's elite on another level",
+      "excerpt": "In a difficult defeat by French giants Lyon, Arsenal were shown the gap they need…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cm4gnxz8dvx1o?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/f42a/live/723c9160-e473-11f1-99b6-a35a62fa4264.jpg"
+    },
+    {
+      "id": "story-3",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "Sky Sports",
+      "time": "Nov 19",
+      "headline": "Webster on Van Gerwen: He still thinks he's got a place in this sport at the top",
+      "excerpt": "",
+      "link": "https://www.skysports.com/darts/live-blog/12040/13613976/grand-slam-of-darts-commentary-updates-scores-analysis-with-luke-humphries-michael-van-gerwen-nathan-aspinall-in-action",
+      "image": null
+    },
+    {
+      "id": "story-4",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "Sky Sports",
+      "time": "Nov 19",
+      "headline": "Las Vegas GP: No laps completed in first practice due to heavy rain LIVE!",
+      "excerpt": "",
+      "link": "https://www.skysports.com/f1/live-blog/12040/13613211/f1-las-vegas-gp-live-friday-practice-updates-results-stream-highlights-from-formula-1-race-weekend-in-the-usa",
+      "image": null
+    },
+    {
+      "id": "story-5",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "BBC Sport",
+      "time": "Nov 19",
+      "headline": "Lyon outclass Arsenal for Champions League win",
+      "excerpt": "Arsenal fall to a 2-0 defeat against a superior Lyon side in the Women's Champions…",
+      "link": "https://www.bbc.co.uk/sport/football/videos/c3dx1n4xp1xxo?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/65a8/live/85a48b70-e461-11f1-99b6-a35a62fa4264.jpg"
+    },
+    {
+      "id": "story-6",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "Sky Sports",
+      "time": "Nov 19",
+      "headline": "Sykes ready to go 'all the way' on debut at Grand Slam after stunning Humphries",
+      "excerpt": "Tom Sykes pulled off the biggest win of his darting career with a 10-9 victory…",
+      "link": "https://www.skysports.com/darts/news/12040/13614196/tom-sykes-ready-to-go-all-the-way-on-debut-at-grand-slam-of-darts-after-defeating-luke-humphries",
+      "image": null
+    },
+    {
+      "id": "story-7",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "Sky Sports",
+      "time": "Nov 19",
+      "headline": "Hull one shot off the lead at the CME Group Tour Championship",
+      "excerpt": "Highlights from day one of the CME Group Tour Championship at Tibur&#243;n Golf Club, Florida.",
+      "link": "https://www.skysports.com/watch/video/13614193/cme-group-tour-championship-day-one-highlights",
+      "image": null
+    },
+    {
+      "id": "story-8",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "Sky Sports",
+      "time": "Nov 19",
+      "headline": "Svensson leads on day one of the RSM Classic",
+      "excerpt": "Highlights from day one of the RSM Classic at the Sea Island Seaside Course, Georgia.",
+      "link": "https://www.skysports.com/watch/video/13614188/rsm-classic-day-one-highlights",
+      "image": null
+    },
+    {
+      "id": "story-9",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "The Guardian",
+      "time": "Nov 19",
+      "headline": "England get one-match suspended ban on away tickets for anti-pope chants in Spain",
+      "excerpt": "<ul><li><p>Ban by Uefa is suspended for two years</p></li><li><p>Uefa also fines FA £12,500 for offensive chants</p></li></ul><p>England…",
+      "link": "https://www.theguardian.com/football/2026/nov/19/england-one-match-suspended-away-tickets-ban-anti-pope-chants-spain-uefa",
+      "image": "https://i.guim.co.uk/img/media/bd9ae43b1b7e247045ecc3f45bd55d9aa28a7541/648_0_4028_3224/master/4028.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=11ae55fcd4795b47bdfe314476fc847f"
+    },
+    {
+      "id": "story-10",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "The Guardian",
+      "time": "Nov 19",
+      "headline": "OL Lyonnes show their class to hit Arsenal’s ambitions for a top-four WCL finish",
+      "excerpt": "<p>Arsenal’s hopes of earning automatic progression to the Champions League quarter-finals were dashed by OL&nbsp;Lyonnes,…",
+      "link": "https://www.theguardian.com/football/2026/nov/19/arsenal-ol-lyonnes-womens-champions-league-match-report",
+      "image": "https://i.guim.co.uk/img/media/34212d5ddf1d8daff4e51c5ee94d747f120dc11a/400_188_2380_1905/master/2380.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=f84b9aaaca61d8be02fa723c4be5d447"
+    },
+    {
+      "id": "story-11",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "Sky Sports",
+      "time": "Nov 19",
+      "headline": "Humphries shocked by Sykes in last-leg thriller at Grand Slam of Darts",
+      "excerpt": "Luke Humphries suffered a last-leg 10-9 loss to debutant Tom Sykes in the second round…",
+      "link": "https://www.skysports.com/darts/news/12040/13613979/luke-humphries-shocked-by-tom-sykes-in-last-leg-thriller-at-grand-slam-of-darts-a-day-after-luke-littler-exit",
+      "image": null
+    },
+    {
+      "id": "story-12",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "Sky Sports",
+      "time": "Nov 19",
+      "headline": "Hull chases Thitikul in LPGA Tour finale and discusses phone 'detox'",
+      "excerpt": "Charley Hull sits within a shot of the lead after a low-scoring opening round at…",
+      "link": "https://www.skysports.com/golf/news/12040/13614064/lpga-tour-charley-hull-lottie-woad-start-strongly-at-cme-group-tour-championship-as-jeeno-thitikul-shares-early-lead",
+      "image": null
+    },
+    {
+      "id": "story-13",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "BBC Sport",
+      "time": "Nov 19",
+      "headline": "Barcelona target Man Utd's Martinez - Friday's gossip",
+      "excerpt": "Barcelona interested in Lisandro Martinez, while Manchester United target Fulham defensive pair and Liverpool scout…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cj5y14g2wppko?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/ee26/live/3f8fe980-e462-11f1-a094-5fdc692f3e33.png"
+    },
+    {
+      "id": "story-14",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "Sky Sports",
+      "time": "Nov 19",
+      "headline": "Zverev victorious in intense match against Fils to advance into semi-finals",
+      "excerpt": "Highlights of Alexander Zverev against Arthur Fils in the ATP Finals.",
+      "link": "https://www.skysports.com/watch/video/13614170/alexander-zverev-vs-arthur-fils-atp-finals-highlights",
+      "image": null
+    },
+    {
+      "id": "story-15",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "Sky Sports",
+      "time": "Nov 19",
+      "headline": "Arsenal outclassed in defeat to dominant Lyon",
+      "excerpt": "Arsenal&#8217;s hopes of automatic qualification to the Women&#8217;s Champions League quarter-finals are hanging by a…",
+      "link": "https://www.skysports.com/football/arsenal-women-vs-olympiques-lyon-women/report/578272",
+      "image": null
+    },
+    {
+      "id": "story-16",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "Sky Sports",
@@ -35,7 +189,7 @@
       "image": null
     },
     {
-      "id": "story-3",
+      "id": "story-17",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "Sky Sports",
@@ -46,7 +200,7 @@
       "image": null
     },
     {
-      "id": "story-4",
+      "id": "story-18",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -57,18 +211,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2404/live/380cedc0-e43f-11f1-9192-3924a59e54c7.jpg"
     },
     {
-      "id": "story-5",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "talkSPORT",
-      "time": "Nov 19",
-      "headline": "Reece Oxford joins new club four years after last game in shock return to English football",
-      "excerpt": "",
-      "link": "https://talksport.com/football/4721021/reece-oxford-transfer-bromley-contract-next-game/",
-      "image": null
-    },
-    {
-      "id": "story-6",
+      "id": "story-19",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "Sky Sports",
@@ -79,18 +222,7 @@
       "image": null
     },
     {
-      "id": "story-7",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "talkSPORT",
-      "time": "Nov 19",
-      "headline": "UFC fighter suspended for anti-doping violation",
-      "excerpt": "",
-      "link": "https://talksport.com/mma/4721020/ufc-fighter-suspended-anti-doping-violation-statement-released/",
-      "image": null
-    },
-    {
-      "id": "story-8",
+      "id": "story-20",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "Sky Sports",
@@ -101,18 +233,7 @@
       "image": null
     },
     {
-      "id": "story-9",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "talkSPORT",
-      "time": "Nov 19",
-      "headline": "Brooks Koepka details Ryder Cup target despite disappointing PGA season after LIV exit",
-      "excerpt": "",
-      "link": "https://talksport.com/golf/4720992/brooks-koepka-ryder-cup-target-pga-tour-liv-golf/",
-      "image": null
-    },
-    {
-      "id": "story-10",
+      "id": "story-21",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -123,7 +244,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/33ef/live/c3f26550-e452-11f1-8a3d-bb9751dc9556.jpg"
     },
     {
-      "id": "story-11",
+      "id": "story-22",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "The Guardian",
@@ -134,18 +255,7 @@
       "image": "https://i.guim.co.uk/img/media/73cdbb52acc035c7afaca11f3c36a90ac19ecca9/0_0_5000_4000/master/5000.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=53dd1851b7bc7a60850ab6e0e3eaaf90"
     },
     {
-      "id": "story-12",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "talkSPORT",
-      "time": "Nov 19",
-      "headline": "Manchester United fans told to watch for transfer clues as &#8216;heir to Lionel Messi&#8217; linked",
-      "excerpt": "",
-      "link": "https://talksport.com/football/4720668/man-united-transfer-nico-paz-lionel-messi/",
-      "image": null
-    },
-    {
-      "id": "story-13",
+      "id": "story-23",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -154,116 +264,6 @@
       "excerpt": "Head coach Mario Frick says his track record proves he can produce exciting football -…",
       "link": "https://www.bbc.co.uk/sport/football/articles/cq36gw03n17jo?at_medium=RSS&amp;at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/53ec/live/f852eba0-e44b-11f1-9192-3924a59e54c7.jpg"
-    },
-    {
-      "id": "story-14",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "BBC Sport",
-      "time": "Nov 19",
-      "headline": "England fined for fans' anti-Catholic chants in Spain",
-      "excerpt": "England are punished by Uefa following anti-Catholic chanting from the away fans during their Nations…",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cmlye2n7p7d9o?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/17f2/live/d02f91c0-e449-11f1-9192-3924a59e54c7.jpg"
-    },
-    {
-      "id": "story-15",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "Sky Sports",
-      "time": "Nov 19",
-      "headline": "WCL: Dominant Lyon double their lead at Arsenal LIVE!",
-      "excerpt": "",
-      "link": "https://www.skysports.com/football/arsenal-women-vs-olympiques-lyon-women/live/578272",
-      "image": null
-    },
-    {
-      "id": "story-16",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "Sky Sports",
-      "time": "Nov 19",
-      "headline": "Mardle: The Worlds is now the 'incentive' for Littler",
-      "excerpt": "Luke Littler suffered a shock 10-8 defeat to Jermaine Wattimena at the last 16 stage…",
-      "link": "https://www.skysports.com/darts/news/12040/13613983/the-world-darts-championship-is-now-the-incentive-for-luke-littler-after-grand-slam-of-darts-loss-says-wayne-mardle",
-      "image": null
-    },
-    {
-      "id": "story-17",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "talkSPORT",
-      "time": "Nov 19",
-      "headline": "Luke Littler GTA theory debunked as reason behind incredible first given",
-      "excerpt": "",
-      "link": "https://talksport.com/darts/4720849/luke-littler-gta-conspiracy-grand-slam-darts-reaction/",
-      "image": null
-    },
-    {
-      "id": "story-18",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "BBC Sport",
-      "time": "Nov 19",
-      "headline": "Sutton's predictions v world champion boxer Lauren Price",
-      "excerpt": "BBC Sport football expert Chris Sutton takes on world champion boxer Lauren Price, plus the…",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c50mdnxy3ry0o?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/db10/live/2d275fd0-e28c-11f1-a094-5fdc692f3e33.png"
-    },
-    {
-      "id": "story-19",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "BBC Sport",
-      "time": "Nov 19",
-      "headline": "Pochettino's first Man Utd training session filmed by drone operator",
-      "excerpt": "Mauricio Pochettino's first Manchester United training session has been filmed by fan with a drone…",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c6wy9d7wqy7wo?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1f56/live/0be50c80-e446-11f1-99b6-a35a62fa4264.jpg"
-    },
-    {
-      "id": "story-20",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "Sky Sports",
-      "time": "Nov 19",
-      "headline": "England handed suspended away ticket ban for fans' chants in Spain",
-      "excerpt": "England have been given a suspended away ticket ban by UEFA for \"racist and/or discriminatory…",
-      "link": "https://www.skysports.com/football/news/12040/13614117/england-handed-suspended-away-ticket-ban-and-fine-by-uefa-for-fans-racist-and-or-discriminatory-behaviour-in-spain",
-      "image": null
-    },
-    {
-      "id": "story-21",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "talkSPORT",
-      "time": "Nov 19",
-      "headline": "Mauricio Pochettino&#8217;s first Manchester United training session secretly filmed on drone and posted online",
-      "excerpt": "",
-      "link": "https://talksport.com/football/4720956/mauricio-pochettino-training-session-secret-film-drone-man-utd/",
-      "image": null
-    },
-    {
-      "id": "story-22",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "Sky Sports",
-      "time": "Nov 19",
-      "headline": "Grand Slam of Darts LIVE! Injured Humphries fighting back with MVG to come",
-      "excerpt": "",
-      "link": "https://www.skysports.com/darts/live-blog/12040/13613976/grand-slam-of-darts-commentary-updates-scores-analysis-with-luke-humphries-michael-van-gerwen-nathan-aspinall-in-action",
-      "image": null
-    },
-    {
-      "id": "story-23",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "talkSPORT",
-      "time": "Nov 19",
-      "headline": "Lawrence Okolie reveals ideal return date as he opens up about overturned drug ban",
-      "excerpt": "",
-      "link": "https://talksport.com/boxing/4720610/lawrence-okolie-next-fight-return-date-overturned-drug-ban/",
-      "image": null
     }
   ],
   "scoreboard": []
