@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-11-21T00:16:05.489Z",
+  "updatedAt": "2026-11-21T07:13:50.602Z",
   "hero": {
     "id": "story-0",
-    "league": "Football",
-    "dot": "#AFC4AC",
+    "league": "Premier League",
+    "dot": "#9CC0F0",
     "source": "Sky Sports",
-    "time": "Nov 20",
-    "headline": "Smith named in squad for domestic return amid Sandpapergate silence",
-    "excerpt": "",
-    "link": "https://www.skysports.com/cricket/live-blog/12040/13613502/australian-cricket-sandpapergate-latest-live-reaction-to-cameron-bancrofts-explosive-interview-telling-all-of-2018-ball-tampering",
+    "time": "Nov 21",
+    "headline": "Doyen Quest and Blow Your Wad re-oppose in Ascot's 1965 Chase",
+    "excerpt": "We have a busy day's racing on Saturday with action from Ascot, Lingfield Park and…",
+    "link": "https://www.skysports.com/racing/news/12040/13614349/today-on-sky-sports-racing-ascot-lingfield-park-and-newcastle-feature-live-on-saturday",
     "image": null
   },
   "topStories": [
@@ -16,15 +16,191 @@
       "id": "story-1",
       "league": "Football",
       "dot": "#AFC4AC",
+      "source": "talkSPORT",
+      "time": "Nov 21",
+      "headline": "talkSPORT tips – Best football bets and expert advice for Saturday 21 November",
+      "excerpt": "",
+      "link": "https://talksport.com/football/4721409/talksport-tips-best-football-bets-saturday-21-november/",
+      "image": null
+    },
+    {
+      "id": "story-2",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "talkSPORT",
+      "time": "Nov 21",
+      "headline": "Newcastle United vs Arsenal betting tips and predictions",
+      "excerpt": "",
+      "link": "https://talksport.com/betting/4719531/newcastle-united-vs-arsenal-tips-predictions-2026/",
+      "image": null
+    },
+    {
+      "id": "story-3",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "talkSPORT",
+      "time": "Nov 21",
+      "headline": "Aston Villa vs Sunderland prediction and betting tips &#8211; Can Villans vanquish Black Cats?",
+      "excerpt": "",
+      "link": "https://talksport.com/betting/4715825/aston-villa-sunderland-prediction-betting-tips-premier-league-preview/",
+      "image": null
+    },
+    {
+      "id": "story-4",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "talkSPORT",
+      "time": "Nov 21",
+      "headline": "Bournemouth vs Nottm Forest prediction and betting tips",
+      "excerpt": "",
+      "link": "https://talksport.com/betting/4714659/bournemouth-vs-nottm-forest-prediction-tips-odds-2026/",
+      "image": null
+    },
+    {
+      "id": "story-5",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "talkSPORT",
+      "time": "Nov 21",
+      "headline": "Barnsley vs Sheff Wed prediction and betting tips &#8211; Derby delight for Challinor&#8217;s Owls?",
+      "excerpt": "",
+      "link": "https://talksport.com/betting/4710578/barnsley-sheff-wed-prediction-betting-tips-league-one-preview/",
+      "image": null
+    },
+    {
+      "id": "story-6",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "BBC Sport",
+      "time": "Nov 21",
+      "headline": "Who am I? Plus today's other quizzes",
+      "excerpt": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cjwy5d3lxvkzo?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/1fbf/live/38bd3c70-bda7-11f1-bc2e-018d645d8d21.png"
+    },
+    {
+      "id": "story-7",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "BBC Sport",
+      "time": "Nov 21",
+      "headline": "Jeers, injuries and doubters - White's journey back to the top",
+      "excerpt": "When Ben White wheeled away after scoring England's third goal against world champions Spain, it…",
+      "link": "https://www.bbc.co.uk/sport/football/articles/cv7028xeler2o?at_medium=RSS&amp;at_campaign=rss",
+      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/06d5/live/855e6740-e1db-11f1-b8c8-67fa35f5afdb.jpg"
+    },
+    {
+      "id": "story-8",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "The Guardian",
+      "time": "Nov 21",
+      "headline": "Brighton are rocking the Premier League elite. But can they mount a title tilt?",
+      "excerpt": "<p>A combination of smart analytics, a young manager and players hand-picked for their particular skills…",
+      "link": "https://www.theguardian.com/football/2026/nov/21/brighton-rocking-premier-league-elite-title-challenge",
+      "image": "https://i.guim.co.uk/img/media/8d33d6d3a16efaa8873bce778879cff4b83e758c/0_0_2500_2000/master/2500.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3ec71670fecb7b9e0d42d24f97fa81df"
+    },
+    {
+      "id": "story-9",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "Sky Sports",
+      "time": "Nov 21",
+      "headline": "Van Gerwen 'preparing for the worst' as he faces Sykes in Grand Slam quarters",
+      "excerpt": "Michael van Gerwen is through to his first premier ranking quarter-final in over a year…",
+      "link": "https://www.skysports.com/darts/news/12040/13614374/michael-van-gerwen-preparing-for-the-worst-as-he-faces-tom-sykes-in-grand-slam-of-darts-quarter-finals",
+      "image": null
+    },
+    {
+      "id": "story-10",
+      "league": "Premier League",
+      "dot": "#9CC0F0",
+      "source": "talkSPORT",
+      "time": "Nov 21",
+      "headline": "Man City vs Fulham betting tips and predictions",
+      "excerpt": "",
+      "link": "https://talksport.com/betting/4718590/manchester-city-vs-fulham-tips-predictions-2026/",
+      "image": null
+    },
+    {
+      "id": "story-11",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "Sky Sports",
+      "time": "Nov 21",
+      "headline": "Antonelli fastest but Verstappen on pole after dramatic Las Vegas qualifying",
+      "excerpt": "Kimi Antonelli was fastest in qualifying for the Las Vegas Grand Prix but a five-place…",
+      "link": "https://www.skysports.com/f1/news/12040/13614575/las-vegas-gp-kimi-antonelli-fastest-but-max-verstappen-on-pole-from-george-russell-after-dramatic-qualifying",
+      "image": null
+    },
+    {
+      "id": "story-12",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "Sky Sports",
+      "time": "Nov 21",
+      "headline": "Las Vegas Grand Prix - Qualifying Highlights",
+      "excerpt": "Highlights from qualifying for the 2026 Las Vegas Grand Prix.",
+      "link": "https://www.skysports.com/watch/video/13614601/las-vegas-grand-prix-qualifying-highlights",
+      "image": null
+    },
+    {
+      "id": "story-13",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "Sky Sports",
+      "time": "Nov 21",
+      "headline": "Cummins to remain captain after 'unanimous support' from Cricket Australia",
+      "excerpt": "Pat Cummins will remain as Test and ODI captain after being given \"unanimous support\" by…",
+      "link": "https://www.skysports.com/cricket/news/12040/13614603/pat-cummins-to-remain-australia-captain-given-unanimous-support-by-cricket-board-amid-sandpapergate-fallout",
+      "image": null
+    },
+    {
+      "id": "story-14",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "Sky Sports",
+      "time": "Nov 21",
+      "headline": "Larsen holds off Palmowski to win opening Las Vegas race",
+      "excerpt": "",
+      "link": "https://www.skysports.com/f1/live-blog/12040/13518208/f1-academy-2026-reports-calendar-news-results-standings-and-highlights-for-races-this-season",
+      "image": null
+    },
+    {
+      "id": "story-15",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "Sky Sports",
+      "time": "Nov 21",
+      "headline": "'He's pushed me into the barrier!' - Russell and Verstappen collide in final practice",
+      "excerpt": "George Russell and Max Verstappen collided with one another during final practice at the Las…",
+      "link": "https://www.skysports.com/watch/video/13614584/las-vegas-gp-george-russell-and-max-verstappen-crash-into-each-other-during-p3",
+      "image": null
+    },
+    {
+      "id": "story-16",
+      "league": "Football",
+      "dot": "#AFC4AC",
       "source": "Sky Sports",
       "time": "Nov 20",
-      "headline": "Las Vegas GP: Busy final practice anticipated with no rain expected LIVE!",
+      "headline": "Smith set for domestic return amid Sandpapergate silence",
+      "excerpt": "",
+      "link": "https://www.skysports.com/cricket/live-blog/12040/13613502/australian-cricket-sandpapergate-latest-live-reaction-to-cameron-bancrofts-explosive-interview-telling-all-of-2018-ball-tampering",
+      "image": null
+    },
+    {
+      "id": "story-17",
+      "league": "Football",
+      "dot": "#AFC4AC",
+      "source": "Sky Sports",
+      "time": "Nov 20",
+      "headline": "Las Vegas GP: Reaction to penalised Antonelli qualifying fastest and Verstappen pole LIVE!",
       "excerpt": "",
       "link": "https://www.skysports.com/f1/live-blog/12040/13613768/f1-las-vegas-gp-qualifying-and-final-practice-updates-results-stream-and-highlights-from-formula-1-race-weekend-on-the-strip",
       "image": null
     },
     {
-      "id": "story-2",
+      "id": "story-18",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "Sky Sports",
@@ -35,7 +211,7 @@
       "image": null
     },
     {
-      "id": "story-3",
+      "id": "story-19",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -46,7 +222,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/765e/live/657e7940-e539-11f1-9616-8327139dcfc4.jpg"
     },
     {
-      "id": "story-4",
+      "id": "story-20",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "Sky Sports",
@@ -57,7 +233,7 @@
       "image": null
     },
     {
-      "id": "story-5",
+      "id": "story-21",
       "league": "Football",
       "dot": "#AFC4AC",
       "source": "BBC Sport",
@@ -68,18 +244,7 @@
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/0862/live/69b0f900-e531-11f1-a67d-39d55c7178b0.jpg"
     },
     {
-      "id": "story-6",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "Sky Sports",
-      "time": "Nov 20",
-      "headline": "Kim leads LPGA Tour finale after amazing ace as Hull and Korda chase",
-      "excerpt": "A Lim Kim fired a hole-in-one on her way to grabbing the halfway lead at…",
-      "link": "https://www.skysports.com/golf/news/12040/13614418/lpga-tour-charley-hull-in-cme-group-tour-championship-contention-as-a-lim-kim-fires-hole-in-one-to-grab-halfway-lead",
-      "image": null
-    },
-    {
-      "id": "story-7",
+      "id": "story-22",
       "league": "Bundesliga",
       "dot": "#FFC469",
       "source": "The Guardian",
@@ -90,7 +255,7 @@
       "image": "https://i.guim.co.uk/img/media/ff53406a06a9d58de8d9d3bb5b3fe5b627901588/12_0_2337_1869/master/2337.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=0da5eb5f4c5b6fafe75d511f04a719bb"
     },
     {
-      "id": "story-8",
+      "id": "story-23",
       "league": "Premier League",
       "dot": "#9CC0F0",
       "source": "BBC Sport",
@@ -99,171 +264,6 @@
       "excerpt": "American football great Tom Brady is looking to invest in Chelsea through ownership group Clearlake…",
       "link": "https://www.bbc.co.uk/sport/football/articles/cmg46k97k92do?at_medium=RSS&amp;at_campaign=rss",
       "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/cb77/live/3264bae0-e52c-11f1-964d-a1d5fe40573e.jpg"
-    },
-    {
-      "id": "story-9",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "Sky Sports",
-      "time": "Nov 20",
-      "headline": "Price makes undisputed history as she shuts out Kotaskova",
-      "excerpt": "Lauren Price made history for Welsh boxing when she beat Michaela Kotaskova to become the…",
-      "link": "https://www.skysports.com/boxing/news/12040/13614565/lauren-price-makes-boxing-history-for-wales-with-first-undisputed-championship-win-as-she-shuts-out-michaela-kotaskova",
-      "image": null
-    },
-    {
-      "id": "story-10",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "The Guardian",
-      "time": "Nov 20",
-      "headline": "Premier League news: Moyes demands more from Grealish, Iraola wary of United threat",
-      "excerpt": "<p>Everton’s playmaker returns after being stood down, while Liverpool’s head coach keeps focus for Anfield…",
-      "link": "https://www.theguardian.com/football/2026/nov/20/premier-league-news-everton-jack-grealish-manchester-city-liverpool-chelsea",
-      "image": "https://i.guim.co.uk/img/media/7855f7f1d353032a06c5069503b1302dd7bfd775/224_0_4276_3421/master/4276.jpg?width=140&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ee06cd7184eee7df15c523b623a513d3"
-    },
-    {
-      "id": "story-11",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "Sky Sports",
-      "time": "Nov 20",
-      "headline": "Penge tied at the top in tight leaderboard at RSM Classic",
-      "excerpt": "Highlights from day two of the RSM Classic at the Sea Island Seaside Course, Georgia.",
-      "link": "https://www.skysports.com/watch/video/13614564/rsm-classic-day-two-highlights",
-      "image": null
-    },
-    {
-      "id": "story-12",
-      "league": "Bundesliga",
-      "dot": "#FFC469",
-      "source": "Sky Sports",
-      "time": "Nov 20",
-      "headline": "Kane set to miss three months with ankle injury",
-      "excerpt": "Harry Kane is expected to be sidelined for three months after suffering an ankle injury…",
-      "link": "https://www.skysports.com/football/news/12040/13614559/harry-kane-england-and-bayern-munich-striker-set-to-miss-three-months-with-ankle-injury",
-      "image": null
-    },
-    {
-      "id": "story-13",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "BBC Sport",
-      "time": "Nov 20",
-      "headline": "Lampard calls for fairness after Coventry penalty row",
-      "excerpt": "Coventry boss Frank Lampard wants officials to spend time ensuring they get decisions correct in…",
-      "link": "https://www.bbc.co.uk/sport/football/articles/c678299n1018o?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/d704/live/01ee3ee0-e455-11f1-80a9-5325c842329b.jpg"
-    },
-    {
-      "id": "story-14",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "talkSPORT",
-      "time": "Nov 20",
-      "headline": "&#8216;I&#8217;d been drinking&#8217; &#8211; Furious fight during darts match leads to disqualification",
-      "excerpt": "",
-      "link": "https://talksport.com/darts/4723279/darts-furious-fight-disqualification-wdf-irish-classic/",
-      "image": null
-    },
-    {
-      "id": "story-15",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "Sky Sports",
-      "time": "Nov 20",
-      "headline": "Hazlewood backs Cummins to remain as Test captain after sandpaper 'pile-on'",
-      "excerpt": "Josh Hazlewood has defended Pat Cummins over a &#8220;pile-on&#8221; around Sandpapergate and refused to rule…",
-      "link": "https://www.skysports.com/cricket/news/12040/13614531/josh-hazlewood-defends-pat-cummins-over-sandpapergate-and-backs-australias-test-captain-to-continue-after-pile-on",
-      "image": null
-    },
-    {
-      "id": "story-16",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "talkSPORT",
-      "time": "Nov 20",
-      "headline": "Man City vs Fulham super boost: NOW 11/8 Man City to win & Haaland to score on talkSPORT BET",
-      "excerpt": "",
-      "link": "https://talksport.com/football/4721926/man-city-fulham-super-boost-talksport-bet/",
-      "image": null
-    },
-    {
-      "id": "story-17",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "BBC Sport",
-      "time": "Nov 20",
-      "headline": "Shevchenko lying about drugs test claims - Mudryk",
-      "excerpt": "Mykhailo Mudryk accuses Ukraine legend Andriy Shevchenko of lying about the circumstances surrounding the winger's…",
-      "link": "https://www.bbc.co.uk/sport/football/articles/cjn502n9vqp4o?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/2404/live/380cedc0-e43f-11f1-9192-3924a59e54c7.jpg"
-    },
-    {
-      "id": "story-18",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "BBC Sport",
-      "time": "Nov 20",
-      "headline": "Watch: Inverness and Ayr play out goalless draw",
-      "excerpt": "Inverness Caledonian Thistle and Ayr United play out a goalless draw in the chilly Highlands.",
-      "link": "https://www.bbc.co.uk/sport/football/videos/c6zxvnzjnne4o?at_medium=RSS&amp;at_campaign=rss",
-      "image": "https://ichef.bbci.co.uk/ace/standard/240/cpsprodpb/182c/live/c20332e0-e52b-11f1-99a1-253766e7ad8b.jpg"
-    },
-    {
-      "id": "story-19",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "talkSPORT",
-      "time": "Nov 20",
-      "headline": "&#8216;Frightened of winning&#8217; &#8211; Antonio Conte speaks about not becoming new Man United boss",
-      "excerpt": "",
-      "link": "https://talksport.com/football/4723277/antonio-conte-man-utd-job-frightened-winning/",
-      "image": null
-    },
-    {
-      "id": "story-20",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "Sky Sports",
-      "time": "Nov 20",
-      "headline": "'Unreal....how about that!' - Leader Kim sinks wonderful ace in Florida",
-      "excerpt": "Take a look as A Lim Kim sunk a wonderful ace during her second round…",
-      "link": "https://www.skysports.com/watch/video/13614529/unreal-how-about-that-a-lim-kim-sinks-wonderful-ace-at-2026-cme-group-tour-championship-in-florida",
-      "image": null
-    },
-    {
-      "id": "story-21",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "Sky Sports",
-      "time": "Nov 20",
-      "headline": "England's Penge grabs PGA Tour lead as battle to keep cards heats up",
-      "excerpt": "England&#8217;s Marco Penge bolstered his hopes of retaining full status on the PGA Tour for…",
-      "link": "https://www.skysports.com/golf/news/12040/13614419/pga-tour-englands-marco-penge-grabs-halfway-lead-at-rsm-classic-as-big-names-battle-to-secure-fedexcup-future",
-      "image": null
-    },
-    {
-      "id": "story-22",
-      "league": "Football",
-      "dot": "#AFC4AC",
-      "source": "talkSPORT",
-      "time": "Nov 20",
-      "headline": "Luke Littler named &#8216;the greatest athlete of all-time&#8217; as Kelce brothers revel in triple bullseye",
-      "excerpt": "",
-      "link": "https://talksport.com/darts/4723211/luke-littler-greatest-athlete-all-time-travis-kelce/",
-      "image": null
-    },
-    {
-      "id": "story-23",
-      "league": "Premier League",
-      "dot": "#9CC0F0",
-      "source": "talkSPORT",
-      "time": "Nov 20",
-      "headline": "Premier League betting offer: Get a free £5 bet builder with Midnite",
-      "excerpt": "",
-      "link": "https://talksport.com/betting/4719708/premier-league-welcome-offer-free-5-bet-builder-midnite/",
-      "image": null
     }
   ],
   "scoreboard": [
